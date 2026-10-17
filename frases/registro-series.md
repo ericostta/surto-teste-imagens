@@ -11,3 +11,5 @@ Próxima: 040
 Última edição gerada: 036 (17/10/2026, publicada manualmente pelo Eri às ~11h30)
 - 036: "fica autorizado a esquecer o que já pesa demais", cláusula "soltar uma mágoa antiga não trai quem você foi quando a sentiu". insight: soltar mágoa antiga sem trair quem se foi.
 Próxima: 037
+
+- Citação de Autoridade 035 (17/10/2026): Marco Aurélio, "O obstáculo à ação faz avançar a ação. O que está no caminho se torna o caminho." (Meditações 5.20; verificada em duas fontes). Gerada às 18h22 fora da tarefa, enfileirada para 19h30. Próxima: 036.
