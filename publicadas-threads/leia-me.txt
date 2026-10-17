@@ -1,0 +1,3 @@
+Fila de frases do Threads (@surtodelucidez).
+Cada arquivo e uma frase pronta, no formato AAAAMMDD_HHMM_surtodelucidez.txt (horario de Sao Paulo).
+O n8n publica o conteudo exato do arquivo no Threads no horario do nome e move o arquivo para publicadas-threads.
