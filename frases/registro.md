@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 046.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 048.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -13,6 +13,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 043 | 18/10/2026 | Threads (auto, 13h30) | O cansaço mais fundo só aparece quando alguém pergunta como você está e espera, de verdade, a resposta. | autoengano/cansaço escondido | afetiva | impessoal | "X só aparece quando alguém Y e espera Z" | o cansaço profundo só se revela diante de um cuidado genuíno |
 | 044 | 19/10/2026 | X (manual, 12h) | Muita coisa que a gente chama de intuição é só medo com boa memória. | autoengano/contradições | irônica | a gente | "Muita coisa que a gente chama de X é só Y com Z" | medo de experiências passadas se disfarça de intuição |
 | 045 | 19/10/2026 | Threads (auto, 13h30) | Tem família em que o pedido de desculpas nunca vem em palavras. Vem em forma de prato favorito. | relações/família | afetiva | impessoal | "Tem X em que Y nunca vem em Z. Vem em forma de W" | em algumas famílias o perdão se pede por gestos, nunca por palavras |
+| 046 | 20/10/2026 | X (manual, 12h) | Prometer sai barato para quem fala e caro para quem passa meses lembrando. | relações/confiança | incisiva | impessoal | "X sai barato para quem Y e caro para quem Z" | quem promete esquece rápido, quem recebe a promessa carrega a conta |
+| 047 | 20/10/2026 | Threads (auto, 13h30) | Todo mundo conhece o amigo que só aparece quando está bem. Poucos admitem que são esse amigo para alguém. | comportamento humano | desconfortável | terceira pessoa | "Todo mundo conhece X. Poucos admitem que são esse X para alguém" | reconhecemos a amizade conveniente nos outros, mas somos isso para alguém |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
@@ -22,6 +24,9 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 - "Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa." (tempo/relações)
 - "O adulto tem duas listas: a das coisas importantes e a das coisas que ele faz para não olhar a primeira." (vida adulta/autoengano)
 - "Quem recusa ajuda sempre diz que não precisa. Quase nunca diz que não sabe pedir." (comportamento humano)
+- "Dinheiro curto faz da gente especialista em preço e leigo em merecimento." (vida adulta; irônica; perto de R051 sobre dinheiro curto)
+- "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
+- "Quem diz 'sem pressa' quase sempre já esperou mais do que devia." (relações)
 
 ## Observação
 Cópias da skill threads-x não persistem entre sessões; usar este arquivo e a memória do usuário (/areas/skill-frases-diarias.md) para numeração e controle de repetição.
