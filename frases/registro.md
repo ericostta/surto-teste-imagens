@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 048.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 050.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -15,6 +15,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 045 | 19/10/2026 | Threads (auto, 13h30) | Tem família em que o pedido de desculpas nunca vem em palavras. Vem em forma de prato favorito. | relações/família | afetiva | impessoal | "Tem X em que Y nunca vem em Z. Vem em forma de W" | em algumas famílias o perdão se pede por gestos, nunca por palavras |
 | 046 | 20/10/2026 | X (manual, 12h) | Prometer sai barato para quem fala e caro para quem passa meses lembrando. | relações/confiança | incisiva | impessoal | "X sai barato para quem Y e caro para quem Z" | quem promete esquece rápido, quem recebe a promessa carrega a conta |
 | 047 | 20/10/2026 | Threads (auto, 13h30) | Todo mundo conhece o amigo que só aparece quando está bem. Poucos admitem que são esse amigo para alguém. | comportamento humano | desconfortável | terceira pessoa | "Todo mundo conhece X. Poucos admitem que são esse X para alguém" | reconhecemos a amizade conveniente nos outros, mas somos isso para alguém |
+| 048 | 21/10/2026 | X (manual, 12h) | Luto também é manter o contato salvo no celular, porque apagar parece uma segunda despedida. | tempo/ausência/memória | contemplativa | impessoal | "X também é Y, porque Z parece W" | manter o contato salvo adia a segunda despedida |
+| 049 | 21/10/2026 | Threads (auto, 13h30) | Boa parte da vida adulta é achar que respondeu uma mensagem que só respondeu na cabeça. | vida adulta/cotidiano | irônica | impessoal | "Boa parte de X é achar que Y algo que só Y na cabeça" | confundir a intenção de responder com a resposta enviada |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
@@ -27,6 +29,10 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 - "Dinheiro curto faz da gente especialista em preço e leigo em merecimento." (vida adulta; irônica; perto de R051 sobre dinheiro curto)
 - "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
 - "Quem diz 'sem pressa' quase sempre já esperou mais do que devia." (relações)
+- "A versão de você que todo mundo elogia é, muitas vezes, a que menos custa para eles." (identidade; desconfortável)
+- "Pai e mãe envelhecem primeiro no que contam: as histórias vão ficando mais curtas." (tempo/família; afetiva)
+- "A gente só entende o tamanho de uma rotina quando ela acaba e a casa fica no silêncio que ela ocupava." (tempo/memória)
+- "Quase todo mundo lembra de quem foi grosseiro com o garçom. Poucos lembram de que já foram o cliente." (comportamento humano)
 
 ## Observação
 Cópias da skill threads-x não persistem entre sessões; usar este arquivo e a memória do usuário (/areas/skill-frases-diarias.md) para numeração e controle de repetição.

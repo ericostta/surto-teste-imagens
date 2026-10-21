@@ -9,7 +9,8 @@ Atualizar a cada execução da tarefa diária. A memória do Eri (/areas/instagr
 - 040: "Melhorar não é uma linha reta: tem dia de avanço e dia de recaída..." insight: recuperar-se em ritmo próprio, com recaídas, tendo paciência consigo (gancho Dia do Médico). 39 palavras, última linha "EM PAZ."
 - 041: "Você não precisa terminar tudo hoje para ter feito um bom dia; ..." insight: medir o dia pelo que foi feito, não pelo que faltou (19/10/2026). 37 palavras, última linha "EM PAZ."
 - 042 (20/10/2026, gancho Dia do Poeta): "Você vive rodeado de versos que ninguém escreveu: a luz na janela, o café quente, a voz de quem ama; repare no pequeno hoje, e o dia ganha uma beleza que antes passava sem ser notada, em paz." insight: notar a beleza do cotidiano pequeno. 36 palavras, última linha "EM PAZ."
-Próxima: 043
+- 043 (21/10/2026): "A conversa que você adia pesa mais do que a conversa que você tem; diga hoje o que está guardado no peito, mesmo com a voz trêmula, e sinta a leveza chegar devagar, como quem finalmente respira fundo, em paz." insight: dizer a conversa adiada alivia mais do que adiá-la. 38 palavras, última linha "EM PAZ."
+Próxima: 044
 
 ## Permissão do Dia (janela 10h30, arquivo fila/AAAAMMDD_1030_permissao.png)
 Última edição gerada: 036 (17/10/2026, publicada manualmente pelo Eri às ~11h30)
@@ -18,14 +19,16 @@ Próxima: 043
 - 037: "fica autorizado a não perdoar quem já partiu", cláusula "perdão não tem prazo, e a partida de quem feriu não obriga ninguém a encerrar a dor". insight: não ser obrigado a perdoar quem já morreu.
 - 038 (19/10/2026): "fica autorizado a chorar um sonho que não aconteceu", cláusula "o futuro que a gente imaginou também deixa saudade, e a falta dele merece luto". insight: luto por um futuro imaginado que não se realizou.
 - 039 (20/10/2026): "fica autorizado a decepcionar quem esperava outra versão", cláusula "crescer também é frustrar expectativas que nunca foram suas". insight: frustrar expectativas alheias faz parte de crescer.
-Próxima: 040
+- 040 (21/10/2026): "fica autorizado a receber cuidado sem dar nada em troca", cláusula "receber cuidado não cria dívida, só reconhece que ninguém aguenta tudo sozinho". insight: receber cuidado sem sentir dívida.
+Próxima: 041
 
 - Citação de Autoridade 035 (17/10/2026): Marco Aurélio, "O obstáculo à ação faz avançar a ação. O que está no caminho se torna o caminho." (Meditações 5.20; verificada em duas fontes). Gerada às 18h22 fora da tarefa, enfileirada para 19h30. Próxima: 036.
 
 ## Cartaz Irônico (janela 15h00, arquivo fila/AAAAMMDD_1500_cartaz.png)
-Última edição gerada: 038 (18/10/2026), paleta preto/vermelho: "hoje todo mundo parabeniza quem cuida dos outros x mas ninguém cuida de quem cuida" (Dia do Médico, sem citar pessoa; 77 caracteres, 14 palavras). Anterior: 037 verde/laranja (17/10, enviado manualmente por Eri). Última edição gerada: 039 (19/10/2026), paleta amarelo/azul: "todo mundo curte post sobre gentileza x mas ninguém dá bom dia no elevador" (sem citar pessoa; 69 caracteres, 13 palavras). Última edição gerada: 040 (20/10/2026), paleta rosa/creme: "hoje todo mundo cita poeta no stories x mas ninguém compra livro de poesia" (Dia do Poeta, sem citar pessoa; 72 caracteres, 13 palavras). Próxima: 041 (paleta verde/laranja)
+Última edição gerada: 038 (18/10/2026), paleta preto/vermelho: "hoje todo mundo parabeniza quem cuida dos outros x mas ninguém cuida de quem cuida" (Dia do Médico, sem citar pessoa; 77 caracteres, 14 palavras). Anterior: 037 verde/laranja (17/10, enviado manualmente por Eri). Última edição gerada: 039 (19/10/2026), paleta amarelo/azul: "todo mundo curte post sobre gentileza x mas ninguém dá bom dia no elevador" (sem citar pessoa; 69 caracteres, 13 palavras). Última edição gerada: 040 (20/10/2026), paleta rosa/creme: "hoje todo mundo cita poeta no stories x mas ninguém compra livro de poesia" (Dia do Poeta, sem citar pessoa; 72 caracteres, 13 palavras). Última edição gerada: 041 (21/10/2026), paleta verde/laranja: "todo mundo jura que checa antes de repassar x mas encaminha antes de ler" (apartidário, sem citar pessoa; 67 caracteres, 13 palavras). Próxima: 042 (paleta preto/vermelho)
 
 ## Citação de Autoridade (janela 18h00, arquivo fila/AAAAMMDD_1800_citacao.png)
 - Citação 036 (18/10/2026): Louis Pasteur (cientista, França), "Minha força reside unicamente na minha tenacidade." (original: "My strength lies solely in my tenacity"; verificada em duas fontes, everitas.rmcalumni.ca e conradaskland.com). Próxima: 037.
 - Citação 037 (19/10/2026): Arthur Ashe (tenista, Estados Unidos), "Comece de onde você está. Use o que você tem. Faça o que você puder." (original: "Start where you are. Use what you have. Do what you can."; verificada em várias fontes, rightattitudes, quotewise, thegoodenergydaily). Próxima: 038.
 - Citação 038 (20/10/2026): Amelia Earhart (aviadora, Estados Unidos), "O mais difícil é decidir agir. O resto é apenas tenacidade." (original: "The most difficult thing is the decision to act, the rest is merely tenacity"; verificada em badassoftheweek.com e njmastro.com). Próxima: 039.
+- Citação 039 (21/10/2026): Thomas Edison (inventor, Estados Unidos), "Muitos fracassos da vida são pessoas que não perceberam o quão perto estavam do sucesso quando desistiram." (original: "Many of life's failures are people who did not realize how close they were to success when they gave up."; verificada em Goodreads, AZQuotes, Good News Network e Due). Próxima: 040.
