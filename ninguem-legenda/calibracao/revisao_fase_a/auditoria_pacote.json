@@ -1,0 +1,94 @@
+{
+ "itens": [
+  {
+   "codigo": "R01",
+   "foto": "Guarda-sol fechado cravado na areia de uma praia vazia, luz de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Um guarda-sol fechado na areia.",
+   "fora": "A irmã mais velha nunca perdoou a mudança de cidade em 1998."
+  },
+  {
+   "codigo": "R02",
+   "foto": "Xícara vazia sobre mesa, sem pessoas.",
+   "na_foto": "Uma xícara de café vazia sobre a mesa.",
+   "fora": "O café acabou e a xícara ficou vazia sobre a mesa."
+  },
+  {
+   "codigo": "R03",
+   "foto": "Bicicleta azul encostada num muro de tijolos. Nenhuma pessoa.",
+   "na_foto": "Uma bicicleta encostada no muro.",
+   "fora": "A decisão de nunca mais falar com o irmão."
+  },
+  {
+   "codigo": "R04",
+   "foto": "Mesa de jantar posta para quatro lugares, duas cadeiras afastadas e duas encostadas, velas acesas, luz quente. Nenhuma pessoa.",
+   "na_foto": "Uma mesa de jantar posta para quatro pessoas.",
+   "fora": "Isso se repete toda sexta, e ninguém tem coragem de contar a eles."
+  },
+  {
+   "codigo": "R05",
+   "foto": "Carrinho de bebê na calçada, sem pessoas.",
+   "na_foto": "Um carrinho de bebê parado na calçada.",
+   "fora": "Quem o empurra perdeu tudo num incêndio e chora em silêncio, sem ninguém."
+  },
+  {
+   "codigo": "R06",
+   "foto": "Cardápio aberto sobre toalha branca, uma mão com o dedo pousado na coluna da direita, tipografia desfocada e ilegível, luz de lâmpada pendente. Nenhum rosto.",
+   "na_foto": "Um cardápio aberto sobre a mesa do restaurante.",
+   "fora": "Ela lê da direita para a esquerda, pelo preço, e finge que escolheu pelo gosto."
+  },
+  {
+   "codigo": "R07",
+   "foto": "Bandeja de pães franceses fumegando sobre balcão de aço, luz branca de madrugada, mãos enfarinhadas ao fundo. Sem rosto.",
+   "na_foto": "Uma bandeja de pães quentes sobre o balcão.",
+   "fora": "A padeira acorda às três da manhã para que a cidade acorde bem."
+  },
+  {
+   "codigo": "R08",
+   "foto": "Close de uma mão idosa segurando uma mão jovem sobre uma toalha de crochê. Sem rostos.",
+   "na_foto": "Uma mão idosa segurando uma mão jovem.",
+   "fora": "Entre as duas há cinquenta anos de carinho que palavra nenhuma daria conta de dizer."
+  },
+  {
+   "codigo": "R09",
+   "foto": "Trilha estreita de terra em floresta densa, luz filtrada pelas copas. Nenhuma pessoa.",
+   "na_foto": "Uma trilha estreita no meio da floresta.",
+   "fora": "Cada passo que você dá hoje é uma escolha que ninguém mais pode fazer por você."
+  },
+  {
+   "codigo": "R10",
+   "foto": "Nascer do sol em montanha, sem pessoas.",
+   "na_foto": "Um nascer do sol na montanha.",
+   "fora": "Acredite: cada dia é uma chance de recomeçar do zero."
+  },
+  {
+   "codigo": "R11",
+   "foto": "Caixa de sapatos aberta com maço de envelopes amarelados presos por barbante, sem texto legível, numa prateleira de armário. Nenhuma pessoa.",
+   "na_foto": "Uma caixa de sapatos cheia de cartas antigas.",
+   "fora": "Ele nunca teve coragem de abrir, porque teme que a saudade doa mais que o silêncio."
+  },
+  {
+   "codigo": "R12",
+   "foto": "Celular sobre mesa de jantar, sem pessoas.",
+   "na_foto": "Um celular sobre a mesa durante o jantar.",
+   "fora": "Largue o celular e valorize quem está ao seu lado."
+  },
+  {
+   "codigo": "R13",
+   "foto": "Janela entreaberta, sem pessoas.",
+   "na_foto": "Uma janela entreaberta.",
+   "fora": "A alma sabe que a liberdade é uma porta que se abre para dentro."
+  },
+  {
+   "codigo": "R14",
+   "foto": "Escada de metal em espiral fotografada do topo para baixo, luz fria. Nenhuma pessoa.",
+   "na_foto": "Uma escada em espiral, vista de cima.",
+   "fora": "Subir é só o nome que damos a girar sem sair do lugar."
+  },
+  {
+   "codigo": "R15",
+   "foto": "Casaco de lã cinza pendurado num cabide atrás da porta de um quarto, luz lateral. Nenhuma pessoa.",
+   "na_foto": "Um casaco pendurado atrás da porta.",
+   "fora": "O casaco dele continua ali, pendurado, como se ele fosse voltar."
+  }
+ ]
+}

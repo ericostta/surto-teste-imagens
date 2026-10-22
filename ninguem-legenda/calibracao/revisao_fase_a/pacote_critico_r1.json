@@ -1,0 +1,60 @@
+{
+ "textos_anteriores": [
+  "Uma cadeira de escritório nova, ainda com o plástico. A primeira que ele escolheu sem olhar o preço antes.",
+  "Um crachá de visitante preso na camisa. Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu.",
+  "Uma marmita aberta sobre o capô de um carro. Ela atravessou a cidade de ônibus só para ver se ele tinha comido.",
+  "Uma planta perfeita no parapeito da janela. É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo.",
+  "Uma cama de solteiro bem arrumada, lençol esticado. A primeira semana em que dormir sozinho deixou de parecer castigo.",
+  "Uma mala fechada, pronta ao lado da porta. Está assim há dois anos. Ele gosta de saber que poderia ir.",
+  "Uma fila longa diante de um balcão. Metade está ali só porque achou que a outra metade sabia o motivo.",
+  "Uma mesa de Natal farta, vista de cima. A mão que segura o celular é a única que nunca sai nas fotos de família.",
+  "Um relógio de pulso antigo ao lado da torneira. Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê.",
+  "Duas escovas de dente no mesmo copo. A segunda foi trocada na semana em que ela decidiu ficar.",
+  "Um diploma emoldurado numa parede ainda sem pintura. Ele o pendurou antes de pintar a casa, para o caso de a coragem passar.",
+  "Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém."
+ ],
+ "candidatas": [
+  {
+   "codigo": "Z01",
+   "conceito_foto": "Homem de terno visto de costas diante de portas de elevador, postura calma, mãos soltas. Ao redor, pessoas desfocadas em movimento. Luz fria de saguão. Sem rosto.",
+   "na_foto": "Um homem espera o elevador na hora do rush.",
+   "fora": "Pediu demissão na semana passada. Hoje deixou três elevadores passarem e descobriu que, em nove anos, nunca precisou correr para pegar um.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O homem calmo está prestes a ser demitido ou acaba de receber uma notícia ruim, e ninguém ao redor percebe porque todos estão correndo.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Ele acabou de ser demitido ou receber um diagnóstico e está calmo porque já não tem pressa para chegar a lugar nenhum.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Ele está calmo por fora, mas acabou de ser demitido ou vai receber uma notícia que mudará sua vida.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "Z02",
+   "conceito_foto": "Mesa de escritório sem objetos pessoais, caneta alinhada ao teclado, monitor desligado, luz fria de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Uma mesa de escritório impecavelmente organizada.",
+   "fora": "Toda sexta devolve a mesa como a encontrou. Cobre a licença de um colega e teme parecer que se instalou.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A mesa está impecável porque a pessoa foi demitida ou se demitiu e esvaziou tudo, ou porque vive no trabalho para não ter que ir para casa.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A mesa está vazia porque a pessoa foi desligada ou está prestes a pedir demissão, e arrumou tudo para não deixar rastro.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A mesa está assim porque a pessoa foi demitida ou esvaziou tudo, ou porque ninguém se sente em casa ali.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  }
+ ]
+}

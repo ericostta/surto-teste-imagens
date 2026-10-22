@@ -1,0 +1,32 @@
+[
+  {
+    "codigo": "Z03",
+    "previsoes_que_capturaram": 1,
+    "grau_previsao": "previu parte",
+    "elemento_que_muda": "A calma do homem parado entre pessoas apressadas (lida como choque, demissão ou notícia ruim) -> decisão deliberada de parar de correr depois de concluir que os minutos ganhos correndo eram gastos no celular.",
+    "elo_humano": "Quem corre para pegar o elevador acredita que está ganhando tempo, e perceber que esse tempo some no celular faz a corrida perder o sentido.",
+    "parafrase_concreta": "Um homem que por nove anos disparou para pegar o elevador, para depois desperdiçar os minutos economizados no celular, percebeu a conta e parou de correr.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      "\"ficou parado\": leitura A, ficou esperando sem correr, por escolha (a pretendida); leitura B, ficou paralisado ou travado, ou simplesmente esperou o elevador como qualquer pessoa, o que não revela decisão nenhuma",
+      "\"fez a conta\": leitura A, comparou minutos ganhos com minutos desperdiçados no celular (a pretendida); leitura B, conta genérica de tempo de vida, sem o celular como termo",
+      "\"Hoje\": leitura A, a manhã da foto em que ele já está parado; leitura B, um dia de decisão anterior à cena, sem que a foto mostre o efeito"
+    ],
+    "generalidade": "Humor de observação sobre pressa urbana: a situação é universal, mas o detalhe dos minutos ganhos gastos no celular dá especificidade, enquanto a foto (calma contra desfoque) quase não é usada além da postura.",
+    "associacao_mais_comum": "Homem calmo e imóvel no meio da multidão apressada: ou notícia ruim ou demissão, ou a lição de que é preciso desacelerar e parar de correr atrás do tempo.",
+    "e_a_associacao_mais_comum": true,
+    "perspectiva_especifica": "Parcial: a ironia de que a corrida ganha minutos que são devolvidos ao celular é um detalhe concreto próprio, mas a conclusão (parou de correr) é a moral de desacelerar da categoria.",
+    "evidencias_positivas": ["E1", "E2", "E4"],
+    "eliminatorias": [],
+    "defeitos": [
+      "A frase final \"ficou parado\" é o gesto que carrega a revelação e é a parte mais fraca: esperar o elevador parado é o estado normal de quem espera, então o ato não prova mudança e pode ser lido como paralisia.",
+      "\"fez a conta\" não diz quais termos foram comparados; a ligação com o celular depende do leitor recompor a lógica da primeira frase.",
+      "A conclusão desemboca na moral de desacelerar, o primeiro palpite da categoria (a previsão 2 chegou perto com \"já não tem pressa\"), com leve tom de lição de vida.",
+      "A foto não participa da revelação além da postura calma; poderia ser qualquer pessoa parada diante de qualquer porta, com o NA FOTO acrescentando pouco."
+    ],
+    "veredicto": "REVISAR",
+    "justificativa_objetiva": "A ideia tem transformação clara e um detalhe próprio (minutos ganhos gastos no celular), e as previsões erraram o essencial; mas o desfecho \"ficou parado\" é ambíguo e a conclusão pende para a moral comum de desacelerar. Aprovar exigiria que o gesto final fosse inequívoco e específico.",
+    "instrucao_de_revisao": "Errado: o desfecho \"fez a conta e ficou parado\" não mostra um ato verificável (esperar o elevador é o que todos fazem) e deixa a conclusão cair na moral de desacelerar. Mudar: trocar o fecho por um fato concreto que só essa situação teria e que a foto sustente (por exemplo, o que ele faz agora com os minutos, ou o que mudou na rotina além de não correr), de modo que a revelação deixe de ser \"parou de correr\" e se apoie no detalhe do celular e do tempo; tornar explícitos os termos da conta. NÃO pode mudar: a ideia dos nove anos correndo para ganhar minutos que eram gastos no celular, a foto do homem calmo de costas e o tom seco e sem lição.",
+    "nota": 66
+  }
+]

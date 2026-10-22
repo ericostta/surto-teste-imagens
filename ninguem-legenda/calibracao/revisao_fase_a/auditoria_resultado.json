@@ -1,0 +1,152 @@
+[
+ {
+  "codigo": "R01",
+  "ideia_central": "Um guarda-sol fechado numa praia vazia seria o gatilho de um ressentimento antigo entre irmãs por causa de uma mudança de cidade.",
+  "falha_principal": "Nenhum elo entre guarda-sol e irmã ou mudança de cidade; o leitor precisa inventar a ligação, e o fora é um fato solto que poderia acompanhar qualquer foto.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R02",
+  "ideia_central": "Uma xícara vazia na mesa: o café acabou.",
+  "falha_principal": "O fora repete literalmente o NA FOTO e a foto; não há segunda leitura nem perspectiva humana.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R03",
+  "ideia_central": "Uma bicicleta encostada num muro remeteria a um rompimento definitivo com o irmão.",
+  "falha_principal": "O fora é um sintagma abstrato (a decisão) sem fato concreto; nada liga a bicicleta ao irmão, então a conexão é arbitrária e o texto só nomeia uma ruptura.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "media"
+ },
+ {
+  "codigo": "R04",
+  "ideia_central": "Uma mesa posta para quatro, com duas cadeiras afastadas e duas intactas, sugere um jantar semanal ritualizado em que ninguém ousa contar uma verdade a alguém.",
+  "falha_principal": "Os referentes 'isso' e 'eles' são indefinidos (quem se repete, quem não sabe, quem não é contado), então o leitor não sabe qual é a situação; além disso 'coragem' nomeia a emoção em vez de dar um fato.",
+  "reprovacao_justificada": "duvidosa",
+  "nucleo_recuperavel": "O ritual semanal de pôr a mesa para quatro quando só duas pessoas se sentam, e o pacto de silêncio da família sobre isso, com a foto das duas cadeiras afastadas e das duas intactas como evidência.",
+  "corrigivel_por_revisao": true,
+  "como_corrigir": "Trocar os pronomes por uma situação concreta e dizer quem põe a mesa e o que ninguém conta, sem a palavra coragem, mantendo a mesa de sexta e a divisão entre cadeiras usadas e intactas.",
+  "confianca": "baixa"
+ },
+ {
+  "codigo": "R05",
+  "ideia_central": "Um carrinho de bebê abandonado na calçada pertenceria a alguém que perdeu tudo num incêndio.",
+  "falha_principal": "Melodrama arbitrário: a tragédia é inventada sem elo com a cena, 'chora em silêncio' comanda a emoção, e o fora presume uma pessoa que a foto não mostra.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R06",
+  "ideia_central": "Uma mulher escolhe no cardápio pela coluna dos preços e finge que escolheu pelo gosto, para que ninguém perceba que está contando dinheiro.",
+  "falha_principal": "A foto já entrega parte da revelação (dedo na coluna da direita, onde ficam os preços), então leitores cegos podem antecipar o essencial; fora disso o texto é concreto e específico, com o detalhe do fingimento.",
+  "reprovacao_justificada": "nao",
+  "nucleo_recuperavel": "O gesto de ler pela coluna dos preços e a encenação de preferência por gosto, que dá segunda leitura ao cardápio e mostra um constrangimento social concreto.",
+  "corrigivel_por_revisao": true,
+  "como_corrigir": "Tirar da foto o dedo pousado na coluna da direita (mão parada na borda ou no copo) para que a foto não antecipe a leitura por preço, e deslocar o fora para o fingimento em si, por exemplo o prato que ela pede por ser o mais barato mas apresenta como o preferido.",
+  "confianca": "media"
+ },
+ {
+  "codigo": "R07",
+  "ideia_central": "A padeira acorda de madrugada para que a cidade tenha pão ao amanhecer.",
+  "falha_principal": "Gratidão genérica ao trabalhador invisível, com moral implícita ('acordar bem'); a foto (madrugada, farinha, pão fumegando) já entrega tudo e o fora só acrescenta uma frase bonita.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R08",
+  "ideia_central": "Mãos de uma idosa e de um jovem unidas simbolizam cinquenta anos de carinho.",
+  "falha_principal": "Nomeia a emoção ('carinho') sem fato concreto, afirma a inefabilidade ('palavra nenhuma') e redunda com a foto, que já mostra o vínculo; é o primeiro palpite da categoria.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R09",
+  "ideia_central": "Cada passo na trilha é uma escolha individual e intransferível.",
+  "falha_principal": "Autoajuda em segunda pessoa, moralismo sem fato nem situação humana concreta; a trilha vira metáfora de vida, que é o clichê da categoria.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R10",
+  "ideia_central": "O nascer do sol seria uma chance de recomeçar do zero.",
+  "falha_principal": "Autoajuda pura ('Acredite'), clichê exato da categoria, sem fato concreto nem perspectiva específica.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R11",
+  "ideia_central": "Um homem guarda uma caixa de cartas antigas sem nunca abri-las por medo de que a saudade doa mais que o silêncio.",
+  "falha_principal": "Cartas antigas fechadas é o clichê nostálgico da categoria, o fora explica a emoção ('coragem', 'saudade') em vez de dar um fato, e a frase final é aforismo; o NA FOTO ainda já diz 'cartas antigas'.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "Somente o fato de as cartas estarem fechadas, que é o primeiro palpite e não traz detalhe próprio; manter isso exigiria inventar outro fato.",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "media"
+ },
+ {
+  "codigo": "R12",
+  "ideia_central": "O celular na mesa de jantar rouba atenção de quem está presente.",
+  "falha_principal": "Moralismo em imperativo ('Largue', 'valorize') sobre o lugar-comum mais batido da categoria, sem fato nem observação nova.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R13",
+  "ideia_central": "A janela entreaberta seria a liberdade como porta que se abre para dentro.",
+  "falha_principal": "Aforismo abstrato e obscuro: a paráfrase em situação humana concreta é impossível, e 'alma' e 'liberdade' são emoções e conceitos nomeados sem nada para ver.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "alta"
+ },
+ {
+  "codigo": "R14",
+  "ideia_central": "A escada em espiral vista de cima sugere que subir é só girar sem sair do lugar.",
+  "falha_principal": "É um trocadilho visual em forma de aforismo: o fora descreve o que a espiral já mostra e fica na abstração, sem nenhuma situação humana concreta (quem sobe, em qual vida).",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "media"
+ },
+ {
+  "codigo": "R15",
+  "ideia_central": "O casaco do homem ausente continua pendurado, como se ele fosse voltar.",
+  "falha_principal": "É exatamente o primeiro palpite da categoria (objeto de quem se foi), o fora apenas reafirma o que a foto e o NA FOTO sugerem e nomeia o sentimento sem nenhum detalhe próprio daquela casa.",
+  "reprovacao_justificada": "sim",
+  "nucleo_recuperavel": "nenhum",
+  "corrigivel_por_revisao": false,
+  "como_corrigir": "",
+  "confianca": "media"
+ }
+]

@@ -1,0 +1,54 @@
+[
+ {
+  "codigo": "Z01",
+  "previsoes_que_capturaram": 3,
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "A calma do homem na multidão (leitura inicial: serenidade de quem está bem, ou notícia ruim escondida) -> a calma de quem acabou de largar o emprego e descobre que a pressa era hábito, não necessidade",
+  "elo_humano": "Quem deixou de ter horário a cumprir percebe que a corrida diária nunca foi exigida pelo elevador, e sim pelo emprego.",
+  "parafrase_concreta": "Um homem que pediu demissão deixa passar três elevadores e nota que durante nove anos correu para pegá-los sem precisar.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   "'nunca precisou correr para pegar um': leitura A: ele corria por hábito mesmo sem necessidade (a descoberta é que a pressa era dispensável); leitura B: ele nunca teve de correr em nove anos, o que contradiz a ideia de descoberta e a ideia da multidão apressada. A frase, como escrita, aponta mais para B, que esvazia a revelação."
+  ],
+  "generalidade": "Alta: o pedido de demissão e a calma entre apressados servem a qualquer foto de pessoa parada em meio à correria; o elevador acrescenta pouco além do cenário.",
+  "associacao_mais_comum": "Homem calmo no meio de gente apressada acabou de ser demitido ou de receber uma notícia que mudou tudo.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "Parcial: o detalhe de deixar três elevadores passarem e descobrir que a pressa era dispensável é um traço próprio, mas a frase o formula de modo confuso e ele não sustenta a revelação, que continua sendo a demissão.",
+  "evidencias_positivas": ["E1", "E4"],
+  "eliminatorias": [],
+  "defeitos": [
+   "As três previsões cegas chegaram a demissão sem pressa, ou seja, o essencial foi antecipado pela foto e pelo NA FOTO",
+   "A oração 'nunca precisou correr para pegar um' é logicamente ambígua e pode ser lida como contradição com a premissa",
+   "A revelação central (pediu demissão) é o primeiro palpite da categoria 'calmo entre apressados'",
+   "O elevador e o saguão são intercambiáveis com qualquer cenário de multidão"
+  ],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "Três de três previsões cegas anteciparam demissão e ausência de pressa, e a revelação coincide com o lugar-comum da categoria sem perspectiva específica suficiente. A ideia tem potencial, mas a frase final é ambígua e precisa ser deslocada para algo que a foto não sugira.",
+  "instrucao_de_revisao": "Errado: a revelação principal (pediu demissão) é o que qualquer leitor pensa ao ver um homem calmo entre apressados, e 'nunca precisou correr' admite leitura contraditória. Mudar: tirar a demissão do centro e levar a revelação para um fato que a cena não sugere, por exemplo um detalhe concreto sobre o que ele fazia com o tempo que a corrida ganhava, ou o que ele sente ao ver os outros correrem; reescrever a oração do elevador para que fique claro se ele corria sem necessidade. NÃO pode mudar: o homem de costas esperando o elevador, a calma entre os apressados e a ideia de que a pressa era um hábito que só agora ele enxerga.",
+  "nota": 52
+ },
+ {
+  "codigo": "Z02",
+  "previsoes_que_capturaram": 0,
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "Mesa impecável (leitura inicial: esvaziada por demissão, ou ambiente frio e impessoal) -> mesa de quem ocupa temporariamente o lugar de outro e a devolve todo dia como a recebeu, com medo de parecer que tomou posse",
+  "elo_humano": "Quem cobre a licença de um colega se sente hóspede no posto dele e apaga os próprios rastros para não parecer que quer ficar.",
+  "parafrase_concreta": "Um funcionário substituto arruma a mesa de outro toda sexta para não dar a impressão de que se instalou no lugar do colega afastado.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "generalidade": "Moderada: a revelação usa a foto (ausência de objetos pessoais, caneta alinhada) como prova do comportamento, e outra cena não produziria o mesmo efeito; o fato de ser mesa alheia dá especificidade.",
+  "associacao_mais_comum": "Mesa de escritório sem objetos pessoais indica demissão, desligamento ou um trabalho que não pertence a ninguém.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O ponto de vista do substituto temporário que teme parecer que tomou o lugar do colega e por isso apaga os próprios vestígios.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "eliminatorias": [],
+  "defeitos": [
+   "O verbo 'teme' nomeia um sentimento, mas está ancorado no gesto concreto de devolver a mesa; defeito menor",
+   "Sujeito de 'devolve' fica implícito na frase, mas a única pessoa possível é a que cobre a licença"
+  ],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "Nenhuma das três previsões chegou ao substituto temporário, o elo é imediato e a perspectiva do hóspede que apaga os próprios rastros não é o primeiro palpite da categoria. Um leitor atento volta à foto para reler a caneta alinhada e a ausência de objetos como gesto de quem não quer ficar.",
+  "instrucao_de_revisao": "",
+  "nota": 80
+ }
+]
