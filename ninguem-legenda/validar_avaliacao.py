@@ -28,8 +28,21 @@ def validar(a: dict) -> list:
     v = a.get("veredicto")
     ev = set(a.get("evidencias_positivas", []))
     elim = a.get("eliminatorias", [])
+    v21 = "e_a_associacao_mais_comum" in a  # saída do Crítico v2.1
+    if v21:
+        for campo in ("previsoes_que_capturaram", "associacao_mais_comum", "perspectiva_especifica"):
+            if campo not in a:
+                erros.append(f"campo ausente (v2.1): {campo}")
+        if a.get("e_a_associacao_mais_comum") is True and a.get("perspectiva_especifica") in (None, "", "nenhuma", "Nenhuma") and v == "APROVADA":
+            erros.append("APROVADA com revelação igual à associação comum e sem perspectiva específica")
+        n = a.get("previsoes_que_capturaram")
+        if isinstance(n, int):
+            esperado = "previu quase tudo" if n >= 2 else ("previu parte" if n == 1 else "não previu")
+            if a.get("grau_previsao") not in (esperado, "previu parte") or (n >= 2 and a.get("grau_previsao") != esperado):
+                erros.append(f"grau_previsao '{a.get('grau_previsao')}' incoerente com {n} previsões que capturaram")
     if v == "APROVADA":
-        falta = {"E1", "E2", "E3", "E4"} - ev
+        exigidas = {"E1", "E2", "E3", "E4"} | ({"E5"} if v21 else set())
+        falta = exigidas - ev
         if falta:
             erros.append(f"APROVADA sem evidências obrigatórias: {sorted(falta)}")
         if elim:
