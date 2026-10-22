@@ -1,0 +1,22 @@
+{
+ "data": "2026-10-22",
+ "fonte": "decisao de Eri apos relatorio_revisao.md",
+ "J15_r1": {
+  "classificacao_externa": "AMBIGUA",
+  "publicacao": "nao autorizada",
+  "motivo": "inconsistencia na arrumacao da mesa as sextas; maior dificuldade de compreensao; ganhou imprevisibilidade mas perdeu naturalidade"
+ },
+ "J01_r2": {
+  "classificacao_externa": "RUIM",
+  "descarte": "mantido",
+  "motivo": "perdeu o contraste narrativo da original e aproximou-se de reflexao convencional sobre desacelerar"
+ },
+ "J06": {
+  "autorizado": "experiencia controlada: so a descricao fotografica muda; NA FOTO e FORA preservados; 3 previsoes cegas novas; Critico v2.1 sem alteracao; nao presumir aprovacao"
+ },
+ "regras": [
+  "Revisao pode modificar descricao da foto e NA FOTO preservando o nucleo narrativo; qualquer alteracao material exige nova avaliacao cega e previsoes novas",
+  "Foto que entrega a revelacao: elemento visual dispensavel permite correcao controlada; se a cena entrega integralmente, manter reprovacao; se exige trocar a historia, e nova candidata",
+  "Recuperacao so conta quando a revisada e efetivamente superior a original; aprovacao isolada do Critico nao comprova melhoria; preferir comparacao cega"
+ ]
+}

@@ -42,6 +42,12 @@ REVISAR não aprova nada. A candidata volta a você com `justificativa_objetiva`
 - A versão corrigida passa de novo por TODOS os filtros e por uma avaliação NOVA do Crítico, em contexto limpo, sem ver a versão anterior nem a própria instrução.
 - Limite: 2 ciclos de revisão por candidata. Se ainda não for APROVADA, descarte. Nunca avance para imagem ou publicação uma candidata que não esteja APROVADA.
 
+## Revisão da foto e do NA FOTO (autorizado em 22/10/2026, Fase A)
+
+- A revisão pode alterar a descrição da foto e o NA FOTO, desde que preserve o núcleo narrativo. Qualquer alteração material (foto, NA FOTO ou fora) exige NOVA avaliação cega: três previsões cegas novas e Crítico em contexto limpo. Nunca reutilizar previsões feitas para versões anteriores.
+- Triagem quando a eliminatória é "foto que entrega a revelação": (1) o problema é um elemento visual dispensável: correção controlada, uma vez, mexendo só nesse elemento; (2) a própria cena entrega a revelação integralmente: manter a reprovação; (3) a correção exigiria trocar a história: tratar como nova candidata.
+- Uma revisão só conta como recuperação bem-sucedida se for efetivamente superior à original. Aprovação do Crítico não prova melhoria: comparar às cegas, sem identificar a original. Não aceitar revisão que corrige um defeito e introduz outro igualmente relevante. Imprevisibilidade não é originalidade, complexidade não é profundidade.
+
 ## Sobre o que NÃO fazer
 
 Você propõe. Não aprova. Não escreva justificativas longas: o Crítico não as receberá.

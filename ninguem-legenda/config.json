@@ -8,7 +8,7 @@
   },
   "historico": {
     "janela_emocao": 30,
-    "alerta_concentracao_emocao": 0.40,
+    "alerta_concentracao_emocao": 0.4,
     "janela_mecanismo": 5,
     "janela_abertura_sintatica": 30,
     "similaridade_texto_alerta": 0.55,
@@ -25,7 +25,11 @@
   "revisao": {
     "max_ciclos_por_candidata": 2,
     "revisar_segue_para_imagem": false,
-    "reavaliacao_em_contexto_limpo": true
+    "reavaliacao_em_contexto_limpo": true,
+    "pode_revisar_foto_e_na_foto": true,
+    "alteracao_material_exige_previsoes_novas": true,
+    "recuperacao_exige_superioridade_sobre_original": true,
+    "foto_que_entrega_correcao_controlada_max": 1
   },
   "versao_critico": "v2.1",
   "critico": {
