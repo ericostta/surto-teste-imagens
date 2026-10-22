@@ -1,0 +1,16 @@
+[
+  {
+    "id": "NV-02-f1",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.46,
+      "com": "LAB-001"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  }
+]

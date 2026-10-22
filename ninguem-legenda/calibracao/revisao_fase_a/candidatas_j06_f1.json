@@ -1,0 +1,15 @@
+[
+ {
+  "id": "NV-02-f1",
+  "intencao": "BOA",
+  "tema": "dinheiro curto",
+  "situacao": "escolher pelo preço",
+  "mecanismo": "M02",
+  "emocao": "cotidiano",
+  "tipo_contraste": "sucesso_aparente_vs_custo",
+  "na_foto": "Um cardápio aberto sobre a mesa do restaurante.",
+  "fora": "Ela lê da direita para a esquerda, pelo preço, e finge que escolheu pelo gosto.",
+  "conceito_foto": "Cardápio aberto sobre toalha branca, uma mão em repouso sobre a toalha ao lado do cardápio, tipografia desfocada e ilegível, luz de lâmpada pendente. Nenhum rosto.",
+  "rosto": false
+ }
+]
