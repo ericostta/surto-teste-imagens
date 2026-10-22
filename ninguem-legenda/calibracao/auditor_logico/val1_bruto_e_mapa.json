@@ -1,0 +1,143 @@
+{
+ "mapa": {
+  "V01": "J15-r1",
+  "V02": "J13",
+  "V03": "F3",
+  "V04": "F4",
+  "V05": "J01-r2",
+  "V06": "J18",
+  "V07": "K02",
+  "V08": "F5",
+  "V09": "J04",
+  "V10": "J14",
+  "V11": "F2",
+  "V12": "K06",
+  "V13": "F1",
+  "V14": "J08"
+ },
+ "auditoria": [
+  {
+   "codigo": "V01",
+   "achados": []
+  },
+  {
+   "codigo": "V02",
+   "achados": []
+  },
+  {
+   "codigo": "V03",
+   "achados": [
+    {
+     "categoria": "referencia",
+     "evidencia_textual": "Ainda cabe nele, mas não nela.",
+     "problema": "Não fica claro o que cabe nele e não nela (o sapato guardado, o pequeno ou o grande), e os pronomes ela, ele, dele alternam sem antecedente fixo, mudando o sentido.",
+     "classificacao": "corrigivel"
+    },
+    {
+     "categoria": "foto_texto",
+     "evidencia_textual": "Ela guardou o dele quando ele pediu. / Dois pares de sapatos lado a lado na entrada de uma casa",
+     "problema": "O texto diz que o par dele foi guardado, mas a foto mostra os dois pares à vista na entrada.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V04",
+   "achados": [
+    {
+     "categoria": "complexidade",
+     "evidencia_textual": "Ela espera o cobrador, que antes era o irmão, e só sai quando a vizinha, que fingia não conhecê-lo, entra.",
+     "problema": "Quatro personagens (ela, cobrador, irmão, vizinha) e duas orações relativas encaixadas numa única frase, sem espaço para o leitor reconstruir quem é quem e por que a saída depende da entrada da vizinha.",
+     "classificacao": "eliminatorio"
+    },
+    {
+     "categoria": "referencia",
+     "evidencia_textual": "que fingia não conhecê-lo",
+     "problema": "O pronome -lo pode se referir ao cobrador ou ao irmão, e o sentido muda conforme o antecedente.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V05",
+   "achados": []
+  },
+  {
+   "codigo": "V06",
+   "achados": []
+  },
+  {
+   "codigo": "V07",
+   "achados": []
+  },
+  {
+   "codigo": "V08",
+   "achados": [
+    {
+     "categoria": "foto_texto",
+     "evidencia_textual": "Mesa de jantar posta para duas pessoas / a mesa tem um único prato, e o garfo que sobra é o dele.",
+     "problema": "A foto e o NA FOTO mostram a mesa posta para duas pessoas, mas o FORA afirma que há um único prato.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V09",
+   "achados": []
+  },
+  {
+   "codigo": "V10",
+   "achados": [
+    {
+     "categoria": "pressuposto",
+     "evidencia_textual": "A irmã mais velha nunca perdoou a mudança de cidade em 1998.",
+     "problema": "O texto não diz de quem é a irmã nem liga a mudança de cidade ao guarda-sol fechado na praia vazia, deixando o leitor sem a informação necessária para entender a cena.",
+     "classificacao": "eliminatorio"
+    }
+   ]
+  },
+  {
+   "codigo": "V11",
+   "achados": [
+    {
+     "categoria": "foto_texto",
+     "evidencia_textual": "Ele não sai quando chove / Guarda-chuva aberto secando no corredor de um prédio, poça pequena no chão.",
+     "problema": "O guarda-chuva molhado secando indica que alguém saiu na chuva, o que contradiz o FORA de que ele não sai quando chove.",
+     "classificacao": "corrigivel"
+    },
+    {
+     "categoria": "causal",
+     "evidencia_textual": "Por isso nunca foi a uma festa.",
+     "problema": "Evitar sair na chuva não explica nunca ter ido a uma festa, já que a maioria das festas ocorre sem chuva.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V12",
+   "achados": []
+  },
+  {
+   "codigo": "V13",
+   "achados": [
+    {
+     "categoria": "temporal",
+     "evidencia_textual": "É o primeiro aniversário dela sem ele, e o quinto bolo que ela assa sozinha.",
+     "problema": "Se faz um ano da morte e é o primeiro aniversário sem ele, não há cinco bolos assados sozinha por causa da perda, e o texto não explica de onde vem a contagem.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V14",
+   "achados": [
+    {
+     "categoria": "foto_texto",
+     "evidencia_textual": "marcadores saindo das páginas, abajur aceso / Nenhum foi aberto este ano.",
+     "problema": "Marcadores saindo das páginas e abajur aceso sugerem livros em leitura, o que contradiz a afirmação de que nenhum foi aberto.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "mapa": {
+  "V01": "J08",
+  "V02": "K06",
+  "V03": "J14",
+  "V04": "F5",
+  "V05": "K02",
+  "V06": "F2",
+  "V07": "J01-r2",
+  "V08": "F4",
+  "V09": "J13",
+  "V10": "F1",
+  "V11": "J18",
+  "V12": "J15-r1",
+  "V13": "F3",
+  "V14": "J04"
+ },
+ "auditoria": [
+  {
+   "codigo": "V01",
+   "achados": [
+    {
+     "categoria": "foto_texto",
+     "evidencia_textual": "foto: \"marcadores saindo das páginas\" / fora: \"Nenhum foi aberto este ano.\"",
+     "problema": "Marcadores saindo das páginas indicam livros em leitura, o que contradiz a afirmação de que nenhum foi aberto.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V02",
+   "achados": []
+  },
+  {
+   "codigo": "V03",
+   "achados": [
+    {
+     "categoria": "pressuposto",
+     "evidencia_textual": "\"A irmã mais velha nunca perdoou a mudança de cidade em 1998.\"",
+     "problema": "Não se diz de quem é a irmã nem quem se mudou, e a foto não tem pessoa nem elemento que ancore o sujeito.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V04",
+   "achados": [
+    {
+     "categoria": "foto_texto",
+     "evidencia_textual": "na_foto: \"Uma mesa de jantar posta para duas pessoas.\" / fora: \"a mesa tem um único prato, e o garfo que sobra é o dele.\"",
+     "problema": "O NA FOTO e a foto mostram a mesa posta para duas pessoas, enquanto o FORA afirma que há um único prato.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V05",
+   "achados": []
+  },
+  {
+   "codigo": "V06",
+   "achados": [
+    {
+     "categoria": "causal",
+     "evidencia_textual": "\"Ele não sai quando chove, porque aprendeu que molhado ninguém o convida a entrar. Por isso nunca foi a uma festa.\"",
+     "problema": "Não sair apenas quando chove não explica nunca ter ido a uma festa, então o \"por isso\" não se sustenta.",
+     "classificacao": "corrigivel"
+    },
+    {
+     "categoria": "foto_texto",
+     "evidencia_textual": "foto: \"Guarda-chuva aberto secando no corredor de um prédio, poça pequena no chão.\" / fora: \"Ele não sai quando chove\"",
+     "problema": "O guarda-chuva molhado e a poça indicam que alguém saiu na chuva e entrou, o que contradiz a ideia de que ele não sai quando chove.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V07",
+   "achados": []
+  },
+  {
+   "codigo": "V08",
+   "achados": [
+    {
+     "categoria": "referencia",
+     "evidencia_textual": "\"o cobrador, que antes era o irmão, e só sai quando a vizinha, que fingia não conhecê-lo, entra.\"",
+     "problema": "\"Conhecê-lo\" pode retomar o cobrador atual ou o irmão, e não fica claro onde a vizinha \"entra\" nem de quem é o irmão.",
+     "classificacao": "corrigivel"
+    },
+    {
+     "categoria": "complexidade",
+     "evidencia_textual": "\"Ela espera o cobrador, que antes era o irmão, e só sai quando a vizinha, que fingia não conhecê-lo, entra.\"",
+     "problema": "Uma frase reúne quatro personagens (ela, cobrador, irmão, vizinha) em duas orações subordinadas encaixadas e duas condições, mais do que o espaço comporta.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V09",
+   "achados": []
+  },
+  {
+   "codigo": "V10",
+   "achados": [
+    {
+     "categoria": "temporal",
+     "evidencia_textual": "\"É o primeiro aniversário dela sem ele, e o quinto bolo que ela assa sozinha.\"",
+     "problema": "Se este é o primeiro aniversário sem ele, os quatro bolos anteriores assados sozinha foram feitos com ele vivo, o que torna \"sozinha\" incompatível com a contagem e com o luto apresentado.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V11",
+   "achados": [
+    {
+     "categoria": "referencia",
+     "evidencia_textual": "\"uma pergunta que ele não fez ao irmão sobre o dinheiro emprestado.\"",
+     "problema": "Não se sabe quem emprestou a quem, nem de quem é o irmão, e a pergunta muda de sentido conforme ele seja credor ou devedor.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V12",
+   "achados": [
+    {
+     "categoria": "revisao",
+     "evidencia_textual": "fora: \"Toda sexta devolve a mesa como a encontrou. Cobre a licença de um colega\" / fora_anterior: \"na segunda, nunca sabe se ainda terá a mesa.\"",
+     "problema": "A versão nova resolve a motivação, mas perde o porquê de a arrumação ser semanal, já que quem cobre uma licença continua com a mesa de segunda a sexta e não há a quem devolvê-la toda sexta.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V13",
+   "achados": [
+    {
+     "categoria": "referencia",
+     "evidencia_textual": "\"Ela guardou o dele quando ele pediu. Ainda cabe nele, mas não nela.\"",
+     "problema": "\"O dele\", o sujeito de \"cabe\" e o \"nela\" não têm antecedente claro (sapato, outro objeto ou outra pessoa), e o sapato de adulto não seria testado em quem calça o pequeno.",
+     "classificacao": "corrigivel"
+    }
+   ]
+  },
+  {
+   "codigo": "V14",
+   "achados": []
+  }
+ ]
+}

@@ -24,6 +24,7 @@ Não toca: fila/, publicadas/, fila-eri/, fila-threads/, frases/, scripts/, agen
 - calibracao/execucao_2/: pacotes, previsões, avaliações e mapas da segunda rodada. calibracao/conjunto2/: conjunto inédito, gabarito travado (gabarito_claude2.json e .sha256) e arquivo para Eri.
 - calibracao/execucao_3/: três previsões cegas, pacotes e avaliações do v2.1. calibracao/conjunto2/gabarito_claude2_1.json (+ .sha256): veredictos v2.1 travados antes dos rótulos de Eri. relatorio_calibracao_3.md.
 - calibracao/revisao_fase_a/: ciclo REVISAR de J01 e J15, análise de J06, auditoria das reprovações e relatorio_revisao.md.
+- prompts/auditor_logico.md e calibracao/auditor_logico/: Auditor Lógico v1 (somente testes), protocolo, resultados e relatório.
 - REVISAR nunca segue para imagem. Volta ao Criador (até 2 ciclos) e é reavaliado em contexto limpo.
 
 ## Estados do registro
