@@ -1,0 +1,39 @@
+{
+ "textos_anteriores": [
+  "Uma cadeira de escritório nova, ainda com o plástico. A primeira que ele escolheu sem olhar o preço antes.",
+  "Um crachá de visitante preso na camisa. Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu.",
+  "Uma marmita aberta sobre o capô de um carro. Ela atravessou a cidade de ônibus só para ver se ele tinha comido.",
+  "Uma planta perfeita no parapeito da janela. É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo.",
+  "Uma cama de solteiro bem arrumada, lençol esticado. A primeira semana em que dormir sozinho deixou de parecer castigo.",
+  "Uma mala fechada, pronta ao lado da porta. Está assim há dois anos. Ele gosta de saber que poderia ir.",
+  "Uma fila longa diante de um balcão. Metade está ali só porque achou que a outra metade sabia o motivo.",
+  "Uma mesa de Natal farta, vista de cima. A mão que segura o celular é a única que nunca sai nas fotos de família.",
+  "Um relógio de pulso antigo ao lado da torneira. Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê.",
+  "Duas escovas de dente no mesmo copo. A segunda foi trocada na semana em que ela decidiu ficar.",
+  "Um diploma emoldurado numa parede ainda sem pintura. Ele o pendurou antes de pintar a casa, para o caso de a coragem passar.",
+  "Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém."
+ ],
+ "candidatas": [
+  {
+   "codigo": "Z04",
+   "conceito_foto": "Cardápio aberto sobre toalha branca, uma mão em repouso sobre a toalha ao lado do cardápio, tipografia desfocada e ilegível, luz de lâmpada pendente. Nenhum rosto.",
+   "na_foto": "Um cardápio aberto sobre a mesa do restaurante.",
+   "fora": "Ela lê da direita para a esquerda, pelo preço, e finge que escolheu pelo gosto.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A pessoa está sozinha à mesa esperando alguém que não vai chegar, e finge ler o cardápio para não parecer abandonada diante do garçom.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A pessoa na mesa está ali para dar uma notícia difícil ou encerrar algo, e não consegue ler o cardápio porque está ensaiando o que vai dizer, enquanto a outra pessoa ainda acha que é só um jantar comum.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A pessoa com a mão ao lado do cardápio está sozinha, esperando alguém que não vai chegar, e abriu o cardápio só para ter o que fazer enquanto disfarça a solidão.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+[
+ {
+  "codigo": "Z04",
+  "previsoes_que_capturaram": 0,
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "O gesto de ler o cardápio: de escolha por gosto, leitura inicial, para triagem por orçamento disfarçada de gosto, leitura nova.",
+  "elo_humano": "Quem precisa contar o dinheiro na frente dos outros finge que o critério é apetite para não expor a limitação.",
+  "parafrase_concreta": "Uma mulher num restaurante olha os preços antes dos pratos e escolhe o que cabe no bolso, mas age como se tivesse escolhido pelo que gosta.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "generalidade": "Funciona com qualquer cardápio e qualquer mesa; a foto (mão em repouso, tipografia ilegível) pouco contribui e o NA FOTO só descreve o objeto, mas é humor de observação, então a universalidade não é defeito por si só.",
+  "associacao_mais_comum": "Um cardápio sugere espera ou encontro carregado (sozinho esperando alguém, jantar de término) ou a piada conhecida de olhar o preço antes do prato.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "Só o detalhe do gesto (ler da direita para a esquerda) e do fingimento de gosto; falta um fato próprio da situação (com quem está, por que precisa esconder), então a perspectiva é fraca.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": [
+    "A revelação é a variação do lugar-comum 'olhar o preço primeiro no cardápio', sem fato que só esta situação teria (E5 não satisfeita).",
+    "A foto não participa: a mão em repouso nada tem a ver com leitura ativa, e o ponto de vista fica sem âncora visual que faça o leitor voltar à imagem.",
+    "Não diz diante de quem ela finge, o que deixa a camada humana (vergonha, orgulho, acompanhante) apenas insinuada.",
+    "Eco temático com a primeira edição anterior (escolher sem olhar o preço), embora a estrutura seja diferente."
+  ],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "Ninguém previu a revelação e o elo humano é claro, mas ela coincide com a piada mais conhecida sobre cardápios e não traz um detalhe específico que a torne própria. Falha corrigível sem trocar a ideia central do fingimento.",
+  "instrucao_de_revisao": "Errado: a revelação é o clichê 'olhar o preço primeiro' com a única marca do 'da direita para a esquerda', e o fingimento não tem destinatário nem consequência concreta. Mudar: acrescentar um fato específico e verificável da situação (para quem ela encena o gosto, ou o que ela faz depois de escolher, ou um custo que só essa mesa teria) que desloque a leitura do hábito universal para uma história particular, e dar à mão ou à luz da foto algum papel. NÃO pode mudar: a ideia de que a escolha aparente por gosto é na verdade uma escolha por orçamento escondida, o tom seco sem emoção nomeada e a ausência de rosto.",
+  "nota": 62
+ }
+]
