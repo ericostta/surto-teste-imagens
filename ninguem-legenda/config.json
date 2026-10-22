@@ -22,6 +22,12 @@
     "max_rodadas_texto": 2,
     "max_geracoes_imagem_por_texto": 2
   },
+  "revisao": {
+    "max_ciclos_por_candidata": 2,
+    "revisar_segue_para_imagem": false,
+    "reavaliacao_em_contexto_limpo": true
+  },
+  "versao_critico": "v2",
   "critico": {
     "nota_minima_desempate": 0,
     "observacao": "Nota so serve para desempatar candidatas aprovaveis. Eliminatorias valem sobre a nota."

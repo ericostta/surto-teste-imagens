@@ -1,0 +1,262 @@
+[
+  {
+    "id": "NV-01",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.38,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M07 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "NV-02",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.46,
+      "com": "LAB-001"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-03",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "NV-16"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M11 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "NV-04",
+    "palavras": {
+      "na_foto": 10,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "NV-01"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-05",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.45,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-06",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "LAB-002"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M11 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "NV-07",
+    "palavras": {
+      "na_foto": 5,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "NV-17"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-08",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-09",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.45,
+      "com": "NV-07"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-10",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "NV-18"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-11",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 12
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "NV-03"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M07 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "NV-12",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "NV-03"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-13",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.48,
+      "com": "LAB-008"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-14",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 12
+    },
+    "similaridade_max": {
+      "valor": 0.38,
+      "com": "NV-05"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-15",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "NV-09"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-16",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "NV-04"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-17",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 11
+    },
+    "similaridade_max": {
+      "valor": 0.45,
+      "com": "LAB-008"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-18",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.46,
+      "com": "NV-10"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  }
+]

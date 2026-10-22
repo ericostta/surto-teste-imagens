@@ -33,6 +33,15 @@ Cada candidata é um objeto JSON:
 
 Pergunte-se: depois de ler a revelação, há motivo concreto para olhar a foto de novo? Se não, reescreva antes de entregar.
 
+## Quando o Crítico devolve REVISAR
+
+REVISAR não aprova nada. A candidata volta a você com `justificativa_objetiva` e `instrucao_de_revisao` (o que está errado, o que mudar, o que NÃO pode mudar).
+
+- Corrija só o que a instrução aponta. Preserve a ideia central e o que ela manda preservar.
+- Registre a versão corrigida com o mesmo id mais sufixo de rodada (ex.: LAB-003-r1).
+- A versão corrigida passa de novo por TODOS os filtros e por uma avaliação NOVA do Crítico, em contexto limpo, sem ver a versão anterior nem a própria instrução.
+- Limite: 2 ciclos de revisão por candidata. Se ainda não for APROVADA, descarte. Nunca avance para imagem ou publicação uma candidata que não esteja APROVADA.
+
 ## Sobre o que NÃO fazer
 
 Você propõe. Não aprova. Não escreva justificativas longas: o Crítico não as receberá.
