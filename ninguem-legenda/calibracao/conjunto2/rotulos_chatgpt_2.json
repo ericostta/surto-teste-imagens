@@ -1,0 +1,24 @@
+{
+ "avaliador": "ChatGPT (encaminhado por Eri)",
+ "recebido_em": "2026-10-22",
+ "rotulos": {
+  "J01": "BOA",
+  "J02": "AMBÍGUA",
+  "J03": "RUIM",
+  "J04": "BOA",
+  "J05": "RUIM",
+  "J06": "BOA",
+  "J07": "RUIM",
+  "J08": "BOA",
+  "J09": "RUIM",
+  "J10": "RUIM",
+  "J11": "RUIM",
+  "J12": "RUIM",
+  "J13": "BOA",
+  "J14": "RUIM",
+  "J15": "BOA",
+  "J16": "AMBÍGUA",
+  "J17": "RUIM",
+  "J18": "RUIM"
+ }
+}
