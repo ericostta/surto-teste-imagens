@@ -1,0 +1,68 @@
+{
+ "textos_anteriores": [],
+ "candidatas": [
+  {
+   "codigo": "Y01",
+   "conceito_foto": "Mala média cinza fechada, alça levantada, ao lado da porta de entrada de um apartamento, chaves num gancho acima. Corredor limpo, luz de manhã. Sem poeira e sem sinais de tempo parado. Nenhuma pessoa.",
+   "na_foto": "Uma mala fechada, pronta ao lado da porta.",
+   "fora": "Há dois anos, ele troca as roupas de dentro a cada estação, para a mala estar sempre pronta. Nunca saiu.",
+   "previsao_cega": "A mala está pronta há dias, mas a pessoa não consegue ir embora e fica adiando a partida.",
+   "confianca_previsao": "alta",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "Y02",
+   "conceito_foto": "Cadeira de balanço de madeira escura, manta dobrada no encosto, voltada para uma janela com cortina branca. Luz difusa, sala silenciosa. Nenhuma pessoa.",
+   "na_foto": "Uma cadeira de balanço virada para a janela.",
+   "fora": "O gato dorme ali há anos. Todos contornam a cadeira, e ninguém tem coragem de pedir que ele saia.",
+   "previsao_cega": "A pessoa que se sentava na cadeira morreu, e a cadeira ainda balança de leve quando alguém passa, como se estivesse ocupada.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "Y03",
+   "conceito_foto": "Quarto pequeno com cama de solteiro de lençol cinza-claro esticado e uma única almofada. Mesa de cabeceira com livro fechado e copo d'água. Luz dourada de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Uma cama de solteiro bem arrumada, lençol esticado.",
+   "fora": "Na primeira semana, ele escolheu sozinho cada detalhe: a única almofada, o copo ao alcance, o livro fechado. Ninguém corrigiu.",
+   "previsao_cega": "A pessoa mora sozinha e arruma a cama todos os dias por hábito, mas ninguém mais dorme nem se deita ali.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "Y04",
+   "conceito_foto": "Relógio de pulso de pulseira de couro marrom e vidro riscado, sobre a bancada de uma pia de banheiro de azulejo branco, torneira cromada e sabonete ao lado. Luz amarelada de lâmpada. Nenhuma pessoa.",
+   "na_foto": "Um relógio de pulso antigo ao lado da torneira.",
+   "fora": "Ele só notou o gesto do pai quando o filho tirou o relógio de brinquedo na pia. Ninguém sabe por quê.",
+   "previsao_cega": "O relógio era do pai ou do avô que morreu, e a pessoa o tira para lavar as mãos e sempre o deixa ali, sem usar de verdade.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "Y05",
+   "conceito_foto": "Zamioculca viçosa em vaso de cerâmica branca, no parapeito de uma janela com cortina de linho. Luz suave de manhã. Nenhuma pessoa. Sem terra espalhada nem sinal de replantio.",
+   "na_foto": "Uma planta perfeita no parapeito da janela.",
+   "fora": "É a quarta. A dona trocou as três primeiras em segredo, e a vizinha, que a rega, elogia sempre a mesma.",
+   "previsao_cega": "A planta é artificial ou foi trocada por outra idêntica, escondendo que a original morreu e que alguém finge que está tudo bem.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "Y06",
+   "conceito_foto": "Cadeira de escritório cinza, encosto ainda coberto por plástico protetor, em sala quase vazia de chão de madeira clara. Luz natural de tarde vinda de janela lateral. Nenhuma pessoa. Sem etiqueta legível.",
+   "na_foto": "Uma cadeira de escritório nova, ainda com o plástico.",
+   "fora": "A primeira que ele escolheu sem olhar o preço. Antes, trabalhava em casa numa cadeira de cozinha, com um travesseiro.",
+   "previsao_cega": "A cadeira foi comprada para um emprego novo ou um recomeço, mas a pessoa ainda não conseguiu se sentar nela por medo ou insegurança.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "Y07",
+   "conceito_foto": "Parede de massa corrida ainda sem tinta, com manchas de lixa. Diploma em moldura simples de madeira clara, sem texto legível. Escada de pintor e lata fechada ao canto. Nenhuma pessoa.",
+   "na_foto": "Um diploma emoldurado numa parede ainda sem pintura.",
+   "fora": "Ele o pendurou antes de pintar a casa. A mãe chega sábado e precisa ver, primeiro, que ele concluiu o curso.",
+   "previsao_cega": "O diploma foi conquistado com enorme sacrifício, mas a pessoa ainda não conseguiu emprego na área e a casa segue inacabada como a vida.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "textos_anteriores": [],
+ "candidatas": [
+  {
+   "codigo": "X01",
+   "conceito_foto": "Xícara vazia sobre mesa, sem pessoas.",
+   "na_foto": "Uma xícara de café vazia sobre a mesa.",
+   "fora": "O café acabou e a xícara ficou vazia sobre a mesa.",
+   "previsao_cega": "A pessoa que tomava café ali morreu ou foi embora, e a xícara continua no mesmo lugar porque ninguém teve coragem de guardá-la.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X02",
+   "conceito_foto": "Marmita de alumínio aberta com arroz, feijão e um bife, sobre o capô de um carro prata em estacionamento de empresa. Mãos de homem segurando um garfo, sem rosto. Luz forte de meio-dia.",
+   "na_foto": "Uma marmita aberta sobre o capô de um carro.",
+   "fora": "Ela atravessou a cidade de ônibus só para ver se ele tinha comido.",
+   "previsao_cega": "Ele almoça no carro porque não tem dinheiro nem tempo para comer em outro lugar, ou porque prefere ficar sozinho longe dos colegas.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X03",
+   "conceito_foto": "Copo de vidro com duas escovas de dente, uma de cabo azul e outra de cabo branco, sobre bancada de banheiro. Espelho parcialmente visível sem reflexo de pessoas. Luz neutra da manhã.",
+   "na_foto": "Duas escovas de dente no mesmo copo.",
+   "fora": "A segunda foi trocada na semana em que ela decidiu ficar.",
+   "previsao_cega": "O casal está separado há tempos ou um dos dois já não mora ali, mas ninguém tirou a segunda escova do copo.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X05",
+   "conceito_foto": "Zamioculca viçosa em vaso de cerâmica branca, no parapeito de uma janela com cortina de linho. Luz suave de manhã. Nenhuma pessoa. Sem terra espalhada nem sinal de replantio.",
+   "na_foto": "Uma planta perfeita no parapeito da janela.",
+   "fora": "É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo.",
+   "previsao_cega": "A planta é artificial ou foi trocada por outra idêntica, escondendo que a original morreu e que alguém finge que está tudo bem.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X07",
+   "conceito_foto": "Cadeira de escritório cinza, encosto ainda coberto por plástico protetor, em sala quase vazia de chão de madeira clara. Luz natural de tarde vinda de janela lateral. Nenhuma pessoa. Sem etiqueta legível.",
+   "na_foto": "Uma cadeira de escritório nova, ainda com o plástico.",
+   "fora": "A primeira que ele escolheu sem olhar o preço antes.",
+   "previsao_cega": "A cadeira foi comprada para um emprego novo ou um recomeço, mas a pessoa ainda não conseguiu se sentar nela por medo ou insegurança.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X10",
+   "conceito_foto": "Relógio de pulso de pulseira de couro marrom e vidro riscado, sobre a bancada de uma pia de banheiro de azulejo branco, torneira cromada e sabonete ao lado. Luz amarelada de lâmpada. Nenhuma pessoa.",
+   "na_foto": "Um relógio de pulso antigo ao lado da torneira.",
+   "fora": "Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê.",
+   "previsao_cega": "O relógio era do pai ou do avô que morreu, e a pessoa o tira para lavar as mãos e sempre o deixa ali, sem usar de verdade.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X13",
+   "conceito_foto": "Torso cortado abaixo do queixo, sem rosto: camisa social azul-clara com crachá branco liso preso no bolso, cordão discreto, sem texto legível nem logotipo. Recepção de escritório desfocada ao fundo, plantas e balcão neutro. Luz fria de lâmpadas de teto.",
+   "na_foto": "Um crachá de visitante preso na camisa.",
+   "fora": "Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu.",
+   "previsao_cega": "O homem é visitante num lugar onde antes trabalhava ou onde deveria pertencer, e se sente um estranho.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X16",
+   "conceito_foto": "Janela entreaberta, sem pessoas.",
+   "na_foto": "Uma janela entreaberta.",
+   "fora": "A alma sabe que a liberdade é uma porta que se abre para dentro.",
+   "previsao_cega": "Alguém deixa a janela entreaberta esperando que a pessoa que partiu volte, ou por onde alguém pensou em pular.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X17",
+   "conceito_foto": "Pessoas vistas de costas em fila num corredor claro de repartição, balcão com vidro ao fundo, sem placa legível. Roupas cotidianas variadas. Luz de lâmpadas de teto.",
+   "na_foto": "Uma fila longa diante de um balcão.",
+   "fora": "Metade está ali só porque achou que a outra metade sabia o motivo.",
+   "previsao_cega": "Muitos ali estão esperando por um benefício ou resposta de que dependem para comer, e a espera já dura meses.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X18",
+   "conceito_foto": "Parede de massa corrida ainda sem tinta, com manchas de lixa. Diploma em moldura simples de madeira clara, sem texto legível. Escada de pintor e lata fechada ao canto. Nenhuma pessoa.",
+   "na_foto": "Um diploma emoldurado numa parede ainda sem pintura.",
+   "fora": "Ele o pendurou antes de pintar a casa, para o caso de a coragem passar.",
+   "previsao_cega": "O diploma foi conquistado com enorme sacrifício, mas a pessoa ainda não conseguiu emprego na área e a casa segue inacabada como a vida.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X20",
+   "conceito_foto": "Mala média cinza fechada, alça levantada, ao lado da porta de entrada de um apartamento, chaves num gancho acima. Corredor limpo, luz de manhã. Sem poeira e sem sinais de tempo parado. Nenhuma pessoa.",
+   "na_foto": "Uma mala fechada, pronta ao lado da porta.",
+   "fora": "Está assim há dois anos. Ele gosta de saber que poderia ir.",
+   "previsao_cega": "A mala está pronta há dias, mas a pessoa não consegue ir embora e fica adiando a partida.",
+   "confianca_previsao": "alta",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X21",
+   "conceito_foto": "Carrinho de bebê na calçada, sem pessoas.",
+   "na_foto": "Um carrinho de bebê parado na calçada.",
+   "fora": "Quem o empurra perdeu tudo num incêndio e chora em silêncio, sem ninguém.",
+   "previsao_cega": "O carrinho está vazio porque o bebê não está mais lá, ou a mãe se afastou um instante e a cena guarda uma perda.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X22",
+   "conceito_foto": "Bicicleta azul encostada num muro de tijolos. Nenhuma pessoa.",
+   "na_foto": "Uma bicicleta encostada no muro.",
+   "fora": "A decisão de nunca mais falar com o irmão.",
+   "previsao_cega": "A bicicleta pertence a alguém que não voltou para buscá-la, e ela está ali abandonada há muito tempo.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X27",
+   "conceito_foto": "Nascer do sol em montanha, sem pessoas.",
+   "na_foto": "Um nascer do sol na montanha.",
+   "fora": "Acredite: cada dia é uma chance de recomeçar do zero.",
+   "previsao_cega": "Alguém subiu a montanha de madrugada para decidir algo importante da vida ou para se despedir de alguém.",
+   "confianca_previsao": "baixa",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X31",
+   "conceito_foto": "Quarto pequeno com cama de solteiro de lençol cinza-claro esticado e uma única almofada. Mesa de cabeceira com livro fechado e copo d'água. Luz dourada de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Uma cama de solteiro bem arrumada, lençol esticado.",
+   "fora": "A primeira semana em que dormir sozinho deixou de parecer castigo.",
+   "previsao_cega": "A pessoa mora sozinha e arruma a cama todos os dias por hábito, mas ninguém mais dorme nem se deita ali.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X33",
+   "conceito_foto": "Celular sobre mesa de jantar, sem pessoas.",
+   "na_foto": "Um celular sobre a mesa durante o jantar.",
+   "fora": "Largue o celular e valorize quem está ao seu lado.",
+   "previsao_cega": "Ninguém à mesa conversa, e cada pessoa está sozinha com seu celular enquanto a família janta junto só no nome.",
+   "confianca_previsao": "alta",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X35",
+   "conceito_foto": "Cadeira de balanço de madeira escura, manta dobrada no encosto, voltada para uma janela com cortina branca. Luz difusa, sala silenciosa. Nenhuma pessoa.",
+   "na_foto": "Uma cadeira de balanço virada para a janela.",
+   "fora": "Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém.",
+   "previsao_cega": "A pessoa que se sentava na cadeira morreu, e a cadeira ainda balança de leve quando alguém passa, como se estivesse ocupada.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X36",
+   "conceito_foto": "Mesa posta vista de cima: travessas, taças, guardanapos de pano, velas pequenas. Luz quente. Nenhuma mão nem sombra do fotógrafo no quadro.",
+   "na_foto": "Uma mesa de Natal farta, vista de cima.",
+   "fora": "A mão que segura o celular é a única que nunca sai nas fotos de família.",
+   "previsao_cega": "A mesa farta esconde uma família dividida, com cadeiras que ficarão vazias e conversas que ninguém vai ter coragem de começar.",
+   "confianca_previsao": "media",
+   "filtros": "omitido neste teste"
+  }
+ ]
+}

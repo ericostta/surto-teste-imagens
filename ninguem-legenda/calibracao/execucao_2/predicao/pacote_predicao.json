@@ -1,0 +1,182 @@
+[
+ {
+  "codigo": "X01",
+  "foto": "Xícara vazia sobre mesa, sem pessoas.",
+  "na_foto": "Uma xícara de café vazia sobre a mesa."
+ },
+ {
+  "codigo": "X02",
+  "foto": "Marmita de alumínio aberta com arroz, feijão e um bife, sobre o capô de um carro prata em estacionamento de empresa. Mãos de homem segurando um garfo, sem rosto. Luz forte de meio-dia.",
+  "na_foto": "Uma marmita aberta sobre o capô de um carro."
+ },
+ {
+  "codigo": "X03",
+  "foto": "Copo de vidro com duas escovas de dente, uma de cabo azul e outra de cabo branco, sobre bancada de banheiro. Espelho parcialmente visível sem reflexo de pessoas. Luz neutra da manhã.",
+  "na_foto": "Duas escovas de dente no mesmo copo."
+ },
+ {
+  "codigo": "X04",
+  "foto": "Caixa de sapatos aberta com maço de envelopes amarelados presos por barbante, sem texto legível, numa prateleira de armário. Nenhuma pessoa.",
+  "na_foto": "Uma caixa de sapatos cheia de cartas antigas."
+ },
+ {
+  "codigo": "X05",
+  "foto": "Zamioculca viçosa em vaso de cerâmica branca, no parapeito de uma janela com cortina de linho. Luz suave de manhã. Nenhuma pessoa. Sem terra espalhada nem sinal de replantio.",
+  "na_foto": "Uma planta perfeita no parapeito da janela."
+ },
+ {
+  "codigo": "X06",
+  "foto": "Despertador analógico sobre criado-mudo, ponteiros marcando seis horas, quarto na penumbra e luz do amanhecer na cortina. Nenhuma pessoa.",
+  "na_foto": "Um despertador marcando seis horas."
+ },
+ {
+  "codigo": "X07",
+  "foto": "Cadeira de escritório cinza, encosto ainda coberto por plástico protetor, em sala quase vazia de chão de madeira clara. Luz natural de tarde vinda de janela lateral. Nenhuma pessoa. Sem etiqueta legível.",
+  "na_foto": "Uma cadeira de escritório nova, ainda com o plástico."
+ },
+ {
+  "codigo": "X08",
+  "foto": "Criança de uniforme escolar e adulto vistos de costas, de mãos dadas, num ponto de ônibus de rua arborizada. Sem rostos, sem placas legíveis. Luz de manhã.",
+  "na_foto": "Uma menina e o pai esperam no ponto de ônibus."
+ },
+ {
+  "codigo": "X09",
+  "foto": "Duas filas de carrinhos cheios diante de dois caixas, uma delas ligeiramente à frente. Corredor de supermercado, luz branca. Pessoas de costas, sem rostos.",
+  "na_foto": "Uma fila de carrinhos diante do caixa do mercado."
+ },
+ {
+  "codigo": "X10",
+  "foto": "Relógio de pulso de pulseira de couro marrom e vidro riscado, sobre a bancada de uma pia de banheiro de azulejo branco, torneira cromada e sabonete ao lado. Luz amarelada de lâmpada. Nenhuma pessoa.",
+  "na_foto": "Um relógio de pulso antigo ao lado da torneira."
+ },
+ {
+  "codigo": "X11",
+  "foto": "Mesa de jantar posta para quatro lugares, duas cadeiras afastadas e duas encostadas, velas acesas, luz quente. Nenhuma pessoa.",
+  "na_foto": "Uma mesa de jantar posta para quatro pessoas."
+ },
+ {
+  "codigo": "X12",
+  "foto": "Mochila escolar azul de zíper fechado, apoiada num sofá cinza, luz de manhã. Nenhuma pessoa.",
+  "na_foto": "Uma mochila escolar cheia, apoiada no sofá."
+ },
+ {
+  "codigo": "X13",
+  "foto": "Torso cortado abaixo do queixo, sem rosto: camisa social azul-clara com crachá branco liso preso no bolso, cordão discreto, sem texto legível nem logotipo. Recepção de escritório desfocada ao fundo, plantas e balcão neutro. Luz fria de lâmpadas de teto.",
+  "na_foto": "Um crachá de visitante preso na camisa."
+ },
+ {
+  "codigo": "X14",
+  "foto": "Bandeja de pães franceses fumegando sobre balcão de aço, luz branca de madrugada, mãos enfarinhadas ao fundo. Sem rosto.",
+  "na_foto": "Uma bandeja de pães quentes sobre o balcão."
+ },
+ {
+  "codigo": "X15",
+  "foto": "Homem de terno visto de costas diante de portas de elevador, postura calma, mãos soltas. Ao redor, pessoas desfocadas em movimento. Luz fria de saguão. Sem rosto.",
+  "na_foto": "Um homem espera o elevador na hora do rush."
+ },
+ {
+  "codigo": "X16",
+  "foto": "Janela entreaberta, sem pessoas.",
+  "na_foto": "Uma janela entreaberta."
+ },
+ {
+  "codigo": "X17",
+  "foto": "Pessoas vistas de costas em fila num corredor claro de repartição, balcão com vidro ao fundo, sem placa legível. Roupas cotidianas variadas. Luz de lâmpadas de teto.",
+  "na_foto": "Uma fila longa diante de um balcão."
+ },
+ {
+  "codigo": "X18",
+  "foto": "Parede de massa corrida ainda sem tinta, com manchas de lixa. Diploma em moldura simples de madeira clara, sem texto legível. Escada de pintor e lata fechada ao canto. Nenhuma pessoa.",
+  "na_foto": "Um diploma emoldurado numa parede ainda sem pintura."
+ },
+ {
+  "codigo": "X19",
+  "foto": "Guarda-sol fechado cravado na areia de uma praia vazia, luz de fim de tarde. Nenhuma pessoa.",
+  "na_foto": "Um guarda-sol fechado na areia."
+ },
+ {
+  "codigo": "X20",
+  "foto": "Mala média cinza fechada, alça levantada, ao lado da porta de entrada de um apartamento, chaves num gancho acima. Corredor limpo, luz de manhã. Sem poeira e sem sinais de tempo parado. Nenhuma pessoa.",
+  "na_foto": "Uma mala fechada, pronta ao lado da porta."
+ },
+ {
+  "codigo": "X21",
+  "foto": "Carrinho de bebê na calçada, sem pessoas.",
+  "na_foto": "Um carrinho de bebê parado na calçada."
+ },
+ {
+  "codigo": "X22",
+  "foto": "Bicicleta azul encostada num muro de tijolos. Nenhuma pessoa.",
+  "na_foto": "Uma bicicleta encostada no muro."
+ },
+ {
+  "codigo": "X23",
+  "foto": "Cinco livros empilhados numa mesa de cabeceira, marcadores saindo das páginas, abajur aceso, lombadas sem texto legível. Nenhuma pessoa.",
+  "na_foto": "Uma pilha de livros na mesa de cabeceira."
+ },
+ {
+  "codigo": "X24",
+  "foto": "Cardápio aberto sobre toalha branca, uma mão com o dedo pousado na coluna da direita, tipografia desfocada e ilegível, luz de lâmpada pendente. Nenhum rosto.",
+  "na_foto": "Um cardápio aberto sobre a mesa do restaurante."
+ },
+ {
+  "codigo": "X25",
+  "foto": "Sala de espera com cadeiras ocupadas por pessoas de cabeça baixa vistas de costas e de lado, sem rostos. Parede clara. Luz de lâmpadas de teto.",
+  "na_foto": "Uma sala de espera com todas as cadeiras ocupadas."
+ },
+ {
+  "codigo": "X26",
+  "foto": "Casaco de lã cinza pendurado num cabide atrás da porta de um quarto, luz lateral. Nenhuma pessoa.",
+  "na_foto": "Um casaco pendurado atrás da porta."
+ },
+ {
+  "codigo": "X27",
+  "foto": "Nascer do sol em montanha, sem pessoas.",
+  "na_foto": "Um nascer do sol na montanha."
+ },
+ {
+  "codigo": "X28",
+  "foto": "Escada de metal em espiral fotografada do topo para baixo, luz fria. Nenhuma pessoa.",
+  "na_foto": "Uma escada em espiral, vista de cima."
+ },
+ {
+  "codigo": "X29",
+  "foto": "Close de uma mão idosa segurando uma mão jovem sobre uma toalha de crochê. Sem rostos.",
+  "na_foto": "Uma mão idosa segurando uma mão jovem."
+ },
+ {
+  "codigo": "X30",
+  "foto": "Mesa de escritório sem objetos pessoais, caneta alinhada ao teclado, monitor desligado, luz fria de fim de tarde. Nenhuma pessoa.",
+  "na_foto": "Uma mesa de escritório impecavelmente organizada."
+ },
+ {
+  "codigo": "X31",
+  "foto": "Quarto pequeno com cama de solteiro de lençol cinza-claro esticado e uma única almofada. Mesa de cabeceira com livro fechado e copo d'água. Luz dourada de fim de tarde. Nenhuma pessoa.",
+  "na_foto": "Uma cama de solteiro bem arrumada, lençol esticado."
+ },
+ {
+  "codigo": "X32",
+  "foto": "Balde plástico azul cheio de moedas de valores variados, num canto de sala, luz de tarde. Nenhuma pessoa.",
+  "na_foto": "Um balde cheio de moedas num canto da sala."
+ },
+ {
+  "codigo": "X33",
+  "foto": "Celular sobre mesa de jantar, sem pessoas.",
+  "na_foto": "Um celular sobre a mesa durante o jantar."
+ },
+ {
+  "codigo": "X34",
+  "foto": "Trilha estreita de terra em floresta densa, luz filtrada pelas copas. Nenhuma pessoa.",
+  "na_foto": "Uma trilha estreita no meio da floresta."
+ },
+ {
+  "codigo": "X35",
+  "foto": "Cadeira de balanço de madeira escura, manta dobrada no encosto, voltada para uma janela com cortina branca. Luz difusa, sala silenciosa. Nenhuma pessoa.",
+  "na_foto": "Uma cadeira de balanço virada para a janela."
+ },
+ {
+  "codigo": "X36",
+  "foto": "Mesa posta vista de cima: travessas, taças, guardanapos de pano, velas pequenas. Luz quente. Nenhuma mão nem sombra do fotógrafo no quadro.",
+  "na_foto": "Uma mesa de Natal farta, vista de cima."
+ }
+]

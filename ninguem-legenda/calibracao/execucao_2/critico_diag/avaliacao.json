@@ -1,0 +1,345 @@
+[
+ {
+  "codigo": "X01",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "nenhum",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "generalidade": "Qualquer objeto vazio serviria, pois o fora apenas descreve a foto.",
+  "evidencias_positivas": [],
+  "eliminatorias": ["Redundância", "Ausência de segunda leitura"],
+  "defeitos": ["O fora repete o NA FOTO com outras palavras (xícara vazia = café acabou)", "Não há segunda leitura nem fato novo"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O fora só reafirma o que a foto e o NA FOTO já mostram. Sem transformação, não há ideia a revisar.",
+  "instrucao_de_revisao": "",
+  "nota": 5
+ },
+ {
+  "codigo": "X02",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "marmita aberta sobre o capô (almoço solitário, de quem não tem opção) -> marmita levada por alguém que atravessou a cidade para conferir se ele comeu (cuidado a distância)",
+  "elo_humano": "Mãe, esposa ou parente que cozinha e leva comida por preocupação com quem não se alimenta direito.",
+  "parafrase_concreta": "Uma mulher pegou um ônibus atravessando a cidade só para ver se o homem tinha almoçado.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "Ela", "leitura_A": "mãe ou parente próxima", "leitura_B": "esposa ou companheira (leituras compatíveis com a intenção, a indefinição é produtiva)"}
+  ],
+  "generalidade": "A marmita no capô é específica o bastante, e o fora usa a foto e muda o sentido do gesto de comer sozinho.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["Leve tensão lógica: se ela está ali, onde está na cena, mas a foto sem rosto permite que ela já tenha ido embora"],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego previu solidão ou pobreza e a revelação desloca para cuidado concreto de outra pessoa, com ação verificável. Um leitor atento voltaria à foto para olhar as mãos e a marmita.",
+  "instrucao_de_revisao": "",
+  "nota": 82
+ },
+ {
+  "codigo": "X03",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "duas escovas no mesmo copo (resto de relação que não acabou, leitura de separação) -> sinal concreto de que alguém decidiu ficar e trouxe a própria escova",
+  "elo_humano": "Quando alguém decide ficar numa casa, substitui a escova provisória por uma própria, gesto pequeno de compromisso.",
+  "parafrase_concreta": "Na semana em que ela decidiu ficar, a escova de visita foi trocada por uma definitiva.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "A segunda", "leitura_A": "a segunda escova, a de quem chegou depois", "leitura_B": "a segunda troca de escova (ordinal temporal)"},
+    {"referencia": "ela", "leitura_A": "a parceira dona da segunda escova", "leitura_B": "a parceira que ia embora e ficou (compatíveis)"}
+  ],
+  "generalidade": "Escovas no copo são o objeto exato do compromisso doméstico, a troca de cena mudaria o efeito.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["O elo da troca depende de inferir que a escova anterior era provisória", "A foto não indica qual das duas escovas é a nova"],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A previsão foi o oposto do fora (separação), e a revelação reinterpreta o objeto com um gesto concreto. A ambiguidade de 'a segunda' existe mas não gera leituras incompatíveis.",
+  "instrucao_de_revisao": "",
+  "nota": 72
+ },
+ {
+  "codigo": "X05",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "planta perfeita (cuidado bem-sucedido) -> quarta planta de reposição que esconde as mortes anteriores",
+  "elo_humano": "Quem mata plantas e repõe a morta por outra idêntica para esconder o fracasso dos outros e de si.",
+  "parafrase_concreta": "Uma pessoa já matou três plantas e esconde isso trocando por uma igual a cada vez.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "É a quarta", "leitura_A": "a quarta planta", "leitura_B": "a quarta tentativa de cuidar de alguém ou algo"},
+    {"referencia": "enterradas no mesmo vaso", "leitura_A": "mortas e enterradas como adubo no vaso atual", "leitura_B": "vaso reaproveitado de forma macabra"}
+  ],
+  "generalidade": "O humor de observação funciona, mas a zamioculca (planta difícil de matar) é o que dá graça.",
+  "evidencias_positivas": ["E1", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["O leitor cego antecipou a substituição para esconder a morte, que é o núcleo da revelação", "O detalhe 'enterradas no mesmo vaso' soa macabro e fisicamente confuso"],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ideia tem graça e elo humano, mas a substituição encoberta foi prevista quase por inteiro. A parte nova (o segredo do enterro) não é o ponto forte e confunde.",
+  "instrucao_de_revisao": "Errado: o núcleo (troca da planta morta) já é o que a foto sugere. Mudar: deslocar a revelação para o que ninguém antecipa, como o que a pessoa faz com as mortas ou quem mais sabe do segredo, e esclarecer o destino das anteriores. Não pode mudar: a zamioculca como planta quase impossível de matar e o tom de humor.",
+  "nota": 60
+ },
+ {
+  "codigo": "X07",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "cadeira nova com plástico (recomeço profissional, hesitação) -> primeira compra feita sem checar o preço, sinal de mudança de situação financeira",
+  "elo_humano": "Quem sempre contou cada centavo e, pela primeira vez, comprou sem conferir o preço.",
+  "parafrase_concreta": "Pela primeira vez na vida ele comprou uma cadeira sem olhar quanto custava.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "A primeira", "leitura_A": "a primeira cadeira que ele compra assim", "leitura_B": "a primeira compra de qualquer tipo feita assim"}
+  ],
+  "generalidade": "Um casaco, um colchão ou uma geladeira novos produziriam o mesmo efeito, e a revelação ignora a cadeira como cadeira.",
+  "evidencias_positivas": ["E1", "E2", "E3"],
+  "eliminatorias": [],
+  "defeitos": ["O objeto é intercambiável: nada na revelação depende de ser uma cadeira de escritório", "O elo de classe e dinheiro está implícito demais", "O plástico no encosto não é aproveitado"],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A virada (comprar sem ver o preço) é concreta e não foi prevista, mas o objeto não pesa na revelação. A generalidade e o elo implícito impedem a aprovação.",
+  "instrucao_de_revisao": "Errado: a revelação funcionaria com qualquer objeto novo. Mudar: ligar a revelação ao fato de ser cadeira de trabalho (o que ele vai fazer ali, por que antes se sentava mal) ou ao plástico ainda no encosto. Não pode mudar: o gesto de escolher sem olhar o preço.",
+  "nota": 66
+ },
+ {
+  "codigo": "X10",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "relógio antigo esquecido na pia -> gesto herdado do pai, repetido há trinta anos sem explicação",
+  "elo_humano": "Filhos repetem hábitos físicos dos pais sem saber a origem.",
+  "parafrase_concreta": "Há trinta anos ele tira o relógio para lavar as mãos, como o pai fazia, e nenhum dos dois soube explicar por quê.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "o (relógio)", "leitura_A": "o relógio da foto", "leitura_B": "qualquer relógio que ele use (compatíveis)"},
+    {"referencia": "igual ao pai", "leitura_A": "o pai também tirava o relógio", "leitura_B": "o pai tinha o mesmo relógio"}
+  ],
+  "generalidade": "A cena é específica (pia, relógio), mas o relógio herdado do pai é um tropo conhecido.",
+  "evidencias_positivas": ["E1", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["O leitor cego antecipou o vínculo com o pai e o hábito de tirar o relógio na pia", "O NA FOTO já inclui a torneira, então a ação de lavar as mãos é quase dada", "A frase 'nunca explicou por quê' é o único elemento novo e fica no final"],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O gesto herdado é concreto e humano, mas o essencial foi previsto. A parte nova está enterrada na última oração.",
+  "instrucao_de_revisao": "Errado: a ligação com o pai e o ritual da pia foram antecipados. Mudar: levar a revelação para o que a foto não sugere, como o motivo oculto do pai ou o momento em que ele percebeu a repetição. Não pode mudar: o gesto de tirar o relógio para lavar as mãos e a falta de explicação.",
+  "nota": 60
+ },
+ {
+  "codigo": "X13",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "crachá de visitante (alguém de passagem) -> funcionário há três anos sem cadastro, ainda tratado como visita pela burocracia",
+  "elo_humano": "Trabalhador, provavelmente terceirizado, que a empresa nunca formalizou no sistema de acesso.",
+  "parafrase_concreta": "Há três anos ele trabalha ali e todo dia entra com crachá de visitante porque o cadastro nunca saiu.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "nesta empresa", "leitura_A": "a empresa onde ele é funcionário de fato", "leitura_B": "empresa contratante de quem ele é terceirizado (compatível)"}
+  ],
+  "generalidade": "Humor de observação social, a situação universal não é defeito, e o crachá de visitante é o objeto exato do problema.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["O vínculo de trabalho (terceirizado ou não) fica implícito", "O texto 'visitante' não é legível na foto e depende do NA FOTO"],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego intuiu estranhamento, mas não a causa burocrática nem os três anos. A revelação é um fato concreto que reinterpreta o crachá.",
+  "instrucao_de_revisao": "",
+  "nota": 76
+ },
+ {
+  "codigo": "X16",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "nenhum",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+    {"referencia": "a liberdade", "leitura_A": "liberdade da pessoa na janela", "leitura_B": "conceito abstrato"},
+    {"referencia": "porta", "leitura_A": "a janela da foto", "leitura_B": "metáfora sem relação com o objeto"}
+  ],
+  "generalidade": "Qualquer imagem serviria, a frase ignora a janela.",
+  "evidencias_positivas": [],
+  "eliminatorias": ["Obscuridade", "Conexão arbitrária", "Mensagem incompreensível sem explicação externa"],
+  "defeitos": ["Frase enigmática sem situação humana concreta", "A janela vira porta sem justificativa", "Nenhum fato para o leitor ver"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A revelação é uma abstração aforística que não se deixa parafrasear numa situação concreta. Não tem relação com a janela da foto.",
+  "instrucao_de_revisao": "",
+  "nota": 3
+ },
+ {
+  "codigo": "X17",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "fila de espera por necessidade (leitura social séria) -> fila formada por imitação, metade sem saber por que está ali",
+  "elo_humano": "Pessoas entram em fila porque veem os outros nela e supõem que alguém saiba o motivo.",
+  "parafrase_concreta": "Metade das pessoas na fila entrou porque supôs que a outra metade sabia para que servia.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "Metade / a outra metade", "leitura_A": "metades da fila física", "leitura_B": "metades de todo o grupo humano (compatíveis, o humor sobrevive)"}
+  ],
+  "generalidade": "É humor de observação social, a universalidade da fila é aceitável, e o fora usa a fila de forma central.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["A lógica da regressão (a outra metade também pode não saber) fica sem desenvolver"],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego previu fila por necessidade e o fora inverte com um mecanismo social reconhecível. O leitor volta à foto para olhar as costas das pessoas.",
+  "instrucao_de_revisao": "",
+  "nota": 78
+ },
+ {
+  "codigo": "X18",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "diploma na parede crua (conquista exposta, casa inacabada) -> diploma pendurado primeiro como compromisso contra a própria desistência",
+  "elo_humano": "Quem teme desistir fixa antes o símbolo do que conquistou, antes de ter coragem de terminar o resto.",
+  "parafrase_concreta": "Ele pendurou o diploma antes de pintar a casa porque temia perder a coragem de fazer isso depois.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "coragem", "leitura_A": "coragem de exibir o diploma (insegurança sobre a carreira)", "leitura_B": "coragem de reformar e se instalar na casa (compromisso com ficar)"},
+    {"referencia": "o (diploma)", "leitura_A": "o diploma como objeto pendurado", "leitura_B": "o ato de se afirmar profissionalmente"}
+  ],
+  "generalidade": "Diploma na parede crua é específico, mas o motivo da coragem fica genérico.",
+  "evidencias_positivas": ["E1", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["'Coragem' não tem objeto claro e admite duas leituras incompatíveis", "A palavra 'coragem' nomeia a emoção em vez de mostrar o fato que a causa", "A ordem das ações (pendurar antes de pintar) não é explicada, pois obriga a despendurar depois"],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A inversão de ordem é uma boa ideia visual, mas o motivo da coragem é ambíguo e nomeado em vez de mostrado. A ideia sobrevive à correção.",
+  "instrucao_de_revisao": "Errado: 'a coragem' não diz coragem de quê, e o leitor escolhe entre exibir o diploma ou terminar a casa. Mudar: trocar a palavra por um fato concreto que explique a pressa de pendurar. Não pode mudar: o diploma pendurado antes da pintura.",
+  "nota": 58
+ },
+ {
+  "codigo": "X20",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "mala pronta (partida iminente) -> mala parada há dois anos como garantia de que ele poderia ir",
+  "elo_humano": "Quem mantém a possibilidade de partir pronta sem partir, para se sentir livre.",
+  "parafrase_concreta": "Há dois anos a mala fica pronta ao lado da porta e ele gosta de saber que poderia ir.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "Está assim", "leitura_A": "a mala pronta", "leitura_B": "a situação dele na casa (compatíveis)"}
+  ],
+  "generalidade": "A mala pronta ao lado da porta é um tropo conhecido; outra cena de espera (passaporte, casaco) teria efeito parecido.",
+  "evidencias_positivas": ["E1", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["O leitor cego, com confiança alta, previu a mala pronta e a pessoa que adia a partida", "A frase final é a única parte nova e só desloca de 'não consegue' para 'gosta'", "A foto proíbe poeira, o que contradiz 'há dois anos' sem prova visual"],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ideia tem fato concreto, mas o essencial foi antecipado. O pequeno deslocamento para 'gosta de saber que poderia ir' é pouco para sustentar uma segunda leitura.",
+  "instrucao_de_revisao": "Errado: o fora confirma o que a mala já diz. Mudar: levar a revelação para algo que a foto não sugere, como o conteúdo da mala ou o que ele já fez ao longo dos dois anos para manter a mala pronta. Não pode mudar: a mala fechada ao lado da porta.",
+  "nota": 55
+ },
+ {
+  "codigo": "X21",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "nenhum (a trama dramática é trazida de fora)",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "Uma pessoa que perdeu tudo num incêndio empurra um carrinho de bebê e chora em silêncio.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+    {"referencia": "Quem o empurra", "leitura_A": "a mãe do bebê", "leitura_B": "uma pessoa sem casa que usa o carrinho para carregar pertences"}
+  ],
+  "generalidade": "A tragédia é plantada de fora e vale para qualquer objeto.",
+  "evidencias_positivas": [],
+  "eliminatorias": ["Melodrama", "Conexão arbitrária", "Sentimentalismo"],
+  "defeitos": ["O incêndio é inventado e não tem relação com o carrinho", "'Chora em silêncio, sem ninguém' comanda a emoção em vez de mostrar um fato", "O carrinho na foto não tem ninguém, e o fora introduz alguém que empurra"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A revelação é uma tragédia imposta à cena e comanda a emoção. O elo entre carrinho e incêndio só existe se o leitor o inventar.",
+  "instrucao_de_revisao": "",
+  "nota": 8
+ },
+ {
+  "codigo": "X22",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "nenhum",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "A decisão", "leitura_A": "decisão ligada à bicicleta (era do irmão)", "leitura_B": "decisão sem relação com a bicicleta"}
+  ],
+  "generalidade": "A bicicleta é intercambiável e a revelação ignora a foto.",
+  "evidencias_positivas": [],
+  "eliminatorias": ["Conexão arbitrária", "Mensagem incompreensível sem explicação externa"],
+  "defeitos": ["Nenhum elo estabelecido entre a bicicleta e o irmão", "O fora é um fragmento nominal sem verbo que descreve o que ocorre na cena", "Nada na foto ou no NA FOTO sustenta a brigas entre irmãos"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A bicicleta não se liga à decisão sobre o irmão sem que o leitor invente o vínculo. O fora não diz o que a bicicleta tem a ver com isso.",
+  "instrucao_de_revisao": "",
+  "nota": 10
+ },
+ {
+  "codigo": "X27",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "nenhum",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "generalidade": "Frase de autoajuda que serve para qualquer imagem.",
+  "evidencias_positivas": [],
+  "eliminatorias": ["Sentimentalismo, moralismo, autoajuda, melodrama", "Ausência de segunda leitura"],
+  "defeitos": ["Máxima motivacional sem situação humana concreta", "Comanda o leitor com 'Acredite'", "Nada a ver com o que a foto mostra além do nascer do sol"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "É autoajuda pura, sem fato, gesto ou segunda leitura. A foto apenas ilustra a frase.",
+  "instrucao_de_revisao": "",
+  "nota": 1
+ },
+ {
+  "codigo": "X31",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "cama de solteiro bem arrumada (solidão, vazio) -> marco de recuperação, a primeira semana em que dormir sozinho não dói",
+  "elo_humano": "Depois de uma separação ou perda, dormir sozinho passa de punição a descanso.",
+  "parafrase_concreta": "Depois de uma perda, ele passou a primeira semana dormindo sozinho sem sentir isso como castigo.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "dormir sozinho", "leitura_A": "após separação", "leitura_B": "após viuvez (compatíveis, mas o contexto fica em aberto)"}
+  ],
+  "generalidade": "A cama de solteiro encaixa, mas 'castigo' é abstrato e aplicável a qualquer cena doméstica de solidão.",
+  "evidencias_positivas": ["E1", "E2", "E3"],
+  "eliminatorias": [],
+  "defeitos": ["'Castigo' nomeia o sentimento sem um objeto ou gesto visível", "O livro, o copo d'água e a almofada única da foto não entram na revelação", "O elo humano é plausível mas implícito"],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A virada de sentido é boa e o leitor cego só previu parte, mas a revelação fica no nível da emoção nomeada. Falta ancorá-la em um detalhe que a foto mostra.",
+  "instrucao_de_revisao": "Errado: a virada depende da palavra 'castigo' e não de um fato verificável na foto. Mudar: ancorar a revelação num detalhe visível (livro, copo, almofada única) ou num hábito novo. Não pode mudar: a ideia do primeiro marco de paz ao dormir sozinho.",
+  "nota": 64
+ },
+ {
+  "codigo": "X33",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "nenhum",
+  "elo_humano": "A crítica ao uso do celular à mesa é conhecida, mas não há cena nem fato.",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "generalidade": "Frase moralizante que serve para qualquer foto de celular.",
+  "evidencias_positivas": [],
+  "eliminatorias": ["Sentimentalismo, moralismo, autoajuda, melodrama", "Redundância", "Ausência de segunda leitura"],
+  "defeitos": ["Imperativo moralista", "Repete o que a foto já sugere (celular na mesa de jantar)", "Nenhum fato ou gesto concreto"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "É um sermão previsto por inteiro, sem segunda leitura. Dá uma ordem em vez de mostrar algo.",
+  "instrucao_de_revisao": "",
+  "nota": 2
+ },
+ {
+  "codigo": "X35",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "cadeira de balanço vazia -> cadeira que a família evita como se quem a ocupava dormisse nela",
+  "elo_humano": "Famílias preservam o lugar de quem morreu e evitam mexer nele.",
+  "parafrase_concreta": "Há anos ninguém senta na cadeira e todos passam longe dela para não perturbar quem a ocupava.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "Ninguém (1)", "leitura_A": "nenhuma pessoa viva senta nela", "leitura_B": "nenhum dos membros da casa (compatíveis)"},
+    {"referencia": "ninguém (2)", "leitura_A": "a pessoa ausente que 'dorme' na cadeira", "leitura_B": "qualquer pessoa na casa que possa acordar"}
+  ],
+  "generalidade": "A cadeira vazia de quem morreu é um tropo muito conhecido, e outra cena de luto produziria o mesmo efeito.",
+  "evidencias_positivas": ["E1", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["O leitor cego antecipou a pessoa que morreu e a cadeira ocupada pela ausência", "A repetição de 'ninguém' com referentes diferentes confunde", "A foto sem pessoas já entrega a ideia de ausência"],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O detalhe de contornar a cadeira é concreto e bom, mas a ideia central do luto foi prevista. A repetição de 'ninguém' gera leitura dupla.",
+  "instrucao_de_revisao": "Errado: o essencial (alguém morreu, a cadeira é dessa pessoa) foi antecipado e há dois 'ninguém' com sentidos distintos. Mudar: deslocar a revelação para um fato que a foto não sugere, e separar os dois usos de 'ninguém'. Não pode mudar: o gesto de contornar a cadeira.",
+  "nota": 56
+ },
+ {
+  "codigo": "X36",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "mesa de Natal farta e perfeita vista de cima -> ausência do fotógrafo da família, que nunca aparece nas fotos",
+  "elo_humano": "Em toda família há alguém que fotografa tudo e por isso nunca aparece em nenhuma imagem.",
+  "parafrase_concreta": "Quem tira as fotos de Natal da família é a única pessoa que nunca aparece nelas.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "A mão que segura o celular", "leitura_A": "a pessoa que fotografa", "leitura_B": "a mão como parte do corpo (compatíveis)"},
+    {"referencia": "a única", "leitura_A": "a única pessoa que nunca sai", "leitura_B": "a única mão ausente das fotos (compatíveis)"}
+  ],
+  "generalidade": "A foto sem mão nem sombra faz parte da ideia, e o fora depende dela.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+  "eliminatorias": [],
+  "defeitos": ["O fora fala em fotos de família no plural enquanto a foto mostra uma só mesa"],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego previu família dividida, mas o fora desloca para o fotógrafo ausente, um fato concreto que a própria foto sustenta. Um leitor atento voltaria à foto para procurar a sombra.",
+  "instrucao_de_revisao": "",
+  "nota": 85
+ }
+]

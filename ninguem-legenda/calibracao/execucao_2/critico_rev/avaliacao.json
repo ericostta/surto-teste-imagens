@@ -1,0 +1,242 @@
+[
+  {
+    "codigo": "Y01",
+    "grau_previsao": "previu quase tudo",
+    "elemento_que_muda": "mala fechada ao lado da porta (viagem iminente) -> instrumento de uma partida adiada por dois anos, mantida pronta como substituto de ir",
+    "elo_humano": "Quem não decide partir mantém a prontidão como ritual, trocando as roupas por estação para sentir que a saída continua possível.",
+    "parafrase_concreta": "Um homem renova a bagagem a cada estação há dois anos para estar sempre pronto a ir embora e nunca foi.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      {
+        "referencia": "\"ele\" (sem antecedente no NA FOTO nem na foto, que não tem pessoa)",
+        "leitura_A": "o morador do apartamento",
+        "leitura_B": "outra pessoa que mantém a mala, por exemplo alguém que cuida da casa de outro"
+      }
+    ],
+    "generalidade": "A mala pronta e não usada funciona com qualquer porta ou corredor, mas o ritual das estações é um detalhe específico e dá corpo à cena.",
+    "evidencias_positivas": ["E1", "E3", "E4"],
+    "eliminatorias": [],
+    "defeitos": [
+      "O leitor cego antecipou o essencial: mala pronta, pessoa que não vai embora, partida adiada.",
+      "\"Nunca saiu\" fecha a frase explicando o que a foto já sugere, em vez de deixar o ritual falar.",
+      "O detalhe novo (troca de roupa por estação) é a única informação que a previsão não trouxe, e está enterrado no meio da frase."
+    ],
+    "veredicto": "REVISAR",
+    "justificativa_objetiva": "A ideia tem imagem concreta e elo humano claro, mas a revelação central foi antecipada pelo leitor cego. Falta deslocar o peso para algo que a foto não sugere.",
+    "instrucao_de_revisao": "Errado: a revelação confirma a leitura óbvia (quer ir e não vai) e ainda a explica com \"Nunca saiu\". Mudar: tirar a confirmação explícita e deslocar a revelação para o ritual ou para quem convive com ele (um detalhe de rotina, de quem sabe da mala, do que há dentro dela) que a foto não permita adivinhar. NÃO pode mudar: a mala pronta ao lado da porta, a troca das roupas por estação e o tempo longo de espera.",
+    "nota": 58
+  },
+  {
+    "codigo": "Y02",
+    "grau_previsao": "previu parte",
+    "elemento_que_muda": "cadeira de balanço voltada para a janela, lida como lugar de alguém ausente (luto) -> trono de um gato que ninguém ousa desalojar, mantendo o ar de lugar respeitado",
+    "elo_humano": "Quem vive com um gato conhece o lugar que ele tomou e que a casa passa a respeitar sem combinar, como quem contorna um dono.",
+    "parafrase_concreta": "Um gato dorme há anos na cadeira de balanço e a família desvia dela em vez de pedir que ele saia.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      {
+        "referencia": "\"ali\"",
+        "leitura_A": "na cadeira de balanço (leitura pretendida, clara pela foto)",
+        "leitura_B": "na sala ou perto da janela, sem mudar o sentido"
+      },
+      {
+        "referencia": "\"ele\"",
+        "leitura_A": "o gato (antecedente claro no fora)",
+        "leitura_B": "nenhuma outra plausível"
+      }
+    ],
+    "generalidade": "Gato que tomou um móvel é situação universal de humor de observação, o que é aceitável pela calibração, e a cadeira de balanço com manta e janela ainda sugere a leitura de lugar de alguém, que a frase usa.",
+    "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+    "eliminatorias": [],
+    "defeitos": [
+      "A frase \"tem coragem\" nomeia a emoção, embora de modo irônico e ancorado no comportamento de contornar a cadeira.",
+      "O gato sobre móvel é ideia conhecida, o que limita a surpresa; a graça depende da leitura de ausência que a foto planta."
+    ],
+    "veredicto": "APROVADA",
+    "justificativa_objetiva": "A foto convida à leitura de luto e a revelação a desloca para humor doméstico concreto, com a deferência da casa como segunda camada. O leitor cego acertou só a ideia de lugar ocupado, não o ocupante.",
+    "instrucao_de_revisao": "",
+    "nota": 66
+  },
+  {
+    "codigo": "Y03",
+    "grau_previsao": "previu quase tudo",
+    "elemento_que_muda": "cama arrumada com capricho (rotina de quem cuida) -> cama montada sem ninguém para opinar, escolhas feitas pela primeira vez sozinho",
+    "elo_humano": "Antes havia alguém que corrigia o jeito dele de arrumar o quarto, e agora não há, mas a frase não diz quem era nem por que saiu.",
+    "parafrase_concreta": "Um homem que acabou de passar a morar sozinho montou a cama como quis e ninguém mexeu em nada.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      {
+        "referencia": "\"ele\" (sem antecedente na foto, que não tem pessoa)",
+        "leitura_A": "o morador da cama",
+        "leitura_B": "alguém que preparou o quarto para outra pessoa"
+      },
+      {
+        "referencia": "\"Na primeira semana\" (de quê?)",
+        "leitura_A": "primeira semana morando sozinho",
+        "leitura_B": "primeira semana depois de uma perda ou separação"
+      },
+      {
+        "referencia": "\"Ninguém\"",
+        "leitura_A": "ninguém que morasse com ele antes, como parceiro ou família",
+        "leitura_B": "ninguém aparece para visitar ou avaliar"
+      },
+      {
+        "referencia": "tom de \"Ninguém corrigiu\"",
+        "leitura_A": "liberdade de quem escolhe sozinho",
+        "leitura_B": "solidão de quem não tem mais quem opine"
+      }
+    ],
+    "generalidade": "O efeito se repetiria com quase qualquer quarto arrumado de quem mora só, e o fora apenas devolve os objetos que a foto já mostra.",
+    "evidencias_positivas": ["E1"],
+    "eliminatorias": [],
+    "defeitos": [
+      "O leitor cego antecipou o essencial: mora só e ninguém mais usa a cama.",
+      "O fora reenumera almofada, copo e livro, que a foto já exibe, e acrescenta pouco além de \"ninguém corrigiu\".",
+      "A pessoa que corrigia nunca aparece, então o elo humano fica implícito demais e o contraste liberdade ou solidão não se resolve.",
+      "\"Na primeira semana\" não tem âncora, o leitor não sabe a primeira semana de quê."
+    ],
+    "veredicto": "REVISAR",
+    "justificativa_objetiva": "Há uma ideia com potencial (a ausência de quem corrigia), mas ela está só insinuada e a revelação repete a foto e o que o leitor cego já previu. Precisa nomear, por um gesto concreto, a presença que deixou de existir.",
+    "instrucao_de_revisao": "Errado: o fora reaproveita os objetos visíveis e deixa o elo (quem corrigia, desde quando) oculto, além de usar \"Na primeira semana\" sem referência. Mudar: dar ao leitor um detalhe que a foto não mostre, como o gesto específico da pessoa que antes mexia na cama ou uma marca da correção que sumiu, e ancorar o tempo. NÃO pode mudar: a cama de solteiro bem arrumada, a ideia de que as escolhas agora são só dele e ninguém interfere.",
+    "nota": 40
+  },
+  {
+    "codigo": "Y04",
+    "grau_previsao": "previu parte",
+    "elemento_que_muda": "relógio antigo deixado na pia (objeto de memória de um morto) -> gesto de tirar o relógio para lavar as mãos, herdado de pai para filho e só percebido quando a criança o imita com um relógio de brinquedo",
+    "elo_humano": "Um homem vê o filho imitar, na pia, um gesto que ele e o pai dele sempre fizeram sem perceber que era herança.",
+    "parafrase_concreta": "Um homem só percebe que tirar o relógio na pia vem do pai dele quando o filho repete o gesto com um relógio de brinquedo.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      {
+        "referencia": "\"Ele\"",
+        "leitura_A": "o dono do relógio, que reconhece o gesto do próprio pai no filho",
+        "leitura_B": "um observador de fora (esposa, outro adulto) que nota o gesto"
+      },
+      {
+        "referencia": "\"o gesto do pai\"",
+        "leitura_A": "o gesto do pai de \"ele\" (avô da criança), em cadeia de gerações",
+        "leitura_B": "o gesto do próprio \"ele\" visto como pai do menino, o que apaga a herança"
+      },
+      {
+        "referencia": "\"o filho\"",
+        "leitura_A": "filho de \"ele\"",
+        "leitura_B": "filho do \"pai\" citado antes, ou seja, ele mesmo"
+      },
+      {
+        "referencia": "\"Ninguém sabe por quê\"",
+        "leitura_A": "por que o gesto passou de geração em geração",
+        "leitura_B": "por que a criança imitou, ou por que o relógio é guardado ali"
+      }
+    ],
+    "generalidade": "A herança de gestos é situação universal, mas a pia, o relógio e o brinquedo são específicos, então a cena não é intercambiável.",
+    "evidencias_positivas": ["E1"],
+    "eliminatorias": [],
+    "defeitos": [
+      "Três pronomes e o possessivo \"do pai\" sem antecedente fixo geram leituras incompatíveis sobre quem é pai de quem.",
+      "\"Ninguém sabe por quê\" é vago e enfraquece o fato concreto, deixando a conclusão em aberto sem dar nada para ver.",
+      "O gesto específico (tirar o relógio para lavar as mãos) não aparece no texto, só na foto, e o leitor tem que reconstruí-lo."
+    ],
+    "veredicto": "REVISAR",
+    "justificativa_objetiva": "A ideia de gesto herdado que o filho revela tem potencial e é concreta, mas a cadeia de referências é ambígua e o fecho é enigmático. A correção preserva a ideia.",
+    "instrucao_de_revisao": "Errado: as referências (ele, pai, filho) não se fixam e \"Ninguém sabe por quê\" não informa nada. Mudar: deixar claro de quem é cada gesto (por exemplo, nomear o pai do homem como o avô da criança) e dizer, com um detalhe concreto, qual gesto é herdado; trocar o fecho por um fato, não por mistério. NÃO pode mudar: o relógio de brinquedo tirado na pia pela criança e a descoberta tardia de que o gesto vem de antes.",
+    "nota": 52
+  },
+  {
+    "codigo": "Y05",
+    "grau_previsao": "previu parte",
+    "elemento_que_muda": "planta perfeita no parapeito (cuidado bem-sucedido) -> quarta substituta, com a dona escondendo as mortes e a vizinha que a rega elogiando sempre a mesma sem perceber",
+    "elo_humano": "Quem mata plantas e tem vergonha troca por outra igual, e a vizinha que cuida dela não nota a troca.",
+    "parafrase_concreta": "Uma mulher já matou três plantas e comprou outras iguais sem contar, e a vizinha que rega elogia a mesma planta sem saber que mudou quatro vezes.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      {
+        "referencia": "\"É a quarta\" (quarta o quê)",
+        "leitura_A": "a quarta planta (clara pela foto e pelo \"as três primeiras\")",
+        "leitura_B": "nenhuma outra plausível"
+      },
+      {
+        "referencia": "\"a mesma\"",
+        "leitura_A": "a planta que a vizinha acha ser sempre a mesma (leitura pretendida)",
+        "leitura_B": "a vizinha elogia sempre uma planta específica entre várias, sem a ironia da troca"
+      },
+      {
+        "referencia": "\"em segredo\" (de quem)",
+        "leitura_A": "da vizinha (leitura pretendida)",
+        "leitura_B": "de todos, incluindo a família"
+      }
+    ],
+    "generalidade": "Humor de observação sobre vergonha doméstica; a zamioculca (planta famosa por não morrer) e a vizinha que rega dão especificidade, e outra cena não teria a mesma ironia.",
+    "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+    "eliminatorias": [],
+    "defeitos": [
+      "O leitor cego já intuiu a troca por planta idêntica, então a surpresa vem da vizinha e do número, não do mecanismo.",
+      "A pista de que a vizinha, ao regar, pode ser quem as mata fica só implícita, embora funcione como segunda camada."
+    ],
+    "veredicto": "APROVADA",
+    "justificativa_objetiva": "A revelação reorganiza a foto: a planta perfeita passa a ser a quarta de uma série, com a vizinha como testemunha cega. O leitor cego acertou a troca, mas não o papel da vizinha nem o número.",
+    "instrucao_de_revisao": "",
+    "nota": 76
+  },
+  {
+    "codigo": "Y06",
+    "grau_previsao": "previu parte",
+    "elemento_que_muda": "cadeira de escritório nova, plástico intacto (compra banal, talvez recomeço) -> marco de quem trabalhou anos em improviso e agora compra sem contar centavos, ainda sem ousar tirar o plástico",
+    "elo_humano": "Quem trabalhou em cadeira de cozinha com travesseiro vive a cadeira de escritório como a primeira coisa comprada sem olhar o preço.",
+    "parafrase_concreta": "Um homem que trabalhou em casa numa cadeira de cozinha com travesseiro comprou pela primeira vez uma cadeira sem olhar o preço e ainda não tirou o plástico.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      {
+        "referencia": "\"A primeira\" (primeira o quê)",
+        "leitura_A": "a primeira cadeira escolhida sem olhar o preço (leitura pretendida)",
+        "leitura_B": "a primeira compra de qualquer tipo sem olhar o preço, sem relação com a cadeira"
+      },
+      {
+        "referencia": "\"sem olhar o preço\"",
+        "leitura_A": "prosperidade, ele agora pode",
+        "leitura_B": "gasto impulsivo ou imprudente"
+      }
+    ],
+    "generalidade": "Outra compra importante (colchão, notebook) poderia produzir efeito parecido, mas a cadeira de cozinha com travesseiro amarra o improviso ao objeto novo.",
+    "evidencias_positivas": ["E1", "E2", "E4"],
+    "eliminatorias": [],
+    "defeitos": [
+      "A leitura de recomeço do leitor cego é próxima do sentido de conquista, então a surpresa é menor.",
+      "\"A primeira\" não traz o substantivo e \"sem olhar o preço\" admite leitura de imprudência, sem que o texto a feche."
+    ],
+    "veredicto": "APROVADA",
+    "justificativa_objetiva": "A cadeira de cozinha com travesseiro dá ao leitor algo concreto para ver e muda a leitura da cadeira nova de vaga para marcada por anos de improviso. O plástico ainda no encosto mantém a foto relevante depois da leitura.",
+    "instrucao_de_revisao": "",
+    "nota": 62
+  },
+  {
+    "codigo": "Y07",
+    "grau_previsao": "não previu",
+    "elemento_que_muda": "diploma na parede crua entre escada e lata de tinta (lido como conquista inútil ou vida inacabada) -> prioridade deliberada: o diploma vai à parede antes da pintura porque a mãe precisa vê-lo primeiro",
+    "elo_humano": "Um filho quer que a mãe veja, antes de tudo, a prova de que concluiu o curso, mesmo com a casa ainda por pintar.",
+    "parafrase_concreta": "Um homem pendurou o diploma na parede ainda sem pintura porque a mãe chega no sábado e a primeira coisa que ela deve ver é que ele se formou.",
+    "nomeia_emocao_sem_fato": false,
+    "ambiguidades": [
+      {
+        "referencia": "\"o\" em \"Ele o pendurou\"",
+        "leitura_A": "o diploma (antecedente claro no NA FOTO)",
+        "leitura_B": "nenhuma outra plausível"
+      },
+      {
+        "referencia": "\"primeiro\"",
+        "leitura_A": "antes de ver a casa, a mãe vê o diploma",
+        "leitura_B": "antes do sábado, ele pintaria a casa, o que não muda o sentido"
+      }
+    ],
+    "generalidade": "A cena é específica: a parede crua com escada e lata de tinta são parte da revelação, e outra cena não teria o mesmo contraste.",
+    "evidencias_positivas": ["E1", "E2", "E3", "E4"],
+    "eliminatorias": [],
+    "defeitos": [
+      "\"antes de pintar a casa\" repete em parte o que o NA FOTO e a foto já dizem, embora o resto do fora seja informação nova."
+    ],
+    "veredicto": "APROVADA",
+    "justificativa_objetiva": "A revelação inverte a leitura da foto: a parede inacabada deixa de indicar abandono e passa a mostrar escolha, e o leitor cego foi na direção oposta. O elo de um filho que quer que a mãe veja o diploma é imediato e concreto.",
+    "instrucao_de_revisao": "",
+    "nota": 86
+  }
+]

@@ -1,0 +1,9 @@
+== /tmp/claude-0/-home-claude/6475ae3b-fefe-5105-8fc9-a74e780d2bc8/scratchpad/critico_diag/avaliacao.json
+  18 avaliações
+== /tmp/claude-0/-home-claude/6475ae3b-fefe-5105-8fc9-a74e780d2bc8/scratchpad/critico_rev/avaliacao.json
+  Y06 (APROVADA): APROVADA sem evidências obrigatórias: ['E3']
+  7 avaliações
+== calibracao/conjunto2/avaliacao_critico_v2_completa.json
+  18 avaliações
+
+1 de 43 com inconsistência

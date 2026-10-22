@@ -1,0 +1,51 @@
+[
+ {
+  "id": "LAB-001-r1",
+  "veredicto_critico_v2": "APROVADA",
+  "aprovacao_valida_pelas_regras": false,
+  "grau_previsao": "previu parte",
+  "nota": 62
+ },
+ {
+  "id": "LAB-004-r1",
+  "veredicto_critico_v2": "APROVADA",
+  "aprovacao_valida_pelas_regras": true,
+  "grau_previsao": "previu parte",
+  "nota": 76
+ },
+ {
+  "id": "LAB-005-r1",
+  "veredicto_critico_v2": "REVISAR",
+  "aprovacao_valida_pelas_regras": null,
+  "grau_previsao": "previu quase tudo",
+  "nota": 40
+ },
+ {
+  "id": "LAB-006-r1",
+  "veredicto_critico_v2": "REVISAR",
+  "aprovacao_valida_pelas_regras": null,
+  "grau_previsao": "previu quase tudo",
+  "nota": 58
+ },
+ {
+  "id": "LAB-009-r1",
+  "veredicto_critico_v2": "REVISAR",
+  "aprovacao_valida_pelas_regras": null,
+  "grau_previsao": "previu parte",
+  "nota": 52
+ },
+ {
+  "id": "LAB-011-r1",
+  "veredicto_critico_v2": "APROVADA",
+  "aprovacao_valida_pelas_regras": true,
+  "grau_previsao": "não previu",
+  "nota": 86
+ },
+ {
+  "id": "LAB-012-r1",
+  "veredicto_critico_v2": "APROVADA",
+  "aprovacao_valida_pelas_regras": true,
+  "grau_previsao": "previu parte",
+  "nota": 66
+ }
+]
