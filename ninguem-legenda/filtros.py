@@ -93,8 +93,11 @@ def carregar_historico() -> list:
 
 def avaliar(c: dict, historico: list, lote: list) -> dict:
     falhas, alertas = [], []
-    # uma candidata já registrada não se compara com o próprio registro
-    historico = [h for h in historico if h.get("id") != c.get("id")]
+    # uma candidata não se compara com o próprio registro nem com a versão que está revisando
+    # (ids de revisão têm sufixo -r1, -r2...; a base é o id sem o sufixo)
+    base_id = re.sub(r"-r\d+$", "", c.get("id", ""))
+    historico = [h for h in historico if h.get("id") not in (c.get("id"), base_id)]
+    lote = [o for o in lote if re.sub(r"-r\d+$", "", o.get("id", "")) != base_id]
     lim = CONFIG["limites_texto"]
     hist_cfg = CONFIG["historico"]
 

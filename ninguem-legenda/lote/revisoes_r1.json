@@ -1,0 +1,16 @@
+[
+ {"id":"LAB-005-r1","base":"LAB-005","na_foto":"Uma cama de solteiro bem arrumada, lençol esticado.",
+  "fora":"Na primeira semana, ele escolheu sozinho cada detalhe: a única almofada, o copo ao alcance, o livro fechado. Ninguém corrigiu."},
+ {"id":"LAB-011-r1","base":"LAB-011","na_foto":"Um diploma emoldurado numa parede ainda sem pintura.",
+  "fora":"Ele o pendurou antes de pintar a casa. A mãe chega sábado e precisa ver, primeiro, que ele concluiu o curso."},
+ {"id":"LAB-009-r1","base":"LAB-009","na_foto":"Um relógio de pulso antigo ao lado da torneira.",
+  "fora":"Ele só notou o gesto do pai quando o filho tirou o relógio de brinquedo na pia. Ninguém sabe por quê."},
+ {"id":"LAB-001-r1","base":"LAB-001","na_foto":"Uma cadeira de escritório nova, ainda com o plástico.",
+  "fora":"A primeira que ele escolheu sem olhar o preço. Antes, trabalhava em casa numa cadeira de cozinha, com um travesseiro."},
+ {"id":"LAB-004-r1","base":"LAB-004","na_foto":"Uma planta perfeita no parapeito da janela.",
+  "fora":"É a quarta. A dona trocou as três primeiras em segredo, e a vizinha, que a rega, elogia sempre a mesma."},
+ {"id":"LAB-006-r1","base":"LAB-006","na_foto":"Uma mala fechada, pronta ao lado da porta.",
+  "fora":"Há dois anos, ele troca as roupas de dentro a cada estação, para a mala estar sempre pronta. Nunca saiu."},
+ {"id":"LAB-012-r1","base":"LAB-012","na_foto":"Uma cadeira de balanço virada para a janela.",
+  "fora":"O gato dorme ali há anos. Todos contornam a cadeira, e ninguém tem coragem de pedir que ele saia."}
+]

@@ -1,0 +1,214 @@
+{
+ "travado_em": "2026-10-22 antes dos rotulos de Eri",
+ "versao_critico": "v2",
+ "itens": {
+  "NV-01": {
+   "intencao_criador": "BOA",
+   "veredicto_critico_v2": "REVISAR",
+   "nota": 55,
+   "grau_previsao": "previu parte",
+   "previsao_cega": "A mesa está vazia porque a pessoa foi demitida ou limpou tudo antes de sair, ou porque ninguém ali tem vida própria dentro do trabalho.",
+   "eliminatorias": [],
+   "justificativa": "A ideia de arrumar a mesa como ensaio de saída tem potencial real, mas o elo entre o gesto e o medo fica implícito demais. Aprovar seria apostar que o leitor completa sozinho o passo que falta.",
+   "instrucao_de_revisao": "Errado: o 'porque' não torna evidente por que arrumar responde ao medo de perder a mesa, e 'tudo' é ambíguo. Mudar: dar ao gesto uma razão visível (tirar o que é dele para não ter de ser levado, deixar a mesa pronta para o próximo) e separar do que a foto já mostra. NÃO pode mudar: a rotina de sexta e a incerteza da segunda."
+  },
+  "NV-02": {
+   "intencao_criador": "BOA",
+   "veredicto_critico_v2": "REVISAR",
+   "nota": 52,
+   "grau_previsao": "previu quase tudo",
+   "previsao_cega": "A pessoa lê o cardápio pelo preço e não pelo prato, escolhendo o mais barato enquanto finge que não está com fome.",
+   "eliminatorias": [],
+   "justificativa": "A ideia é concreta e boa, mas o leitor cego previu quase tudo porque a foto já mostra o gesto. A correção é deslocar a revelação, não trocar a ideia.",
+   "instrucao_de_revisao": "Errado: a foto (dedo na coluna da direita) e o fora dizem a mesma coisa. Mudar: tirar da foto o que denuncia o gesto ou deslocar o fora para um desdobramento que a foto não sugere (o que ela pede, o que diz ao garçom ou à pessoa que a acompanha). NÃO pode mudar: a leitura pelo preço fingida como gosto. Se a foto não puder mudar e o fora continuar igual, a candidata cai para REPROVADA por redundância."
+  },
+  "NV-03": {
+   "intencao_criador": "BOA",
+   "veredicto_critico_v2": "APROVADA",
+   "nota": 76,
+   "grau_previsao": "previu parte",
+   "previsao_cega": "A pessoa compra livros que nunca termina de ler, porque à noite está cansada demais ou sem cabeça para ler.",
+   "eliminatorias": [],
+   "justificativa": "O leitor cego acertou que ela não lê, mas não chegou à ideia de presentes para outra versão de si, que reorganiza a pilha. O leitor atento volta à foto para olhar os marcadores e a hora da lâmpada.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-04": {
+   "intencao_criador": "BOA",
+   "veredicto_critico_v2": "APROVADA",
+   "nota": 90,
+   "grau_previsao": "não previu",
+   "previsao_cega": "O pai está desempregado e finge que vai trabalhar, ou a menina nota a preocupação dele, que ele tenta esconder.",
+   "eliminatorias": [],
+   "justificativa": "O leitor cego previu desemprego e preocupação, nada da revelação, e a mão dada passa de proteção do adulto a guia da criança. O elo é imediato e o fato é concreto, sem emoção nomeada.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-05": {
+   "intencao_criador": "BOA",
+   "veredicto_critico_v2": "APROVADA",
+   "nota": 78,
+   "grau_previsao": "previu parte",
+   "previsao_cega": "Ele acabou de ser demitido ou receber uma notícia ruim, e está calmo por fora enquanto tudo desmorona por dentro.",
+   "eliminatorias": [],
+   "justificativa": "O leitor cego previu fim de emprego mas leu a calma como fachada, e o fora desloca para alívio e segredo. O leitor atento volta à foto para ver a calma no meio da pressa com outro olhar.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-06": {
+   "intencao_criador": "BOA",
+   "veredicto_critico_v2": "REVISAR",
+   "nota": 48,
+   "grau_previsao": "não previu",
+   "previsao_cega": "Quem está na fila sabe que o dinheiro não vai dar e vai precisar devolver itens do carrinho na hora de pagar.",
+   "eliminatorias": [],
+   "justificativa": "O leitor cego não previu, mas o fora está mal construído e a piada pouco desloca a leitura da foto. Aprovar exigiria apostar que o leitor volta à foto, e a aposta é fraca.",
+   "instrucao_de_revisao": "Errado: frase final ambígua e piada de uma sacada já batida. Mudar: reescrever a frase para que a referência fique inequívoca e acrescentar um detalhe específico dele (o que há no carrinho, o que ele esperava) que dê ao NA FOTO um papel. NÃO pode mudar: o gesto de trocar de fila e a fila abandonada que anda."
+  },
+  "NV-07": {
+   "intencao_criador": "REVISAR",
+   "veredicto_critico_v2": "REVISAR",
+   "nota": 60,
+   "grau_previsao": "previu parte",
+   "previsao_cega": "A pessoa não dormiu a noite inteira e já está acordada há horas esperando o alarme tocar.",
+   "eliminatorias": [],
+   "justificativa": "A ideia do gesto de antecipar e desarmar o alarme é boa e o leitor cego só acertou metade, mas a referência do pronome final quebra o sentido. A correção é de redação, não de ideia.",
+   "instrucao_de_revisao": "Errado: o pronome 'o' em 'antes que o acorde' não tem antecedente e abre duas leituras (a dona ou um parceiro). Mudar: tornar explícito quem seria acordado e qual é o motivo concreto do gesto. NÃO pode mudar: o par programar às seis / acordar às cinco e a ação de desligar antes de tocar."
+  },
+  "NV-08": {
+   "intencao_criador": "REVISAR",
+   "veredicto_critico_v2": "APROVADA",
+   "nota": 82,
+   "grau_previsao": "não previu",
+   "previsao_cega": "A criança não quer ir à escola por causa de algo que sofre lá, e a mochila cheia esconde o medo que ela não conseguiu contar.",
+   "eliminatorias": [],
+   "justificativa": "O leitor cego previu medo e sofrimento escolar, bem longe do gesto real. A mochila fechada passa a esconder uma gentileza com disfarce, com fato concreto e emoção implícita.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-09": {
+   "intencao_criador": "REVISAR",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 15,
+   "grau_previsao": "previu quase tudo",
+   "previsao_cega": "O padeiro trabalha de madrugada para que os outros comam, e ninguém jamais o vê nem agradece.",
+   "eliminatorias": [
+    "Ausência de segunda leitura",
+    "Redundância (a luz de madrugada e as mãos enfarinhadas já dizem isso)",
+    "Moralismo (gratidão pelo trabalho invisível)"
+   ],
+   "justificativa": "A foto já diz que a padeira trabalha de madrugada e o texto só acrescenta homenagem. Não há transformação, só moral.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-10": {
+   "intencao_criador": "REVISAR",
+   "veredicto_critico_v2": "REVISAR",
+   "nota": 38,
+   "grau_previsao": "previu parte",
+   "previsao_cega": "Duas pessoas que deveriam estar à mesa não vieram, e quem arrumou fingiu até o fim que elas ainda chegariam.",
+   "eliminatorias": [],
+   "justificativa": "Há ideia possível (um ritual mantido para quem não sabe ou já não vem), mas o texto não diz quem é quem nem o que não se conta. Sem esse fato concreto, a mensagem fica incompreensível, e a correção ainda salva a ideia.",
+   "instrucao_de_revisao": "Errado: os três demonstrativos e o verbo 'contar' ficam sem referente, e 'coragem' nomeia emoção sem fato. Mudar: nomear quem põe a mesa, quem são os 'eles' e o fato que ninguém conta, em termos concretos, e usar a diferença entre cadeiras afastadas e encostadas. NÃO pode mudar: a recorrência semanal e o segredo coletivo em torno da mesa."
+  },
+  "NV-11": {
+   "intencao_criador": "REVISAR",
+   "veredicto_critico_v2": "APROVADA",
+   "nota": 68,
+   "grau_previsao": "previu parte",
+   "previsao_cega": "Cada pessoa ali carrega uma notícia ruim ou um medo diferente, e todas fingem olhar o celular para não se encarar.",
+   "eliminatorias": [],
+   "justificativa": "O leitor cego atribuiu a cabeça baixa a medos individuais, e o fora troca isso por um gesto coletivo e banal com um motivo novo. É observação reconhecível e concreta, sem emoção nomeada.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-12": {
+   "intencao_criador": "REVISAR",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 25,
+   "grau_previsao": "não previu",
+   "previsao_cega": "O balde guarda moedas juntadas ao longo de anos para um sonho ou uma emergência que nunca chegou.",
+   "eliminatorias": [
+    "Conexão arbitrária",
+    "Obscuridade parcial (metáfora sem situação)"
+   ],
+   "justificativa": "O elo entre balde de moedas e dívida do irmão precisa ser inventado pelo leitor. A metáfora decora a frase sem sustentar uma situação concreta.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-13": {
+   "intencao_criador": "RUIM",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 18,
+   "grau_previsao": "não previu",
+   "previsao_cega": "Quem fotografou sentiu vertigem ou pensou em cair, e a escada mostra a sensação de estar preso num caminho que gira sem sair do lugar.",
+   "eliminatorias": [
+    "Obscuridade (só sobra uma abstração)",
+    "Autoajuda disfarçada de aforismo"
+   ],
+   "justificativa": "A paráfrase só rende uma abstração sobre progresso aparente, sem fato nem pessoa. Frase enigmática não é frase profunda.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-14": {
+   "intencao_criador": "RUIM",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 8,
+   "grau_previsao": "não previu",
+   "previsao_cega": "A pessoa foi à praia sozinha depois de uma perda e fechou o guarda-sol porque não havia mais ninguém para dividir a sombra.",
+   "eliminatorias": [
+    "Conexão arbitrária",
+    "Mensagem incompreensível sem explicação externa"
+   ],
+   "justificativa": "Para ligar o guarda-sol à irmã seria preciso inventar o elo. O fora é um fato isolado, sem conexão com a cena.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-15": {
+   "intencao_criador": "RUIM",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 10,
+   "grau_previsao": "previu parte",
+   "previsao_cega": "A avó está se despedindo e sabe que será uma das últimas vezes em que segura a mão do neto.",
+   "eliminatorias": [
+    "Sentimentalismo (carinho nomeado e comandado)",
+    "Redundância",
+    "Ausência de segunda leitura"
+   ],
+   "justificativa": "O fora nomeia o carinho e declara que não pode ser dito, sem dar nada para ver. É sentimentalismo sem segunda leitura.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-16": {
+   "intencao_criador": "RUIM",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 22,
+   "grau_previsao": "previu quase tudo",
+   "previsao_cega": "As cartas são de um amor ou de um parente que já se foi, e ninguém nunca as releu nem teve coragem de jogá-las fora.",
+   "eliminatorias": [
+    "Sentimentalismo (saudade nomeada sem fato)",
+    "Redundância (a previsão cega reproduziu o essencial)"
+   ],
+   "justificativa": "O leitor cego antecipou o essencial e o fora apenas nomeia a emoção, sem fato concreto. Não há segunda leitura, só confirmação da primeira.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-17": {
+   "intencao_criador": "RUIM",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 14,
+   "grau_previsao": "previu quase tudo",
+   "previsao_cega": "O casaco é de alguém que já não mora ali, e continua pendurado porque ainda cheira a essa pessoa.",
+   "eliminatorias": [
+    "Ausência de segunda leitura",
+    "Redundância",
+    "Repetição evidente de estrutura (cadeira de balanço virada para a janela, objeto de ausente)"
+   ],
+   "justificativa": "O fora repete o que a foto do casaco já diz e usa fórmula pronta de ausência. A cadeira de balanço anterior já ocupava esse terreno com mais detalhe.",
+   "instrucao_de_revisao": ""
+  },
+  "NV-18": {
+   "intencao_criador": "RUIM",
+   "veredicto_critico_v2": "REPROVADA",
+   "nota": 5,
+   "grau_previsao": "não previu",
+   "previsao_cega": "A trilha termina num lugar que só uma pessoa conhece, ou alguém se perdeu nela de propósito para fugir de tudo.",
+   "eliminatorias": [
+    "Autoajuda e moralismo",
+    "Ausência de segunda leitura",
+    "Mensagem sem situação humana concreta"
+   ],
+   "justificativa": "O fora é uma máxima de autoajuda que dispensa a foto. Não há cena humana, fato nem transformação.",
+   "instrucao_de_revisao": ""
+  }
+ }
+}

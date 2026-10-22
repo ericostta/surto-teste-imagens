@@ -1,0 +1,93 @@
+[
+ {
+  "id": "LAB-005-r1",
+  "rodada": "revisao-1",
+  "tema": "recomeço depois de separação",
+  "situacao": "primeira semana dormindo sozinho sem peso",
+  "mecanismo": "M10",
+  "emocao": "alivio",
+  "tipo_contraste": "presenca_vs_ausencia",
+  "na_foto": "Uma cama de solteiro bem arrumada, lençol esticado.",
+  "fora": "Na primeira semana, ele escolheu sozinho cada detalhe: a única almofada, o copo ao alcance, o livro fechado. Ninguém corrigiu.",
+  "conceito_foto": "Quarto pequeno com cama de solteiro de lençol cinza-claro esticado e uma única almofada. Mesa de cabeceira com livro fechado e copo d'água. Luz dourada de fim de tarde. Nenhuma pessoa.",
+  "rosto": false
+ },
+ {
+  "id": "LAB-011-r1",
+  "rodada": "revisao-1",
+  "tema": "primeira conquista na casa nova",
+  "situacao": "diploma pendurado antes da pintura",
+  "mecanismo": "M12",
+  "emocao": "conquista",
+  "tipo_contraste": "pequeno_vs_grande",
+  "na_foto": "Um diploma emoldurado numa parede ainda sem pintura.",
+  "fora": "Ele o pendurou antes de pintar a casa. A mãe chega sábado e precisa ver, primeiro, que ele concluiu o curso.",
+  "conceito_foto": "Parede de massa corrida ainda sem tinta, com manchas de lixa. Diploma em moldura simples de madeira clara, sem texto legível. Escada de pintor e lata fechada ao canto. Nenhuma pessoa.",
+  "rosto": false
+ },
+ {
+  "id": "LAB-009-r1",
+  "rodada": "revisao-1",
+  "tema": "herança de gestos",
+  "situacao": "relógio tirado antes de lavar as mãos",
+  "mecanismo": "M06",
+  "emocao": "afeto",
+  "tipo_contraste": "ordem_aparente_vs_historia",
+  "na_foto": "Um relógio de pulso antigo ao lado da torneira.",
+  "fora": "Ele só notou o gesto do pai quando o filho tirou o relógio de brinquedo na pia. Ninguém sabe por quê.",
+  "conceito_foto": "Relógio de pulso de pulseira de couro marrom e vidro riscado, sobre a bancada de uma pia de banheiro de azulejo branco, torneira cromada e sabonete ao lado. Luz amarelada de lâmpada. Nenhuma pessoa.",
+  "rosto": false
+ },
+ {
+  "id": "LAB-001-r1",
+  "rodada": "revisao-1",
+  "tema": "independência financeira",
+  "situacao": "primeira compra sem checar preço",
+  "mecanismo": "M02",
+  "emocao": "conquista",
+  "tipo_contraste": "pequeno_vs_grande",
+  "na_foto": "Uma cadeira de escritório nova, ainda com o plástico.",
+  "fora": "A primeira que ele escolheu sem olhar o preço. Antes, trabalhava em casa numa cadeira de cozinha, com um travesseiro.",
+  "conceito_foto": "Cadeira de escritório cinza, encosto ainda coberto por plástico protetor, em sala quase vazia de chão de madeira clara. Luz natural de tarde vinda de janela lateral. Nenhuma pessoa. Sem etiqueta legível.",
+  "rosto": false
+ },
+ {
+  "id": "LAB-004-r1",
+  "rodada": "revisao-1",
+  "tema": "plantas",
+  "situacao": "planta viçosa e histórico escondido",
+  "mecanismo": "M11",
+  "emocao": "humor",
+  "tipo_contraste": "sucesso_aparente_vs_custo",
+  "na_foto": "Uma planta perfeita no parapeito da janela.",
+  "fora": "É a quarta. A dona trocou as três primeiras em segredo, e a vizinha, que a rega, elogia sempre a mesma.",
+  "conceito_foto": "Zamioculca viçosa em vaso de cerâmica branca, no parapeito de uma janela com cortina de linho. Luz suave de manhã. Nenhuma pessoa. Sem terra espalhada nem sinal de replantio.",
+  "rosto": false
+ },
+ {
+  "id": "LAB-006-r1",
+  "rodada": "revisao-1",
+  "tema": "viagem adiada",
+  "situacao": "mala sempre pronta",
+  "mecanismo": "M09",
+  "emocao": "surpresa",
+  "tipo_contraste": "cena_vs_autor_da_cena",
+  "na_foto": "Uma mala fechada, pronta ao lado da porta.",
+  "fora": "Há dois anos, ele troca as roupas de dentro a cada estação, para a mala estar sempre pronta. Nunca saiu.",
+  "conceito_foto": "Mala média cinza fechada, alça levantada, ao lado da porta de entrada de um apartamento, chaves num gancho acima. Corredor limpo, luz de manhã. Sem poeira e sem sinais de tempo parado. Nenhuma pessoa.",
+  "rosto": false
+ },
+ {
+  "id": "LAB-012-r1",
+  "rodada": "revisao-1",
+  "tema": "lugar que ninguém ocupa",
+  "situacao": "cadeira que todos contornam",
+  "mecanismo": "M03",
+  "emocao": "melancolia",
+  "tipo_contraste": "presenca_vs_ausencia",
+  "na_foto": "Uma cadeira de balanço virada para a janela.",
+  "fora": "O gato dorme ali há anos. Todos contornam a cadeira, e ninguém tem coragem de pedir que ele saia.",
+  "conceito_foto": "Cadeira de balanço de madeira escura, manta dobrada no encosto, voltada para uma janela com cortina branca. Luz difusa, sala silenciosa. Nenhuma pessoa.",
+  "rosto": false
+ }
+]

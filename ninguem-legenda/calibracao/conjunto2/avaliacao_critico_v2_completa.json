@@ -1,0 +1,606 @@
+{
+ "NV-01": {
+  "codigo": "X30",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "mesa impecável como sinal de eficiência -> mesa deixada pronta para ser esvaziada, sinal de insegurança no emprego",
+  "elo_humano": "Quem teme demissão deixa a mesa sem vestígios para o caso de não voltar, mas o 'porque' liga arrumar à perda por um passo que o leitor tem de completar.",
+  "parafrase_concreta": "Um funcionário arruma tudo às sextas porque, na segunda, pode não ter mais a mesa.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "tudo (o que ele guarda?)",
+    "os objetos pessoais, o que explicaria a mesa vazia",
+    "os papéis de trabalho"
+   ],
+   [
+    "a mesa (ainda terá a mesa)",
+    "o posto de trabalho",
+    "o móvel, por troca de lugar ou mudança de sala"
+   ]
+  ],
+  "generalidade": "Insegurança de emprego é tema universal; o gesto de guardar tudo é o que especifica.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "A lógica entre arrumar e perder a mesa não se fecha: arrumar não evita nem prepara de modo evidente",
+   "A foto (mesa sem objetos pessoais) já aponta para a demissão, que o leitor cego chutou primeiro",
+   "'Guarda tudo no lugar' compete com 'sem objetos pessoais' sem decidir qual fato vale"
+  ],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ideia de arrumar a mesa como ensaio de saída tem potencial real, mas o elo entre o gesto e o medo fica implícito demais. Aprovar seria apostar que o leitor completa sozinho o passo que falta.",
+  "instrucao_de_revisao": "Errado: o 'porque' não torna evidente por que arrumar responde ao medo de perder a mesa, e 'tudo' é ambíguo. Mudar: dar ao gesto uma razão visível (tirar o que é dele para não ter de ser levado, deixar a mesa pronta para o próximo) e separar do que a foto já mostra. NÃO pode mudar: a rotina de sexta e a incerteza da segunda.",
+  "nota": 55
+ },
+ "NV-02": {
+  "codigo": "X24",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "dedo escolhendo um prato -> dedo lendo preços e disfarçando necessidade como gosto",
+  "elo_humano": "Quem tem dinheiro contado escolhe pelo preço e disfarça diante dos outros.",
+  "parafrase_concreta": "Uma mulher escolhe no cardápio pelo preço e diz que escolheu pelo gosto.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "generalidade": "Humor de observação social, situação universal aceitável; o defeito é a foto entregar o gesto.",
+  "evidencias_positivas": [
+   "E1",
+   "E3",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "A foto com o dedo na coluna da direita entrega a revelação, e o leitor cego a reproduziu quase palavra por palavra",
+   "O fora não acrescenta nenhum detalhe que a foto não mostre"
+  ],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ideia é concreta e boa, mas o leitor cego previu quase tudo porque a foto já mostra o gesto. A correção é deslocar a revelação, não trocar a ideia.",
+  "instrucao_de_revisao": "Errado: a foto (dedo na coluna da direita) e o fora dizem a mesma coisa. Mudar: tirar da foto o que denuncia o gesto ou deslocar o fora para um desdobramento que a foto não sugere (o que ela pede, o que diz ao garçom ou à pessoa que a acompanha). NÃO pode mudar: a leitura pelo preço fingida como gosto. Se a foto não puder mudar e o fora continuar igual, a candidata cai para REPROVADA por redundância.",
+  "nota": 52
+ },
+ "NV-03": {
+  "codigo": "X23",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "pilha de livros como hábito de leitora -> pilha de presentes que ela compra para a versão de si mesma que dorme cedo e lê",
+  "elo_humano": "Quem compra livros para a pessoa que gostaria de ser, mais disciplinada, enquanto a rotina real a mantém acordada até tarde.",
+  "parafrase_concreta": "Uma mulher compra livros que não abre porque eles pertencem à versão dela que dormiria cedo para ler.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "Nenhum (livros)",
+    "nenhum dos cinco da pilha",
+    "nenhum livro que ela já comprou; não muda o sentido"
+   ],
+   [
+    "a versão dela que dorme cedo",
+    "uma versão imaginária e melhor",
+    "uma versão passada; a primeira leitura é a mais plausível"
+   ]
+  ],
+  "generalidade": "Específica pela imagem de comprar presentes para outra versão de si; outro objeto (tênis de corrida, agenda) repetiria a ideia, mas a mesa de cabeceira ancora a rotina de dormir.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "Os marcadores saindo das páginas na foto podem contradizer 'nenhum foi aberto', embora possam ser lidos como a intenção da compradora",
+   "Família de ideias próxima da mala pronta (versão de si que poderia ir), mas a ideia é outra"
+  ],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego acertou que ela não lê, mas não chegou à ideia de presentes para outra versão de si, que reorganiza a pilha. O leitor atento volta à foto para olhar os marcadores e a hora da lâmpada.",
+  "instrucao_de_revisao": "",
+  "nota": 76
+ },
+ "NV-04": {
+  "codigo": "X08",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "pai e filha de mãos dadas no ponto -> filha que guia o pai e esconde que ele não lê os letreiros",
+  "elo_humano": "A criança assume em silêncio a leitura que o pai não faz, para proteger a dignidade dele.",
+  "parafrase_concreta": "Uma menina decora o número dos ônibus porque o pai não consegue ler os letreiros.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "os letreiros (por que o pai não lê?)",
+    "analfabetismo",
+    "pouca familiaridade com o idioma ou a cidade; ambas leituras são compatíveis com a intenção"
+   ]
+  ],
+  "generalidade": "Específica: depende da inversão de papéis entre criança e adulto num ponto de ônibus, e o fato (decorar números) é concreto.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "O 'ainda' em 'ainda não aprendeu' pode soar levemente condescendente com o pai, defeito pequeno"
+  ],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego previu desemprego e preocupação, nada da revelação, e a mão dada passa de proteção do adulto a guia da criança. O elo é imediato e o fato é concreto, sem emoção nomeada.",
+  "instrucao_de_revisao": "",
+  "nota": 90
+ },
+ "NV-05": {
+  "codigo": "X15",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "homem calmo no meio da pressa como alguém em sofrimento ou alienado -> homem calmo porque é seu último dia e ninguém sabe",
+  "elo_humano": "Quem sabe que está de saída deixa de correr para um lugar que não é mais seu, enquanto os colegas seguem apressados.",
+  "parafrase_concreta": "Um homem espera o elevador sem pressa porque aquele é seu último dia de trabalho e só ele sabe.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "ali (local)",
+    "a empresa onde trabalha",
+    "o prédio; não muda o sentido"
+   ],
+   [
+    "último dia (por demissão ou por escolha)",
+    "ele foi dispensado e ainda não contou",
+    "ele pediu demissão; as duas leituras seguem a intenção"
+   ]
+  ],
+  "generalidade": "Específica pelo contraste entre a calma dele e o fluxo do saguão, e a frase 'pela primeira vez não está com pressa' dá o fato; outra cena (ônibus, calçada) perde o elo com o elevador e a hora do rush.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "O leitor cego acertou a hipótese de saída do emprego, mas errou a emoção (desmorona por dentro, quando o texto sugere alívio)",
+   "Trope de 'último dia' pode soar familiar, mitigado pela ideia da primeira vez sem pressa"
+  ],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego previu fim de emprego mas leu a calma como fachada, e o fora desloca para alívio e segredo. O leitor atento volta à foto para ver a calma no meio da pressa com outro olhar.",
+  "instrucao_de_revisao": "",
+  "nota": 78
+ },
+ "NV-06": {
+  "codigo": "X09",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "duas filas paradas -> a fila que ele largou, que anda mais rápido, como tentativa de ele ser o azarado",
+  "elo_humano": "Quem muda de fila por impaciência vê a outra andar logo depois, experiência cotidiana reconhecível.",
+  "parafrase_concreta": "Um homem troca de fila quando a dele atrasa e a fila que ele deixou passa a andar mais rápido.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "'a que deixou que passa' (que = pronome relativo ou conjunção?)",
+    "a fila que ele deixou é a que passa à frente dele",
+    "a fila que ele deixou é a que deixa os outros passarem"
+   ]
+  ],
+  "generalidade": "Humor de observação social, situação universal aceitável; o problema é que a piada é conhecida e a foto já mostra uma das filas à frente.",
+  "evidencias_positivas": [
+   "E1",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "A construção 'é sempre a que deixou que passa' é confusa e quebra o ritmo da piada",
+   "A piada da outra fila mais rápida é muito conhecida e o NA FOTO ('uma fila') não acrescenta nada",
+   "A foto, com uma fila ligeiramente à frente, antecipa parte da graça",
+   "Estrutura de fila próxima de um texto anterior (fila longa diante de balcão), embora a ideia seja outra"
+  ],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O leitor cego não previu, mas o fora está mal construído e a piada pouco desloca a leitura da foto. Aprovar exigiria apostar que o leitor volta à foto, e a aposta é fraca.",
+  "instrucao_de_revisao": "Errado: frase final ambígua e piada de uma sacada já batida. Mudar: reescrever a frase para que a referência fique inequívoca e acrescentar um detalhe específico dele (o que há no carrinho, o que ele esperava) que dê ao NA FOTO um papel. NÃO pode mudar: o gesto de trocar de fila e a fila abandonada que anda.",
+  "nota": 48
+ },
+ "NV-07": {
+  "codigo": "X06",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "despertador como aparelho que acorda -> despertador como ameaça que ela antecipa e desarma, sinal de ansiedade de sono",
+  "elo_humano": "Quem tem sono ansioso acorda antes do alarme e passa a controlar o aparelho em vez de ser controlada por ele.",
+  "parafrase_concreta": "Uma mulher programa o alarme para as seis, mas acorda às cinco e o desliga antes que toque.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "o em 'antes que o acorde' (pronome masculino, a pessoa é 'Ela')",
+    "o despertador acordaria o marido ou parceiro ao lado",
+    "o despertador acordaria a própria dona, o que não bate com o gênero do pronome"
+   ]
+  ],
+  "generalidade": "Ritual de insônia reconhecível, mas o despertador marcando seis horas é o objeto certo para o gesto.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "O pronome 'o' em 'antes que o acorde' não tem antecedente claro e a concordância sugere outra pessoa na cena",
+   "A lógica fica curta: se ela já está acordada às cinco, o motivo de desligar fica por dizer (evitar o susto? controlar o dia?)"
+  ],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ideia do gesto de antecipar e desarmar o alarme é boa e o leitor cego só acertou metade, mas a referência do pronome final quebra o sentido. A correção é de redação, não de ideia.",
+  "instrucao_de_revisao": "Errado: o pronome 'o' em 'antes que o acorde' não tem antecedente e abre duas leituras (a dona ou um parceiro). Mudar: tornar explícito quem seria acordado e qual é o motivo concreto do gesto. NÃO pode mudar: o par programar às seis / acordar às cinco e a ação de desligar antes de tocar.",
+  "nota": 60
+ },
+ "NV-08": {
+  "codigo": "X12",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "mochila fechada como sinal de rotina escolar (ou de medo) -> mochila com lanche extra levado em segredo para um colega",
+  "elo_humano": "Uma criança que percebe que o colega não tem lanche o ajuda sem expor a carência dele.",
+  "parafrase_concreta": "Uma menina leva na mochila um lanche a mais para um colega e finge que era sobra.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "ela (sem pessoa na foto; deduzida da mochila escolar)",
+    "a dona da mochila, a criança",
+    "a mãe que arruma a mochila; as duas leituras mantêm o sentido do gesto"
+   ]
+  ],
+  "generalidade": "A revelação depende do conteúdo escondido e da mentira gentil 'sobrou', específica o bastante; trocar a mochila por uma marmita mudaria pouco o efeito, mas o fingimento é o que carrega a ideia.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "O 'ela' só ganha antecedente pelo fora, aceitável por se tratar de objeto de criança",
+   "Risco leve de tom bonzinho, atenuado pelo detalhe concreto de fingir que sobrou"
+  ],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego previu medo e sofrimento escolar, bem longe do gesto real. A mochila fechada passa a esconder uma gentileza com disfarce, com fato concreto e emoção implícita.",
+  "instrucao_de_revisao": "",
+  "nota": 82
+ },
+ "NV-09": {
+  "codigo": "X14",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "nenhum (pão quente -> trabalho madrugador, leitura que a foto já entrega)",
+  "elo_humano": "O trabalhador noturno serve aos outros, relação óbvia e já contida na cena.",
+  "parafrase_concreta": "Uma padeira acorda às três da manhã para que as pessoas tenham pão cedo.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "acorde bem (a cidade acorda bem de quê?)",
+    "acorda alimentada",
+    "acorda de bom humor; a frase vira slogan"
+   ]
+  ],
+  "generalidade": "Serve a qualquer profissão de madrugada (leiteiro, gari, motorista); o efeito seria o mesmo.",
+  "evidencias_positivas": [
+   "E3"
+  ],
+  "eliminatorias": [
+   "Ausência de segunda leitura",
+   "Redundância (a luz de madrugada e as mãos enfarinhadas já dizem isso)",
+   "Moralismo (gratidão pelo trabalho invisível)"
+  ],
+  "defeitos": [
+   "O fora é um elogio ao trabalho invisível e não revela fato novo",
+   "A previsão cega reproduziu a mensagem inteira",
+   "O fecho 'para que a cidade acorde bem' é frase de efeito sem situação concreta"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A foto já diz que a padeira trabalha de madrugada e o texto só acrescenta homenagem. Não há transformação, só moral.",
+  "instrucao_de_revisao": "",
+  "nota": 15
+ },
+ "NV-10": {
+  "codigo": "X11",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "mesa posta para quatro -> mesa posta toda sexta para pessoas que não sabem ou não estão, o fato escondido por 'eles'",
+  "elo_humano": "Alguém mantém o ritual semanal de pôr a mesa por quatro, e a quem o conta ninguém tem coragem de dizer a verdade; o fato em si não aparece.",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+   [
+    "Isso (o que se repete?)",
+    "pôr a mesa para quatro",
+    "as duas cadeiras vazias"
+   ],
+   [
+    "eles (sem antecedente)",
+    "os que põem a mesa e não sabem a verdade",
+    "os ausentes que não são avisados"
+   ],
+   [
+    "contar (contar o quê?)",
+    "que alguém morreu ou foi embora",
+    "que o ritual não faz mais sentido"
+   ]
+  ],
+  "generalidade": "Mesa de jantar com lugares vazios serve a qualquer luto, abandono ou estranhamento familiar.",
+  "evidencias_positivas": [],
+  "eliminatorias": [],
+  "defeitos": [
+   "'Isso', 'eles' e o verbo 'contar' não têm antecedente nem objeto, de modo que o fato central não aparece",
+   "'Coragem' é emoção nomeada sem fato",
+   "A foto (duas cadeiras afastadas, duas encostadas) já sugere a ausência que a cega previu",
+   "Eco com texto anterior: 'coragem' e 'ninguém' em ritual doméstico (diploma, cadeira de balanço)"
+  ],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "Há ideia possível (um ritual mantido para quem não sabe ou já não vem), mas o texto não diz quem é quem nem o que não se conta. Sem esse fato concreto, a mensagem fica incompreensível, e a correção ainda salva a ideia.",
+  "instrucao_de_revisao": "Errado: os três demonstrativos e o verbo 'contar' ficam sem referente, e 'coragem' nomeia emoção sem fato. Mudar: nomear quem põe a mesa, quem são os 'eles' e o fato que ninguém conta, em termos concretos, e usar a diferença entre cadeiras afastadas e encostadas. NÃO pode mudar: a recorrência semanal e o segredo coletivo em torno da mesa.",
+  "nota": 38
+ },
+ "NV-11": {
+  "codigo": "X25",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "pessoas de cabeça baixa por medo ou por doença -> pessoas de cabeça baixa no celular para fugir do relógio da parede",
+  "elo_humano": "Quem espera atendimento evita olhar o relógio porque cada minuto vista piora a espera, e o celular serve de refúgio.",
+  "parafrase_concreta": "Numa sala de espera, todos olham o celular para não ter de olhar o relógio da parede.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "Todos",
+    "todos os presentes na sala",
+    "todos os que aparecem na foto; não muda o sentido"
+   ]
+  ],
+  "generalidade": "Humor de observação social, universal, aceitável; o fora acrescenta ao NA FOTO a razão do gesto e o relógio.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "eliminatorias": [],
+  "defeitos": [
+   "O relógio da parede e os celulares não estão descritos na foto, de modo que o leitor procura algo que pode faltar no quadro",
+   "A cega acertou o gesto de fugir do olhar, errando o motivo"
+  ],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O leitor cego atribuiu a cabeça baixa a medos individuais, e o fora troca isso por um gesto coletivo e banal com um motivo novo. É observação reconhecível e concreta, sem emoção nomeada.",
+  "instrucao_de_revisao": "",
+  "nota": 68
+ },
+ "NV-12": {
+  "codigo": "X32",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "balde de moedas como poupança -> balde de moedas como símbolo de perguntas não feitas, sem passagem plausível",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "Um homem deixa de cobrar o irmão e acumula moedas, mas nada liga uma coisa à outra.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "Cada moeda é uma pergunta (metáfora)",
+    "cada moeda lembra uma ocasião em que ele quis cobrar",
+    "cada moeda substitui o dinheiro devido; a frase não escolhe"
+   ],
+   [
+    "ele (sem antecedente na foto)",
+    "o dono do balde",
+    "o irmão"
+   ]
+  ],
+  "generalidade": "A equivalência moeda igual a pergunta é arbitrária e valeria para qualquer objeto que se acumula (cartas, garrafas, chaves).",
+  "evidencias_positivas": [],
+  "eliminatorias": [
+   "Conexão arbitrária",
+   "Obscuridade parcial (metáfora sem situação)"
+  ],
+  "defeitos": [
+   "Não existe razão humana para que moedas representem perguntas",
+   "O empréstimo ao irmão é fato solto sem relação com o balde",
+   "A figura 'cada moeda é uma pergunta' nomeia o sentido em vez de mostrá-lo"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O elo entre balde de moedas e dívida do irmão precisa ser inventado pelo leitor. A metáfora decora a frase sem sustentar uma situação concreta.",
+  "instrucao_de_revisao": "",
+  "nota": 25
+ },
+ "NV-13": {
+  "codigo": "X28",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "nenhum (escada espiral -> metáfora abstrata sobre subir)",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "Subir (o quê?)",
+    "subir na carreira",
+    "subir a escada; sem situação concreta, a frase não decide"
+   ],
+   [
+    "damos (quem?)",
+    "as pessoas em geral",
+    "o leitor; não há sujeito humano"
+   ]
+  ],
+  "generalidade": "Aforismo que serve a qualquer imagem circular; ignora a escada como cena.",
+  "evidencias_positivas": [],
+  "eliminatorias": [
+   "Obscuridade (só sobra uma abstração)",
+   "Autoajuda disfarçada de aforismo"
+  ],
+  "defeitos": [
+   "Nenhuma situação humana concreta, apenas máxima",
+   "A foto vista de cima é só ilustração da metáfora",
+   "A relação entre escada em espiral e 'sair do lugar' é a única conexão e precisa ser aceita como dada"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A paráfrase só rende uma abstração sobre progresso aparente, sem fato nem pessoa. Frase enigmática não é frase profunda.",
+  "instrucao_de_revisao": "",
+  "nota": 18
+ },
+ "NV-14": {
+  "codigo": "X19",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "nenhum (guarda-sol fechado sem relação com a revelação)",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "a mudança de cidade em 1998",
+    "mudança que a família fez quando ela era criança",
+    "mudança de outra pessoa; o texto não sabe quem a fez"
+   ],
+   [
+    "quem é a irmã mais velha (de quem?)",
+    "sem referência na foto nem no NA FOTO",
+    "sem referência no texto"
+   ]
+  ],
+  "generalidade": "O fora ignora a foto por completo; vale para qualquer imagem.",
+  "evidencias_positivas": [],
+  "eliminatorias": [
+   "Conexão arbitrária",
+   "Mensagem incompreensível sem explicação externa"
+  ],
+  "defeitos": [
+   "Nenhuma relação visível entre guarda-sol fechado e mágoa da irmã",
+   "Sem pessoa, sem 'irmã mais velha' de quem?",
+   "A data e a mudança são detalhes soltos que não explicam nada"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "Para ligar o guarda-sol à irmã seria preciso inventar o elo. O fora é um fato isolado, sem conexão com a cena.",
+  "instrucao_de_revisao": "",
+  "nota": 8
+ },
+ "NV-15": {
+  "codigo": "X29",
+  "grau_previsao": "previu parte",
+  "elemento_que_muda": "nenhum (mãos dadas de avó e neto -> mãos dadas cheias de afeto declarado)",
+  "elo_humano": "Entre avó e neto há afeto, elo óbvio e já visível na foto.",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+   [
+    "Entre as duas (as mãos)",
+    "as duas mãos",
+    "as duas pessoas"
+   ],
+   [
+    "cinquenta anos (de quê?)",
+    "diferença de idade entre elas",
+    "tempo de convivência, impossível pela idade do neto"
+   ]
+  ],
+  "generalidade": "Serve a qualquer par de pessoas com laço de afeto; o fora não acrescenta fato.",
+  "evidencias_positivas": [],
+  "eliminatorias": [
+   "Sentimentalismo (carinho nomeado e comandado)",
+   "Redundância",
+   "Ausência de segunda leitura"
+  ],
+  "defeitos": [
+   "'Carinho' é emoção nomeada sem gesto, objeto ou fato",
+   "'Palavra nenhuma daria conta' é fórmula que dispensa dizer algo",
+   "A conta de cinquenta anos entra em conflito com a mão 'jovem' ao ser lida como convivência"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O fora nomeia o carinho e declara que não pode ser dito, sem dar nada para ver. É sentimentalismo sem segunda leitura.",
+  "instrucao_de_revisao": "",
+  "nota": 10
+ },
+ "NV-16": {
+  "codigo": "X04",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "nenhum (cartas guardadas -> cartas guardadas que doem; a foto já entregava isso)",
+  "elo_humano": "Quem teme reler cartas antigas por medo de sentir falta, relação compreensível mas já dada pela foto.",
+  "parafrase_concreta": "Alguém guarda cartas fechadas porque não quer sentir falta de quem as escreveu.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+   [
+    "Ele (sujeito sem antecedente na foto nem no NA FOTO)",
+    "o dono da caixa",
+    "o remetente das cartas"
+   ],
+   [
+    "a saudade doa mais que o silêncio (silêncio de quem?)",
+    "silêncio de quem já morreu",
+    "silêncio de quem parou de escrever"
+   ]
+  ],
+  "generalidade": "Qualquer objeto guardado e intocado (fotos, roupas, mensagens) produziria o mesmo efeito.",
+  "evidencias_positivas": [
+   "E4"
+  ],
+  "eliminatorias": [
+   "Sentimentalismo (saudade nomeada sem fato)",
+   "Redundância (a previsão cega reproduziu o essencial)"
+  ],
+  "defeitos": [
+   "O fora nomeia 'saudade' e 'coragem' sem dar ao leitor nenhum fato para ver",
+   "A revelação repete o que a caixa de cartas já sugere",
+   "Não há objeto ou gesto que mude de sentido"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O leitor cego antecipou o essencial e o fora apenas nomeia a emoção, sem fato concreto. Não há segunda leitura, só confirmação da primeira.",
+  "instrucao_de_revisao": "",
+  "nota": 22
+ },
+ "NV-17": {
+  "codigo": "X26",
+  "grau_previsao": "previu quase tudo",
+  "elemento_que_muda": "nenhum (casaco de alguém ausente -> casaco de alguém ausente)",
+  "elo_humano": "A permanência do casaco de quem partiu, elo que a foto já oferece.",
+  "parafrase_concreta": "O casaco de um homem que não mora mais ali continua pendurado como se ele fosse voltar.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "ele (sem antecedente na foto)",
+    "um morto",
+    "alguém que foi embora; a diferença muda a leitura emocional"
+   ]
+  ],
+  "generalidade": "Qualquer objeto de ausente (cadeira, chinelo, escova) produz o mesmo efeito.",
+  "evidencias_positivas": [
+   "E4"
+  ],
+  "eliminatorias": [
+   "Ausência de segunda leitura",
+   "Redundância",
+   "Repetição evidente de estrutura (cadeira de balanço virada para a janela, objeto de ausente)"
+  ],
+  "defeitos": [
+   "O leitor cego reproduziu o fora quase inteiro",
+   "'Como se ele fosse voltar' é fórmula consagrada de ausência",
+   "Não existe detalhe concreto novo (quando, por que, quem)",
+   "Estrutura de objeto de ausente já usada em edição anterior"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O fora repete o que a foto do casaco já diz e usa fórmula pronta de ausência. A cadeira de balanço anterior já ocupava esse terreno com mais detalhe.",
+  "instrucao_de_revisao": "",
+  "nota": 14
+ },
+ "NV-18": {
+  "codigo": "X34",
+  "grau_previsao": "não previu",
+  "elemento_que_muda": "nenhum (trilha -> máxima de autoajuda)",
+  "elo_humano": "precisa ser inventado",
+  "parafrase_concreta": "impossível",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   [
+    "você (leitor)",
+    "o leitor, interpelado diretamente",
+    "quem caminha na foto, que não existe"
+   ],
+   [
+    "uma escolha (qual?)",
+    "qualquer escolha de vida",
+    "a direção da trilha; o texto não escolhe"
+   ]
+  ],
+  "generalidade": "Máxima motivacional que serviria a qualquer foto de caminho, estrada ou porta.",
+  "evidencias_positivas": [],
+  "eliminatorias": [
+   "Autoajuda e moralismo",
+   "Ausência de segunda leitura",
+   "Mensagem sem situação humana concreta"
+  ],
+  "defeitos": [
+   "Interpela o leitor em vez de revelar um fato da cena",
+   "Ignora a trilha e a floresta",
+   "A frase é conselho, não observação"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O fora é uma máxima de autoajuda que dispensa a foto. Não há cena humana, fato nem transformação.",
+  "instrucao_de_revisao": "",
+  "nota": 5
+ }
+}
