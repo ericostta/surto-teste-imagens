@@ -1,0 +1,11 @@
+{
+  "data": "2026-10-22",
+  "rotulador": "Eri",
+  "conjunto": "calibracao-1 (18 itens, 12 do lote real e 6 negativos construídos)",
+  "uso": "Este conjunto agora é de AJUSTE do Crítico. A validação precisa de um conjunto novo, nunca visto.",
+  "rotulos": {
+    "K01": "BOA", "K02": "BOA", "K03": "BOA", "K04": "BOA", "K05": "RUIM", "K06": "BOA",
+    "K07": "RUIM", "K08": "AMBÍGUA", "K09": "AMBÍGUA", "K10": "RUIM", "K11": "RUIM", "K12": "RUIM",
+    "K13": "BOA", "K14": "RUIM", "K15": "AMBÍGUA", "K16": "BOA", "K17": "AMBÍGUA", "K18": "AMBÍGUA"
+  }
+}
