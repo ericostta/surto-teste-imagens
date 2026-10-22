@@ -1,0 +1,14 @@
+[
+ {"codigo": "D01", "achados": []},
+ {"codigo": "D02", "achados": []},
+ {"codigo": "D03", "achados": [
+  {"categoria": "causal", "evidencia_textual": "Hoje deixou três elevadores passarem e descobriu que, em nove anos, nunca precisou correr para pegar um.", "problema": "Deixar três elevadores passarem não leva a descobrir que nunca precisou correr; a conclusão não decorre do gesto e ainda sugere o contrário (que ele sempre correu).", "classificacao": "corrigivel"}
+ ]},
+ {"codigo": "D04", "achados": []},
+ {"codigo": "D05", "achados": [
+  {"categoria": "pressuposto", "evidencia_textual": "Na primeira semana, ele escolheu sozinho cada detalhe", "problema": "O texto não informa primeira semana de quê (nova moradia, nova situação), então o leitor não sabe por que escolher sozinho e não ser corrigido importa.", "classificacao": "corrigivel"}
+ ]},
+ {"codigo": "D06", "achados": [
+  {"categoria": "referencia", "evidencia_textual": "Ele só notou o gesto do pai quando o filho tirou o relógio de brinquedo na pia. Ninguém sabe por quê.", "problema": "\"o pai\" pode ser o pai de \"ele\" ou o próprio \"ele\" visto como pai do filho, e \"Ninguém sabe por quê\" não indica qual gesto (do pai, do filho ou de ambos) fica sem explicação.", "classificacao": "corrigivel"}
+ ]}
+]

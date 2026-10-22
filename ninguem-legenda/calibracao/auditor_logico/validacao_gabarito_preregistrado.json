@@ -1,0 +1,93 @@
+{
+ "observacao": "Pre-registro escrito antes da execucao. F1 a F5 foram escritos por Claude depois do prompt travado; limitacao: autor do teste e do Auditor sao o mesmo modelo.",
+ "defeito_esperado": {
+  "J15-r1": "temporal/causal/plausibilidade: o ritual de arrumar 'toda sexta' nao combina com quem cobre uma licenca e teme parecer instalado (o receio valeria todos os dias); achado deve apontar a sexta contra o motivo do substituto",
+  "J01-r2": "causal/pressuposto: 'minutos ganhos' e 'fez a conta' sem termos; ligacao entre a conta e o ato de ficar parado nao se sustenta",
+  "J18": "causal/complexidade/pressuposto: relacao entre balde de moedas, perguntas nao feitas e emprestimo ao irmao pouco clara (rotulo externo: construcao artificial)",
+  "J14": "causal/foto_texto: irma e mudanca de cidade sem conexao com o guarda-sol (rotulo externo: surpresa arbitraria)",
+  "F1": "temporal: 'primeiro aniversario sem ele' e 'quinto bolo que ela assa sozinha' sao incompativeis com um ano de viuvez",
+  "F2": "foto_texto/causal/plausibilidade: 'nao sai quando chove' contradiz o guarda-chuva aberto secando; 'molhado ninguem o convida' nao sustenta 'nunca foi a uma festa'",
+  "F3": "referencia/pressuposto: 'o dele', 'ele', 'nele', 'nela' sem antecedentes claros; quem e 'ela'? pares de sapatos de quem?",
+  "F4": "complexidade/referencia: tres personagens e duas orações encaixadas que travam a leitura",
+  "F5": "foto_texto: foto e NA FOTO mostram mesa posta para duas pessoas, o FORA diz um unico prato",
+  "J13": "nenhum eliminatorio esperado (BOA externa)",
+  "J08": "nenhum eliminatorio esperado (BOA externa)",
+  "J04": "nenhum eliminatorio esperado (BOA externa)",
+  "K02": "nenhum eliminatorio esperado (BOA externa de Eri)",
+  "K06": "nenhum eliminatorio esperado (BOA externa de Eri)"
+ },
+ "itens": {
+  "J15-r1": {
+   "foto": "Mesa de escritório sem objetos pessoais, caneta alinhada ao teclado, monitor desligado, luz fria de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Uma mesa de escritório impecavelmente organizada.",
+   "fora": "Toda sexta devolve a mesa como a encontrou. Cobre a licença de um colega e teme parecer que se instalou.",
+   "fora_anterior": "Ele guarda tudo no lugar às sextas porque, na segunda, nunca sabe se ainda terá a mesa."
+  },
+  "J01-r2": {
+   "foto": "Homem de terno visto de costas diante de portas de elevador, postura calma, mãos soltas. Ao redor, pessoas desfocadas em movimento. Luz fria de saguão. Sem rosto.",
+   "na_foto": "Um homem espera o elevador na hora do rush.",
+   "fora": "Nove anos correndo para pegar o elevador e gastando os minutos ganhos no celular. Hoje fez a conta e ficou parado.",
+   "fora_anterior": "É o último dia dele ali, e ninguém sabe. Pela primeira vez, ele não está com pressa."
+  },
+  "J18": {
+   "foto": "Balde plástico azul cheio de moedas de valores variados, num canto de sala, luz de tarde. Nenhuma pessoa.",
+   "na_foto": "Um balde cheio de moedas num canto da sala.",
+   "fora": "Cada moeda é uma pergunta que ele não fez ao irmão sobre o dinheiro emprestado."
+  },
+  "J14": {
+   "foto": "Guarda-sol fechado cravado na areia de uma praia vazia, luz de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Um guarda-sol fechado na areia.",
+   "fora": "A irmã mais velha nunca perdoou a mudança de cidade em 1998."
+  },
+  "F1": {
+   "foto": "Bolo simples com uma vela apagada sobre balcão de cozinha, luz da manhã. Nenhuma pessoa.",
+   "na_foto": "Um bolo simples com uma vela apagada.",
+   "fora": "Hoje faz um ano que ele morreu. É o primeiro aniversário dela sem ele, e o quinto bolo que ela assa sozinha."
+  },
+  "F2": {
+   "foto": "Guarda-chuva aberto secando no corredor de um prédio, poça pequena no chão. Nenhuma pessoa.",
+   "na_foto": "Um guarda-chuva aberto secando no corredor.",
+   "fora": "Ele não sai quando chove, porque aprendeu que molhado ninguém o convida a entrar. Por isso nunca foi a uma festa."
+  },
+  "F3": {
+   "foto": "Dois pares de sapatos lado a lado na entrada de uma casa, um grande e um pequeno. Nenhuma pessoa.",
+   "na_foto": "Dois pares de sapatos na entrada da casa.",
+   "fora": "Ela guardou o dele quando ele pediu. Ainda cabe nele, mas não nela."
+  },
+  "F4": {
+   "foto": "Cadeira de plástico branca no meio de uma calçada, em frente a um portão fechado. Nenhuma pessoa.",
+   "na_foto": "Uma cadeira de plástico diante de um portão.",
+   "fora": "Ela espera o cobrador, que antes era o irmão, e só sai quando a vizinha, que fingia não conhecê-lo, entra."
+  },
+  "F5": {
+   "foto": "Mesa de jantar posta para duas pessoas, velas acesas, flores no centro. Nenhuma pessoa.",
+   "na_foto": "Uma mesa de jantar posta para duas pessoas.",
+   "fora": "Ele comemora sozinho há anos: a mesa tem um único prato, e o garfo que sobra é o dele."
+  },
+  "J13": {
+   "foto": "Criança de uniforme escolar e adulto vistos de costas, de mãos dadas, num ponto de ônibus de rua arborizada. Sem rostos, sem placas legíveis. Luz de manhã.",
+   "na_foto": "Uma menina e o pai esperam no ponto de ônibus.",
+   "fora": "Ela decora o número dos ônibus porque o pai ainda não aprendeu a ler os letreiros."
+  },
+  "J08": {
+   "foto": "Cinco livros empilhados numa mesa de cabeceira, marcadores saindo das páginas, abajur aceso, lombadas sem texto legível. Nenhuma pessoa.",
+   "na_foto": "Uma pilha de livros na mesa de cabeceira.",
+   "fora": "Nenhum foi aberto este ano. São presentes para a versão dela que dorme cedo."
+  },
+  "J04": {
+   "foto": "Mochila escolar azul de zíper fechado, apoiada num sofá cinza, luz de manhã. Nenhuma pessoa.",
+   "na_foto": "Uma mochila escolar cheia, apoiada no sofá.",
+   "fora": "Dentro, além dos cadernos, vai o lanche extra que ela leva para um colega, fingindo que sobrou."
+  },
+  "K02": {
+   "foto": "Pessoas vistas de costas em fila num corredor claro de repartição, balcão com vidro ao fundo, sem placa legível. Roupas cotidianas variadas. Luz de lâmpadas de teto.",
+   "na_foto": "Uma fila longa diante de um balcão.",
+   "fora": "Metade está ali só porque achou que a outra metade sabia o motivo."
+  },
+  "K06": {
+   "foto": "Torso cortado abaixo do queixo, sem rosto: camisa social azul-clara com crachá branco liso preso no bolso, cordão discreto, sem texto legível nem logotipo. Recepção de escritório desfocada ao fundo, plantas e balcão neutro. Luz fria de lâmpadas de teto.",
+   "na_foto": "Um crachá de visitante preso na camisa.",
+   "fora": "Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu."
+  }
+ }
+}

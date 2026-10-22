@@ -1,0 +1,46 @@
+{
+ "itens": [
+  {
+   "codigo": "D01",
+   "foto": "Cadeira de balanço de madeira escura, manta dobrada no encosto, voltada para uma janela com cortina branca. Luz difusa, sala silenciosa. Nenhuma pessoa.",
+   "na_foto": "Uma cadeira de balanço virada para a janela.",
+   "fora": "O gato dorme ali há anos. Todos contornam a cadeira, e ninguém tem coragem de pedir que ele saia.",
+   "fora_anterior": "Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém."
+  },
+  {
+   "codigo": "D02",
+   "foto": "Parede de massa corrida ainda sem tinta, com manchas de lixa. Diploma em moldura simples de madeira clara, sem texto legível. Escada de pintor e lata fechada ao canto. Nenhuma pessoa.",
+   "na_foto": "Um diploma emoldurado numa parede ainda sem pintura.",
+   "fora": "Ele o pendurou antes de pintar a casa. A mãe chega sábado e precisa ver, primeiro, que ele concluiu o curso.",
+   "fora_anterior": "Ele o pendurou antes de pintar a casa, para o caso de a coragem passar."
+  },
+  {
+   "codigo": "D03",
+   "foto": "Homem de terno visto de costas diante de portas de elevador, postura calma, mãos soltas. Ao redor, pessoas desfocadas em movimento. Luz fria de saguão. Sem rosto.",
+   "na_foto": "Um homem espera o elevador na hora do rush.",
+   "fora": "Pediu demissão na semana passada. Hoje deixou três elevadores passarem e descobriu que, em nove anos, nunca precisou correr para pegar um.",
+   "fora_anterior": "É o último dia dele ali, e ninguém sabe. Pela primeira vez, ele não está com pressa."
+  },
+  {
+   "codigo": "D04",
+   "foto": "Zamioculca viçosa em vaso de cerâmica branca, no parapeito de uma janela com cortina de linho. Luz suave de manhã. Nenhuma pessoa. Sem terra espalhada nem sinal de replantio.",
+   "na_foto": "Uma planta perfeita no parapeito da janela.",
+   "fora": "É a quarta. A dona trocou as três primeiras em segredo, e a vizinha, que a rega, elogia sempre a mesma.",
+   "fora_anterior": "É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo."
+  },
+  {
+   "codigo": "D05",
+   "foto": "Quarto pequeno com cama de solteiro de lençol cinza-claro esticado e uma única almofada. Mesa de cabeceira com livro fechado e copo d'água. Luz dourada de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Uma cama de solteiro bem arrumada, lençol esticado.",
+   "fora": "Na primeira semana, ele escolheu sozinho cada detalhe: a única almofada, o copo ao alcance, o livro fechado. Ninguém corrigiu.",
+   "fora_anterior": "A primeira semana em que dormir sozinho deixou de parecer castigo."
+  },
+  {
+   "codigo": "D06",
+   "foto": "Relógio de pulso de pulseira de couro marrom e vidro riscado, sobre a bancada de uma pia de banheiro de azulejo branco, torneira cromada e sabonete ao lado. Luz amarelada de lâmpada. Nenhuma pessoa.",
+   "na_foto": "Um relógio de pulso antigo ao lado da torneira.",
+   "fora": "Ele só notou o gesto do pai quando o filho tirou o relógio de brinquedo na pia. Ninguém sabe por quê.",
+   "fora_anterior": "Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê."
+  }
+ ]
+}
