@@ -1,0 +1,16 @@
+[
+  {
+    "id": "NV-05-r2",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 21
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  }
+]
