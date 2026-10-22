@@ -1,0 +1,46 @@
+{
+ "1": {
+  "C1": {
+   "par": "J15_r1",
+   "A": "revisada",
+   "B": "original"
+  },
+  "C2": {
+   "par": "J01_r1",
+   "A": "original",
+   "B": "revisada"
+  },
+  "C3": {
+   "par": "J01_r2",
+   "A": "revisada",
+   "B": "original"
+  },
+  "C4": {
+   "par": "J06_f1",
+   "A": "original",
+   "B": "revisada"
+  }
+ },
+ "2": {
+  "C1": {
+   "par": "J01_r1",
+   "A": "original",
+   "B": "revisada"
+  },
+  "C2": {
+   "par": "J06_f1",
+   "A": "revisada",
+   "B": "original"
+  },
+  "C3": {
+   "par": "J15_r1",
+   "A": "original",
+   "B": "revisada"
+  },
+  "C4": {
+   "par": "J01_r2",
+   "A": "revisada",
+   "B": "original"
+  }
+ }
+}

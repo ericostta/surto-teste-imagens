@@ -1,0 +1,62 @@
+[
+ {
+  "codigo": "C1",
+  "melhor": "A",
+  "superioridade_real": true,
+  "por_criterio": {
+   "segunda_leitura": "A",
+   "originalidade": "A",
+   "plausibilidade": "A",
+   "precisao": "A"
+  },
+  "defeito_novo_em_A": "",
+  "defeito_novo_em_B": "A lógica é frouxa: guardar tudo às sextas não protege a mesa, e a precariedade fica afirmada em vez de mostrada.",
+  "justificativa": "A explica a ausência de objetos pessoais e a caneta alinhada com uma situação concreta (cobrir licença, temer parecer que se instalou), o que dá releitura da foto. B é limpa, mas genérica e o motivo não sustenta o gesto.",
+  "vale_publicar_a_melhor": true
+ },
+ {
+  "codigo": "C2",
+  "melhor": "B",
+  "superioridade_real": true,
+  "por_criterio": {
+   "segunda_leitura": "B",
+   "originalidade": "B",
+   "plausibilidade": "A",
+   "precisao": "A"
+  },
+  "defeito_novo_em_A": "",
+  "defeito_novo_em_B": "A descoberta final é confusa (elevador vem de qualquer modo, 'precisou correr' fica ambíguo) e a frase acumula duas ideias.",
+  "justificativa": "B transforma a calma em descoberta sobre nove anos de pressa desnecessária, o que dá releitura; A é o clichê do último dia, claro mas previsível. B ganha em dois critérios, mas perde clareza, então a vantagem é parcial.",
+  "vale_publicar_a_melhor": false
+ },
+ {
+  "codigo": "C3",
+  "melhor": "A",
+  "superioridade_real": true,
+  "por_criterio": {
+   "segunda_leitura": "A",
+   "originalidade": "A",
+   "plausibilidade": "A",
+   "precisao": "igual"
+  },
+  "defeito_novo_em_A": "",
+  "defeito_novo_em_B": "Repete o clichê do último dia secreto, previsível e sem nada que faça reler a foto.",
+  "justificativa": "A tem uma ironia real (minutos ganhos correndo e gastos no celular) que faz reler a pressa da multidão ao redor. B é correta, mas é a versão de menor risco e menor retorno.",
+  "vale_publicar_a_melhor": true
+ },
+ {
+  "codigo": "C4",
+  "melhor": "A",
+  "superioridade_real": true,
+  "por_criterio": {
+   "segunda_leitura": "A",
+   "originalidade": "igual",
+   "plausibilidade": "igual",
+   "precisao": "A"
+  },
+  "defeito_novo_em_A": "",
+  "defeito_novo_em_B": "A mão em repouso fora do cardápio deixa a foto sem nenhum indício do que o fora revela, então não há o que reconferir na imagem.",
+  "justificativa": "O texto é idêntico, mas em A o dedo na coluna da direita planta a pista visual que a segunda leitura recompensa. A ideia em si (escolher pelo preço e disfarçar) é familiar, o que limita o ganho.",
+  "vale_publicar_a_melhor": false
+ }
+]

@@ -1,0 +1,138 @@
+{
+ "J15_r1": [
+  {
+   "comparador": "1",
+   "melhor": "revisada",
+   "superioridade_real": true,
+   "vale_publicar": true,
+   "por_criterio_AB": {
+    "segunda_leitura": "A",
+    "originalidade": "A",
+    "plausibilidade": "A",
+    "precisao": "A"
+   },
+   "revisada_em": "A",
+   "defeito_A": "",
+   "defeito_B": "A lógica é frouxa: guardar tudo às sextas não protege a mesa, e a precariedade fica afirmada em vez de mostrada.",
+   "justificativa": "A explica a ausência de objetos pessoais e a caneta alinhada com uma situação concreta (cobrir licença, temer parecer que se instalou), o que dá releitura da foto. B é limpa, mas genérica e o motivo não sustenta o gesto."
+  },
+  {
+   "comparador": "2",
+   "melhor": "revisada",
+   "superioridade_real": true,
+   "vale_publicar": true,
+   "por_criterio_AB": {
+    "segunda_leitura": "B",
+    "originalidade": "B",
+    "plausibilidade": "B",
+    "precisao": "B"
+   },
+   "revisada_em": "B",
+   "defeito_A": "",
+   "defeito_B": "",
+   "justificativa": "B dá motivo concreto e humano à mesa sem objetos pessoais (a mesa é de um colega em licença) e revela um medo sutil, o de parecer que se instalou. A versão A é vaga sobre quem ameaça tomar a mesa e cai no medo genérico de demissão."
+  }
+ ],
+ "J01_r1": [
+  {
+   "comparador": "1",
+   "melhor": "revisada",
+   "superioridade_real": true,
+   "vale_publicar": false,
+   "por_criterio_AB": {
+    "segunda_leitura": "B",
+    "originalidade": "B",
+    "plausibilidade": "A",
+    "precisao": "A"
+   },
+   "revisada_em": "B",
+   "defeito_A": "",
+   "defeito_B": "A descoberta final é confusa (elevador vem de qualquer modo, 'precisou correr' fica ambíguo) e a frase acumula duas ideias.",
+   "justificativa": "B transforma a calma em descoberta sobre nove anos de pressa desnecessária, o que dá releitura; A é o clichê do último dia, claro mas previsível. B ganha em dois critérios, mas perde clareza, então a vantagem é parcial."
+  },
+  {
+   "comparador": "2",
+   "melhor": "revisada",
+   "superioridade_real": true,
+   "vale_publicar": true,
+   "por_criterio_AB": {
+    "segunda_leitura": "B",
+    "originalidade": "B",
+    "plausibilidade": "igual",
+    "precisao": "igual"
+   },
+   "revisada_em": "B",
+   "defeito_A": "",
+   "defeito_B": "A conclusão 'nunca precisou correr' é um salto lógico leve, já que correr poderia ter feito diferença em outros dias.",
+   "justificativa": "B troca o clichê do último dia por uma descoberta concreta que reinterpreta nove anos de pressa e muda o olhar sobre a postura calma da foto. A versão A é limpa, mas depende de um truque conhecido e não deixa nada a reler."
+  }
+ ],
+ "J01_r2": [
+  {
+   "comparador": "1",
+   "melhor": "revisada",
+   "superioridade_real": true,
+   "vale_publicar": true,
+   "por_criterio_AB": {
+    "segunda_leitura": "A",
+    "originalidade": "A",
+    "plausibilidade": "A",
+    "precisao": "igual"
+   },
+   "revisada_em": "A",
+   "defeito_A": "",
+   "defeito_B": "Repete o clichê do último dia secreto, previsível e sem nada que faça reler a foto.",
+   "justificativa": "A tem uma ironia real (minutos ganhos correndo e gastos no celular) que faz reler a pressa da multidão ao redor. B é correta, mas é a versão de menor risco e menor retorno."
+  },
+  {
+   "comparador": "2",
+   "melhor": "equivalentes",
+   "superioridade_real": false,
+   "vale_publicar": false,
+   "por_criterio_AB": {
+    "segunda_leitura": "A",
+    "originalidade": "A",
+    "plausibilidade": "B",
+    "precisao": "B"
+   },
+   "revisada_em": "A",
+   "defeito_A": "'Minutos ganhos' correndo para o elevador é pouco plausível, e 'fez a conta' não diz qual conta nem por que ela o faz parar; o celular não aparece na foto.",
+   "defeito_B": "Repete o truque do último dia secreto e da calma inédita, previsível e sem segunda camada.",
+   "justificativa": "A tem a ideia mais interessante, a corrida inútil, mas a execução tem aritmética frágil e referência turva. B é limpa e clara, porém convencional, então cada uma troca um problema por outro."
+  }
+ ],
+ "J06_f1": [
+  {
+   "comparador": "1",
+   "melhor": "original",
+   "superioridade_real": true,
+   "vale_publicar": false,
+   "por_criterio_AB": {
+    "segunda_leitura": "A",
+    "originalidade": "igual",
+    "plausibilidade": "igual",
+    "precisao": "A"
+   },
+   "revisada_em": "B",
+   "defeito_A": "",
+   "defeito_B": "A mão em repouso fora do cardápio deixa a foto sem nenhum indício do que o fora revela, então não há o que reconferir na imagem.",
+   "justificativa": "O texto é idêntico, mas em A o dedo na coluna da direita planta a pista visual que a segunda leitura recompensa. A ideia em si (escolher pelo preço e disfarçar) é familiar, o que limita o ganho."
+  },
+  {
+   "comparador": "2",
+   "melhor": "original",
+   "superioridade_real": true,
+   "vale_publicar": true,
+   "por_criterio_AB": {
+    "segunda_leitura": "B",
+    "originalidade": "igual",
+    "plausibilidade": "igual",
+    "precisao": "B"
+   },
+   "revisada_em": "A",
+   "defeito_A": "A mão em repouso não tem relação com a leitura pelo preço, então foto e legenda ficam desconectadas.",
+   "defeito_B": "O dedo na coluna da direita antecipa parte da revelação e reduz um pouco o fora de enquadramento.",
+   "justificativa": "O texto é idêntico e só muda a foto: o dedo na coluna da direita ancora a frase e dá ao leitor um detalhe para reconferir. O ganho é pequeno, e a ideia de escolher pelo preço continua conhecida."
+  }
+ ]
+}
