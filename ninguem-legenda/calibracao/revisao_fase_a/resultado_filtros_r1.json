@@ -1,0 +1,32 @@
+[
+  {
+    "id": "NV-05-r1",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 22
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "NV-01-r1",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 20
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "LAB-001"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M07 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  }
+]

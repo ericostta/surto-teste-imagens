@@ -1,0 +1,28 @@
+[
+ {
+  "id": "NV-05-r1",
+  "intencao": "BOA",
+  "tema": "despedida secreta",
+  "situacao": "último dia, por escolha dele",
+  "mecanismo": "M12",
+  "emocao": "surpresa",
+  "tipo_contraste": "pressa_vs_cuidado",
+  "na_foto": "Um homem espera o elevador na hora do rush.",
+  "fora": "Pediu demissão na semana passada. Hoje deixou três elevadores passarem e descobriu que, em nove anos, nunca precisou correr para pegar um.",
+  "conceito_foto": "Homem de terno visto de costas diante de portas de elevador, postura calma, mãos soltas. Ao redor, pessoas desfocadas em movimento. Luz fria de saguão. Sem rosto.",
+  "rosto": false
+ },
+ {
+  "id": "NV-01-r1",
+  "intencao": "BOA",
+  "tema": "precariedade no trabalho",
+  "situacao": "mesa arrumada às sextas",
+  "mecanismo": "M07",
+  "emocao": "desconforto",
+  "tipo_contraste": "ordem_aparente_vs_historia",
+  "na_foto": "Uma mesa de escritório impecavelmente organizada.",
+  "fora": "Toda sexta devolve a mesa como a encontrou. Cobre a licença de um colega e teme parecer que se instalou.",
+  "conceito_foto": "Mesa de escritório sem objetos pessoais, caneta alinhada ao teclado, monitor desligado, luz fria de fim de tarde. Nenhuma pessoa.",
+  "rosto": false
+ }
+]
