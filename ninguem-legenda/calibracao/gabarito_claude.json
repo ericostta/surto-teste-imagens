@@ -1,0 +1,92 @@
+{
+  "K01": {
+    "origem": "LAB-005",
+    "tipo": "lote",
+    "veredicto_claude": "APROVADA"
+  },
+  "K02": {
+    "origem": "LAB-007",
+    "tipo": "lote",
+    "veredicto_claude": "REVISAR"
+  },
+  "K03": {
+    "origem": "LAB-011",
+    "tipo": "lote",
+    "veredicto_claude": "REVISAR"
+  },
+  "K04": {
+    "origem": "LAB-008",
+    "tipo": "lote",
+    "veredicto_claude": "APROVADA"
+  },
+  "K05": {
+    "origem": "ADV-05-moralismo",
+    "tipo": "negativo:moralismo",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K06": {
+    "origem": "LAB-002",
+    "tipo": "lote",
+    "veredicto_claude": "APROVADA"
+  },
+  "K07": {
+    "origem": "ADV-06-abstrato",
+    "tipo": "negativo:abstrato",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K08": {
+    "origem": "LAB-003",
+    "tipo": "lote",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K09": {
+    "origem": "LAB-009",
+    "tipo": "lote",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K10": {
+    "origem": "ADV-04-melodrama",
+    "tipo": "negativo:melodrama",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K11": {
+    "origem": "NEG-arbitrario",
+    "tipo": "negativo:conexao_arbitraria",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K12": {
+    "origem": "ADV-02-autoajuda",
+    "tipo": "negativo:autoajuda",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K13": {
+    "origem": "LAB-004",
+    "tipo": "lote",
+    "veredicto_claude": "APROVADA"
+  },
+  "K14": {
+    "origem": "ADV-03-redundante",
+    "tipo": "negativo:redundante",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K15": {
+    "origem": "LAB-001",
+    "tipo": "lote",
+    "veredicto_claude": "APROVADA"
+  },
+  "K16": {
+    "origem": "LAB-006",
+    "tipo": "lote",
+    "veredicto_claude": "APROVADA"
+  },
+  "K17": {
+    "origem": "LAB-010",
+    "tipo": "lote",
+    "veredicto_claude": "REPROVADA"
+  },
+  "K18": {
+    "origem": "LAB-012",
+    "tipo": "lote",
+    "veredicto_claude": "REPROVADA"
+  }
+}

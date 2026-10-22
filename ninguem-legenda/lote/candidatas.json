@@ -1,0 +1,110 @@
+[
+  {
+    "id": "LAB-001", "rodada": 1,
+    "tema": "independência financeira", "situacao": "primeira compra sem checar preço",
+    "mecanismo": "M02", "emocao": "conquista", "tipo_contraste": "pequeno_vs_grande",
+    "na_foto": "Uma cadeira de escritório nova, ainda com o plástico.",
+    "fora": "A primeira que ele escolheu sem olhar o preço antes.",
+    "conceito_foto": "Cadeira de escritório cinza, encosto ainda coberto por plástico protetor, em sala quase vazia de chão de madeira clara. Luz natural de tarde vinda de janela lateral. Nenhuma pessoa. Sem etiqueta legível.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-002", "rodada": 1,
+    "tema": "trabalho terceirizado", "situacao": "visitante permanente na própria empresa",
+    "mecanismo": "M07", "emocao": "contradicao_social", "tipo_contraste": "ordem_aparente_vs_historia",
+    "na_foto": "Um crachá de visitante preso na camisa.",
+    "fora": "Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu.",
+    "conceito_foto": "Torso cortado abaixo do queixo, sem rosto: camisa social azul-clara com crachá branco liso preso no bolso, cordão discreto, sem texto legível nem logotipo. Recepção de escritório desfocada ao fundo, plantas e balcão neutro. Luz fria de lâmpadas de teto.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-003", "rodada": 1,
+    "tema": "cuidado de mãe", "situacao": "marmita entregue no estacionamento",
+    "mecanismo": "M05", "emocao": "afeto", "tipo_contraste": "pressa_vs_cuidado",
+    "na_foto": "Uma marmita aberta sobre o capô de um carro.",
+    "fora": "Ela atravessou a cidade de ônibus só para ver se ele tinha comido.",
+    "conceito_foto": "Marmita de alumínio aberta com arroz, feijão e um bife, sobre o capô de um carro prata em estacionamento de empresa. Mãos de homem segurando um garfo, sem rosto. Luz forte de meio-dia.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-004", "rodada": 2,
+    "tema": "plantas", "situacao": "planta viçosa e histórico escondido",
+    "mecanismo": "M11", "emocao": "humor", "tipo_contraste": "sucesso_aparente_vs_custo",
+    "na_foto": "Uma planta perfeita no parapeito da janela.",
+    "fora": "É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo.",
+    "conceito_foto": "Zamioculca viçosa em vaso de cerâmica branca, no parapeito de uma janela com cortina de linho. Luz suave de manhã. Nenhuma pessoa. Sem terra espalhada nem sinal de replantio.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-005", "rodada": 2,
+    "tema": "recomeço depois de separação", "situacao": "primeira semana dormindo sozinho sem peso",
+    "mecanismo": "M10", "emocao": "alivio", "tipo_contraste": "presenca_vs_ausencia",
+    "na_foto": "Uma cama de solteiro bem arrumada, lençol esticado.",
+    "fora": "A primeira semana em que dormir sozinho deixou de parecer castigo.",
+    "conceito_foto": "Quarto pequeno com cama de solteiro de lençol cinza-claro esticado e uma única almofada. Mesa de cabeceira com livro fechado e copo d'água. Luz dourada de fim de tarde. Nenhuma pessoa.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-006", "rodada": 2,
+    "tema": "viagem adiada", "situacao": "mala sempre pronta",
+    "mecanismo": "M09", "emocao": "surpresa", "tipo_contraste": "cena_vs_autor_da_cena",
+    "na_foto": "Uma mala fechada, pronta ao lado da porta.",
+    "fora": "Está assim há dois anos. Ele gosta de saber que poderia ir.",
+    "conceito_foto": "Mala média cinza fechada, alça levantada, ao lado da porta de entrada de um apartamento, chaves num gancho acima. Corredor limpo, luz de manhã. Sem poeira e sem sinais de tempo parado. Nenhuma pessoa.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-007", "rodada": 3,
+    "tema": "burocracia e comportamento de grupo", "situacao": "fila sem motivo conhecido",
+    "mecanismo": "M07", "emocao": "humor", "tipo_contraste": "ordem_aparente_vs_historia",
+    "na_foto": "Uma fila longa diante de um balcão.",
+    "fora": "Metade está ali só porque achou que a outra metade sabia o motivo.",
+    "conceito_foto": "Pessoas vistas de costas em fila num corredor claro de repartição, balcão com vidro ao fundo, sem placa legível. Roupas cotidianas variadas. Luz de lâmpadas de teto.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-008", "rodada": 3,
+    "tema": "quem registra a família", "situacao": "autor das fotos ausente de todas elas",
+    "mecanismo": "M04", "emocao": "relacao_humana", "tipo_contraste": "cena_vs_autor_da_cena",
+    "na_foto": "Uma mesa de Natal farta, vista de cima.",
+    "fora": "A mão que segura o celular é a única que nunca sai nas fotos de família.",
+    "conceito_foto": "Mesa posta vista de cima: travessas, taças, guardanapos de pano, velas pequenas. Luz quente. Nenhuma mão nem sombra do fotógrafo no quadro.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-009", "rodada": 3,
+    "tema": "herança de gestos", "situacao": "relógio tirado antes de lavar as mãos",
+    "mecanismo": "M06", "emocao": "afeto", "tipo_contraste": "ordem_aparente_vs_historia",
+    "na_foto": "Um relógio de pulso antigo ao lado da torneira.",
+    "fora": "Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê.",
+    "conceito_foto": "Relógio de pulso de pulseira de couro marrom e vidro riscado, sobre a bancada de uma pia de banheiro de azulejo branco, torneira cromada e sabonete ao lado. Luz amarelada de lâmpada. Nenhuma pessoa.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-010", "rodada": 4,
+    "tema": "decidir ficar", "situacao": "escova de dente trocada",
+    "mecanismo": "M08", "emocao": "relacao_humana", "tipo_contraste": "presenca_vs_ausencia",
+    "na_foto": "Duas escovas de dente no mesmo copo.",
+    "fora": "A segunda foi trocada na semana em que ela decidiu ficar.",
+    "conceito_foto": "Copo de vidro com duas escovas de dente, uma de cabo azul e outra de cabo branco, sobre bancada de banheiro. Espelho parcialmente visível sem reflexo de pessoas. Luz neutra da manhã.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-011", "rodada": 4,
+    "tema": "primeira conquista na casa nova", "situacao": "diploma pendurado antes da pintura",
+    "mecanismo": "M12", "emocao": "conquista", "tipo_contraste": "pequeno_vs_grande",
+    "na_foto": "Um diploma emoldurado numa parede ainda sem pintura.",
+    "fora": "Ele o pendurou antes de pintar a casa, para o caso de a coragem passar.",
+    "conceito_foto": "Parede de massa corrida ainda sem tinta, com manchas de lixa. Diploma em moldura simples de madeira clara, sem texto legível. Escada de pintor e lata fechada ao canto. Nenhuma pessoa.",
+    "rosto": false
+  },
+  {
+    "id": "LAB-012", "rodada": 4,
+    "tema": "lugar que ninguém ocupa", "situacao": "cadeira que todos contornam",
+    "mecanismo": "M03", "emocao": "melancolia", "tipo_contraste": "presenca_vs_ausencia",
+    "na_foto": "Uma cadeira de balanço virada para a janela.",
+    "fora": "Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém.",
+    "conceito_foto": "Cadeira de balanço de madeira escura, manta dobrada no encosto, voltada para uma janela com cortina branca. Luz difusa, sala silenciosa. Nenhuma pessoa.",
+    "rosto": false
+  }
+]

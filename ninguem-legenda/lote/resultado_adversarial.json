@@ -1,0 +1,187 @@
+[
+  {
+    "id": "ADV-BASE",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.94,
+      "com": "ADV-01-quase-copia"
+    },
+    "falhas": [
+      "quase repetição de ADV-01-quase-copia (similaridade 0.94)"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-01-quase-copia",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.94,
+      "com": "ADV-BASE"
+    },
+    "falhas": [
+      "quase repetição de ADV-BASE (similaridade 0.94)"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-02-autoajuda",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 10
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "ADV-05-moralismo"
+    },
+    "falhas": [
+      "autoajuda ou moralismo: acredite, recomecar do zero, recomecar, cada dia e uma chance"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-03-redundante",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 11
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "ADV-05-moralismo"
+    },
+    "falhas": [
+      "FORA repete NA FOTO (sobreposição 0.67)"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-04-melodrama",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.35,
+      "com": "ADV-08-dado-e-travessao"
+    },
+    "falhas": [
+      "veto temático (violencia_e_tragedia): incendio",
+      "melodrama: perdeu tudo, sem ninguem"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-05-moralismo",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 10
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "ADV-01-quase-copia"
+    },
+    "falhas": [
+      "autoajuda ou moralismo: valorize, largue o celular"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-06-abstrato",
+    "palavras": {
+      "na_foto": 3,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.43,
+      "com": "ADV-01-quase-copia"
+    },
+    "falhas": [
+      "abstração excessiva: alma"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-07-politica",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 12
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "ADV-01-quase-copia"
+    },
+    "falhas": [
+      "veto temático (politica_partidaria): urna, candidato, voto, governo"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-08-dado-e-travessao",
+    "palavras": {
+      "na_foto": 5,
+      "fora": 12
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "ADV-02-autoajuda"
+    },
+    "falhas": [
+      "travessão no texto público",
+      "veto temático (dados_e_leis): estudos mostram",
+      "dado numérico ou estatística no texto público"
+    ],
+    "alertas": [],
+    "passou": false
+  },
+  {
+    "id": "ADV-09-longo",
+    "palavras": {
+      "na_foto": 13,
+      "fora": 23
+    },
+    "similaridade_max": {
+      "valor": 0.28,
+      "com": "ADV-05-moralismo"
+    },
+    "falhas": [
+      "NA FOTO com 13 palavras (máx 10)",
+      "FORA DO ENQUADRAMENTO com 23 palavras (máx 22)"
+    ],
+    "alertas": [
+      "conceito fotográfico menciona 'texto' (a foto não pode conter texto)",
+      "conceito fotográfico menciona 'legenda' (a foto não pode conter texto)"
+    ],
+    "passou": false
+  },
+  {
+    "id": "ADV-10-marca",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.35,
+      "com": "ADV-03-redundante"
+    },
+    "falhas": [
+      "marca ou pessoa real: ifood"
+    ],
+    "alertas": [
+      "conceito fotográfico menciona 'logotipo' (a foto não pode conter texto)"
+    ],
+    "passou": false
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "metodo": "Pacote cego (conceito_foto, na_foto, fora). Executado no mesmo ambiente do Criador: NÃO é isolamento real. O passo 1 (previsão) fica contaminado porque quem avalia conhece os textos. Os campos 'previsao' e 'grau_previsao' são tentativas honestas, não medidas independentes.",
+  "avaliacoes": [
+    {
+      "id": "LAB-001", "previsao": "A cadeira marca a primeira vez em que ele se sente instalado no trabalho.", "grau_previsao": "previu parte",
+      "elemento_que_muda": "a cadeira deixa de ser mobília e vira marca de segurança financeira",
+      "especifica": "sim: o plástico indica compra recente, e a revelação depende de um objeto comprado",
+      "plausivel": "sim", "eliminatorias": [],
+      "defeitos": ["tema de dinheiro e pequena conquista é comum, surpresa moderada", "'a primeira' pode ser lida como primeira cadeira ou primeira compra qualquer, leve ambiguidade"],
+      "veredicto": "APROVADA", "nota": 80
+    },
+    {
+      "id": "LAB-002", "previsao": "Ele é novo na empresa.", "grau_previsao": "previu parte",
+      "elemento_que_muda": "o crachá de visitante deixa de indicar recém-chegado e passa a indicar vínculo precário permanente",
+      "especifica": "sim: o objeto da foto é exatamente o objeto da revelação",
+      "plausivel": "sim", "eliminatorias": [],
+      "defeitos": ["a revelação é uma crítica trabalhista implícita: manter tom de constatação, sem acusar ninguém"],
+      "veredicto": "APROVADA", "nota": 90
+    },
+    {
+      "id": "LAB-003", "previsao": "Alguém levou comida para ele.", "grau_previsao": "previu quase tudo",
+      "elemento_que_muda": "o capô vira ponto de encontro, mas a leitura inicial (cuidado) apenas se confirma",
+      "especifica": "parcial: qualquer cena de marmita levada serviria",
+      "plausivel": "sim",
+      "eliminatorias": ["revelação previsível e que modifica pouco a interpretação"],
+      "defeitos": ["trope da mãe que cuida e atravessa a cidade", "'só para ver se ele tinha comido' explica o gesto que a foto já sugere", "sentimentalismo de manual"],
+      "veredicto": "REPROVADA", "nota": 62
+    },
+    {
+      "id": "LAB-004", "previsao": "Ela cuida bem de plantas.", "grau_previsao": "não previu",
+      "elemento_que_muda": "a planta perfeita vira sobrevivente de um histórico escondido",
+      "especifica": "sim", "plausivel": "sim", "eliminatorias": [],
+      "defeitos": ["a piada da planta que morreu e foi substituída é de domínio comum: originalidade baixa", "a segunda leitura é gag, com pouco peso humano", "'enterradas no mesmo vaso' soa estranho, mas é o ponto do humor"],
+      "veredicto": "APROVADA", "nota": 76
+    },
+    {
+      "id": "LAB-005", "previsao": "Alguém que vive sozinho e é organizado.", "grau_previsao": "previu parte",
+      "elemento_que_muda": "a arrumação vira sinal de alívio emocional depois de uma separação",
+      "especifica": "sim: cama de solteiro sustenta 'dormir sozinho'",
+      "plausivel": "sim", "eliminatorias": [],
+      "defeitos": ["'castigo' é palavra forte para o tom da série", "a separação é inferida, não dita, o que é bom, mas pode se perder"],
+      "veredicto": "APROVADA", "nota": 83
+    },
+    {
+      "id": "LAB-006", "previsao": "Ele vai viajar.", "grau_previsao": "não previu",
+      "elemento_que_muda": "a mala pronta passa de promessa de partida a conforto da possibilidade",
+      "especifica": "sim", "plausivel": "sim", "eliminatorias": [],
+      "defeitos": ["'Ele gosta de saber que poderia ir' explica a psicologia: poderia ser mais seco", "a foto não pode mostrar poeira nem sinais de tempo, senão entrega 'há dois anos'"],
+      "veredicto": "APROVADA", "nota": 87
+    },
+    {
+      "id": "LAB-007", "previsao": "Burocracia lenta.", "grau_previsao": "previu parte",
+      "elemento_que_muda": "a fila vira comportamento de rebanho",
+      "especifica": "não: uma fila de banco ou de lotérica produziria o mesmo efeito",
+      "plausivel": "sim", "eliminatorias": [],
+      "defeitos": ["risco de generalidade: o balcão e a repartição não participam da revelação", "humor depende de conhecimento comum, pouco do que a foto mostra"],
+      "veredicto": "REVISAR", "nota": 72,
+      "o_que_mudaria": "ancorar a revelação em um detalhe visível e específico da cena"
+    },
+    {
+      "id": "LAB-008", "previsao": "Uma família reunida e alguém que trabalhou para isso.", "grau_previsao": "previu parte",
+      "elemento_que_muda": "a própria foto: quem a tirou nunca está nela",
+      "especifica": "sim: a revelação é sobre a autoria da imagem, que só existe porque há uma foto",
+      "plausivel": "sim", "eliminatorias": [],
+      "defeitos": ["'fotos de família' é um pouco genérico: a revelação ganharia com um detalhe concreto", "vista de cima sem sombra do fotógrafo: confirmar na geração"],
+      "veredicto": "APROVADA", "nota": 91
+    },
+    {
+      "id": "LAB-009", "previsao": "O dono tira o relógio para lavar as mãos.", "grau_previsao": "previu quase tudo",
+      "elemento_que_muda": "o gesto herdado do pai, mas o gesto já está sugerido pela foto (relógio ao lado da torneira)",
+      "especifica": "sim", "plausivel": "sim",
+      "eliminatorias": ["a foto entrega visualmente parte da revelação (restrição 13)", "revelação previsível"],
+      "defeitos": ["herança de gesto do pai é trope", "'que nunca explicou por quê' é acréscimo sentimental", "18 palavras, perto do limite"],
+      "veredicto": "REPROVADA", "nota": 58
+    },
+    {
+      "id": "LAB-010", "previsao": "Um casal que mora junto.", "grau_previsao": "previu quase tudo",
+      "elemento_que_muda": "a segunda escova passa de sinal de casal a marca de uma decisão",
+      "especifica": "sim", "plausivel": "sim",
+      "eliminatorias": ["revelação previsível pela convenção visual (duas escovas = casal)"],
+      "defeitos": ["escova de dente como símbolo de intimidade é muito usada", "'decidiu ficar' resume a história em vez de abrir uma dimensão nova"],
+      "veredicto": "REPROVADA", "nota": 66
+    },
+    {
+      "id": "LAB-011", "previsao": "Ele orgulha-se do diploma e ainda não terminou a casa.", "grau_previsao": "previu quase tudo",
+      "elemento_que_muda": "o diploma vira um ato de autocoragem, mas só se a ordem 'antes de pintar' fosse novidade",
+      "especifica": "sim", "plausivel": "parcial",
+      "eliminatorias": [],
+      "defeitos": ["'antes de pintar a casa' repete 'parede ainda sem pintura' do NA FOTO: o texto descreve o que a foto já mostra", "'para o caso de a coragem passar' é ambíguo (coragem de quê?)"],
+      "veredicto": "REVISAR", "nota": 70,
+      "o_que_mudaria": "tirar 'ainda sem pintura' do NA FOTO e esclarecer de qual coragem se trata"
+    },
+    {
+      "id": "LAB-012", "previsao": "Alguém que partiu ou morreu.", "grau_previsao": "previu quase tudo",
+      "elemento_que_muda": "a cadeira vazia vira lugar guardado, mas a leitura inicial já é essa",
+      "especifica": "parcial", "plausivel": "sim",
+      "eliminatorias": ["revelação previsível e que modifica pouco a interpretação"],
+      "defeitos": ["cadeira vazia como ausência é o primeiro palpite de quem vê a foto", "melancolia, sem o contraponto de outro tom", "a frase final é bonita e previsível"],
+      "veredicto": "REPROVADA", "nota": 60
+    }
+  ]
+}

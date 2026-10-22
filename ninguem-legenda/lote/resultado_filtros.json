@@ -1,0 +1,172 @@
+[
+  {
+    "id": "LAB-001",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 10
+    },
+    "similaridade_max": {
+      "valor": 0.49,
+      "com": "LAB-005"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-002",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 12
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-003",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "LAB-008"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-004",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.36,
+      "com": "LAB-012"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-005",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 11
+    },
+    "similaridade_max": {
+      "valor": 0.45,
+      "com": "LAB-001"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-006",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 12
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "LAB-012"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-007",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M07 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "LAB-008",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.38,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-009",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-010",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 11
+    },
+    "similaridade_max": {
+      "valor": 0.38,
+      "com": "LAB-002"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-011",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "LAB-001"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "LAB-012",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.36,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "versao": "fase-a-0.1",
+  "nota": "Todos os valores sao experimentais e serao calibrados na homologacao.",
+  "limites_texto": {
+    "na_foto_max_palavras": 10,
+    "fora_max_palavras": 22,
+    "fora_min_palavras": 6
+  },
+  "historico": {
+    "janela_emocao": 30,
+    "alerta_concentracao_emocao": 0.40,
+    "janela_mecanismo": 5,
+    "janela_abertura_sintatica": 30,
+    "similaridade_texto_alerta": 0.55,
+    "similaridade_texto_falha": 0.75
+  },
+  "rostos": {
+    "max_por_10_edicoes": 2
+  },
+  "rodadas": {
+    "candidatas_por_rodada": 3,
+    "max_rodadas_texto": 2,
+    "max_geracoes_imagem_por_texto": 2
+  },
+  "critico": {
+    "nota_minima_desempate": 0,
+    "observacao": "Nota so serve para desempatar candidatas aprovaveis. Eliminatorias valem sobre a nota."
+  }
+}
