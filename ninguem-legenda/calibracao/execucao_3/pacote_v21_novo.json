@@ -1,0 +1,396 @@
+{
+ "textos_anteriores": [
+  "Uma cadeira de escritório nova, ainda com o plástico. A primeira que ele escolheu sem olhar o preço antes.",
+  "Um crachá de visitante preso na camisa. Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu.",
+  "Uma marmita aberta sobre o capô de um carro. Ela atravessou a cidade de ônibus só para ver se ele tinha comido.",
+  "Uma planta perfeita no parapeito da janela. É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo.",
+  "Uma cama de solteiro bem arrumada, lençol esticado. A primeira semana em que dormir sozinho deixou de parecer castigo.",
+  "Uma mala fechada, pronta ao lado da porta. Está assim há dois anos. Ele gosta de saber que poderia ir.",
+  "Uma fila longa diante de um balcão. Metade está ali só porque achou que a outra metade sabia o motivo.",
+  "Uma mesa de Natal farta, vista de cima. A mão que segura o celular é a única que nunca sai nas fotos de família.",
+  "Um relógio de pulso antigo ao lado da torneira. Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê.",
+  "Duas escovas de dente no mesmo copo. A segunda foi trocada na semana em que ela decidiu ficar.",
+  "Um diploma emoldurado numa parede ainda sem pintura. Ele o pendurou antes de pintar a casa, para o caso de a coragem passar.",
+  "Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém."
+ ],
+ "candidatas": [
+  {
+   "codigo": "X04",
+   "conceito_foto": "Caixa de sapatos aberta com maço de envelopes amarelados presos por barbante, sem texto legível, numa prateleira de armário. Nenhuma pessoa.",
+   "na_foto": "Uma caixa de sapatos cheia de cartas antigas.",
+   "fora": "Ele nunca teve coragem de abrir, porque teme que a saudade doa mais que o silêncio.",
+   "previsoes_cegas": [
+    {
+     "previsao": "As cartas nunca foram respondidas ou foram escritas por alguém que já morreu, e quem guarda a caixa não consegue reler nem jogar fora.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "As cartas são de um amor ou familiar que nunca foi respondido, e a pessoa nunca teve coragem de reler ou jogar fora.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "As cartas são de um amor ou de alguém que morreu, e ninguém nunca teve coragem de reler.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X06",
+   "conceito_foto": "Despertador analógico sobre criado-mudo, ponteiros marcando seis horas, quarto na penumbra e luz do amanhecer na cortina. Nenhuma pessoa.",
+   "na_foto": "Um despertador marcando seis horas.",
+   "fora": "Ela o põe para tocar às seis e acorda às cinco, só para desligá-lo antes que o acorde.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A pessoa já está acordada há horas, sem conseguir dormir, e o despertador toca para ninguém.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O despertador toca todo dia às seis para uma rotina que a pessoa já não tem mais, porque perdeu o emprego ou alguém.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A pessoa já está acordada há horas, sem conseguir dormir, esperando o alarme tocar.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X08",
+   "conceito_foto": "Criança de uniforme escolar e adulto vistos de costas, de mãos dadas, num ponto de ônibus de rua arborizada. Sem rostos, sem placas legíveis. Luz de manhã.",
+   "na_foto": "Uma menina e o pai esperam no ponto de ônibus.",
+   "fora": "Ela decora o número dos ônibus porque o pai ainda não aprendeu a ler os letreiros.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O pai está se despedindo, pois é a última manhã que leva a filha à escola antes de mudar de cidade ou perder a guarda.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "É o último dia em que o pai leva a filha, porque ele vai se mudar ou perder a guarda, e a menina ainda não sabe.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "É a última manhã em que o pai a leva, pois ele está de mudança, separado ou doente.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X09",
+   "conceito_foto": "Duas filas de carrinhos cheios diante de dois caixas, uma delas ligeiramente à frente. Corredor de supermercado, luz branca. Pessoas de costas, sem rostos.",
+   "na_foto": "Uma fila de carrinhos diante do caixa do mercado.",
+   "fora": "Ele troca de fila sempre que a dele atrasa, e é sempre a que deixou que passa.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A fila de um dos caixas anda mais rápido e quem está na outra sempre escolhe a fila errada, a pessoa se sente injustiçada por uma coisa mínima enquanto carrega um problema bem maior.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A pessoa na fila está contando moedas ou itens porque o dinheiro não vai chegar até o final das compras.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Quem está na fila ao lado percebe que a sua anda mais devagar, e a sensação de azar é universal.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X11",
+   "conceito_foto": "Mesa de jantar posta para quatro lugares, duas cadeiras afastadas e duas encostadas, velas acesas, luz quente. Nenhuma pessoa.",
+   "na_foto": "Uma mesa de jantar posta para quatro pessoas.",
+   "fora": "Isso se repete toda sexta, e ninguém tem coragem de contar a eles.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Duas pessoas que deveriam estar ali não vieram e a família finge que o jantar continua normal, ou duas cadeiras ficaram vazias porque alguém morreu.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Dois convidados avisaram que não viriam, ou a família se desfez, e a mesa continua posta como se todos fossem chegar.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Duas pessoas que deveriam estar na mesa não vieram, ou foram embora brigadas, e a mesa continua posta para manter as aparências.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X12",
+   "conceito_foto": "Mochila escolar azul de zíper fechado, apoiada num sofá cinza, luz de manhã. Nenhuma pessoa.",
+   "na_foto": "Uma mochila escolar cheia, apoiada no sofá.",
+   "fora": "Dentro, além dos cadernos, vai o lanche extra que ela leva para um colega, fingindo que sobrou.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A mochila está cheia mas a criança não quer ir à escola, pois sofre bullying e ninguém em casa percebeu.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A mochila está cheia de coisas que a criança carrega além do material, como medo ou o peso da separação dos pais.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A mochila está pronta porque a criança vai dormir na casa do outro genitor, ou a criança que a usava já não mora ali.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X14",
+   "conceito_foto": "Bandeja de pães franceses fumegando sobre balcão de aço, luz branca de madrugada, mãos enfarinhadas ao fundo. Sem rosto.",
+   "na_foto": "Uma bandeja de pães quentes sobre o balcão.",
+   "fora": "A padeira acorda às três da manhã para que a cidade acorde bem.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O padeiro trabalha de madrugada para que os outros acordem com pão quente, e ninguém que come o pão sabe quem o fez nem a que custo.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O padeiro trabalha de madrugada para que os outros acordem com pão quente, e quase nunca vê a família acordada.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O padeiro acorda de madrugada para que os outros comam cedo, e ninguém pensa em quem fez o pão.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X15",
+   "conceito_foto": "Homem de terno visto de costas diante de portas de elevador, postura calma, mãos soltas. Ao redor, pessoas desfocadas em movimento. Luz fria de saguão. Sem rosto.",
+   "na_foto": "Um homem espera o elevador na hora do rush.",
+   "fora": "É o último dia dele ali, e ninguém sabe. Pela primeira vez, ele não está com pressa.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O homem calmo está prestes a ser demitido ou acaba de receber uma notícia ruim, e ninguém ao redor percebe porque todos estão correndo.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Ele acabou de ser demitido ou receber um diagnóstico e está calmo porque já não tem pressa para chegar a lugar nenhum.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Ele está calmo por fora, mas acabou de ser demitido ou vai receber uma notícia que mudará sua vida.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X19",
+   "conceito_foto": "Guarda-sol fechado cravado na areia de uma praia vazia, luz de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Um guarda-sol fechado na areia.",
+   "fora": "A irmã mais velha nunca perdoou a mudança de cidade em 1998.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O guarda-sol foi esquecido por alguém que saiu da praia correndo depois de uma notícia, ou a família que o plantou nunca voltou.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O guarda-sol foi deixado por alguém que não voltou, ou pela família que já foi embora ao fim das férias.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O guarda-sol foi esquecido por quem foi embora às pressas, ou o verão acabou e ninguém voltou.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X23",
+   "conceito_foto": "Cinco livros empilhados numa mesa de cabeceira, marcadores saindo das páginas, abajur aceso, lombadas sem texto legível. Nenhuma pessoa.",
+   "na_foto": "Uma pilha de livros na mesa de cabeceira.",
+   "fora": "Nenhum foi aberto este ano. São presentes para a versão dela que dorme cedo.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A pessoa começou todos os livros e não terminou nenhum, porque não consegue se concentrar ou dorme sozinha.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Ninguém termina esses livros, porque a pessoa lê para adiar o sono ou a solidão e nunca chega ao fim.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A pessoa começa vários livros e não termina nenhum, porque lê para evitar dormir sozinha ou pensar.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X24",
+   "conceito_foto": "Cardápio aberto sobre toalha branca, uma mão com o dedo pousado na coluna da direita, tipografia desfocada e ilegível, luz de lâmpada pendente. Nenhum rosto.",
+   "na_foto": "Um cardápio aberto sobre a mesa do restaurante.",
+   "fora": "Ela lê da direita para a esquerda, pelo preço, e finge que escolheu pelo gosto.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A pessoa lê o cardápio pela coluna dos preços e não pelos pratos, porque a conta decide o que ela pode pedir.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A pessoa lê o cardápio pela coluna dos preços, à direita, para escolher o que cabe no bolso e não o que quer comer.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A pessoa olha só a coluna dos preços para escolher o mais barato, fingindo que não é questão de dinheiro.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X25",
+   "conceito_foto": "Sala de espera com cadeiras ocupadas por pessoas de cabeça baixa vistas de costas e de lado, sem rostos. Parede clara. Luz de lâmpadas de teto.",
+   "na_foto": "Uma sala de espera com todas as cadeiras ocupadas.",
+   "fora": "Todos olham o celular para não precisar olhar o relógio da parede.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Todos esperam uma notícia de saúde e ninguém conversa, cada um preocupado com alguém que está do outro lado da porta.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Todos esperam uma notícia que pode mudar a vida, e cada um finge olhar para o celular para não encarar o medo do outro.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Todos esperam uma notícia, e cada um carrega um medo diferente que não aparece em lugar nenhum.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X26",
+   "conceito_foto": "Casaco de lã cinza pendurado num cabide atrás da porta de um quarto, luz lateral. Nenhuma pessoa.",
+   "na_foto": "Um casaco pendurado atrás da porta.",
+   "fora": "O casaco dele continua ali, pendurado, como se ele fosse voltar.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O casaco é de alguém que já não mora ali e continua pendurado porque ninguém quis tirar.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O casaco é de alguém que já se foi, e ele continua ali porque ainda guarda o cheiro da pessoa.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O casaco é de alguém que já foi embora, e ninguém o tirou do lugar desde então.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X28",
+   "conceito_foto": "Escada de metal em espiral fotografada do topo para baixo, luz fria. Nenhuma pessoa.",
+   "na_foto": "Uma escada em espiral, vista de cima.",
+   "fora": "Subir é só o nome que damos a girar sem sair do lugar.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A escada leva a um lugar que a pessoa evita, e ela já parou no topo várias vezes sem coragem de descer ou subir.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A escada leva a um lugar que a pessoa evita, e a vista de cima dá a sensação de vertigem de quem não sabe se desce.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "De cima parece bonita, mas quem a sobe todos os dias sente só cansaço e a vertigem de não chegar a lugar nenhum.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X29",
+   "conceito_foto": "Close de uma mão idosa segurando uma mão jovem sobre uma toalha de crochê. Sem rostos.",
+   "na_foto": "Uma mão idosa segurando uma mão jovem.",
+   "fora": "Entre as duas há cinquenta anos de carinho que palavra nenhuma daria conta de dizer.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A mão idosa está se despedindo, pois é a última vez que a avó segura a mão do neto, ou ela já não reconhece quem está segurando.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A avó está se despedindo ou perdendo a memória e segura a mão do neto para guardar o toque enquanto ainda reconhece.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A mão idosa está se despedindo, e a mão jovem ainda não sabe que é uma das últimas vezes.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X30",
+   "conceito_foto": "Mesa de escritório sem objetos pessoais, caneta alinhada ao teclado, monitor desligado, luz fria de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Uma mesa de escritório impecavelmente organizada.",
+   "fora": "Ele guarda tudo no lugar às sextas porque, na segunda, nunca sabe se ainda terá a mesa.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A mesa está impecável porque a pessoa foi demitida ou se demitiu e esvaziou tudo, ou porque vive no trabalho para não ter que ir para casa.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A mesa está vazia porque a pessoa foi desligada ou está prestes a pedir demissão, e arrumou tudo para não deixar rastro.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A mesa está assim porque a pessoa foi demitida ou esvaziou tudo, ou porque ninguém se sente em casa ali.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X32",
+   "conceito_foto": "Balde plástico azul cheio de moedas de valores variados, num canto de sala, luz de tarde. Nenhuma pessoa.",
+   "na_foto": "Um balde cheio de moedas num canto da sala.",
+   "fora": "Cada moeda é uma pergunta que ele não fez ao irmão sobre o dinheiro emprestado.",
+   "previsoes_cegas": [
+    {
+     "previsao": "As moedas são a poupança de anos para um sonho ou uma dívida, e cada moeda foi guardada em dias difíceis.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "As moedas são a economia de anos para um objetivo que ainda não chegou, como um sonho ou uma dívida.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "As moedas são a economia de anos para um sonho ou uma dívida, juntadas aos poucos por alguém que nunca teve mais que isso.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "X34",
+   "conceito_foto": "Trilha estreita de terra em floresta densa, luz filtrada pelas copas. Nenhuma pessoa.",
+   "na_foto": "Uma trilha estreita no meio da floresta.",
+   "fora": "Cada passo que você dá hoje é uma escolha que ninguém mais pode fazer por você.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A trilha parece vazia mas alguém passou por ali recentemente fugindo ou se perdendo, ou a pessoa foi para lá para ficar sozinha com um pensamento difícil.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A trilha é um caminho que a pessoa percorre sozinha para pensar numa decisão que não conseguiu tomar em casa.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A trilha leva a um lugar onde alguém se perdeu, ou onde a pessoa vai pela primeira vez em silêncio para tomar uma decisão.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  }
+ ]
+}

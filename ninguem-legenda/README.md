@@ -20,8 +20,9 @@ Não toca: fila/, publicadas/, fila-eri/, fila-threads/, frases/, scripts/, agen
 - calibracao/: conjunto para Eri rotular (para_eri.md, sem veredictos) e gabarito do Claude (gabarito_claude.json). Quem rotula não deve abrir o gabarito antes de responder.
 - registrar_lote.py: grava candidatas avaliadas no registro.csv (idempotente, sem número público)
 - validar_avaliacao.py: confere a coerência interna das avaliações do Crítico (APROVADA exige E1 a E4, REVISAR exige instrução, REPROVADA exige eliminatória). Roda depois do Crítico e antes da seleção.
-- prompts/critico.md é a versão v2 (critico_v1.md preservado). prompts/preditor.md é o leitor cego que prevê a revelação a partir da foto e do NA FOTO.
+- prompts/critico.md é a versão v2.1 (critico_v1.md e critico_v2.md preservados). prompts/preditor.md é o leitor cego que prevê a revelação a partir da foto e do NA FOTO.
 - calibracao/execucao_2/: pacotes, previsões, avaliações e mapas da segunda rodada. calibracao/conjunto2/: conjunto inédito, gabarito travado (gabarito_claude2.json e .sha256) e arquivo para Eri.
+- calibracao/execucao_3/: três previsões cegas, pacotes e avaliações do v2.1. calibracao/conjunto2/gabarito_claude2_1.json (+ .sha256): veredictos v2.1 travados antes dos rótulos de Eri. relatorio_calibracao_3.md.
 - REVISAR nunca segue para imagem. Volta ao Criador (até 2 ciclos) e é reavaliado em contexto limpo.
 
 ## Estados do registro

@@ -1,0 +1,182 @@
+{
+ "X01": {
+  "conjunto": "diag1",
+  "ref": "K14",
+  "origem": "ADV-03-redundante"
+ },
+ "X02": {
+  "conjunto": "diag1",
+  "ref": "K08",
+  "origem": "LAB-003"
+ },
+ "X03": {
+  "conjunto": "diag1",
+  "ref": "K17",
+  "origem": "LAB-010"
+ },
+ "X04": {
+  "conjunto": "novo2",
+  "ref": "NV-16",
+  "origem": "NV-16"
+ },
+ "X05": {
+  "conjunto": "diag1",
+  "ref": "K13",
+  "origem": "LAB-004"
+ },
+ "X06": {
+  "conjunto": "novo2",
+  "ref": "NV-07",
+  "origem": "NV-07"
+ },
+ "X07": {
+  "conjunto": "diag1",
+  "ref": "K15",
+  "origem": "LAB-001"
+ },
+ "X08": {
+  "conjunto": "novo2",
+  "ref": "NV-04",
+  "origem": "NV-04"
+ },
+ "X09": {
+  "conjunto": "novo2",
+  "ref": "NV-06",
+  "origem": "NV-06"
+ },
+ "X10": {
+  "conjunto": "diag1",
+  "ref": "K09",
+  "origem": "LAB-009"
+ },
+ "X11": {
+  "conjunto": "novo2",
+  "ref": "NV-10",
+  "origem": "NV-10"
+ },
+ "X12": {
+  "conjunto": "novo2",
+  "ref": "NV-08",
+  "origem": "NV-08"
+ },
+ "X13": {
+  "conjunto": "diag1",
+  "ref": "K06",
+  "origem": "LAB-002"
+ },
+ "X14": {
+  "conjunto": "novo2",
+  "ref": "NV-09",
+  "origem": "NV-09"
+ },
+ "X15": {
+  "conjunto": "novo2",
+  "ref": "NV-05",
+  "origem": "NV-05"
+ },
+ "X16": {
+  "conjunto": "diag1",
+  "ref": "K07",
+  "origem": "ADV-06-abstrato"
+ },
+ "X17": {
+  "conjunto": "diag1",
+  "ref": "K02",
+  "origem": "LAB-007"
+ },
+ "X18": {
+  "conjunto": "diag1",
+  "ref": "K03",
+  "origem": "LAB-011"
+ },
+ "X19": {
+  "conjunto": "novo2",
+  "ref": "NV-14",
+  "origem": "NV-14"
+ },
+ "X20": {
+  "conjunto": "diag1",
+  "ref": "K16",
+  "origem": "LAB-006"
+ },
+ "X21": {
+  "conjunto": "diag1",
+  "ref": "K10",
+  "origem": "ADV-04-melodrama"
+ },
+ "X22": {
+  "conjunto": "diag1",
+  "ref": "K11",
+  "origem": "NEG-arbitrario"
+ },
+ "X23": {
+  "conjunto": "novo2",
+  "ref": "NV-03",
+  "origem": "NV-03"
+ },
+ "X24": {
+  "conjunto": "novo2",
+  "ref": "NV-02",
+  "origem": "NV-02"
+ },
+ "X25": {
+  "conjunto": "novo2",
+  "ref": "NV-11",
+  "origem": "NV-11"
+ },
+ "X26": {
+  "conjunto": "novo2",
+  "ref": "NV-17",
+  "origem": "NV-17"
+ },
+ "X27": {
+  "conjunto": "diag1",
+  "ref": "K12",
+  "origem": "ADV-02-autoajuda"
+ },
+ "X28": {
+  "conjunto": "novo2",
+  "ref": "NV-13",
+  "origem": "NV-13"
+ },
+ "X29": {
+  "conjunto": "novo2",
+  "ref": "NV-15",
+  "origem": "NV-15"
+ },
+ "X30": {
+  "conjunto": "novo2",
+  "ref": "NV-01",
+  "origem": "NV-01"
+ },
+ "X31": {
+  "conjunto": "diag1",
+  "ref": "K01",
+  "origem": "LAB-005"
+ },
+ "X32": {
+  "conjunto": "novo2",
+  "ref": "NV-12",
+  "origem": "NV-12"
+ },
+ "X33": {
+  "conjunto": "diag1",
+  "ref": "K05",
+  "origem": "ADV-05-moralismo"
+ },
+ "X34": {
+  "conjunto": "novo2",
+  "ref": "NV-18",
+  "origem": "NV-18"
+ },
+ "X35": {
+  "conjunto": "diag1",
+  "ref": "K18",
+  "origem": "LAB-012"
+ },
+ "X36": {
+  "conjunto": "diag1",
+  "ref": "K04",
+  "origem": "LAB-008"
+ }
+}
