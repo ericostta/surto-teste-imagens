@@ -1,0 +1,19 @@
+{
+ "nota": "Lacre da Emenda 2 e dos instrumentos da verifica\u00e7\u00e3o limitada da C1b, anterior a qualquer produ\u00e7\u00e3o de hist\u00f3ria ou execu\u00e7\u00e3o de Cr\u00edtico.",
+ "hashes": {
+  "verificacao_c1b/emenda_2_c1b.md": "55e54e00d1b1004aafddb5ae62f53bbb7f7090b77e176aca1f7d7262709cea8e",
+  "verificacao_c1b/verificar_c1b.py": "aa89654f14c08cd727110750686cae561a611a7ec91514b01bf2caa4a0dff05e",
+  "pos_g3/intervencao/PROTOCOLO_VERIFICACAO_C1B.md": "543adf067f4711fb702e594962e4313104015f93b3fcdaec2532ffb76fee5a9f",
+  "pos_g3/intervencao/critico_v2_2_c1b.md": "9a367b82310eb3d72c302c5158e3aab74b4dd820fad565ed7c0d0a7f8b3741c6",
+  "pos_g3/intervencao/diff_c1_para_c1b.diff": "77688e5a7db49c79d32008095b3341afe7e9ef56f4f671cc00ec4e210afe1ac0",
+  "pos_g3/intervencao/diff_v2_2_para_c1b.diff": "fcb2409f47320baff95b489c7d7f531f67b228abcabfeefdf957a05409c07258",
+  "pos_g3/intervencao/critico_v2_2_c1.md": "af123add988cf6e69b593b0775f1a46a11112433e187aa97a331d27791835a89",
+  "prompts/critico_v2_2.md": "468fd3823f83909dd87127d7a4affd835df4be09c7601e62c37b38dc54b553a3",
+  "prompts/criador.md": "2d5c62b7d61a83a79d37a7b3a6ac6830f10d9a830ac8da8d6554af9c06e14f86",
+  "prompts/preditor.md": "8db6783131ca8bd1cb850c91e67e6fecc1f1f492dc09589b0b52496976b897d6",
+  "validar_avaliacao.py": "04a0183bc93598ed72e41ea7a1294cbb1db8d0b92bf175dbe8c65442e4c487f1",
+  "filtros.py": "dfe28bdaae6aade24b2adbc72705a0bcea0c34164ce6c10ec59e898d6c995e20",
+  "instrumentos_g1/montar_pacotes.py": "2a9e16ed2902cee8b8c29df2f23b969c8a6045c023748c685867a55f1b1128e1",
+  "instrumentos_g1/manifesto_hashes.py": "68455c452b319bbdd5e175201bf93e8fbd65844fcaee7e85f902046cab2614f8"
+ }
+}

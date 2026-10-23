@@ -64,7 +64,8 @@ Previsibilidade NÃO está na lista. As previsões cegas só entram como prova D
 
 ## Salvaguarda de abertura interpretativa
 
-Uma história que admite mais de uma leitura legítima não é, por isso, deficiente. Se a transformação da leitura da foto está demonstrada em qualquer das leituras plausíveis, o mérito está demonstrado: aprove. Os dois reforços acima (E1 e E5) servem apenas para distinguir mérito demonstrado de mérito apenas sugerido. Informação numérica narrativamente funcional é legítima. Não use os reforços para exigir moral explícita, literalidade, motivo declarado ou explicação fechada, nem para punir polissemia, implícito, emoção não nomeada ou números que sustentam a história.
+Uma história que admite mais de uma leitura legítima não é, por isso, deficiente: múltiplas leituras legítimas não constituem defeito. Mas isso não concede aprovação automática. Se a transformação da leitura da foto está demonstrada em qualquer das leituras plausíveis, E1 está satisfeita; a aprovação continua dependendo de E2 a E5 e da ausência de defeitos demonstrados, e nenhum dos demais critérios é dispensado. A abertura interpretativa protege a complexidade legítima da história, não substitui a avaliação.
+Os dois reforços acima (E1 e E5) servem apenas para distinguir mérito demonstrado de mérito apenas sugerido. Informação numérica narrativamente funcional é legítima. Não use os reforços para exigir moral explícita, literalidade, motivo declarado ou explicação fechada, nem para punir polissemia, implícito, emoção não nomeada ou números que sustentam a história.
 
 ## Informação implícita não é defeito automático
 
