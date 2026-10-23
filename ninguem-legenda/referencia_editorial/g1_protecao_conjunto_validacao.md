@@ -16,10 +16,11 @@ Por isso, simples embaralhamento de códigos não é tratado como garantia de in
 
 ### Ponto 1. O redator da versão candidata não terá acesso aos 60 itens
 
-Mecanismo: congelar antes de existir. O conjunto de versões sob teste (candidata e controles) é declarado e congelado antes de qualquer item de validação existir. Quem redige a candidata não pode ter visto o que ainda não foi produzido.
-- Se a candidata for uma versão já existente (v2.2, v2.3-exp ou outra), ela já está congelada por hash (9910c786…, 468fd382…, 74bc6f3a…) e o ponto está satisfeito por construção.
-- Se Eri autorizar uma candidata nova, ela é redigida, travada por hash e publicada ANTES da autorização da G1. A G1 só começa depois do marco de congelamento (seção 3).
-- Depois do marco, nenhuma versão do conjunto declarado pode ser criada nem alterada para este lote. Alterar qualquer uma queima o lote para a versão alterada, e o novo teste exige outro lote.
+Mecanismo: congelar antes de existir (alternativa A, aprovada por Eri em 22/10, 23h45). A candidata (v2.4-exp), os controles, os instrumentos e o protocolo de análise são desenvolvidos apenas com material já queimado (etapa G0) e congelados por hash (marco M1) antes de a frase-semente ser fornecida, antes do sorteio e antes de qualquer item de validação existir. Quem redige a candidata não pode ter visto o que ainda não foi produzido.
+- Os controles (v2.2 e v2.3-exp) já estão congelados por hash (468fd382… e 74bc6f3a…) e não são modificados.
+- A candidata v2.4-exp está em rascunho de G0. Só passa a congelada com a autorização expressa de Eri para o M1.
+- Depois do M1, nenhuma versão do conjunto declarado, instrumento ou protocolo pode ser criado ou alterado para este lote. Alterar qualquer um queima o lote para o item alterado e exige outro lote.
+- Não se afirma que os itens estiveram tecnicamente inacessíveis ao redator. Afirma-se que, pela ordem dos eventos e pelos hashes, a candidata foi congelada antes de os itens existirem, o que pode ser auditado.
 - Reforço opcional, que só Eri pode providenciar: redigir a candidata numa conversa separada, sem acesso a esta pasta. Eu não posso impor isso.
 
 ### Ponto 2. Os itens não entram em prompts, exemplos, históricos nem materiais de calibração
@@ -54,10 +55,10 @@ Sequência obrigatória: itens congelados por hash; predições cegas de triagem
 - Qualquer leitura fora dos passos declarados, antes do marco de congelamento ou por quem redige versões, é anotada como possível contaminação, com a avaliação do efeito: se ocorreu antes do congelamento de uma versão, o lote fica queimado para essa versão; se depois, os itens afetados ficam marcados e a análise é refeita com e sem eles.
 - O registro é autodeclarado. Seu valor está em permitir que Eri e qualquer leitor do histórico do repositório vejam o que foi feito, não em impedir o acesso.
 
-## 3. Marcos e ordem de eventos
+## 3. Marcos e ordem de eventos (aprovada por Eri em 22/10, 23h45)
 
-M0, aprovação de Eri da lista e do procedimento. M1, versões do conjunto declaradas e congeladas, protocolo de análise lacrado, marco publicado. M2, frase-semente de Eri e sorteio dos conceitos, registro publicado. M3, geração dos textos (G1), manifesto dos itens por hash. M4, varredura de vazamento limpa. M5, triagem lacrada, pacote cego ao ChatGPT, rótulos lacrados. M6, classificação humana lacrada e confronto. M7, execuções (G3). M8, lote queimado e resultados lacrados.
-Cada passagem exige a autorização expressa de Eri que o plano já prevê, e nenhuma é iniciada por minha iniciativa.
+M0, aprovação da ordem metodológica e registro do hash definitivo da lista de 60 conceitos. G0, desenvolvimento da candidata e dos instrumentos, só com material queimado. M1, congelamento por hash da candidata, dos controles, dos instrumentos e do protocolo de análise. M2, frase-semente de Eri (somente depois do M1) e sorteio dos 30 conceitos de fluxo. G1, geração dos 60 itens, manifesto de hashes e varredura de vazamento. G2, triagem, classificação externa e conferência humana às cegas. G3, execuções comparativas, avaliação das justificativas e auditoria; depois, lote queimado e resultados lacrados.
+Nenhuma etapa avança automaticamente para a seguinte. Cada passagem exige autorização expressa de Eri, e nenhuma é iniciada por minha iniciativa. Os marcos intermediários (varredura limpa, triagem lacrada, rótulos lacrados, classificação humana lacrada) são registrados dentro de G1 e G2.
 
 ## 4. Alternativa em caso de isolamento insuficiente
 
