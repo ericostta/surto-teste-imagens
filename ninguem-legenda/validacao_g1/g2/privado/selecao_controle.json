@@ -1,0 +1,66 @@
+{
+ "regra": "g2/conferencia/regra_tensoes_controle_pacote_humano.md",
+ "universo": 43,
+ "tamanho_alvo": 10,
+ "universo_por_rotulo": {
+  "BOA": 27,
+  "AMBÍGUA": 16
+ },
+ "cotas": {
+  "BOA": 6,
+  "AMBÍGUA": 4
+ },
+ "n": 10,
+ "controle": [
+  {
+   "item": "G1-D06",
+   "rotulo_externo": "BOA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D07",
+   "rotulo_externo": "AMBÍGUA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D08",
+   "rotulo_externo": "BOA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D17",
+   "rotulo_externo": "BOA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D19",
+   "rotulo_externo": "AMBÍGUA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D34",
+   "rotulo_externo": "BOA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F09",
+   "rotulo_externo": "BOA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F10",
+   "rotulo_externo": "AMBÍGUA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F12",
+   "rotulo_externo": "AMBÍGUA",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F17",
+   "rotulo_externo": "BOA",
+   "previsivel": false
+  }
+ ]
+}

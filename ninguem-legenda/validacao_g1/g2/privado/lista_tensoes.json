@@ -1,0 +1,108 @@
+{
+ "regra": "g2/conferencia/regra_tensoes_controle_pacote_humano.md",
+ "n": 17,
+ "tensoes": [
+  {
+   "item": "G1-D03",
+   "tipo": "A",
+   "rotulo_externo": "BOA",
+   "previsivel": true
+  },
+  {
+   "item": "G1-D04",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D09",
+   "tipo": "A",
+   "rotulo_externo": "BOA",
+   "previsivel": true
+  },
+  {
+   "item": "G1-D10",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D13",
+   "tipo": "A",
+   "rotulo_externo": "BOA",
+   "previsivel": true
+  },
+  {
+   "item": "G1-D15",
+   "tipo": "A",
+   "rotulo_externo": "BOA",
+   "previsivel": true
+  },
+  {
+   "item": "G1-D30",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D31",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D32",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D33",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-D35",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F01",
+   "tipo": "A",
+   "rotulo_externo": "BOA",
+   "previsivel": true
+  },
+  {
+   "item": "G1-F03",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F16",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F22",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F26",
+   "tipo": "B",
+   "rotulo_externo": "RUIM",
+   "previsivel": false
+  },
+  {
+   "item": "G1-F29",
+   "tipo": "A",
+   "rotulo_externo": "BOA",
+   "previsivel": true
+  }
+ ]
+}

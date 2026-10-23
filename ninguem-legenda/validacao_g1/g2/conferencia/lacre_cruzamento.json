@@ -1,0 +1,11 @@
+{
+ "nota": "Lacres separados dos registros do cruzamento. Marca\u00e7\u00e3o e regra j\u00e1 lacradas em a92fba9 e n\u00e3o foram alteradas.",
+ "hashes": {
+  "g2/privado/lista_tensoes.json": "425e8cd9967ca9a7f8939c80b23bf12ad921b055e03f4409e00c76289bc18743",
+  "g2/privado/selecao_controle.json": "3c7b49d0b1772d8dbf3a223ad10390ade330bf20b607b04906030bef57dd6b0e",
+  "g2/privado/mapa_codigos_humana.json": "2b9897088d9cb82a1fdec363a16d55c50f37f0074c4d6e8f6f61ef91ae77ed37",
+  "g2/pacotes/pacote_humano.json": "c0430bf12f49080a23002f8efa8922853ba84b2141fef57295345e42224ac4ec",
+  "g2/pacotes/pacote_humano.md": "be42921254fe7e9f52a8f6f280a2af07ddf7e016b3872e37a56acdde5684fbf5",
+  "g2/conferencia/cruzamento_g2.py": "f2ed5bee85046d394b7aae7a3e2dbe25b714d8851082206b549d2f994256896a"
+ }
+}
