@@ -1,0 +1,36 @@
+{
+ "data": "2026-10-22",
+ "decisor": "Eri",
+ "posterior_aos_resultados_dos_criticos": true,
+ "independente_cego": false,
+ "arbitragem": {
+  "W05": {
+   "externo_original": "BOA",
+   "arbitragem": "BOA",
+   "status": "mantida"
+  },
+  "W15": {
+   "externo_original": "RUIM",
+   "arbitragem": "AMBÍGUA",
+   "status": "reavaliada"
+  },
+  "W19": {
+   "externo_original": "RUIM",
+   "arbitragem": "AMBÍGUA",
+   "status": "reavaliada"
+  }
+ },
+ "contaminados": [
+  "W05",
+  "W15",
+  "W19"
+ ],
+ "nao_alterado": [
+  "conjunto/rotulos_externos.json",
+  "avaliacoes v2.2 e v2.3-exp",
+  "relatorio_comparativo",
+  "diagnostico_qualitativo",
+  "protocolo"
+ ],
+ "w08": "continua examinado pelo texto original e pelos critérios registrados; arbitragem não o altera retroativamente"
+}
