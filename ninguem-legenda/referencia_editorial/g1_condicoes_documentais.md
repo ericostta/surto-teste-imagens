@@ -93,3 +93,7 @@ Condições da G1 que agora dependem do M1: conjunto de versões declarado e con
 ## 4. Ordem que se seguirá, quando Eri autorizar
 
 Ordem aprovada: M0, G0, M1, M2, G1, G2, G3. G0, desenvolvimento só com material queimado. M1, congelamento por hash da candidata, controles, instrumentos e protocolo. M2, frase-semente e sorteio. G1, geração e congelamento dos itens com hash, sem rótulo e sem Crítico. G2, pacotes cegos, rótulos lacrados, triagem, exame humano, controle humano. G3, execuções, julgador, auditoria. Cada etapa exige autorização escrita própria, sem avanço automático. Permanecem intocáveis as dez janelas editoriais (início às 06h00, intervalo fixo de 1h30), a grade, o n8n, a fila, as publicadas e as skills existentes. Nenhuma publicação é ativada. Nenhuma versão é homologada.
+
+## 3.4 Atualização de 23/10 (M1)
+
+Eri aprovou a v2.4-exp como candidata e autorizou o congelamento documental M1 (00h04), após os ajustes documentais das decisões 3 e 4 (protocolo e julgador revisão 2). Estado e hashes em `referencia_editorial/marco_congelamento_g1.json`. M2, G1, G2 e G3 seguem não autorizados; a frase-semente não foi pedida; nenhum sorteio, geração ou execução ocorreu.

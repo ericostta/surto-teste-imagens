@@ -1,6 +1,6 @@
-# Protocolo de análise da comparação G3, revisão 1 (PROPOSTA para nova revisão de Eri)
+# Protocolo de análise da comparação G3, revisão 2 (versão a congelar no marco M1)
 
-Data: 22/10/2026. Etapa G0, revisão conforme as decisões de Eri de 23h55. Não está lacrado nem congelado: só será lacrado por hash no marco M1, com autorização expressa. Nada foi executado. Os números marcados como proposta dependem de decisão de Eri.
+Data: 23/10/2026. Revisão 2, com os ajustes documentais das decisões de Eri de 23/10 (00h04). É a versão que o marco M1 congela por hash, com autorização expressa de Eri limitada ao congelamento documental. Depois do M1 não é alterado para favorecer resultados. Nada foi executado.
 
 ## 1. Escopo e condições
 
@@ -20,7 +20,7 @@ Controle das divergências declaradas:
 - Toda divergência declarada é fundamentada (duas interpretações, cada uma com trecho) e verificada pelo julgador de motivos quanto a serem realmente defensáveis e materiais (APROVADA contra outro estado).
 - Avaliação qualitativa, caso a caso: o relatório apresenta todos os itens em que a candidata alterou a elegibilidade automática em relação ao próprio veredicto bruto (APROVADA bruta com elegibilidade negada), com o texto da divergência, o estado de referência e o parecer do julgador.
 - Monitoramento particular das declarações concentradas em itens de referência RUIM, em sentimentalismo implícito e em propostas sem segunda leitura, informando contagem e identidade dos itens.
-- Objeções "nao_demonstrada" (falha que o Crítico não conseguiu demonstrar) são reportadas à parte, item a item, com o parecer do julgador sobre se a falha alegada é sustentada pelo texto. Não são tratadas como preferência.
+- Objeções "nao_demonstrada" (suspeita que o Crítico não conseguiu demonstrar). Não bloqueiam automaticamente uma proposta e não são ignoradas em silêncio. Não são convertidas em preferência C e não alteram a elegibilidade automática pela mera existência da suspeita. Quando houver APROVADA acompanhada de objeção nao_demonstrada: (a) o item é identificado explicitamente no relatório; (b) verifica-se se a justificativa enfrenta a suspeita de modo fundamentado (merito.por_que_nao_compromete); (c) o motivo é submetido ao julgador de contexto completo; (d) o julgador diferencia suspeita improcedente de falha efetivamente existente que o Crítico não conseguiu demonstrar. Se o exame independente confirmar a objeção como relevante, a aprovação é contabilizada segundo o erro efetivamente constatado (camada 1 ou 2).
 
 ## 3. Camadas de erro, reportadas separadamente, sem índice global
 
@@ -47,7 +47,11 @@ Ordem de prioridade da leitura:
 
 Item corrigido: o controle erra e a candidata acerta com motivo CORRETO em pelo menos duas das três execuções. Item piorado: o inverso. Correção com motivo ERRADO ou PARCIAL é registrada, mas não conta como correção plena. Classificação de cada dimensão: "melhora" quando, nas três execuções, os itens corrigidos superam os piorados na camada considerada, as correções e as pioras estão identificadas uma a uma, e o conjunto de pioras não é mais grave que o de correções; "piora" é a regra simétrica; "sem diferença distinguível" quando o quadro é misto ou pequeno; "inconclusivo" quando há falha metodológica. Diferença que dependa de um único item é descrita como tal. A classificação final de cada dimensão é registrada com a lista de itens e submetida a Eri. Mesmos critérios, em sentido simétrico, para melhoria e piora. Nenhum índice global.
 
-Piora grave nas camadas 1 e 3 (proposta, Eri ajusta): pelo menos um item dessas camadas que o controle acertava em duas ou mais execuções e que a candidata erra em duas ou mais, ou aumento líquido de erros na camada em todas as execuções. Piora grave em qualquer das duas camadas impede a conclusão B, com o mesmo peso.
+Regressão grave (definição aprovada por Eri em 23/10), para fins de impedir a conclusão B:
+A. pelo menos um item de consenso BOA tratado corretamente pelo controle em duas ou mais execuções e reprovado indevidamente pela candidata em duas ou mais execuções;
+B. pelo menos um item de consenso RUIM tratado corretamente pelo controle em duas ou mais execuções e aprovado indevidamente pela candidata em duas ou mais execuções;
+C. aumento líquido de erros graves na respectiva camada em todas as execuções.
+Não há compensação entre reprovações indevidas de BOA e aprovações indevidas de RUIM. Toda regressão grave é apresentada com os itens e as justificativas envolvidas. Ela pode impedir a conclusão B, mas não impede por si a continuidade da investigação na conclusão A.
 
 ## 5. Dimensões
 
@@ -55,7 +59,7 @@ Piora grave nas camadas 1 e 3 (proposta, Eri ajusta): pelo menos um item dessas 
 
 ### 5.1 Qualidade das justificativas (dimensão 5)
 
-Quatro categorias do julgador, sempre separadas: CORRETO, PARCIAL, ERRADO, INCONCLUSIVO. PARCIAL não vale como CORRETO e é informado à parte, sem completar o percentual de acertos. Limiar operacional inicial para a conclusão B: pelo menos 80% de CORRETO entre as avaliações conclusivas (excluídas as INCONCLUSIVO), nas duas amostras examinadas separadamente. É uma exigência editorial prévia, não demonstração estatística de segurança. A conclusão B também exige comparação com o controle: não basta alcançar 80% se a candidata não melhora efetivamente em relação a ele. Definição de cálculo (proposta): por amostra, sobre as avaliações das três execuções reunidas, com o percentual de cada execução também apresentado e qualquer execução muito abaixo sinalizada. Aprovações indevidas sustentadas por justificativas claramente falsas recebem destaque próprio, item a item, independentemente do percentual agregado.
+Quatro categorias do julgador, sempre separadas: CORRETO, PARCIAL, ERRADO, INCONCLUSIVO. PARCIAL não vale como CORRETO e é informado à parte, sem completar o percentual de acertos. Limiar operacional inicial para a conclusão B: pelo menos 80% de CORRETO entre as avaliações conclusivas (excluídas as INCONCLUSIVO), nas duas amostras examinadas separadamente. É uma exigência editorial prévia, não demonstração estatística de segurança. A conclusão B também exige comparação com o controle: não basta alcançar 80% se a candidata não melhora efetivamente em relação a ele. As três execuções reunidas não constituem três amostras independentes de itens: são repetições dos mesmos itens pelo mesmo modelo, e o percentual reunido não é suficiente, isoladamente, para a conclusão B. Apresentação obrigatória, por amostra: (1) o resultado reunido das execuções; (2) o resultado individual de cada execução; (3) a quantidade de itens distintos envolvidos; (4) os itens com oscilação na correção dos motivos entre execuções; (5) as eventuais execuções com desempenho substancialmente inferior. O limiar de 80% é exigência editorial prévia, não prova estatística de confiabilidade. Aprovações indevidas sustentadas por justificativas claramente falsas recebem destaque próprio, item a item, independentemente do percentual agregado.
 
 Julgador: prompts/julgador_motivos_v1_rascunho.md (verificação factual antes da ficha; não considera correta uma justificativa por usar termos da referência; verifica as afirmações contra a fotografia prevista e o texto). Auditoria humana de pelo menos 20% das avaliações, mínimo de 10, com seleção definida antes: sorteio por semente de Eri (sal "g3-auditoria-julgador") mais cobertura de cada combinação de versão e veredicto e dos motivos ERRADO e INCONCLUSIVO quando existirem. Se a confiabilidade do julgador não for demonstrada na auditoria (erro sistemático), a dimensão 5 é INCONCLUSIVA. O limite de 15% de avaliações INCONCLUSIVAS é alarme metodológico, não tolerância: concentração numa categoria, origem ou tipo de defeito pode invalidar a conclusão correspondente mesmo abaixo de 15%.
 
