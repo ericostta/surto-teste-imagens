@@ -41,3 +41,11 @@ Esses sinais não são limiares de homologação: a decisão de homologar perman
 
 ## 6. Limitações declaradas
 As três origens são todas modelos Claude, com prompts diferentes, o que reduz mas não elimina a dependência dos padrões do Criador. O avaliador externo é um único modelo. Trinta itens ainda é pouco para tipos raros. A cobertura de perfis é verificada depois e pode falhar. A fronteira B/C depende do julgamento do Crítico. O julgador de motivos é um modelo. Por isso os resultados orientam, não homologam.
+
+## 7. Registro de decisões de 22/10/2026 (Eri)
+- Protocolo aceito como base; a aceitação não é homologação.
+- Risco central: a fronteira B/C. O teste deve verificar se o Crítico reconhece a materialidade real dos defeitos, sem inventar problemas e sem ignorar inconsistências. Nesta análise, todo item rotulado AMBÍGUA ou RUIM por falha central e classificado como B (ou aprovado) será examinado caso a caso como possível erro de fronteira.
+- Limitação obrigatória no relatório final: instruções diferentes aplicadas ao mesmo modelo não garantem independência criativa. As três origens (O1, O2, O3) são o mesmo modelo.
+- Classificações externas: BOA (segunda leitura genuína, originalidade, plausibilidade, naturalidade e conexão narrativa suficiente para publicar sem ajustes); AMBÍGUA (potencial com falha relevante e corrigível); RUIM (clichê, redundância, arbitrariedade, obscuridade estrutural ou ausência de transformação significativa). Justificativa concreta para AMBÍGUA e RUIM. Sem distribuição artificial e sem defeitos inventados.
+- Após receber os 30 rótulos: registrá-los integralmente com SHA-256. Execução comparativa só com autorização expressa.
+- Acerto com justificativa incorreta não é acerto editorial pleno.
