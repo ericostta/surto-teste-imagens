@@ -1,0 +1,48 @@
+{
+ "quando": "2026-10-23T03:30:22.792785+00:00",
+ "resultado": {
+  "A_triagem_campos": true,
+  "A_triagem_sem_texto_do_FORA": true,
+  "D_instrucao_igual_preditor_md": true,
+  "D_preditor_md_sha256": "8db6783131ca8bd1cb850c91e67e6fecc1f1f492dc09589b0b52496976b897d6",
+  "D_preditor_md_inalterado_vs_HEAD": true,
+  "B_externa_campos": true,
+  "B_externa_contem_referencia": true,
+  "B_externa_sem_termos_proibidos": true,
+  "trilhas_codigos_e_ordens_distintos": true,
+  "sem_rotulos_previsoes_resultados": true,
+  "lacrado_vazio": true,
+  "C_M1_22_arquivos": [
+   22,
+   []
+  ],
+  "G1_65_itens": [
+   65,
+   []
+  ],
+  "G1_arquivos_de_apoio": [],
+  "informativo_sobreposicao_FORA_com_foto_ou_NA_FOTO_max": [
+   [
+    2,
+    "G1-F23"
+   ],
+   [
+    2,
+    "G1-F12"
+   ],
+   [
+    2,
+    "G1-F05"
+   ],
+   [
+    2,
+    "G1-D34"
+   ],
+   [
+    2,
+    "G1-D29"
+   ]
+  ]
+ },
+ "falhas": []
+}

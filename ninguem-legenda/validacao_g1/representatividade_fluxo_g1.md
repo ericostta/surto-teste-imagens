@@ -28,3 +28,7 @@ Mecanismo: M01 em 36 dos 60 itens (15 de 30 no fluxo, 21 de 30 no desafio); os d
 ## 4. Conclusão sobre representatividade
 
 A amostra de fluxo não reproduz o processo normal. Representa uma variante específica dele: conceito fotográfico dado, uma candidata por conceito, geração independente, sem memória editorial atualizada, sem controle de diversidade entre itens, sem eliminação prévia por filtros e sem seleção. Ela é adequada para perguntar como o Crítico julga o que um Criador desse tipo produz sobre fotos dadas e de ambientes variados. Não autoriza generalizar para a produção diária. A concentração em M01 e em "pequeno_vs_grande" é uma limitação a declarar na leitura dos resultados. Não será corrigida por nova geração.
+
+## 5. Denominação e uso (decisão de Eri, 23/10/2026, 00h27)
+
+A amostra passa a ser chamada, em todos os relatórios, de **AMOSTRA DE FLUXO EXPERIMENTAL SIMPLIFICADO**. Seus resultados podem comparar os Críticos nesse conjunto e não podem ser apresentados como estimativa representativa da produção normal. A concentração em M01 (15 de 30 no fluxo; 36 de 60 no total) e em "pequeno_vs_grande" (42 de 60) fica registrada como limitação, sem correção por nova geração.
