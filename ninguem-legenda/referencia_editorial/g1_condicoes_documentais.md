@@ -58,7 +58,7 @@ Os 60 itens da G1 são o lote de validação: produzidos depois do protocolo, nu
 ### 2.6 Amostragem humana, definida antes
 
 - Triagem (Alternativa 2): subagentes Claude produzem predições cegas lacradas; itens em que a predição contraria o rótulo do ChatGPT vão para exame humano. A predição é sinal de triagem, nunca rótulo.
-- Controle humano: 20% dos itens sem conflito de triagem, mínimo de 10, sorteados com semente registrada antes dos rótulos. Eri os classifica às cegas, e só depois confronta com o rótulo do ChatGPT. Discordância relevante obriga discussão explícita da confiabilidade da referência.
+- Controle humano: 20% dos itens sem conflito de triagem, mínimo de 10, sorteados com semente registrada antes dos rótulos. Os itens com conflito de triagem seguem separadamente para avaliação humana. Eri classifica os dois grupos sem conhecer rótulos nem predições, num pacote misturado que não indica qual item é de qual grupo, e só depois confronta com o rótulo do ChatGPT. Discordância relevante obriga discussão explícita da confiabilidade da referência.
 - Auditoria do julgador de motivos (G3): pelo menos 20% das avaliações, mínimo de 10, com sorteados mais cobertura dos principais tipos de veredicto; seleção definida antes. Erro sistemático invalida a contagem do julgador. O limite de 15% de inconclusivos é alarme, e concentração por categoria, origem ou tipo de defeito pode invalidar a conclusão correspondente mesmo abaixo disso.
 
 ## 3. Pendências que realmente impedem a G1
@@ -70,6 +70,14 @@ P1. Lista dos 30 conceitos de foto do fluxo. Preciso saber como será obtida: (a
 P2. Distribuição dos 30 itens de desafio entre as quatro células, e confirmação de que os controles especiais ficam fora desses 30 (e fora da G1). Padrão que adotarei se Eri não indicar outro: 8, 8, 8 e 6 itens nas células 1, 2, 3 e 4, com a divergência legítima em menor número por ser a mais difícil de produzir de propósito. Mudança de quantidade não afeta o resto do plano.
 
 Não são pendências, por terem padrão adotado: acesso a segundo avaliador (Alternativa 2 vigente até confirmação expressa); fonte dos itens (fonte A, com limitação declarada); versão candidata (só precisa ser definida antes da G3; a G1 não depende dela); semente do sorteio de controle (registrada no ato do lacre).
+
+## 3.1 Atualização de 22/10, 23h34 (decisões de Eri)
+
+- P1 resolvida: Eri autorizou preparar a lista de conceitos candidatos e documentar o sorteio com semente registrada. Entregues `g1_conceitos_candidatos.md/.json` (60 conceitos, aguardam aprovação) e `g1_procedimento_sorteio.md` com `sorteio_g1.py`. Nenhum sorteio foi feito.
+- P2 resolvida: distribuição do desafio aprovada em 8, 8, 8 e 6 (intenções de geração, não rótulos; itens que não corresponderem à intenção não são descartados nem substituídos). Controles especiais confirmados fora dos 30 e fora da G1.
+- Terminologia "sem conflito de triagem" aprovada, com a classificação humana às cegas quanto a rótulos e predições (seção 2.6 acima ajustada).
+- Nova condição indispensável: proteção do conjunto de validação. Procedimento em `g1_protecao_conjunto_validacao.md`. Isto altera a ordem prevista antes: a seção 1 desta lista dizia que a versão candidata só precisava estar definida antes da G3. Passa a valer que o conjunto de versões sob teste seja declarado e congelado ANTES da G1.
+- Pendências para satisfazer a G1: (a) aprovação de Eri da lista de conceitos e do procedimento de sorteio; (b) aprovação do procedimento de proteção, com a limitação de isolamento declarada; (c) declaração, por Eri, do conjunto de versões sob teste (se for só versões já existentes, o congelamento já está feito). Nenhuma delas pode ser decidida por mim.
 
 ## 4. Ordem que se seguirá, quando Eri autorizar
 

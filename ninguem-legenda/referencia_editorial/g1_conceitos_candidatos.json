@@ -1,0 +1,367 @@
+{
+ "tipo": "lista de conceitos candidatos da amostra de fluxo (G1)",
+ "data": "2026-10-22",
+ "status": "proposta, aguardando aprovação de Eri; não sorteada",
+ "conceitos": [
+  {
+   "id": "K01",
+   "descricao": "Bancada de cozinha com tábua de madeira, uma cebola cortada ao meio e uma faca, luz da manhã.",
+   "ambiente": "cozinha",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K02",
+   "descricao": "Lençóis brancos balançando num varal de quintal, céu azul e muro baixo ao fundo.",
+   "ambiente": "quintal_varanda",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K03",
+   "descricao": "Mãos descascando uma laranja sobre uma pia de aço inox.",
+   "ambiente": "cozinha",
+   "presenca": "maos"
+  },
+  {
+   "id": "K04",
+   "descricao": "Várias mãos segurando as barras de um vagão de metrô, luzes frias no teto.",
+   "ambiente": "transporte",
+   "presenca": "maos"
+  },
+  {
+   "id": "K05",
+   "descricao": "Calçada molhada de chuva refletindo as luzes de uma rua à noite.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K06",
+   "descricao": "Quadra de futsal de bairro com traves enferrujadas e uma bola parada no meio, fim de tarde.",
+   "ambiente": "lazer_esporte",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K07",
+   "descricao": "Balança de pratos com pesos de metal sobre o balcão de uma mercearia.",
+   "ambiente": "comercio",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K08",
+   "descricao": "Pessoa de costas sentada na ponta de um píer, pés pendurados sobre a água calma.",
+   "ambiente": "natureza",
+   "presenca": "costas"
+  },
+  {
+   "id": "K09",
+   "descricao": "Duas mãos digitando num notebook sobre a mesa de uma cafeteria, copos descartáveis ao lado.",
+   "ambiente": "trabalho",
+   "presenca": "maos"
+  },
+  {
+   "id": "K10",
+   "descricao": "Bicicleta presa a um poste por uma corrente grossa, rua de bairro ao entardecer.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K11",
+   "descricao": "Entregador de costas empurrando um carrinho com caixas de papelão por um corredor de prédio.",
+   "ambiente": "trabalho",
+   "presenca": "costas"
+  },
+  {
+   "id": "K12",
+   "descricao": "Tesoura e mechas de cabelo no chão de uma barbearia, cadeira giratória ao fundo.",
+   "ambiente": "comercio",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K13",
+   "descricao": "Bandeirinhas coloridas penduradas entre postes numa rua de bairro, céu de fim de tarde.",
+   "ambiente": "festa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K14",
+   "descricao": "Mãos esfregando uma peça de roupa com sabão num tanque, espuma escorrendo.",
+   "ambiente": "casa",
+   "presenca": "maos"
+  },
+  {
+   "id": "K15",
+   "descricao": "Muro de tijolos aparentes com uma trepadeira florida e um portão de ferro entreaberto.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K16",
+   "descricao": "Cachorro caramelo dormindo ao sol diante de uma porta de metal fechada.",
+   "ambiente": "rua",
+   "presenca": "animal"
+  },
+  {
+   "id": "K17",
+   "descricao": "Corrimão de escada rolante de um shopping, uma mão deslizando sobre a borracha preta.",
+   "ambiente": "comercio",
+   "presenca": "maos"
+  },
+  {
+   "id": "K18",
+   "descricao": "Pescador de costas lançando uma rede num lago ao amanhecer, neblina baixa.",
+   "ambiente": "natureza",
+   "presenca": "costas"
+  },
+  {
+   "id": "K19",
+   "descricao": "Mesa de bar na calçada com garrafas verdes e um balde de gelo, noite quente.",
+   "ambiente": "lazer_esporte",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K20",
+   "descricao": "Sofá de sala com almofadas desalinhadas e um controle remoto no braço, televisão desligada.",
+   "ambiente": "casa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K21",
+   "descricao": "Carrinhos de supermercado empilhados numa fileira longa no estacionamento, céu nublado.",
+   "ambiente": "comercio",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K22",
+   "descricao": "Mãos sovando massa de pão sobre uma bancada enfarinhada.",
+   "ambiente": "cozinha",
+   "presenca": "maos"
+  },
+  {
+   "id": "K23",
+   "descricao": "Árvore grande no centro de uma praça, folhas amarelas espalhadas pelo chão.",
+   "ambiente": "natureza",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K24",
+   "descricao": "Espelho de banheiro embaçado depois do banho, toalha pendurada atrás da porta.",
+   "ambiente": "casa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K25",
+   "descricao": "Janela de ônibus com gotas de chuva escorrendo, paisagem urbana desfocada ao fundo.",
+   "ambiente": "transporte",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K26",
+   "descricao": "Capacete de obra e botas de segurança sobre um andaime ao fim do dia.",
+   "ambiente": "trabalho",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K27",
+   "descricao": "Pipa colorida presa nos fios elétricos acima de uma rua de casas.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K28",
+   "descricao": "Prateleira de supermercado com latas alinhadas e um espaço vazio entre elas.",
+   "ambiente": "comercio",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K29",
+   "descricao": "Pegadas pequenas de pés descalços na areia molhada, uma onda chegando.",
+   "ambiente": "natureza",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K30",
+   "descricao": "Bandejas de salgados sob a vitrine iluminada de uma lanchonete, balcão de inox.",
+   "ambiente": "comercio",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K31",
+   "descricao": "Quadro-negro limpo numa sala de aula com giz no apoio, luz entrando pela janela.",
+   "ambiente": "escola",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K32",
+   "descricao": "Aquário doméstico com peixes alaranjados e luz azulada, sala escura ao redor.",
+   "ambiente": "casa",
+   "presenca": "animal"
+  },
+  {
+   "id": "K33",
+   "descricao": "Ônibus escolar amarelo parado numa estrada rural, poeira no ar.",
+   "ambiente": "transporte",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K34",
+   "descricao": "Máquina de costura com tecido estampado sob a agulha, mão guiando o pano.",
+   "ambiente": "trabalho",
+   "presenca": "maos"
+  },
+  {
+   "id": "K35",
+   "descricao": "Prato de arroz, feijão e ovo frito sobre toalha xadrez, garfo ao lado.",
+   "ambiente": "cozinha",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K36",
+   "descricao": "Biblioteca escolar com mesas compridas e uma pilha de livros devolvidos sobre o balcão.",
+   "ambiente": "escola",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K37",
+   "descricao": "Mãos de duas pessoas jogando dominó sobre uma mesa de madeira.",
+   "ambiente": "lazer_esporte",
+   "presenca": "maos"
+  },
+  {
+   "id": "K38",
+   "descricao": "Goteira no telhado de zinco durante chuva forte, panela no chão aparando a água.",
+   "ambiente": "casa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K39",
+   "descricao": "Contêineres coloridos de coleta seletiva alinhados na calçada, dia de recolhimento.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K40",
+   "descricao": "Campo de futebol de várzea com gramado irregular, gol de madeira e nuvens carregadas.",
+   "ambiente": "lazer_esporte",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K41",
+   "descricao": "Mesa de sinuca com bolas dispostas e o taco encostado na borda.",
+   "ambiente": "lazer_esporte",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K42",
+   "descricao": "Aparelho de ar-condicionado pingando na fachada de um prédio, mancha escura na parede abaixo.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K43",
+   "descricao": "Gato sentado no peitoril de uma janela observando a rua.",
+   "ambiente": "casa",
+   "presenca": "animal"
+  },
+  {
+   "id": "K44",
+   "descricao": "Mão de criança segurando a mão de um adulto numa faixa de pedestres.",
+   "ambiente": "rua",
+   "presenca": "maos"
+  },
+  {
+   "id": "K45",
+   "descricao": "Coador de pano sobre uma garrafa térmica, fogão a gás ao fundo, fumaça leve.",
+   "ambiente": "cozinha",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K46",
+   "descricao": "Estrada de terra com porteira aberta e um carro distante levantando poeira.",
+   "ambiente": "natureza",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K47",
+   "descricao": "Livro aberto de capa para baixo sobre uma toalha de praia, óculos de sol ao lado.",
+   "ambiente": "lazer_esporte",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K48",
+   "descricao": "Balões de aniversário presos ao teto, alguns murchos, confete espalhado pelo chão.",
+   "ambiente": "festa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K49",
+   "descricao": "Carrinho de pipoca na calçada com vidro embaçado e luz amarela ao entardecer.",
+   "ambiente": "comercio",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K50",
+   "descricao": "Mão segurando um molho de chaves diante de uma porta de madeira.",
+   "ambiente": "casa",
+   "presenca": "maos"
+  },
+  {
+   "id": "K51",
+   "descricao": "Cortina de janela balançando com o vento, luz de fim de tarde atravessando o tecido.",
+   "ambiente": "casa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K52",
+   "descricao": "Estante de livros com lombadas desalinhadas e uma escada de madeira encostada.",
+   "ambiente": "casa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K53",
+   "descricao": "Hortinha em latas penduradas numa laje, sol forte e roupas no varal ao fundo.",
+   "ambiente": "quintal_varanda",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K54",
+   "descricao": "Colher de pau dentro de uma panela de doce borbulhando, vapor subindo.",
+   "ambiente": "cozinha",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K55",
+   "descricao": "Rodoviária à noite com bancos de plástico e um funcionário de costas varrendo o chão.",
+   "ambiente": "transporte",
+   "presenca": "costas"
+  },
+  {
+   "id": "K56",
+   "descricao": "Cone laranja de sinalização solto no meio de uma rua de paralelepípedos.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K57",
+   "descricao": "Toalha estendida sobre a areia de uma praia, sol alto e pegadas ao redor.",
+   "ambiente": "natureza",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K58",
+   "descricao": "Máquina de lavar roupa com a porta aberta e peças amontoadas dentro.",
+   "ambiente": "casa",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K59",
+   "descricao": "Prédios residenciais ao anoitecer com janelas acesas em andares diferentes.",
+   "ambiente": "rua",
+   "presenca": "sem_pessoas"
+  },
+  {
+   "id": "K60",
+   "descricao": "Mãos trançando o cabelo de outra pessoa, as duas sentadas no chão de uma sala.",
+   "ambiente": "casa",
+   "presenca": "maos"
+  }
+ ]
+}

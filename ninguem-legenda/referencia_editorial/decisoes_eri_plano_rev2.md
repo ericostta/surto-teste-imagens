@@ -30,3 +30,14 @@ Na Alternativa 2 não existe consenso entre dois avaliadores independentes, e a 
 ## Registro da cláusula de inferência para o relatório final
 
 O relatório de qualquer etapa futura deverá declarar, antes dos resultados, que: as amostras são pequenas; os resultados dependem dos modelos usados; a subjetividade editorial legítima não desaparece; avaliadores podem errar; as execuções repetidas são correlacionadas; consistência não é correção; concordância com o ChatGPT não é prova de qualidade; uma pequena redução percentual de erros não demonstra superioridade; e três execuções não provam estabilidade.
+
+## Decisões de 22/10, 23h34 (sobre as condições documentais da G1)
+
+1. Autorizada a preparação da lista de conceitos candidatos da amostra de fluxo, variada, sem privilegiar ausência, luto ou sentimentalismo, e sem escolher conceitos pelo tipo de história esperado. Seleção dos 30 por procedimento pré-definido com semente registrada, sobre lista previamente aprovada. Não gerar ainda os textos.
+2. Amostra de desafio aprovada: 8 sentimentalismo implícito, 8 ausência de segunda leitura, 8 núcleo promissor com correção pontual, 6 potenciais divergências legítimas. São intenções de geração. Os avaliadores externos definem a qualidade efetiva. Não descartar nem substituir itens que não correspondam à intenção.
+3. Controles especiais ficam fora dos 30 itens de desafio e fora da G1. Produção depende de autorização posterior.
+4. Terminologia "sem conflito de triagem" aprovada. A conferência humana de 20% (mínimo de 10) incide sobre esses itens; os com conflito vão separadamente à avaliação humana; a classificação humana ocorre sem conhecimento de rótulos nem de previsões.
+5. Proteção do conjunto de validação é condição indispensável. Antes de gerar, apresentar procedimento concreto para os seis pontos (redator sem acesso, itens fora de prompts e calibração, versão congelada antes dos itens, rotulagem sem exposição, uso único, registro de acesso indevido). Embaralhar códigos não basta. Se o ambiente não permitir isolamento confiável, declarar a limitação e apresentar alternativa.
+6. Autorizado somente: lista de conceitos, procedimento de seleção e sorteio, mecanismo de proteção, incorporação documental. Continua não autorizado: gerar os 60 textos, executar Criadores ou Críticos, controles especiais, avaliações ou previsões, v2.4 ou prompt candidato, imagens, créditos visuais, alterar registros históricos, grade, n8n, fila, publicadas ou skills, ativar publicações, homologar. Não iniciar a geração por iniciativa própria.
+
+Entregas correspondentes: `g1_conceitos_candidatos.md/.json`, `g1_procedimento_sorteio.md` (com `sorteio_g1.py`, testado só com lista sintética) e `g1_protecao_conjunto_validacao.md`; `g1_condicoes_documentais.md` atualizado na seção 3.1.
