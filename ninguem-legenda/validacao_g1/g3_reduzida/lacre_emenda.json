@@ -1,0 +1,21 @@
+{
+ "nota": "Lacre da emenda e dos instrumentos da G3 reduzida, anterior a qualquer execu\u00e7\u00e3o dos Cr\u00edticos.",
+ "hashes": {
+  "validacao_g1/g3_reduzida/emenda_g3_reduzida.md": "dbdcb9d1cb80081f4186f77639539ec56b1c249dfef91e988abfd28cc3cb9ed6",
+  "validacao_g1/g3_reduzida/montar_g3.py": "0a2a4e50b0b94b391dd85ba05a6c84f2ff93e40b11cfc79bb7ed4aabb00016ed",
+  "validacao_g1/g3_reduzida/verificar_g3.py": "7eaec0798e09dc35a3e050ab66e053b8c70498f9a909f7e8a553e8b41211ae3a",
+  "validacao_g1/g3_reduzida/verificacao_g3_pre.json": "c72e1dcd61b2a014db1277f03bd904580b8fae00c249f0ebff0347361351c660",
+  "validacao_g1/g3_reduzida/privado/mapa_execucoes.json": "9bf3c9929a4ac5ae9912b1e2f71aa1f84f72922e2878e06fe85c467330147d3e",
+  "validacao_g1/g3_reduzida/privado/resultado_filtros.json": "034b2da3f911765385f9c9a210d6f9f59274235a0315c9d2b0dc5d36c3cb8e0e",
+  "validacao_g1/g3_reduzida/privado/candidatas_para_filtros.json": "ecb91831b89a84b3bcefa546ce4f2a60f7c8916725b1f264549ddcec7a411c7e",
+  "validacao_g1/g3_reduzida/pacotes/hashes_pacotes_g3.json": "5a32ec3104769754beba6c7ea0f3857cf24559f7f47e80f0f61d7a33bb88c8f6",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v22_e1_parte1.json": "2f07227d4ad6b00cf814338f03d96b7faf853536eab789293cdbe914b65c7c03",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v22_e1_parte2.json": "62595c8617ee91441411b65d9373eaec54088e4937363fabb2b58c5026e01481",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v22_e2_parte1.json": "8453690780b0aeadb054029736aec0ed9785b4e9097f4813e7e6866c6789690a",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v22_e2_parte2.json": "e8aa83c715ed5c29383c71478da60af5c4bece4dcc32c965628d1f15a75c0bdd",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v24_e1_parte1.json": "3942be8b83d241e758b919dac55b190c1150f8c395b69698ccf540862d4e7048",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v24_e1_parte2.json": "4be84338f81a0114e6fa7c98928a64e7609872c7dd7ca91779aee38119f398c0",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v24_e2_parte1.json": "8e25504d00d9aeb0ae53ee9ed8075769535c6fc4ffe6d05f960b6966796ce173",
+  "validacao_g1/g3_reduzida/pacotes/pacote_v24_e2_parte2.json": "d08d2fca2c7eb8b36140f003ac802f7543a58cf29dc6b04a33c957fb684df4ce"
+ }
+}

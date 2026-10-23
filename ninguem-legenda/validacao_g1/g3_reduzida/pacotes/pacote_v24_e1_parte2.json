@@ -1,0 +1,362 @@
+[
+ {
+  "codigo": "C557D3D",
+  "conceito_foto": "Par de sapatos sociais pretos de homem, bem engraxados, lado a lado sobre o piso de um salão de festa, parcialmente sob uma mesa com toalha branca que cai até perto do chão. Ao fundo, desfocados, outras mesas postas, cadeiras com capas claras e luzes quentes de festa. Nenhuma pessoa, nenhum vestido ou véu visível, sem texto nem marca legível.",
+  "na_foto": "Um par de sapatos pretos esquecido embaixo da mesa.",
+  "fora": "O pai da noiva tirou os sapatos para não pisar nela na valsa. Ensaiou três meses na cozinha.",
+  "previsoes_cegas": [
+   "O dono dos sapatos tirou-os para dançar descalço, ou bebeu demais e saiu com outros, e é o pai da noiva que ficou sem os sapatos na festa.",
+   "O dono dos sapatos tirou-os para dançar descalço, a festa é um casamento e ele é o pai da noiva.",
+   "Os sapatos são do pai da noiva, que os tirou no meio da festa para dançar descalço, emocionado com o casamento da filha."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C1EA4BC",
+  "conceito_foto": "Rede de algodão cru armada entre dois troncos de árvores à beira de um riacho raso, mata fechada ao redor. Rede vazia, levemente curvada, sem objetos pessoais por perto. Luz coada de fim de tarde entre as folhas. Nenhuma pessoa, sem texto, sem marca, sem logotipo.",
+  "na_foto": "Uma rede vazia armada entre duas árvores, perto do riacho.",
+  "fora": "É de um vizinho que aparece toda tarde, às quatro, e fica exatamente vinte minutos.",
+  "previsoes_cegas": [
+   "A rede está vazia porque quem a armou foi buscar alguém ou desistiu de voltar, e o descanso que ela promete ficou esperando.",
+   "A rede é de alguém que foi buscar descanso ali, mas o lugar vazio mostra que a pessoa ainda não voltou ou nunca chegou.",
+   "A rede está vazia porque o dono costumava descansar ali depois do trabalho e já não pode mais, ou porque alguém vai chegar."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CEF563A",
+  "conceito_foto": "Tesoura e mechas de cabelo no chão de uma barbearia, cadeira giratória ao fundo.",
+  "na_foto": "Um corte rápido, como todos os outros.",
+  "fora": "O cliente das terças quase não tem o que cortar. Vem pelos quinze minutos de conversa.",
+  "previsoes_cegas": [
+   "Para o barbeiro é um corte entre muitos, mas para o cliente é o corte do dia de uma entrevista, de um casamento ou de uma despedida.",
+   "Para o barbeiro cada corte é uma conversa, e o cliente, que sai com a aparência de quem vai a uma entrevista ou a um funeral, conta algo da vida ali.",
+   "Para o cliente é só mais um corte, mas é a primeira vez em meses que alguém o toca ou conversa com ele."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CFDF22E",
+  "conceito_foto": "Balança de pratos com pesos de metal sobre o balcão de uma mercearia.",
+  "na_foto": "Uma balança de pratos, exata como a mercearia promete.",
+  "fora": "O dono sempre erra a favor de quem conta moedas no balcão. Nunca ninguém percebeu.",
+  "previsoes_cegas": [
+   "A balança já foi ajustada pelo dono para favorecer o cliente, e a exatidão prometida é feita de pequenas generosidades escondidas.",
+   "A balança é antiga e o dono sabe que ela pesa um pouco a favor do cliente, porque a confiança vale mais que o grama.",
+   "A balança é antiga e já não é tão exata, mas o dono sempre arredonda a favor do freguês, que confia nele pela palavra."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CC507BA",
+  "conceito_foto": "Máquina de costura com tecido estampado sob a agulha, mão guiando o pano.",
+  "na_foto": "Uma costureira experiente conduz o pano estampado sob a agulha.",
+  "fora": "Sobra de cortina vira vestido de boneca. A neta já avisou que só aceita com bolso.",
+  "previsoes_cegas": [
+   "A costureira faz isso há décadas e sustentou a família inteira com aquele pano, e as mãos já sabem o caminho sem olhar.",
+   "A costureira aprendeu o ofício com a mãe ou a avó e sustenta a família com esse trabalho há décadas.",
+   "A costureira está terminando o último uniforme ou vestido de uma encomenda que paga as contas da casa, trabalhando madrugada adentro."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C0A6E22",
+  "conceito_foto": "Banquinho dobrável de madeira, aberto, encostado a um portão de ferro pintado de verde, numa calçada de bairro residencial. Muro baixo com trepadeira ao lado, ao fundo uma rua de paralelepípedos com carros estacionados desfocados. Luz dourada de fim de tarde. Nenhuma pessoa. Sem placa, número legível, marca ou logotipo.",
+  "na_foto": "Um banquinho de madeira encostado ao portão, na calçada.",
+  "fora": "Todo fim de tarde o dono o abre ali, só para cumprimentar quem passa.",
+  "previsoes_cegas": [
+   "O banquinho é onde o morador se senta todo fim de tarde para ver a rua e conversar com os vizinhos, e hoje ele não está ali.",
+   "O banquinho é de um morador idoso que passa as tardes ali vendo a rua e cumprimentando quem passa.",
+   "O banquinho é do avô ou da avó que se senta ali todo fim de tarde para ver a rua e cumprimentar quem passa."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CD5B33F",
+  "conceito_foto": "Mesa de festa infantil em salão de condomínio, coberta por toalha branca lisa: centenas de brigadeiros em forminhas alinhadas em bandejas, torre de copos descartáveis, cacho de balões amarelos e azuis preso à parede ao fundo. Luz clara de tarde vinda de janela lateral. Nenhuma pessoa, nenhum texto legível, sem marca, sem faixa ou cartaz com nome.",
+  "na_foto": "Uma mesa de doces impecável sob balões coloridos.",
+  "fora": "Cento e vinte brigadeiros para um único convidado confirmado. Ela enrolou todos de madrugada, como se isso fizesse mais gente vir.",
+  "previsoes_cegas": [
+   "A mesa foi feita por uma mãe que passou noites enrolando brigadeiros para dar ao filho a festa que ela nunca teve.",
+   "A família gastou meses de economia para a festa, e a mãe passou a noite anterior enrolando brigadeiros sozinha.",
+   "A festa foi organizada por uma mãe que passou a madrugada enrolando os brigadeiros, e o convidado de honra talvez nem apareça."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C4AD181",
+  "conceito_foto": "Cortina de janela balançando com o vento, luz de fim de tarde atravessando o tecido.",
+  "na_foto": "Uma cortina clara ondulando numa tarde calma.",
+  "fora": "Ela abre a janela às cinco para o cheiro do pão do vizinho entrar. Nunca trocaram uma palavra.",
+  "previsoes_cegas": [
+   "A janela fica aberta porque alguém espera uma pessoa que ainda não chegou, e a calma da tarde esconde essa espera.",
+   "A janela está aberta porque alguém espera visita ou porque a casa ficou vazia e o vento é o único que a visita.",
+   "A cortina se mexe porque a janela ficou aberta na casa de alguém que não mora mais ali, e ninguém a fechou."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CB48DBE",
+  "conceito_foto": "Close em uma carteira escolar de madeira clara, com marcas leves de uso. Sobre ela, um lápis amarelo reduzido a um toco de poucos centímetros, ponta recém-apontada, ao lado de um estojo de tecido aberto onde aparecem lápis novos e inteiros. Sala de aula desfocada ao fundo, janelas e fileiras de carteiras vazias. Luz natural suave de manhã. Sem texto legível, sem marca, sem logotipo. Nenhuma pessoa.",
+  "na_foto": "Um lápis curto demais sobre uma carteira de escola.",
+  "fora": "Foi lápis inteiro no primeiro dia de aula. Ele se recusa a trocar, porque ainda quer lembrar do primeiro dia.",
+  "previsoes_cegas": [
+   "A criança prefere usar o toco de lápis ao novo porque foi presente de alguém querido, ou porque não quer gastar o material da família.",
+   "A criança prefere usar o lápis até o fim, mesmo tendo lápis novos, porque aprendeu em casa a não desperdiçar nada.",
+   "O lápis é de uma criança que usa o toco até o fim por ter aprendido a não pedir material novo, apesar do estojo cheio."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CC717CE",
+  "conceito_foto": "Campo de futebol de várzea com gramado irregular, gol de madeira e nuvens carregadas.",
+  "na_foto": "Um campo abandonado, com tempo fechando.",
+  "fora": "Todo domingo, onze contra onze. Com chuva ou sem, a regra é a mesma: quem cancelar paga a cerveja de todos.",
+  "previsoes_cegas": [
+   "O campo era onde o bairro inteiro se reunia aos domingos, e o time acabou porque os jogadores envelheceram ou o terreno foi vendido.",
+   "O campo é onde gerações de meninos jogaram, e a comunidade ainda o mantém, mesmo sem time nem campeonato.",
+   "O campo é onde uma geração aprendeu a jogar, e o terreno foi vendido para virar prédio ou estacionamento."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C3C1E2A",
+  "conceito_foto": "Cozinha comum de apartamento, vista de frente para o fogão de quatro bocas: panela de alumínio grande com tampa entreaberta soltando vapor e uma colher de pau apoiada ao lado. Azulejo claro ao fundo, pano de prato dobrado na bancada. Luz morna de fim de tarde vinda da janela lateral. Nenhuma pessoa, sem prato ou talher posto, sem texto, marca ou logotipo.",
+  "na_foto": "Uma panela grande de arroz fumegando no fogão.",
+  "fora": "Faz sempre o dobro. Arroz de um só nunca saiu no ponto.",
+  "previsoes_cegas": [
+   "A panela cozinha para muita gente, uma família grande ou uma marmita para vender, e quem cozinha ainda não comeu nada hoje.",
+   "A panela é de uma mãe que cozinha para muita gente e já tem o almoço da semana planejado, e o cheiro chama a casa toda.",
+   "A panela feita em grande quantidade serve a família toda e ainda vai render marmitas para os vizinhos que passam o dia fora."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C70347F",
+  "conceito_foto": "Balcão de madeira de uma mercearia de bairro, em primeiro plano um pote de vidro de tampa metálica cheio de balas coloridas embaladas, ao lado de uma caixa registradora antiga de teclas, sem visor legível. Prateleiras desfocadas ao fundo com latas e sacos sem rótulo visível. Luz morna de fim de tarde entrando pela porta. Nenhuma pessoa, sem texto, sem marca, sem logotipo.",
+  "na_foto": "Um pote de balas ao lado do caixa.",
+  "fora": "Era o troco quando faltava moeda. Trinta anos de centavos devidos, e é por isso que o bairro todo continua voltando.",
+  "previsoes_cegas": [
+   "As balas ficam ali para as crianças do bairro, e o dono as dá de graça ou fiado a quem não tem dinheiro, tornando a mercearia um lugar de afeto.",
+   "As balas são cortesia do dono para as crianças do bairro, que passam todo dia e que ele conhece pelo nome.",
+   "O dono da mercearia guarda as balas para as crianças da vizinhança que não têm dinheiro, e a caixa registradora quase nunca registra essas vendas."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C474676",
+  "conceito_foto": "Capacete de obra amarelo, riscado e salpicado de cimento seco, pendurado num prego de um tapume de madeira num canteiro de obras. Visto de frente e por fora, com o interior totalmente oculto. Ao fundo, desfocados, andaime e sacos de cimento empilhados. Luz seca de fim de manhã. Nenhuma pessoa, sem texto, sem marca, sem logotipo.",
+  "na_foto": "Um capacete de obra, sujo de cimento, num prego.",
+  "fora": "Por dentro, colado no forro, o desenho que a filha fez do pai construindo a casa deles.",
+  "previsoes_cegas": [
+   "O capacete está ali porque o operário foi demitido ou se aposentou, e o dono nunca voltou, ou o interior guarda um bilhete ou foto da família.",
+   "O capacete é de um pedreiro que o deixou ali no fim do expediente e que construiu casas onde nunca vai morar.",
+   "O capacete é do pedreiro que foi embora definitivamente, e o dono da obra o deixou pendurado como homenagem ou por esquecimento."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C4AC5FF",
+  "conceito_foto": "Interior de um ônibus urbano à noite, visto da parte de trás do corredor. Um passageiro de jaqueta escura dorme no último banco, cabeça encostada na janela, visto de costas e levemente de lado, sem rosto visível. Bolsa de lona no colo, alça enrolada na mão. Bancos vazios à frente, barras de apoio cromadas, luz amarelada de teto e reflexos de postes na janela. Motorista fora do quadro, sem espelho retrovisor mostrando alguém. Sem marcas, sem logotipos, sem letreiros ou qualquer escrita visível.",
+  "na_foto": "Um passageiro dormindo no último banco do ônibus vazio.",
+  "fora": "O motorista já deu a volta no terminal duas vezes para ele dormir até o fim.",
+  "previsoes_cegas": [
+   "O passageiro trabalha em dois turnos, dorme de cansaço no último ônibus e vai perder o ponto, mas ninguém tem coragem de acordá-lo.",
+   "O passageiro dorme porque acabou de sair de um segundo turno e perdeu o ponto de descer ou vai até o fim da linha por falta de opção.",
+   "O passageiro dorme exausto depois de dois empregos e vai passar do ponto, e o motorista vai deixá-lo dormir até o fim da linha."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C1EBE07",
+  "conceito_foto": "Mãos descascando uma laranja sobre uma pia de aço inox.",
+  "na_foto": "Uma laranja descascada sem cerimônia, de pé, na pia.",
+  "fora": "Ele tira cada fiapo branco desde que ela reclamou, em 2019. Ela nem lembra.",
+  "previsoes_cegas": [
+   "Quem descasca a laranja de pé na pia está comendo sozinho, sem tempo nem vontade de sentar, no meio de um dia corrido.",
+   "É o jantar ou o lanche de quem mora sozinho e não vê sentido em cozinhar só para si.",
+   "A pessoa come de pé na pia porque mora sozinha e não vê sentido em pôr a mesa só para si."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C37DCC7",
+  "conceito_foto": "Toalha estendida sobre a areia de uma praia, sol alto e pegadas ao redor.",
+  "na_foto": "Alguém chegou cedo e já está curtindo o sol.",
+  "fora": "Estendida às cinco da manhã. O dono voltou para a cama e chega só depois do almoço.",
+  "previsoes_cegas": [
+   "A pessoa chegou cedo porque é um dos poucos dias de folga do ano, ou a toalha está vazia porque o dono entrou no mar e ainda não voltou.",
+   "A pessoa trabalha a semana inteira e aquele é o único dia de folga, por isso chegou antes de todo mundo.",
+   "A pessoa não está curtindo o sol: está ali guardando o lugar para a família, que chega horas depois."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CCF5049",
+  "conceito_foto": "Mesa de cozinha de toalha de plástico xadrez desbotada, vista de cima e levemente de lado. Caderno de caligrafia de capa mole aberto, com linhas pautadas preenchidas por fileiras de traços e laçadas repetidas, nenhuma palavra legível. Lápis curto apontado a faca e borracha gasta ao lado. Uma xícara de café pela metade. Luz de manhã entrando por janela lateral, fogão e panela esmaltada desfocados ao fundo. Sem rosto, sem mãos, sem texto legível, sem marca.",
+  "na_foto": "Um caderno de caligrafia infantil, aberto na mesa da cozinha.",
+  "fora": "Ela tem sessenta e dois anos. A primeira palavra inteira foi o nome do neto.",
+  "previsoes_cegas": [
+   "O caderno é de um adulto que está aprendendo a escrever à noite, e não de uma criança, e ele esconde isso da família por vergonha.",
+   "Quem escreve é um adulto que está aprendendo a ler e escrever tarde, e treina as letras antes de ir trabalhar.",
+   "O caderno é de um adulto que está aprendendo a escrever tarde, de manhã cedo, antes de ir trabalhar, e tem vergonha de contar."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C84BD35",
+  "conceito_foto": "Prato de arroz, feijão e ovo frito sobre toalha xadrez, garfo ao lado.",
+  "na_foto": "Um almoço simples de dia de semana.",
+  "fora": "Na casa dela, o ovo frito é o placar do mês: só aparece quando a conta fecha no azul.",
+  "previsoes_cegas": [
+   "Aquele almoço simples é feito todo dia por quem cuida da casa, e quem come não percebe o trabalho e o amor que há por trás de um prato assim.",
+   "Aquele prato é o almoço que alguém preparou com carinho todos os dias, sem ser notado nem agradecido.",
+   "É o almoço de todo dia de quem trabalha, mas para muita gente é a refeição que sustenta a família inteira, feita com carinho."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CDEBEFF",
+  "conceito_foto": "Mesa de sinuca com bolas dispostas e o taco encostado na borda.",
+  "na_foto": "Uma partida de sinuca prestes a ser decidida.",
+  "fora": "O avô erra a tacada final de propósito desde que o neto fez dez anos. Ele nunca percebeu.",
+  "previsoes_cegas": [
+   "A partida valia dinheiro ou a honra do bairro, e os dois jogadores combinaram o desfecho antes mesmo de começar.",
+   "A partida vale dinheiro ou a honra no bar, e os dois jogadores só se encontram ali há anos.",
+   "A partida já foi decidida antes: os dois jogadores combinaram um resultado, ou a aposta não era dinheiro, era uma dívida de amizade."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CAAECF7",
+  "conceito_foto": "Bandejas de salgados sob a vitrine iluminada de uma lanchonete, balcão de inox.",
+  "na_foto": "Salgados fresquinhos, prontos para a fome do almoço.",
+  "fora": "Fritos às cinco da manhã por quem almoça sempre o mesmo pão com manteiga, em pé, atrás do balcão.",
+  "previsoes_cegas": [
+   "O dono da lanchonete acordou antes do amanhecer para preparar tudo, e os salgados que não forem vendidos serão repartidos ou jogados fora no fim do dia.",
+   "A lanchonete acorda de madrugada para fritar os salgados, e o trabalho de quem os faz é invisível para quem compra.",
+   "Os salgados foram feitos de madrugada por uma só pessoa que já sabe que parte deles vai sobrar no fim do dia."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C18E7E7",
+  "conceito_foto": "Toco de giz branco, gasto e pequeno, na calha de metal de um quadro-negro limpo, sem nada escrito. Pó de giz fino na calha. Sala de aula vazia ao fundo, desfocada, com carteiras de madeira alinhadas e janelas altas. Luz oblíqua de fim de manhã. Nenhuma pessoa, sem texto legível, sem marca.",
+  "na_foto": "Um toco de giz esquecido na calha do quadro.",
+  "fora": "Com ele ela escreveu o nome da turma nova, aos cinquenta e oito anos, depois de jurar que era a última.",
+  "previsoes_cegas": [
+   "A professora escreveu a última lição do ano e se aposentou, e o giz que sobrou é a marca de anos de aulas que ninguém agradeceu.",
+   "O giz é da professora, que o usa até acabar e leva o próprio material porque a escola não repõe.",
+   "O giz é do professor que está se aposentando depois de décadas, e esta foi a última aula em que o usou."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C02D288",
+  "conceito_foto": "Estojo de tecido em cores vivas, zíper fechado, sobre uma carteira escolar de madeira clara com tampo levemente riscado, numa sala de aula vazia no fim da tarde. Caderno fechado ao lado, quadro verde apagado ao fundo, desfocado. Luz dourada entrando por janela lateral. Nenhuma pessoa, sem texto legível, sem marca nem logotipo.",
+  "na_foto": "Um estojo colorido novo sobre uma carteira escolar.",
+  "fora": "Ele tem 52 anos e voltou a estudar. Comprou o estojo mais colorido porque, pela primeira vez, ninguém o proibiu de gostar.",
+  "previsoes_cegas": [
+   "O estojo é novo porque foi comprado com sacrifício pela família no começo do ano, e a criança ainda tem receio de abrir e usar.",
+   "O estojo foi comprado com sacrifício pela família e é o primeiro material novo da criança no ano.",
+   "O estojo novo foi comprado com sacrifício pelos pais, e a criança que o usará ainda não chegou ou está com medo do primeiro dia."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CA728E2",
+  "conceito_foto": "Pegadas pequenas de pés descalços na areia molhada, uma onda chegando.",
+  "na_foto": "Pegadas pequenas fugindo da onda que chega.",
+  "fora": "Aos quatro anos, ela esperou a onda chegar sem correr, pela primeira vez.",
+  "previsoes_cegas": [
+   "As pegadas pertencem a uma criança que corre da onda de propósito, brincando, e os pais observam de longe sem aparecer na foto.",
+   "A criança brinca de correr da onda enquanto o pai ou a mãe observa de longe, sem aparecer na foto.",
+   "As pegadas são de uma criança vendo o mar pela primeira vez, e o pai a observa de longe, fora do quadro."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CE37657",
+  "conceito_foto": "Mão segurando um molho de chaves diante de uma porta de madeira.",
+  "na_foto": "A mão calma de quem chega em casa de novo.",
+  "fora": "Faz uma semana que esta porta é dela. Ela ainda confere duas vezes, no molho, qual chave é a certa.",
+  "previsoes_cegas": [
+   "A mão só parece calma porque a pessoa passou anos fora, e antes de girar a chave ela demorou muito parada diante da porta sem coragem de entrar.",
+   "A pessoa está voltando para casa depois de muito tempo longe, e a mão calma esconde a emoção de reabrir aquela porta.",
+   "A pessoa está voltando para casa depois de anos longe, de uma internação ou de uma prisão, e a calma esconde o medo de não ser reconhecida."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CA32698",
+  "conceito_foto": "Ônibus escolar amarelo parado numa estrada rural, poeira no ar.",
+  "na_foto": "Um ônibus escolar cruza a estrada, cheio de crianças.",
+  "fora": "Faz quarenta quilômetros todo dia por um único aluno. O motorista já sabe o nome do cachorro dele.",
+  "previsoes_cegas": [
+   "Para muitas crianças o ônibus é a única forma de chegar à escola, e elas percorrem horas de estrada de terra todo dia para estudar.",
+   "O ônibus está vazio ou quase, porque muitas crianças da região abandonaram a escola ou moram longe demais para ele alcançar.",
+   "O ônibus é a única ligação das crianças com a escola, e algumas caminham horas antes de pegá-lo no ponto mais próximo."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C0FB90A",
+  "conceito_foto": "Mão de criança segurando a mão de um adulto numa faixa de pedestres.",
+  "na_foto": "Uma criança conduz um adulto distraído pela faixa.",
+  "fora": "É a última rua em que ela ainda aceita dar a mão. Ele sabe, e demora.",
+  "previsoes_cegas": [
+   "O adulto está olhando o celular ou preocupado e a criança é quem atenta para o sinal e o carro, assumindo a responsabilidade de proteger o adulto.",
+   "O adulto é um pai ou avô cansado que, sem dizer nada, confia na criança para atravessar a rua com segurança.",
+   "O adulto é o pai ou avô que está com o celular na mão ou a cabeça em preocupações, e a criança é quem o protege do trânsito."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C80349D",
+  "conceito_foto": "Capacete de obra e botas de segurança sobre um andaime ao fim do dia.",
+  "na_foto": "Alguém largou o trabalho no meio e foi embora.",
+  "fora": "Deixa tudo ali todo dia, para pegar o ônibus de tênis e ninguém saber que constrói prédios.",
+  "previsoes_cegas": [
+   "O trabalhador não largou o serviço por escolha, houve um acidente ou uma demissão repentina naquele dia e ele nunca voltou para buscar suas coisas.",
+   "O operário não abandonou o trabalho, apenas terminou a jornada exaustiva e voltará amanhã cedo para repetir tudo.",
+   "O operário não largou o trabalho: foi dispensado ou sofreu um acidente, e o capacete ficou ali sem que ninguém avisasse a família."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C888BA4",
+  "conceito_foto": "Pescador de costas lançando uma rede num lago ao amanhecer, neblina baixa.",
+  "na_foto": "Um pescador trabalhando cedo, sozinho, em paz com o lago.",
+  "fora": "Há meses a rede volta vazia. Ele sai de madrugada para a vila achar que ainda vive disso.",
+  "previsoes_cegas": [
+   "O pescador vive disso e a pesca de hoje decide se a família come, e a paz do lago esconde a preocupação com o sustento.",
+   "O pescador não pesca por esporte, a pesca é o sustento da família, e a paz é só aparente.",
+   "O pescador vive disso e a pesca vem diminuindo a cada ano, então o que parece paz é também preocupação com o sustento."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "CBC2716",
+  "conceito_foto": "Corredor estreito de casa em plena madrugada, visto do fundo. Uma única luminária pequena de parede acesa, luz âmbar suave sobre o piso de madeira e o rodapé. Uma porta de quarto entreaberta ao fundo, escura por dentro. Paredes lisas em tom neutro, um tapete simples. Sem objetos infantis, sem texto, sem marca. Nenhuma pessoa.",
+  "na_foto": "Uma luz acesa no corredor, de madrugada.",
+  "fora": "A filha tem vinte e seis anos e mora sozinha. Quando vem dormir em casa, o pai ainda deixa acesa.",
+  "previsoes_cegas": [
+   "A luz fica acesa para um filho ou alguém que tem medo do escuro, ou para esperar quem ainda não voltou para casa.",
+   "A luz fica acesa para um filho ou uma filha que tem medo do escuro, e um dos pais fica acordado até dormir.",
+   "A luz é deixada acesa por um pai ou uma mãe que acorda para ver se o filho está bem, ou por causa do medo do escuro da criança."
+  ],
+  "textos_anteriores": []
+ },
+ {
+  "codigo": "C6FB15B",
+  "conceito_foto": "Árvore isolada de copa larga no centro de um pasto aberto, grama baixa e seca ao redor, sombra circular no chão. Céu limpo de fim de tarde, luz lateral dourada. Sem trator, sem cerca, sem construções e sem pessoas. Nenhum texto, marca ou logotipo.",
+  "na_foto": "Uma única árvore no meio do pasto, sombra redonda.",
+  "fora": "O trator a contorna há quarenta anos, porque ninguém quis ser quem a cortaria.",
+  "previsoes_cegas": [
+   "A árvore sobrou porque alguém decidiu poupá-la quando derrubaram o resto da mata, e o pasto inteiro era floresta antes.",
+   "A árvore foi deixada de pé de propósito pelo dono, que poupou a sombra para o gado e para quem passa.",
+   "A árvore foi deixada de pé pelo fazendeiro porque o pai dele a plantou, e todo o pasto ao redor já foi desmatado."
+  ],
+  "textos_anteriores": []
+ }
+]

@@ -1,0 +1,23 @@
+{
+ "quando": "2026-10-23T04:32:57.789982+00:00",
+ "resultado": {
+  "M1_arquivos": [
+   22,
+   []
+  ],
+  "G1_itens": [
+   65,
+   []
+  ],
+  "G1_apoio": [],
+  "prompt_v22_igual_M1": true,
+  "prompt_v24_igual_M1": true,
+  "previsoes_lacradas": true,
+  "rotulos_lacrados": true,
+  "segunda_leitura_lacrada": true,
+  "pacotes_hash": true,
+  "execucoes_distintas": true,
+  "arquivos_em_execucoes": 0
+ },
+ "falhas": []
+}

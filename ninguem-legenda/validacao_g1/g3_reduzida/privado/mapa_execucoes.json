@@ -1,0 +1,495 @@
+{
+ "nota": "MAPA PRIVADO da G3 reduzida. Não entra em pacote nem é dado aos Críticos.",
+ "mapa": {
+  "v22_e1": {
+   "C13F5F0": "G1-F21",
+   "CCE9DFE": "G1-D06",
+   "CEF4784": "G1-F10",
+   "CAAE5EE": "G1-D15",
+   "CA4E9A8": "G1-D32",
+   "C4D42F4": "G1-D16",
+   "C0BE5DF": "G1-D07",
+   "CC227FC": "G1-F19",
+   "C467C0A": "G1-D29",
+   "CC8A175": "G1-F07",
+   "CDF1637": "G1-F04",
+   "CF90D79": "G1-D25",
+   "C46053A": "G1-F13",
+   "CF33BB0": "G1-D03",
+   "CE0A708": "G1-D08",
+   "C78DE08": "G1-F05",
+   "CF63DCD": "G1-D17",
+   "CFCDEEF": "G1-D20",
+   "C29DD95": "G1-D23",
+   "C208B6D": "G1-F02",
+   "C30D361": "G1-F27",
+   "CE17CF5": "G1-D11",
+   "C5E36E0": "G1-F28",
+   "C495B94": "G1-D02",
+   "C34C6AE": "G1-F01",
+   "C0F2E64": "G1-F16",
+   "C2CFB6F": "G1-F29",
+   "CD9F3FD": "G1-D35",
+   "CE9BFE1": "G1-F30",
+   "CF2BA84": "G1-F14",
+   "C8F879C": "G1-F22",
+   "C00170A": "G1-F25",
+   "C42249A": "G1-F12",
+   "C1DE776": "G1-D09",
+   "C727DF8": "G1-D18",
+   "C217C88": "G1-F24",
+   "C5A34CC": "G1-F18",
+   "C138338": "G1-D31",
+   "CD21C34": "G1-D19",
+   "C5C849E": "G1-F17",
+   "C2D6BDF": "G1-F09",
+   "C878A05": "G1-D01",
+   "C073E8A": "G1-D30",
+   "C3109F9": "G1-F23",
+   "C0E4831": "G1-D10",
+   "C9D2DEE": "G1-F26",
+   "C331560": "G1-D05",
+   "CD66462": "G1-D28",
+   "C142BC2": "G1-F03",
+   "CEAA01B": "G1-F11",
+   "CAA6338": "G1-F20",
+   "C056E5D": "G1-F06",
+   "C31A30D": "G1-D24",
+   "CA525F9": "G1-D34",
+   "CB941A0": "G1-D13",
+   "C3D6AA2": "G1-D21",
+   "C233CBF": "G1-D33",
+   "C38FE68": "G1-F08",
+   "CE68969": "G1-D04",
+   "CB95AEB": "G1-F15"
+  },
+  "v22_e2": {
+   "CE40ABD": "G1-F26",
+   "CCC62C7": "G1-D07",
+   "CCC3B93": "G1-D32",
+   "CD718D6": "G1-D13",
+   "C31291B": "G1-D31",
+   "CE55BF2": "G1-F30",
+   "C44484E": "G1-F13",
+   "C3BEC5D": "G1-D16",
+   "C742864": "G1-D11",
+   "CC7470D": "G1-F23",
+   "CF2D077": "G1-F19",
+   "CB31897": "G1-D19",
+   "C0CDFD0": "G1-D04",
+   "C531DC0": "G1-F05",
+   "C607127": "G1-F02",
+   "CB51510": "G1-F04",
+   "C6BDAC4": "G1-D21",
+   "C545BB1": "G1-D20",
+   "C01A90E": "G1-F22",
+   "C8E39F7": "G1-F03",
+   "C9D0AFF": "G1-F29",
+   "C21803C": "G1-F01",
+   "CF73B82": "G1-D30",
+   "C3FDF91": "G1-D09",
+   "C081090": "G1-F07",
+   "CBEFC1A": "G1-F16",
+   "C528CA4": "G1-D23",
+   "C9E7DD2": "G1-F17",
+   "CA857DE": "G1-D01",
+   "CBD8BCB": "G1-D28",
+   "C787C4A": "G1-D29",
+   "CF44C4D": "G1-F15",
+   "CD3CEC4": "G1-F09",
+   "C3DA972": "G1-D06",
+   "CE9FFFB": "G1-F08",
+   "CFCD1CF": "G1-F11",
+   "C317E95": "G1-D17",
+   "C4BFA4A": "G1-F20",
+   "CB9BACA": "G1-F14",
+   "C2E9C53": "G1-F27",
+   "C89B039": "G1-D24",
+   "C44A42B": "G1-D15",
+   "CDC4D90": "G1-F10",
+   "C2255C5": "G1-F12",
+   "C2F63F0": "G1-D33",
+   "CFA2072": "G1-D25",
+   "C1FB2E9": "G1-F28",
+   "C3DD1E4": "G1-D08",
+   "C4650CD": "G1-F06",
+   "CBC3CEB": "G1-F25",
+   "C0E9507": "G1-F24",
+   "CB0A245": "G1-D10",
+   "C97E94A": "G1-D03",
+   "C9A4887": "G1-F21",
+   "CA97777": "G1-D34",
+   "CDF5D92": "G1-D18",
+   "CCB6BF0": "G1-F18",
+   "C3E0D6D": "G1-D02",
+   "C139A65": "G1-D05",
+   "CF47C17": "G1-D35"
+  },
+  "v24_e1": {
+   "C0BD60C": "G1-D15",
+   "C8735DC": "G1-F05",
+   "C33130C": "G1-D24",
+   "C6C3B5C": "G1-D33",
+   "C7F418A": "G1-F30",
+   "C648116": "G1-F23",
+   "C4067A9": "G1-D31",
+   "C1364F2": "G1-D08",
+   "C0F10F4": "G1-F01",
+   "C242063": "G1-D25",
+   "CDF2985": "G1-D18",
+   "C282243": "G1-D07",
+   "C096F77": "G1-F13",
+   "C40253E": "G1-F26",
+   "C85BD81": "G1-F08",
+   "C196D36": "G1-F24",
+   "C7DD81F": "G1-D32",
+   "C376B1B": "G1-F07",
+   "CCC1A9D": "G1-F03",
+   "C40D2E0": "G1-D06",
+   "CD8840F": "G1-D11",
+   "CF57514": "G1-F21",
+   "C4ABA15": "G1-F19",
+   "C3D8D7B": "G1-D10",
+   "CD4E35B": "G1-F14",
+   "C99F35E": "G1-D13",
+   "CD87A9B": "G1-D29",
+   "C6D5B0E": "G1-F09",
+   "C4C859B": "G1-D05",
+   "C670985": "G1-D03",
+   "C557D3D": "G1-D09",
+   "C1EA4BC": "G1-D35",
+   "CEF563A": "G1-F10",
+   "CFDF22E": "G1-F29",
+   "CC507BA": "G1-F11",
+   "C0A6E22": "G1-D02",
+   "CD5B33F": "G1-D19",
+   "C4AD181": "G1-F17",
+   "CB48DBE": "G1-D30",
+   "CC717CE": "G1-F18",
+   "C3C1E2A": "G1-D04",
+   "C70347F": "G1-D23",
+   "C474676": "G1-D28",
+   "C4AC5FF": "G1-D17",
+   "C1EBE07": "G1-F15",
+   "C37DCC7": "G1-F27",
+   "CCF5049": "G1-D01",
+   "C84BD35": "G1-F28",
+   "CDEBEFF": "G1-F04",
+   "CAAECF7": "G1-F20",
+   "C18E7E7": "G1-D20",
+   "C02D288": "G1-D34",
+   "CA728E2": "G1-F16",
+   "CE37657": "G1-F12",
+   "CA32698": "G1-F06",
+   "C0FB90A": "G1-F25",
+   "C80349D": "G1-F22",
+   "C888BA4": "G1-F02",
+   "CBC2716": "G1-D21",
+   "C6FB15B": "G1-D16"
+  },
+  "v24_e2": {
+   "C26C3EE": "G1-F23",
+   "CAEFD80": "G1-F30",
+   "C050D30": "G1-D06",
+   "C0447BE": "G1-D08",
+   "C3BFF74": "G1-F22",
+   "C817A43": "G1-F02",
+   "C50E94D": "G1-D19",
+   "CDA5E6E": "G1-F05",
+   "C19AA41": "G1-D15",
+   "CBE6DFA": "G1-D04",
+   "C9284A0": "G1-F09",
+   "C082EDE": "G1-F28",
+   "C63E6E2": "G1-D34",
+   "C35205F": "G1-D29",
+   "C2E7A56": "G1-D31",
+   "C1DF609": "G1-D28",
+   "CC9C555": "G1-D13",
+   "C604144": "G1-F20",
+   "C4C0B32": "G1-D10",
+   "CF3AEE1": "G1-F26",
+   "C5B1841": "G1-F29",
+   "CFCF9A1": "G1-F11",
+   "C4555F3": "G1-F16",
+   "C38B134": "G1-D07",
+   "CF35C34": "G1-D18",
+   "CA2213D": "G1-D25",
+   "C615E7A": "G1-D05",
+   "CEBA130": "G1-D21",
+   "C6FE12C": "G1-D23",
+   "CB4AD38": "G1-F07",
+   "C79CD6A": "G1-F25",
+   "CA1B970": "G1-F18",
+   "C004FFF": "G1-D30",
+   "C45228F": "G1-D32",
+   "C1F3BA2": "G1-D16",
+   "C21F272": "G1-F04",
+   "C46B063": "G1-F21",
+   "C030B19": "G1-D09",
+   "C0C6774": "G1-F03",
+   "CC65074": "G1-F13",
+   "C46E945": "G1-F10",
+   "CDB372C": "G1-F15",
+   "CE31EBB": "G1-F12",
+   "CEB643D": "G1-D11",
+   "C1A2FDA": "G1-D20",
+   "C6165B1": "G1-F19",
+   "C9265C8": "G1-F14",
+   "C030F99": "G1-F06",
+   "C54FC34": "G1-D03",
+   "C8B6087": "G1-F08",
+   "CC856F8": "G1-D35",
+   "C35EB99": "G1-D02",
+   "C0CA960": "G1-D17",
+   "C06DCA4": "G1-F01",
+   "C8EB410": "G1-D01",
+   "C5FA747": "G1-D24",
+   "C4AF875": "G1-F17",
+   "C1D231A": "G1-F27",
+   "C2CE15D": "G1-F24",
+   "CF71E69": "G1-D33"
+  }
+ },
+ "sinais_estaticos": {
+  "G1-F01": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F02": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": true
+  },
+  "G1-F03": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": true
+  },
+  "G1-F04": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F05": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F06": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F07": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": true
+  },
+  "G1-F08": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F09": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F10": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F11": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F12": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F13": {
+   "S1_alerta_filtros": true,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F14": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F15": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F16": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F17": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F18": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F19": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F20": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F21": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F22": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": true
+  },
+  "G1-F23": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F24": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F25": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": true
+  },
+  "G1-F26": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F27": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F28": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F29": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-F30": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D01": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D02": {
+   "S1_alerta_filtros": true,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D03": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D04": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D05": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D06": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D07": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D08": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D09": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D10": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D11": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D13": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D15": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D16": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D17": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D18": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D19": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D20": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D21": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D23": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D24": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D25": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D28": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D29": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D30": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D31": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D32": {
+   "S1_alerta_filtros": true,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D33": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D34": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  },
+  "G1-D35": {
+   "S1_alerta_filtros": false,
+   "S2_zona_ausencia_saudade": false
+  }
+ }
+}
