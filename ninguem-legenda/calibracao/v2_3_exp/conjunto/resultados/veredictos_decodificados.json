@@ -1,0 +1,1083 @@
+{
+ "v23_run1": {
+  "W01": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "repeticao",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W25": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W11": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "redundancia",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W09": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W27": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W26": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W23": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W14": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W13": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W03": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "relacao_narrativa_insuficiente",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W04": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "sentimentalismo_moralismo",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W05": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W24": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W30": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W06": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W21": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W16": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W10": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "redundancia",
+     "C",
+     "corrigivel"
+    ],
+    [
+     "cliche_efetivo",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W08": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W20": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W29": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W17": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "redundancia",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W22": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W02": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W15": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W12": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W18": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W07": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W28": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "obscuridade",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W19": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  }
+ },
+ "v23_run2": {
+  "W23": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W01": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "repeticao",
+     "D",
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W05": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W06": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W17": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "redundancia",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W12": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W03": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "obscuridade",
+     "D",
+     "estrutural"
+    ],
+    [
+     "perda_segunda_leitura",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W24": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W20": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W09": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "redundancia",
+     "C",
+     "corrigivel"
+    ],
+    [
+     "cliche_efetivo",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W10": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "sentimentalismo_moralismo",
+     "D",
+     "estrutural"
+    ],
+    [
+     "redundancia",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W27": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W08": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "ambiguidade_prejudicial",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W18": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     "D",
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W04": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "sentimentalismo_moralismo",
+     "D",
+     "estrutural"
+    ],
+    [
+     "redundancia",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W11": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "repeticao",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W28": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "revelacao_arbitraria",
+     "D",
+     "estrutural"
+    ],
+    [
+     "obscuridade",
+     "D",
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W19": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W15": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W26": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W02": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W29": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W22": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W30": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 1
+  },
+  "W07": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W14": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W16": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W21": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 1
+  },
+  "W13": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W25": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     "C",
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  }
+ },
+ "v22_run1": {
+  "W22": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W29": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W15": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W12": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W21": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W04": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ],
+    [
+     "perda_segunda_leitura",
+     null,
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W28": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "obscuridade",
+     null,
+     "estrutural"
+    ],
+    [
+     "revelacao_arbitraria",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W27": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "ambiguidade_prejudicial",
+     null,
+     "corrigivel"
+    ],
+    [
+     "relacao_narrativa_insuficiente",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W30": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "plausibilidade_comprometida",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W10": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ],
+    [
+     "perda_segunda_leitura",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W01": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "repeticao",
+     null,
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     null,
+     "estrutural"
+    ],
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W11": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "repeticao",
+     null,
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     null,
+     "estrutural"
+    ],
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W18": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     null,
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W23": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W05": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W26": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W16": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W14": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W06": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W13": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W17": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W25": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "redundancia",
+     null,
+     "corrigivel"
+    ],
+    [
+     "relacao_narrativa_insuficiente",
+     null,
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W09": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W20": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W19": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W03": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "obscuridade",
+     null,
+     "estrutural"
+    ],
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ],
+    [
+     "perda_segunda_leitura",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W07": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W24": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W08": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W02": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  }
+ },
+ "v22_run2": {
+  "W14": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W15": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W07": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W08": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W02": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W06": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W21": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     null,
+     "corrigivel"
+    ],
+    [
+     "redundancia",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W12": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W19": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W24": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W10": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "redundancia",
+     null,
+     "corrigivel"
+    ],
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W25": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     null,
+     "estrutural"
+    ],
+    [
+     "redundancia",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W27": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "cliche_efetivo",
+     null,
+     "corrigivel"
+    ],
+    [
+     "perda_segunda_leitura",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W18": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W09": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W26": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W16": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "perda_segunda_leitura",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W28": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "obscuridade",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W23": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W29": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W05": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W11": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "repeticao",
+     null,
+     "estrutural"
+    ],
+    [
+     "cliche_efetivo",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W04": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ],
+    [
+     "perda_segunda_leitura",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W20": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W22": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W30": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "ambiguidade_prejudicial",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W17": {
+   "veredicto": "REVISAR",
+   "defeitos": [
+    [
+     "redundancia",
+     null,
+     "corrigivel"
+    ],
+    [
+     "cliche_efetivo",
+     null,
+     "corrigivel"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W01": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "repeticao",
+     null,
+     "estrutural"
+    ],
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  },
+  "W13": {
+   "veredicto": "APROVADA",
+   "defeitos": [],
+   "perifericas": 0
+  },
+  "W03": {
+   "veredicto": "REPROVADA",
+   "defeitos": [
+    [
+     "obscuridade",
+     null,
+     "estrutural"
+    ],
+    [
+     "sentimentalismo_moralismo",
+     null,
+     "estrutural"
+    ]
+   ],
+   "perifericas": 0
+  }
+ }
+}

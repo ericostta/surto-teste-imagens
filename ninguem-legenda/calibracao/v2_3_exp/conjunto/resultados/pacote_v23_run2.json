@@ -1,0 +1,618 @@
+{
+ "textos_anteriores": [
+  "Uma cadeira de escritório nova, ainda com o plástico. A primeira que ele escolheu sem olhar o preço antes.",
+  "Um crachá de visitante preso na camisa. Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu.",
+  "Uma marmita aberta sobre o capô de um carro. Ela atravessou a cidade de ônibus só para ver se ele tinha comido.",
+  "Uma planta perfeita no parapeito da janela. É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo.",
+  "Uma cama de solteiro bem arrumada, lençol esticado. A primeira semana em que dormir sozinho deixou de parecer castigo.",
+  "Uma mala fechada, pronta ao lado da porta. Está assim há dois anos. Ele gosta de saber que poderia ir.",
+  "Uma fila longa diante de um balcão. Metade está ali só porque achou que a outra metade sabia o motivo.",
+  "Uma mesa de Natal farta, vista de cima. A mão que segura o celular é a única que nunca sai nas fotos de família.",
+  "Um relógio de pulso antigo ao lado da torneira. Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê.",
+  "Duas escovas de dente no mesmo copo. A segunda foi trocada na semana em que ela decidiu ficar.",
+  "Um diploma emoldurado numa parede ainda sem pintura. Ele o pendurou antes de pintar a casa, para o caso de a coragem passar.",
+  "Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém."
+ ],
+ "candidatas": [
+  {
+   "codigo": "X14",
+   "conceito_foto": "Sala de reunião envidraçada vista do corredor: mesa oval clara, oito cadeiras alinhadas, luz de teto acesa, tela de parede desligada. Corredor de escritório vazio e arrumado. Nenhuma pessoa, nenhum texto legível.",
+   "na_foto": "Sala de reunião com a luz acesa e ninguém.",
+   "fora": "Está reservada em nome da diretoria desde março, para ninguém reservar. Quem precisa de silêncio usa a escada.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A reunião da qual alguém seria demitido ou que decidiria o destino de muitos já aconteceu, ou vai acontecer, e ninguém sabe ainda.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Há uma reunião de demissões marcada para aquela sala, e quem for chamado ainda não sabe.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Há uma reunião marcada para demitir alguém, e a sala foi preparada antes de a pessoa saber de nada.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X11",
+   "conceito_foto": "Cadeira de balanço de madeira desgastada em varanda rural, campo desfocado ao fundo, fim de tarde.",
+   "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+   "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A cadeira era do avô ou da avó que morreu, e ninguém teve coragem de sentar nela desde então.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A cadeira era do avô ou da avó que morreu, e ninguém teve coragem de sentar nela desde então.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A cadeira era do avô ou da avó que morreu, e ninguém teve coragem de sentar nela desde então.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X10",
+   "conceito_foto": "Caminha redonda de pano ao lado de um sofá, manta amassada com uma depressão no centro, alguns pelos claros no tecido. Luz baixa de tarde, sem animais nem pessoas.",
+   "na_foto": "Uma caminha de cachorro vazia perto do sofá.",
+   "fora": "Ela lavou a manta uma vez e se arrependeu. Agora só alisa por cima, para não apagar o formato dele.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O cachorro morreu há pouco tempo e a família ainda não consegue guardar a caminha.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O cachorro morreu há pouco tempo e a família ainda não teve coragem de guardar a caminha.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O cachorro morreu há pouco tempo e a família ainda não teve coragem de guardar a caminha.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X19",
+   "conceito_foto": "Chão de cimento de uma garagem com uma casa desenhada em giz colorido, quatro janelas bem feitas, telhado vermelho, porta amarela. Um toco de giz azul ao lado. Luz de fim de tarde. Nenhuma pessoa.",
+   "na_foto": "Uma casa de giz desenhada no chão da garagem.",
+   "fora": "Quem desenhou foi a vizinha de oitenta anos, de joelhos, porque a menina disse que não sabia fazer janela.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Uma criança desenhou a casa onde sonha morar, enquanto a família vive de aluguel apertado ou foi despejada.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Uma criança desenhou a casa sonhando com um lar que a família não tem, ou a criança que a desenhou já se mudou.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A criança que desenhou a casa mudou de cidade ou perdeu a casa de verdade, e o desenho é o que restou do lar que ela queria ter.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "codigo": "X18",
+   "conceito_foto": "Mesa de cozinha simples vista de frente, toalha de plástico xadrez, três cadeiras com almofadas desbotadas e uma quarta com almofada intacta ligeiramente afastada. Luz de janela lateral, sem pessoas.",
+   "na_foto": "Uma mesa de cozinha com quatro cadeiras.",
+   "fora": "Três têm almofada gasta. A quarta continua nova, puxada para fora todo almoço, como se alguém fosse chegar atrasado.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A quarta cadeira é de alguém que morreu ou foi embora, e ninguém se senta nela nem a tira da mesa.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A quarta cadeira é de alguém que não senta mais à mesa, e a família continua pondo o lugar dele.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A quarta cadeira é de alguém que morreu ou foi embora, e a família continua pondo a almofada nova como se ele fosse sentar.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X15",
+   "conceito_foto": "Caixa de papelão aberta sobre o balcão de uma portaria de prédio comercial, com uma caneca branca lisa, um carregador enrolado e um porta-retrato virado para baixo. Luz fria de saguão. Nenhuma pessoa, nenhum texto legível.",
+   "na_foto": "Uma caixa de papelão na portaria, com uma caneca.",
+   "fora": "Foi demitido numa sexta. No sábado dormiu até meio-dia, pela primeira vez em onze anos, sem alarme.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Alguém acabou de ser demitido e saiu do prédio com seus pertences numa caixa, sem ter tempo de se despedir.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A caixa tem os pertences de alguém que acabou de ser demitido e saiu do prédio sem se despedir.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A caixa é de uma pessoa recém-demitida que juntou seus pertences e saiu sem se despedir de ninguém.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X28",
+   "conceito_foto": "Fileira de sandálias de tamanhos diferentes sobre capacho simples diante de porta de casa.",
+   "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+   "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Uma família numerosa vive naquela casa e todos dividem o pouco espaço, ou um dos pares é de alguém que já não mora ali mas continua posto na fila.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Os pares de sandálias são de uma família grande que mora ali, e cada par mostra uma pessoa diferente que depende daquela casa.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Os pares de sandálias são de uma família grande que mora naquela casa, e uma delas é de alguém que já não vive mais ali mas segue no lugar.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "codigo": "X25",
+   "conceito_foto": "Canto de sala com violão de madeira sem marca encostado na parede, cordas brilhantes, poeira leve no tampo. Luz de fim de tarde na lateral, sem pessoas.",
+   "na_foto": "Um violão encostado num canto da sala.",
+   "fora": "As cordas são novas. Ele troca todo ano, no aniversário do pai, e não toca nenhuma música.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O violão era de alguém que não toca mais, por morte ou por desistir do sonho, e ninguém ousa vendê-lo.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O violão era de alguém da família que parou de tocar ou morreu, e ninguém mais toca desde então.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O violão era de alguém que parou de tocar depois de uma perda, e ninguém mais na casa toca.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X05",
+   "conceito_foto": "Parede de quarto pintada de cinza-claro com um quadro pequeno levemente torto, sem imagem reconhecível. Ao lado, a ponta de uma caixa de som sobre uma cômoda. Luz de abajur amarelada. Nenhuma pessoa.",
+   "na_foto": "Uma parede de quarto com um quadro torto.",
+   "fora": "Há uma semana ninguém bate nesta parede. Ela sobe o volume para testar se o vizinho ainda mora ali.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O quadro está torto porque alguém bateu a porta numa briga ou o casal acabou de se separar, e ninguém o endireitou.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O quadro está torto porque alguém bateu nele numa discussão, ou porque ninguém ajeitou desde que a pessoa saiu de casa.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O quarto é de um filho ou filha que morreu ou saiu de casa, e a família mantém tudo como estava, até o quadro torto.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X06",
+   "conceito_foto": "Batente de madeira de uma porta interna com riscos horizontais de lápis e números pequenos ilegíveis, parede recém-pintada ao redor, luz rasante de lado. Sem pessoas.",
+   "na_foto": "Riscos de lápis num batente de porta.",
+   "fora": "Os riscos sobem até a altura do ombro e param. A família pintou a casa inteira, menos esse pedaço.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Os riscos marcam a altura de uma criança que cresceu e foi embora, e a família vendeu a casa mas preservou o batente.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Os riscos marcam a altura de uma criança que cresceu e foi embora, e os pais pintaram a parede em volta sem coragem de apagar o batente.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "Os riscos marcam a altura de um filho que cresceu e saiu de casa, e a família pintou a parede ao redor para não perder a marca.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X22",
+   "conceito_foto": "Bancada de oficina com chaves e parafusos, graxa, cabo de ferramenta gasto em primeiro plano.",
+   "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+   "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A bancada era do pai ou avô falecido, e o filho mantém tudo exatamente como ele deixou.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A bancada era de um pai ou avô falecido, e a família mantém as ferramentas exatamente como ele deixou.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A bancada era de um pai ou avô falecido, e as ferramentas continuam exatamente onde ele deixou.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X13",
+   "conceito_foto": "Panela de alumínio amassada sobre fogão de quatro bocas, tampa levemente torta, luz de janela lateral.",
+   "na_foto": "Panela de arroz no fogão, tampa torta.",
+   "fora": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Alguém cozinhou arroz para uma pessoa que não vai voltar para comer, por hábito de anos.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A panela é a única refeição da família naquele dia, e o arroz é feito em quantidade pequena porque falta o que pôr junto.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A panela está pronta porque a pessoa cozinha para alguém que não está mais à mesa, por hábito, fazendo comida demais.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X29",
+   "conceito_foto": "Varal de quintal ao amanhecer com uma única camisa social de manga longa, sem estampas ou logotipos, pendurada por duas pinças. Fundo de muro desfocado, sem pessoas.",
+   "na_foto": "Um varal com uma camisa de homem.",
+   "fora": "Ela lava a camisa todo mês sem que ninguém a vista. Quer que a casa cheire a alguém.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A camisa é do marido ou pai que morreu ou foi embora, e a viúva continua lavando e pendurando a roupa dele.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A camisa é do homem que não voltou para casa e a esposa continua lavando e pendurando a roupa dele.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A camisa é de um homem que foi embora ou morreu, e alguém a lava e pendura toda semana como se ele fosse voltar.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X30",
+   "conceito_foto": "Banco de ponto de ônibus molhado ao amanhecer, poste e asfalto, sem pessoas.",
+   "na_foto": "Banco de ponto de ônibus sob chuva fina.",
+   "fora": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Alguém dormiu ali durante a noite, e é a única cama que a pessoa tem.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Alguém dormiu ali durante a noite, uma pessoa em situação de rua que já saiu antes do amanhecer.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Uma pessoa dorme ali toda noite, e o banco molhado é a cama de alguém em situação de rua.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X17",
+   "conceito_foto": "Close de tampo de carteira de madeira com riscos e rabiscos, sala vazia desfocada ao fundo.",
+   "na_foto": "Carteira escolar riscada, sala vazia.",
+   "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Era a carteira de um aluno que faleceu ou abandonou a escola, e os colegas deixaram os rabiscos dele intactos.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Os riscos foram feitos por gerações de alunos que passaram pela carteira, e a escola foi fechada ou está vazia por falta de alunos.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Os rabiscos foram feitos por um aluno que não voltou à escola, e a carteira ficou como lembrança dele.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X04",
+   "conceito_foto": "Pia de banheiro em plano fechado, copo de louça branca com uma única escova inclinada, espaço vazio visível ao lado, azulejo claro. Sem marcas legíveis nem pessoas.",
+   "na_foto": "Uma escova de dentes num copo de louça.",
+   "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Há só uma escova porque a outra pessoa foi embora ou morreu, e o espaço vazio ao lado ainda guarda o lugar dela.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A escova solitária mostra que alguém foi embora ou morreu, e o espaço vazio ao lado era da outra escova.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "Há uma única escova porque a outra pessoa foi embora, e o espaço vazio ao lado é onde ficava a escova dela.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X12",
+   "conceito_foto": "Chinelo de borracha sozinho em calçada úmida de bairro, plano baixo, sem pessoas.",
+   "na_foto": "Um chinelo largado na calçada molhada.",
+   "fora": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Alguém perdeu o chinelo ao correr de uma situação de perigo ou de uma briga, e o outro pé ficou para trás.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O outro pé do chinelo ficou para trás quando alguém correu ou foi levado, e o dono nunca voltou para buscá-lo.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O chinelo caiu de alguém que saiu correndo, fugindo ou socorrendo alguém, e nunca voltou para pegá-lo.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "codigo": "X21",
+   "conceito_foto": "Gancho atrás de uma porta com guarda-chuva preto fechado, sem logotipo, cabo de madeira gasto pelo uso. Penumbra de corredor, pingos visíveis numa janela ao fundo. Sem pessoas.",
+   "na_foto": "Um guarda-chuva preto pendurado atrás da porta.",
+   "fora": "Chove há uma semana e ela se molha. Era do marido, e abri-lo seria gastar o que resta dele.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O guarda-chuva era do pai que morreu e ninguém tem coragem de tirá-lo do gancho onde ele sempre o deixava.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O guarda-chuva era de alguém que não está mais ali, e ele continua pendurado no mesmo gancho porque ninguém quis mexer.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O guarda-chuva era de alguém que já não vive ali, e ninguém se atreve a tirá-lo do gancho.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X24",
+   "conceito_foto": "Corredor escuro à noite com uma porta entreaberta deixando escapar uma faixa de luz quente sobre o piso. Vê-se apenas a cama arrumada pela fresta, sem pessoas, sem marcas.",
+   "na_foto": "Uma porta de quarto entreaberta, luz acesa.",
+   "fora": "Ninguém dorme ali desde setembro. A mãe apaga todas as luzes da casa, menos essa, e diz que esqueceu.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Alguém deixa a luz acesa todas as noites esperando um filho ou filha que ainda não voltou para casa.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "Um dos pais deixa a luz acesa todas as noites esperando o filho adolescente voltar para casa.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Alguém deixa a luz do quarto acesa todas as noites esperando um filho ou uma filha que ainda não voltou para casa.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X08",
+   "conceito_foto": "Avenida urbana ao fim da tarde vista de dentro de um carro, por cima do volante: semáforo vermelho à frente, fila de carros de costas, para-brisa levemente embaçado. Uma mão apoiada tranquila no volante. Sem rosto, sem placas legíveis.",
+   "na_foto": "Um semáforo vermelho numa avenida cheia.",
+   "fora": "É o único minuto do dia em que ninguém lhe pede nada. Ela torce para pegar todos os vermelhos.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A pessoa ao volante está voltando de um velório ou de uma notícia ruim, e o semáforo vermelho é o único momento em que se permite chorar.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A pessoa ao volante está a caminho de uma notícia ruim ou de um hospital, e o semáforo vermelho é o último minuto de calma antes de tudo mudar.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O motorista está chorando ou voltando de um momento difícil, como um velório ou uma má notícia, e finge que está tudo normal.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X23",
+   "conceito_foto": "Bicicleta rosa limpa encostada num portão de ferro pintado de verde, corrente recém-lubrificada brilhando, cestinha vazia. Calçada de manhã cedo, luz fria. Nenhuma pessoa.",
+   "na_foto": "Uma bicicleta rosa encostada no portão, impecável.",
+   "fora": "O freio foi ajustado de madrugada pelo irmão, que ainda não ligou para pedir desculpas.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A bicicleta pertencia a uma criança que não anda mais nela, e a mãe ainda a lubrifica toda semana como se ela fosse voltar.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A bicicleta pertencia a uma criança que não anda mais nela, e a família a mantém limpa e lubrificada todos os dias como se ela fosse voltar.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A bicicleta pertencia a uma criança que não está mais ali, e alguém a mantém limpa e cuidada todo dia esperando que volte.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X09",
+   "conceito_foto": "Prato branco simples com uma maçã descascada e cortada em fatias finas, no chão de madeira, encostado ao rodapé de uma porta de quarto fechada. Luz da tarde vinda do corredor. Nenhuma pessoa.",
+   "na_foto": "Um prato com maçã descascada em fatias.",
+   "fora": "Desde terça ela encontra uma maçã descascada na porta do quarto. Ninguém falou sobre a briga.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Alguém deixa a maçã descascada na porta de um filho ou filha trancado no quarto, sem conseguir falar com ele.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "Alguém deixou a maçã para uma pessoa que está trancada no quarto, um filho ou parente deprimido que se recusa a sair.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "Alguém deixa a comida na porta de um parente que se trancou no quarto e não quer sair nem falar com ninguém.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X26",
+   "conceito_foto": "Par de tênis de corrida neutros, sem marca visível, com laços feitos, alinhados ao lado de uma porta de entrada sobre um capacho liso. Luz azulada de madrugada vinda de uma janela. Nenhuma pessoa.",
+   "na_foto": "Um par de tênis de corrida pronto, laços feitos.",
+   "fora": "Amarrados toda noite desde janeiro. A maratona é em novembro, e ele ainda não correu um quilômetro.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A pessoa se prepara para correr antes de todos acordarem, porque a corrida é o único momento em que consegue respirar e fugir do que a espera dentro de casa.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Os tênis estão prontos para a corrida de quem se prepara para uma maratona, ou de alguém que sai todo dia para fugir da ansiedade.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Os tênis estão prontos para a corrida de alguém que acorda de madrugada para treinar e encarar um dia difícil, mas ainda não conseguiu sair.",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "codigo": "X01",
+   "conceito_foto": "Porta de geladeira branca com um ímã simples de plástico segurando um papel amarelado com linhas manuscritas desfocadas e ilegíveis. Luz de cozinha suave, sem marcas e sem pessoas.",
+   "na_foto": "Um ímã segurando um papel amarelado na geladeira.",
+   "fora": "Faltam ovos e café desde março. Ninguém comprou nem tirou a lista, escrita na letra da avó.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O papel é uma lista ou receita escrita por alguém que morreu, e a família não tira da geladeira para manter a letra dessa pessoa.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O papel é um bilhete ou lista antiga deixada por alguém que já morreu, e a família nunca teve coragem de tirá-lo da geladeira.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O papel é uma receita ou bilhete deixado por alguém que morreu, e a família o mantém na geladeira há anos.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X07",
+   "conceito_foto": "Sala de escritório de canto ao anoitecer: mesa de madeira escura vazia e organizada, cadeira de couro, janelas amplas com a avenida iluminada ao fundo. Nenhum papel legível, nenhuma tela acesa. Nenhuma pessoa.",
+   "na_foto": "Uma mesa de canto com vista para a avenida.",
+   "fora": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A mesa era de alguém que acabou de ser demitido ou que trabalhou ali a vida inteira e a sala vai ser ocupada por outra pessoa amanhã.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A sala é de um executivo que passa todas as noites no trabalho e perde a vida da família em casa.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A mesa é de alguém que trabalha até tarde todos os dias e abre mão da família, vendo a vida passar pela janela.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X20",
+   "conceito_foto": "Caixa de madeira com tomates maduros e machucados sobre asfalto de rua de feira desmontada.",
+   "na_foto": "Caixa de tomates amassados no chão.",
+   "fora": "Os que ninguém quis vão para a sopa de quem montou a barraca às quatro da manhã.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O feirante vendeu o que pôde no dia, e quem sobra com os tomates machucados é quem não tem o que comer em casa.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Os tomates machucados são o que sobrou da feira e alguém vai recolhê-los para comer, porque a família depende desse descarte.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O feirante vende os tomates que sobraram, e quem os recolhe do chão é alguém que não tem o que comer.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X16",
+   "conceito_foto": "Mochila escolar sem estampas pendurada em grade de portão de escola, rua desfocada.",
+   "na_foto": "Mochila pequena pendurada numa grade.",
+   "fora": "Dentro tem um lanche feito com pressa e um bilhete. É o único abraço que coube antes do portão.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A criança esqueceu a mochila porque saiu correndo, ou a mochila é de um aluno que nunca veio buscá-la.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A mochila foi esquecida por uma criança que nunca voltou para buscá-la, ou o pai a pendura ali todo dia para a criança ter um lugar.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A mochila foi esquecida ou abandonada por uma criança que não voltou para buscá-la, e ninguém sabe o que aconteceu.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X27",
+   "conceito_foto": "Criado-mudo com tomada na parede e cabo de carregador branco sem marca caído sobre a madeira, lençol amarrotado só de um lado da cama ao fundo. Luz de abajur, sem pessoas.",
+   "na_foto": "Um carregador de celular ligado na tomada, sem celular.",
+   "fora": "É o lado dele da cama. Ela dorme encolhida do outro, e o carregador segue ligado, esperando a bateria.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A pessoa que dormia ali foi embora, e o carregador continua ligado esperando o celular que não volta.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Alguém está dormindo sozinho porque o parceiro foi embora, e o carregador continua ligado esperando um celular que não volta.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O carregador continua ligado porque a pessoa que o usava foi embora ou morreu, e alguém ainda não conseguiu desligá-lo.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "codigo": "X02",
+   "conceito_foto": "Caixa de sapato de papelão liso, sem marca, sobre o banco do passageiro de um carro, com o cinto de segurança atravessado sobre ela. Banco de tecido cinza, luz suave de fim de manhã entrando pelo vidro lateral. Nenhuma pessoa.",
+   "na_foto": "Uma caixa de sapato no banco do carro.",
+   "fora": "Quarenta caixas foram no caminhão. Esta viajou no banco, com cinto de segurança, porque guarda as cartas que ela escreveu.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A caixa guarda as cinzas ou os pertences de alguém querido, levados com cuidado para casa com o cinto afivelado.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A caixa guarda os objetos de alguém que morreu, ou um presente que a pessoa leva para entregar, e quem dirige carrega a caixa com cuidado até o destino.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A caixa guarda as cinzas ou os pertences de alguém que morreu, levada com cuidado como se fosse uma pessoa.",
+     "confianca": "média"
+    }
+   ]
+  },
+  {
+   "codigo": "X03",
+   "conceito_foto": "Porta de geladeira branca com ímãs, lista de compras e fotos de paisagens, sem rostos visíveis.",
+   "na_foto": "Geladeira coberta de ímãs e papéis.",
+   "fora": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Cada ímã e foto conta a vida de uma família inteira, incluindo uma pessoa que já não está presente, e a geladeira é o único arquivo dessa memória.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "As fotos de paisagens mostram os lugares que a família sempre quis conhecer e nunca conseguiu visitar.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A geladeira guarda a rotina de uma família que está sobrecarregada, com listas e compromissos que ninguém consegue cumprir.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1096 @@
+[
+ {
+  "codigo": "X12",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A caixa de tomates machucados: de refugo da feira passa a ser a sopa do próprio feirante que montou a barraca às quatro da manhã.",
+  "elo_humano": "Quem madruga para vender come o que o freguês recusou.",
+  "parafrase_concreta": "O feirante madrugador janta, em forma de sopa, os tomates que ninguém comprou.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Os tomates sobrados vão para quem não tem o que comer.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O destinatário do refugo é o próprio vendedor, não um necessitado externo.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Os leitores supuseram que um terceiro pobre recolhe os tomates.",
+    "motivo": "Foi uma leitura plausível que a revelação desloca, não um defeito."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A foto de tomates amassados ganha segunda leitura quando o FORA revela que o refugo é o jantar de quem montou a barraca às quatro da manhã. A previsão dominante (um necessitado externo) é invertida por um fato concreto.",
+  "nota": 78
+ },
+ {
+  "codigo": "X05",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A luz acesa na fresta: de descuido passa a vigília deliberada de uma mãe que nega fazê-lo.",
+  "elo_humano": "A mãe mantém o quarto de quem não dorme mais ali iluminado e disfarça com 'esqueci'.",
+  "parafrase_concreta": "Uma mãe apaga todas as luzes da casa menos a do quarto vazio desde setembro e diz que esqueceu.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Pais deixam a luz acesa esperando o filho que não volta.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O detalhe de apagar todas as luzes menos essa e a desculpa 'esqueci' dão ao gesto um autoengano concreto.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Não se diz por que ninguém dorme ali desde setembro.",
+    "motivo": "Omissão legítima; a sutileza está em não explicar a ausência."
+   },
+   {
+    "observacao": "Três previsões capturaram a espera pelo filho.",
+    "motivo": "Capturar a revelação isoladamente não é defeito; o autoengano da mãe acrescenta algo específico."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A luz que parecia esquecida vira vigília negada pela própria mãe, e o par 'apaga todas, menos essa' mais 'diz que esqueceu' é específico e concreto. A associação é comum, mas tem detalhe humano próprio.",
+  "nota": 66
+ },
+ {
+  "codigo": "X21",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 2,
+  "elemento_que_muda": "A sala de canto vazia: de troféu de carreira passa a ser o preço pago em jantares perdidos.",
+  "elo_humano": "Quem conquistou a sala trocou o jantar em casa por reuniões noturnas.",
+  "parafrase_concreta": "Um executivo cedeu três anos de jantares em família para ganhar a sala de canto.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Executivo que sacrifica a família pelo trabalho.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "cliche_efetivo",
+    "trecho": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+    "demonstracao": "É a associação mais imediata da categoria (escritório de canto, vida familiar sacrificada) e duas das três previsões a produziram quase igual. A frase não traz detalhe vivido que a particularize; 'jantares em casa' é genérico.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "O 'três anos' e 'oito da noite' dão alguma concretude.",
+    "motivo": "Numerais não bastam como perspectiva específica."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A troca de jantares por reuniões é a leitura padrão de uma sala de canto vazia e não traz perspectiva própria. Um detalhe doméstico concreto resolve sem trocar a revelação.",
+  "instrucao_de_revisao": "Defeito: cliche_efetivo, trecho 'trocou três anos de jantares em casa por reuniões às oito da noite'. Mudar: acrescentar um único detalhe doméstico concreto e específico no lugar do genérico 'jantares em casa' (um hábito, objeto ou pessoa da mesa que ficou sem ele), mantendo a frase curta. NÃO pode mudar: o núcleo narrativo, a troca de jantares em família pela sala de canto e as reuniões noturnas como acontecimento central.",
+  "nota": 48
+ },
+ {
+  "codigo": "X27",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A camisa no varal: de roupa estendida comum passa a ritual de manter a presença de um homem ausente.",
+  "elo_humano": "A mulher lava a camisa de quem não a veste mais para dar à casa o cheiro de alguém.",
+  "parafrase_concreta": "Uma mulher lava todo mês a camisa de um homem ausente para a casa cheirar a gente.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+   {
+    "referencia": "'alguém' / 'ninguém a vista'",
+    "leitura A": "Alguém é o homem ausente e a camisa é dele.",
+    "leitura B": "Alguém é uma presença qualquer; a camisa seria só um símbolo de vida na casa."
+   }
+  ],
+  "associacao_mais_comum": "Viúva que continua lavando as roupas do marido morto.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O cheiro de casa habitada como motivo é uma nuance, mas a frase final o enuncia em abstrato.",
+  "evidencias_positivas": [
+   "E1",
+   "E3",
+   "E4"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "cliche_efetivo",
+    "trecho": "Quer que a casa cheire a alguém.",
+    "demonstracao": "As três previsões chegaram à viúva que lava a roupa do ausente; a única nuance nova (cheiro) é dita em abstração. Além disso, lavar apaga o cheiro dele, o que torna o motivo declarado pouco convincente sem um detalhe concreto.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Não se diz se ele morreu ou foi embora.",
+    "motivo": "Omissão legítima."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A camisa lavada para ninguém é a associação padrão e a única nuance (o cheiro) fica na frase abstrata final. Um detalhe concreto do gesto resolve sem mudar a história.",
+  "instrucao_de_revisao": "Defeito: cliche_efetivo, trecho 'Quer que a casa cheire a alguém.' Mudar: trocar a frase final abstrata por um detalhe concreto do próprio gesto (o que ela usa para lavar ou como passa a camisa) que mostre o cheiro buscado. NÃO pode mudar: o núcleo narrativo, ela lavar todo mês a camisa que ninguém veste.",
+  "nota": 52
+ },
+ {
+  "codigo": "X30",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A bicicleta impecável: de objeto de criança ausente (leitura óbvia) passa a gesto de pedido de desculpas sem palavras do irmão.",
+  "elo_humano": "O irmão, que não consegue ligar, manda o conserto da bicicleta como pedido de desculpas.",
+  "parafrase_concreta": "Depois de uma briga, o irmão ajustou o freio de madrugada em vez de ligar para pedir desculpas.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   {
+    "referencia": "'o irmão'",
+    "leitura A": "Irmão de quem é dono ou dona da bicicleta.",
+    "leitura B": "Irmão de quem narra; ainda assim a ideia do conserto como desculpa permanece."
+   }
+  ],
+  "associacao_mais_comum": "Bicicleta de criança ausente cuidada por quem espera.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O cuidado técnico (freio, corrente) como forma masculina de se desculpar, em vez de palavras.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A ambiguidade de 'irmão' não muda o sentido.",
+    "motivo": "Ambas as leituras sustentam o mesmo gesto."
+   },
+   {
+    "observacao": "Não se diz o motivo da briga.",
+    "motivo": "Omissão legítima."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "As três previsões leram luto; o FORA reorienta a bicicleta limpa e lubrificada como um pedido de desculpas feito com as mãos. O elo (consertar em vez de ligar) é imediato e humano.",
+  "nota": 80
+ },
+ {
+  "codigo": "X11",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "As janelas da casa de giz: de desenho de criança passam a obra da vizinha de oitenta anos ajoelhada.",
+  "elo_humano": "Uma criança disse não saber fazer janela e uma idosa se ajoelhou no chão para ensinar fazendo.",
+  "parafrase_concreta": "A vizinha de oitenta anos desenhou a casa de giz de joelhos porque a menina não sabia fazer janela.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Criança sonha com a casa que a família não tem.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "A gentileza entre gerações e o esforço físico da idosa são um fato específico e terno.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Os leitores leram carência de moradia.",
+    "motivo": "Leitura plausível desfeita pela revelação; não é defeito."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "As janelas 'bem feitas' passam de desenho infantil para esforço de uma idosa de joelhos, invertendo a leitura de carência. O fato é concreto, sem sentimentalismo.",
+  "nota": 84
+ },
+ {
+  "codigo": "X03",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "O carregador ligado sem celular: de esquecimento passa a espera de quem ocupava o lado da cama.",
+  "elo_humano": "Ela dorme encolhida em um lado e mantém o carregador dele ligado.",
+  "parafrase_concreta": "Uma mulher dorme sozinha no seu lado e deixa o carregador do parceiro ausente ligado na tomada.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Objeto do parceiro ausente que continua no lugar.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O 'dorme encolhida' dá um gesto corporal, mas o resto é padrão.",
+  "evidencias_positivas": [
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "cliche_efetivo",
+    "trecho": "É o lado dele da cama. [...] o carregador segue ligado, esperando a bateria.",
+    "demonstracao": "Três previsões chegaram à mesma leitura do parceiro ausente, e o FORA não acrescenta além de 'ela dorme encolhida'. Há também imprecisão ('esperando a bateria': quem espera é o celular).",
+    "gravidade": "corrigivel"
+   },
+   {
+    "categoria": "redundancia",
+    "trecho": "o lençol amarrotado só de um lado",
+    "demonstracao": "Parte do FORA ('é o lado dele', 'ela dorme do outro') repete o que o lençol amarrotado de um lado já mostra.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A estrutura lembra outros itens de objeto do ausente.",
+    "motivo": "Sem trecho idêntico, não configura repeticao."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ausência do parceiro é a leitura padrão da cena e o FORA repete em parte o que o lençol já mostra. Um detalhe do gesto dela com o carregador resolve sem mudar o acontecimento.",
+  "instrucao_de_revisao": "Defeito: cliche_efetivo e redundancia parcial, trecho 'É o lado dele da cama. Ela dorme encolhida do outro'. Mudar: cortar o que o lençol já mostra e acrescentar um gesto concreto e específico dela com o carregador (o que ela faz com ele), corrigindo 'esperando a bateria' para a espera pelo celular. NÃO pode mudar: o núcleo narrativo, o carregador do lado dele da cama que segue ligado e ela dormindo sozinha.",
+  "nota": 45
+ },
+ {
+  "codigo": "X14",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A caixa de demitido: de perda e humilhação passa a alívio, o primeiro sono até meio-dia em onze anos.",
+  "elo_humano": "A demissão libertou da rotina de alarme; o que parecia perda foi também descanso.",
+  "parafrase_concreta": "Um homem demitido numa sexta dorme até meio-dia no sábado pela primeira vez em onze anos.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Demitido sai com pertences na caixa, humilhado.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "A leitura da demissão como alívio do corpo, com o detalhe do alarme e dos onze anos.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A primeira frase repete o que a caixa já sugere.",
+    "motivo": "Serve de preparação datada ('numa sexta') para a virada; peso mínimo."
+   },
+   {
+    "observacao": "Não se diz se o alívio é pleno.",
+    "motivo": "Omissão legítima."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "Os três leitores viram só a demissão; o FORA acrescenta o sono sem alarme e muda o tom da caixa para alívio. O detalhe de onze anos é concreto.",
+  "nota": 72
+ },
+ {
+  "codigo": "X17",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "O guarda-chuva no gancho: de objeto esquecido passa a relíquia que ela prefere não usar mesmo se molhando.",
+  "elo_humano": "Abrir o guarda-chuva do marido o desgastaria e a viúva prefere se molhar.",
+  "parafrase_concreta": "Há uma semana de chuva e a viúva se molha para não gastar o guarda-chuva do marido morto.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Objeto do morto que ninguém tira do lugar.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "Ela sofre um custo físico (se molha) para conservar o objeto; a conservação deixa de ser passiva.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A última oração explica o motivo.",
+    "motivo": "Excesso leve, mas amparado em fato concreto (ela se molha); não fecha a leitura a ponto de retirar o motivo de rever o cabo gasto."
+   },
+   {
+    "observacao": "Associação comum do objeto do morto.",
+    "motivo": "Há transformação e perspectiva específicas."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A foto de um guarda-chuva parado no gancho ganha novo sentido: ela se molha para não gastar o que resta do marido, e o cabo gasto passa a pesar. O custo físico torna a perspectiva específica.",
+  "nota": 70
+ },
+ {
+  "codigo": "X26",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "As cordas brilhantes sob poeira no tampo: de violão abandonado passa a ritual anual de cuidado sem uso.",
+  "elo_humano": "O filho troca as cordas no aniversário do pai e não toca, cuidando do instrumento sem usá-lo.",
+  "parafrase_concreta": "Um homem troca as cordas do violão todo ano no aniversário do pai e nunca toca nenhuma música.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   {
+    "referencia": "'o pai'",
+    "leitura A": "O pai, dono do violão, já morreu.",
+    "leitura B": "O pai é vivo, mas deixou de tocar; o ritual homenageia o aniversário."
+   }
+  ],
+  "associacao_mais_comum": "Instrumento de quem morreu ou parou de tocar, guardado.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O ritual anual das cordas explica o paradoxo de cordas novas com poeira no tampo.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Ambiguidade sobre a vida do pai.",
+    "motivo": "Não altera o sentido central; omissão legítima."
+   },
+   {
+    "observacao": "Predição comum.",
+    "motivo": "O ritual específico a particulariza."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O contraste entre cordas brilhantes e poeira no tampo, visível na foto, é resolvido pelo ritual de trocar cordas sem tocar. Fato concreto, emoção implícita.",
+  "nota": 80
+ },
+ {
+  "codigo": "X16",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "Nenhuma transformação identificável; as ferramentas continuam ferramentas.",
+  "elo_humano": "Não há elo concreto: a frase final é um aforismo sobre o descanso.",
+  "parafrase_concreta": "Alguém que consertou muita coisa nunca descansou.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Ferramentas de um trabalhador ou familiar falecido.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [
+   "E3"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "redundancia",
+    "trecho": "A chave de fenda tem o cabo liso de tanto uso.",
+    "demonstracao": "O conceito da foto já mostra o cabo de ferramenta gasto; a frase só repete o visual.",
+    "gravidade": "corrigivel"
+   },
+   {
+    "categoria": "sentimentalismo_moralismo",
+    "trecho": "Quem consertou tanta coisa nunca consertou o próprio descanso.",
+    "demonstracao": "Frase de efeito moral sem fato concreto: não diz quem é, por que não descansou ou qual cena o mostra. A correção exigiria outra história.",
+    "gravidade": "estrutural"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "As previsões falaram em pai falecido.",
+    "motivo": "O texto não diz isso; a leitura foi inventada pelos leitores."
+   }
+  ],
+  "eliminatorias": [
+   "sentimentalismo_moralismo"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA repete o cabo gasto já visível e fecha com um aforismo sem fato concreto. Não há acontecimento a preservar.",
+  "nota": 24
+ },
+ {
+  "codigo": "X01",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhum elemento da foto ganha novo significado; qual papel ou ímã guarda a data não é indicado.",
+  "elo_humano": "Há um elo mínimo (família que jurou não esquecer uma data), mas sem ligação a algo visível.",
+  "parafrase_concreta": "Uma família guarda na geladeira contas, vacinas e a data que jurou não esquecer de novo.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Geladeira como arquivo da vida de uma família.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [
+   "E3"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "perda_segunda_leitura",
+    "trecho": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+    "demonstracao": "A frase enumera o que uma geladeira cheia de ímãs e papéis já sugere; a única pista nova ('a data [...] de novo') não é ligada a nenhum elemento da foto, então não há o que reler. Sem transformação identificável.",
+    "gravidade": "estrutural"
+   },
+   {
+    "categoria": "redundancia",
+    "trecho": "as contas, as vacinas",
+    "demonstracao": "Repete o que o NA FOTO ('ímãs e papéis') e a lista de compras já dizem.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A omissão sobre qual data é.",
+    "motivo": "Seria sutileza se houvesse elemento visual para reler; aqui, não há."
+   }
+  ],
+  "eliminatorias": [
+   "perda_segunda_leitura"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A enumeração repete o que a geladeira já mostra e a data jurada não se liga a nada visível. Sem transformação identificável.",
+  "nota": 30
+ },
+ {
+  "codigo": "X22",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 1,
+  "elemento_que_muda": "A panela de arroz: de sobra comum passa a hábito de cozinhar para visita que não vem.",
+  "elo_humano": "Quem cozinha por hábito para mais gente do que mora ali.",
+  "parafrase_concreta": "Alguém continua cozinhando arroz para mais pessoas do que moram na casa, esperando visita.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+   {
+    "referencia": "'Ela' / 'alguém'",
+    "leitura A": "'Ela' é a panela ou a comida.",
+    "leitura B": "'Ela' é a cozinheira; 'alguém' fica indefinido."
+   }
+  ],
+  "associacao_mais_comum": "Cozinhar a mais por quem partiu.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [
+   "E2",
+   "E3"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "cliche_efetivo",
+    "trecho": "alguém sempre cozinha para mais gente do que mora ali",
+    "demonstracao": "É a associação padrão de comida em excesso; sem quem, quando ou o que sobra concretamente, o enunciado serve a qualquer panela. A foto (panela amassada, tampa torta) não é aproveitada.",
+    "gravidade": "corrigivel"
+   },
+   {
+    "categoria": "perda_segunda_leitura",
+    "trecho": "O hábito de esperar visita.",
+    "demonstracao": "Fragmento final nomeia a conclusão em vez de deixá-la ao leitor, fechando a leitura.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O FORA generaliza ('alguém sempre') sem detalhe concreto e fecha com uma conclusão nominal. Um detalhe vivido do gesto de cozinhar resolve sem trocar a ideia.",
+  "instrucao_de_revisao": "Defeito: cliche_efetivo e perda_segunda_leitura, trechos 'alguém sempre cozinha para mais gente' e 'O hábito de esperar visita.' Mudar: trocar o genérico por um detalhe concreto do gesto (a medida de arroz, o prato posto) e cortar a frase final que nomeia a conclusão. NÃO pode mudar: o núcleo narrativo, cozinhar além do necessário esperando visita que não vem.",
+  "nota": 40
+ },
+ {
+  "codigo": "X29",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nada muda: o banco de ponto continua banco de ponto.",
+  "elo_humano": "Não há elo; é uma observação geral sobre quem espera ônibus de manhã.",
+  "parafrase_concreta": "Quem espera o ônibus de madrugada pensa no sono que perde.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Pessoa em situação de rua dorme no banco.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "perda_segunda_leitura",
+    "trecho": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+    "demonstracao": "Observação genérica sem acontecimento, pessoa ou detalhe; a foto não ganha segunda leitura e a frase poderia acompanhar qualquer ponto de ônibus.",
+    "gravidade": "estrutural"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Nenhuma previsão acertou.",
+    "motivo": "Divergência indica foto aberta, não qualidade do texto."
+   }
+  ],
+  "eliminatorias": [
+   "perda_segunda_leitura"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A frase é uma observação genérica que não acrescenta nada à foto e não muda sua leitura. Falta acontecimento humano concreto.",
+  "nota": 22
+ },
+ {
+  "codigo": "X09",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "Os riscos de altura no batente: de marca de crescimento passam a marca que parou no ombro, preservada enquanto a casa era repintada.",
+  "elo_humano": "A família repintou tudo menos o batente onde a marcação parou na altura do ombro.",
+  "parafrase_concreta": "Os riscos de altura de uma criança param na altura do ombro e a família pintou a casa inteira menos esse pedaço.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Marcas de altura de filhos que cresceram e saíram.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O detalhe de 'param na altura do ombro' sugere uma interrupção precoce e a recusa de pintar só aquele pedaço.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Não se diz por que os riscos pararam.",
+    "motivo": "Omissão legítima; é a sutileza da história."
+   },
+   {
+    "observacao": "A parede recém-pintada ao redor é visível na foto.",
+    "motivo": "Mantém coerência; a frase a confirma sem repetir em excesso."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O 'param na altura do ombro' e 'menos esse pedaço' dão peso concreto à marca preservada. Os leitores leram partida de filho; o detalhe sugere algo mais interrompido.",
+  "nota": 74
+ },
+ {
+  "codigo": "X07",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "O semáforo vermelho: de atraso irritante passa a único minuto de paz do dia de uma pessoa que todos pedem.",
+  "elo_humano": "Quem vive pedida o dia inteiro encontra alívio onde os outros se irritam.",
+  "parafrase_concreta": "Uma mulher ao volante torce para pegar todos os vermelhos porque é o único minuto em que ninguém lhe pede nada.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Motorista com notícia ruim ou chorando.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "Inversão da irritação comum com o semáforo, ligada à carga de demandas dela.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A mão tranquila no volante é compatível com o texto.",
+    "motivo": "Reforça a coerência."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O vermelho, normalmente um atraso, vira o único minuto sem pedidos, e a mão tranquila no volante ganha sentido. Humano, concreto e surpreendente sem arbitrariedade.",
+  "nota": 82
+ },
+ {
+  "codigo": "X08",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A mochila na grade: de mochila esquecida passa a entrega de lanche e bilhete de um pai ou mãe com pressa.",
+  "elo_humano": "O responsável não teve tempo de abraçar e deixou lanche e bilhete na mochila.",
+  "parafrase_concreta": "Um adulto, sem tempo para abraçar, pendurou na grade da escola a mochila com lanche feito às pressas e um bilhete.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Criança esquece mochila ou desaparece.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O lanche feito com pressa e o bilhete como substitutos do abraço.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "perda_segunda_leitura",
+    "trecho": "É o único abraço que coube antes do portão.",
+    "demonstracao": "A metáfora do abraço nomeia a emoção e fecha a leitura; o lanche feito com pressa e o bilhete já bastavam para o leitor concluir.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Não se explica por que a mochila está na grade.",
+    "motivo": "Omissão legítima; o leitor completa que foi deixada ali."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O lanche e o bilhete são concretos e invertem a leitura de mochila esquecida, mas a frase final nomeia o sentimento por metáfora. Corte pontual resolve.",
+  "instrucao_de_revisao": "Defeito: perda_segunda_leitura (emoção nomeada), trecho 'É o único abraço que coube antes do portão.' Mudar: cortar ou trocar a metáfora por um detalhe concreto do bilhete ou do lanche, deixando o abraço implícito. NÃO pode mudar: o núcleo narrativo, a mochila com lanche feito com pressa e um bilhete deixada antes do portão.",
+  "nota": 58
+ },
+ {
+  "codigo": "X10",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhuma transformação: o motivo da fuga ou da risada nunca aparece.",
+  "elo_humano": "Não existe elo; o texto admite alternativas incompatíveis e retém o motivo.",
+  "parafrase_concreta": "Alguém voltou descalço por motivo desconhecido.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Fuga ou perigo, chinelo perdido.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "obscuridade",
+    "trecho": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+    "demonstracao": "O texto hesita entre 'rindo' e 'correndo' e declara o motivo oculto, de modo que a paráfrase concreta fica impossível: não há fato, só a promessa de um.",
+    "gravidade": "estrutural"
+   }
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": [
+   "obscuridade"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA não diz o que aconteceu e oferece alternativas opostas. Sem fato concreto, não há revelação a preservar.",
+  "nota": 18
+ },
+ {
+  "codigo": "X13",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A sala de reunião acesa e vazia: de espera por reunião a reserva permanente que mantém todos fora, empurrando quem busca silêncio para a escada.",
+  "elo_humano": "A diretoria bloqueia a sala no sistema para impedir uso por outros.",
+  "parafrase_concreta": "Uma sala é reservada pela diretoria desde março só para ninguém usar, e quem precisa de silêncio vai para a escada.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Reunião de demissões prestes a ocorrer.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "Humor de observação sobre a política de reservas e o preço pago por quem precisa de silêncio.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A situação é universal de escritório.",
+    "motivo": "Humor de observação social; o FORA usa a luz acesa e a sala vazia da foto."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A luz acesa e a sala vazia passam de espera por reunião a reserva simbólica, e a escada como refúgio é um detalhe humano preciso. As previsões de demissão foram invertidas.",
+  "nota": 77
+ },
+ {
+  "codigo": "X25",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A maçã descascada diante da porta: de comida deixada a gesto silencioso de reconciliação depois de uma briga.",
+  "elo_humano": "Quem briga não fala, mas descasca e deixa a maçã na porta.",
+  "parafrase_concreta": "Depois de uma briga, alguém deixa todo dia uma maçã descascada na porta do quarto dela, e ninguém menciona o assunto.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Parente deixa comida para quem se tranca no quarto.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "A maçã descascada, uma desculpa em forma de cuidado, e o silêncio sobre a briga.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "'Ninguém falou sobre a briga' explica um pouco.",
+    "motivo": "Peso leve; mantém o implícito de quem deixa a maçã."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O prato de maçã descascada vira reconciliação sem palavras, com o detalhe 'desde terça' marcando o tempo. A associação é comum, mas a perspectiva do cuidado como desculpa é específica.",
+  "nota": 70
+ },
+ {
+  "codigo": "X18",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A caminha amassada com pelos: de objeto parado passa a espaço preservado intencionalmente, com a manta alisada para manter o formato do cachorro.",
+  "elo_humano": "Ela lavou a manta, se arrependeu e agora só alisa para não apagar o formato dele.",
+  "parafrase_concreta": "Uma mulher lavou a manta da caminha do cachorro morto uma vez, se arrependeu, e agora só a alisa para manter o formato.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   {
+    "referencia": "'dele'",
+    "leitura A": "O cachorro dono da caminha.",
+    "leitura B": "Outra pessoa da casa; descartada pela foto, que mostra caminha de cachorro."
+   }
+  ],
+  "associacao_mais_comum": "Cachorro morto, a família não consegue guardar a caminha.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O arrependimento de ter lavado e o gesto de alisar para preservar o formato.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Os três leitores previram luto pelo cachorro.",
+    "motivo": "Capturar a revelação isoladamente não é defeito; o gesto específico é novo."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O gesto de lavar uma vez, se arrepender e só alisar dá fato concreto ao luto pelo animal, e o formato amassado da manta passa a ser a razão de rever a foto.",
+  "nota": 76
+ },
+ {
+  "codigo": "X19",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A escova solitária no copo: de rotina para marca de ausência do segundo morador.",
+  "elo_humano": "O copo comprado para duas escovas que ninguém trocou por falta de coragem.",
+  "parafrase_concreta": "Uma pessoa mantém o copo de duas escovas com uma só.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Uma escova só: o outro foi embora ou morreu.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "A observação do copo grande demais é nova, mas a conclusão ('ninguém teve coragem') nomeia o sentimento.",
+  "evidencias_positivas": [
+   "E3",
+   "E4"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "repeticao",
+    "trecho": "Duas escovas de dente no mesmo copo (texto anterior) / escova e copo para duas (candidata)",
+    "demonstracao": "O texto anterior já usa o motivo das escovas no mesmo copo como indicador de casal; esta candidata é o espelho dessa ideia, com o mesmo objeto e a mesma estrutura de objeto doméstico mais história de casal.",
+    "gravidade": "estrutural"
+   },
+   {
+    "categoria": "cliche_efetivo",
+    "trecho": "ninguém teve coragem de trocar",
+    "demonstracao": "As três previsões foram idênticas (partiu ou morreu) e o FORA acrescenta só o tamanho do copo; a coragem é emoção nomeada.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": [
+   "repeticao"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O motivo das escovas no copo já foi usado em texto anterior da série e a candidata é seu espelho, o que a torna repetição. Além disso, a leitura é a mais comum da categoria.",
+  "nota": 30
+ },
+ {
+  "codigo": "X20",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 1,
+  "elemento_que_muda": "Nada muda: a carteira riscada continua carteira riscada.",
+  "elo_humano": "Não há elo concreto; a frase é uma generalização poética.",
+  "parafrase_concreta": "Os riscos na carteira guardam nomes, namoros e medos dos alunos.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Gerações de alunos e saudade da escola.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "sentimentalismo_moralismo",
+    "trecho": "um medo que ninguém teve coragem de dizer em voz alta",
+    "demonstracao": "Emoção nomeada e generalizada sem acontecimento concreto; a frase é aforismo, e 'ninguém' não aponta um fato.",
+    "gravidade": "estrutural"
+   },
+   {
+    "categoria": "perda_segunda_leitura",
+    "trecho": "Cada risco é um nome, um namoro ou um medo",
+    "demonstracao": "A enumeração entrega uma explicação geral dos riscos e fecha a leitura, sem motivo para rever a foto.",
+    "gravidade": "estrutural"
+   }
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": [
+   "sentimentalismo_moralismo",
+   "perda_segunda_leitura"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA é uma generalização sentimental sem fato concreto nem pessoa. Sem acontecimento, não há segunda leitura a preservar.",
+  "nota": 20
+ },
+ {
+  "codigo": "X28",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "O quadro torto e a caixa de som: do quarto parado passam a cena de quem testa se o vizinho que batia na parede ainda mora ali.",
+  "elo_humano": "O barulho pedido por uma solidão que se transforma em teste de presença do vizinho.",
+  "parafrase_concreta": "Há uma semana o vizinho não bate na parede, e ela sobe o volume para ver se ele ainda mora ali.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Briga ou ausência de um parente que saiu de casa.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "A inversão: ela provoca o vizinho barulhento para ouvir a resposta e saber se ele ainda existe.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "O quadro torto pode vir das batidas.",
+    "motivo": "Compatível com o texto; ajuda a leitura sem exigir invenção."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O barulho antes incômodo vira meio de checar a presença do vizinho, e o quadro torto ganha motivo plausível. Perspectiva específica, humana e surpreendente.",
+  "nota": 84
+ },
+ {
+  "codigo": "X04",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Os tênis de laço feito: de preparo para corrida a promessa diária sem km desde janeiro.",
+  "elo_humano": "Quem se prepara toda noite para uma maratona e não sai para treinar.",
+  "parafrase_concreta": "Um homem deixa os tênis amarrados toda noite desde janeiro para uma maratona em novembro, sem ter corrido um quilômetro.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Alguém que treina de madrugada para fugir de algo.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "Humor e ternura sobre quem ensaia o começo em vez de começar.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Ideia próxima do texto da mala pronta.",
+    "motivo": "O tom e o fato (prazo, zero quilômetros) são diferentes; não configura repeticao."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O tênis pronto passa de sinal de disciplina a prova de adiamento diário, com data e quilometragem concretas. As previsões deram leitura emocional pesada; o texto é cotidiano e original.",
+  "nota": 72
+ },
+ {
+  "codigo": "X15",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "O papel preso por ímã: de lembrete banal a lista da avó que ninguém cumpre nem retira.",
+  "elo_humano": "A letra da avó na lista mantém a promessa de compras que ninguém conclui.",
+  "parafrase_concreta": "Uma lista de compras na letra da avó segue na geladeira, e ninguém comprou os ovos e o café nem a retirou.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+   {
+    "referencia": "'Faltam ovos e café desde março'",
+    "leitura A": "A casa realmente está sem ovos e café há meses (implausível).",
+    "leitura B": "Os itens da lista nunca foram riscados; só a lista ficou parada."
+   }
+  ],
+  "associacao_mais_comum": "Bilhete de quem morreu mantido na geladeira.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "A lista parada: o gesto ordinário de comprar ovos e café vira ato de não desfazer a letra.",
+  "evidencias_positivas": [
+   "E1",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "ambiguidade_prejudicial",
+    "trecho": "Faltam ovos e café desde março. Ninguém comprou",
+    "demonstracao": "Lido literalmente, a casa passaria meses sem ovos e café, o que é pouco plausível; a leitura pretendida (a lista parada) só aparece depois.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [
+   {
+    "observacao": "A avó não é dita falecida.",
+    "motivo": "Omissão legítima."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ideia da lista parada na letra da avó é concreta, mas 'faltam ovos e café desde março' pode ser lida como casa sem comida. Um ajuste de redação resolve.",
+  "instrucao_de_revisao": "Defeito: ambiguidade_prejudicial, trecho 'Faltam ovos e café desde março. Ninguém comprou'. Mudar: reformular só essas duas frases para que fique claro que o parado é a lista, não a despensa. NÃO pode mudar: o núcleo narrativo, a lista na letra da avó mantida na geladeira sem ser cumprida nem retirada.",
+  "nota": 56
+ },
+ {
+  "codigo": "X24",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A quarta cadeira com almofada nova: de cadeira reserva a lugar mantido para alguém que chegaria atrasado.",
+  "elo_humano": "A família continua puxando a cadeira todo almoço como se alguém fosse chegar.",
+  "parafrase_concreta": "Três cadeiras têm almofada gasta e a quarta, nova, é puxada para fora todo almoço para alguém que chegaria atrasado.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Cadeira do ausente que ninguém ocupa.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "A espera por 'chegar atrasado' em vez de ausência definitiva.",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4"
+  ],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "redundancia",
+    "trecho": "Três têm almofada gasta. A quarta continua nova, puxada para fora",
+    "demonstracao": "As duas primeiras frases descrevem o que o conceito da foto já mostra (três almofadas desbotadas, uma intacta e afastada); só 'todo almoço' e 'chegar atrasado' são novos.",
+    "gravidade": "corrigivel"
+   },
+   {
+    "categoria": "cliche_efetivo",
+    "trecho": "como se alguém fosse chegar atrasado",
+    "demonstracao": "A cadeira vazia do ausente é a associação padrão e todas as previsões chegaram a ela; só a nuance de 'atrasado' é própria.",
+    "gravidade": "corrigivel"
+   }
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "Metade do FORA repete a diferença de almofadas visível, e a ideia da cadeira do ausente é a padrão, embora 'chegar atrasado' seja bom. Corte da descrição resolve.",
+  "instrucao_de_revisao": "Defeito: redundancia parcial, trecho 'Três têm almofada gasta. A quarta continua nova, puxada para fora'. Mudar: cortar a descrição do que a foto já mostra e manter o gesto diário (puxar a cadeira todo almoço) e o 'como se alguém fosse chegar atrasado'. NÃO pode mudar: o núcleo narrativo, a quarta cadeira mantida à espera de alguém que não está mais à mesa.",
+  "nota": 55
+ },
+ {
+  "codigo": "X23",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "Nenhuma transformação: cadeira vazia de quem partiu.",
+  "elo_humano": "A casa espera quem sentava ali (personificação).",
+  "parafrase_concreta": "A cadeira de balanço balança com o vento e a casa aguarda o antigo morador.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Cadeira de avô ou avó falecido que ninguém usa.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "repeticao",
+    "trecho": "Cadeira de balanço virada para a janela. Ninguém senta nela há anos (texto anterior)",
+    "demonstracao": "O texto anterior já usa a cadeira de balanço vazia evitada por todos; a candidata repete o objeto e a ideia da espera pelo ausente.",
+    "gravidade": "estrutural"
+   },
+   {
+    "categoria": "sentimentalismo_moralismo",
+    "trecho": "A casa insiste em esperar quem sempre sentava ali.",
+    "demonstracao": "Personificação que nomeia a emoção sem fato concreto; as três previsões foram idênticas.",
+    "gravidade": "estrutural"
+   }
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": [
+   "repeticao",
+   "sentimentalismo_moralismo"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "Repete o objeto e a ideia de um texto anterior da série (cadeira de balanço vazia). O fecho personifica a casa sem fato concreto.",
+  "nota": 10
+ },
+ {
+  "codigo": "X06",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A caixa de sapato com cinto de segurança: de cinzas ou pertences de morto passa a cartas que ela escreveu, tratadas como passageiras na mudança.",
+  "elo_humano": "Quem muda protege o que escreveu mais do que o que despacha no caminhão.",
+  "parafrase_concreta": "Numa mudança, quarenta caixas foram no caminhão e só a caixa com as cartas que ela escreveu viajou no banco, com cinto.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Caixa com cinzas ou pertences de quem morreu.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O contraste de quarenta caixas no caminhão com uma no banco e a natureza do conteúdo (cartas escritas por ela).",
+  "evidencias_positivas": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+   {
+    "observacao": "Não se diz a quem as cartas se destinam.",
+    "motivo": "Omissão legítima; a sutileza está em não explicar."
+   }
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O cinto de segurança passa de cuidado com defunto a proteção de cartas na mudança, num contraste concreto com as quarenta caixas do caminhão. Perspectiva específica.",
+  "nota": 74
+ },
+ {
+  "codigo": "X02",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nada se transforma: as sandálias de vários tamanhos continuam sandálias de vários tamanhos.",
+  "elo_humano": "Não há elo concreto; a frase delega ao leitor a história.",
+  "parafrase_concreta": "O tamanho das sandálias mostra uma família que cresceu e tem membros ausentes.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+   {
+    "referencia": "'quem cresceu, quem ficou e quem ainda não voltou'",
+    "leitura A": "Membros de uma mesma família com idades diferentes.",
+    "leitura B": "Pessoas de fora da família que passam pela casa."
+   }
+  ],
+  "associacao_mais_comum": "Família numerosa numa casa pequena.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+   {
+    "categoria": "obscuridade",
+    "trecho": "quem cresceu, quem ficou e quem ainda não voltou para buscar o seu",
+    "demonstracao": "Três categorias genéricas de pessoas sem nenhuma situação concreta; a paráfrase é só abstração e serve a qualquer fileira de sandálias.",
+    "gravidade": "estrutural"
+   },
+   {
+    "categoria": "sentimentalismo_moralismo",
+    "trecho": "quem ainda não voltou",
+    "demonstracao": "Alude a ausência sem fato, apenas emoção sugerida.",
+    "gravidade": "estrutural"
+   }
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": [
+   "obscuridade",
+   "sentimentalismo_moralismo"
+  ],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA lista categorias abstratas de pessoas sem uma situação concreta e não muda a leitura das sandálias. Não há acontecimento a preservar.",
+  "nota": 22
+ }
+]

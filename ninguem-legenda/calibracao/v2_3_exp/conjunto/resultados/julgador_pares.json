@@ -1,0 +1,1010 @@
+[
+ {
+  "par": "P032",
+  "item": "W09",
+  "na_foto": "Riscos de lápis num batente de porta.",
+  "fora": "Os riscos sobem até a altura do ombro e param. A família pintou a casa inteira, menos esse pedaço.",
+  "motivo_externo": "Os riscos de altura preservados durante a pintura podem representar uma memória familiar significativa. Entretanto, a revelação permanece próxima de uma associação nostálgica previsível. Falta uma perspectiva mais específica que diferencie a história de uma recordação genérica do crescimento de alguém.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Os riscos sobem até a altura do ombro e param.",
+   "demonstracao": "A associação comum (marcas de altura de criança que cresceu, preservadas) é a revelação; só 'param' acrescenta, e isso é ambíguo (parou de crescer, de medir ou de viver). Corroboração: os três leitores a previram."
+  }
+ },
+ {
+  "par": "P040",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "Quem consertou tanta coisa nunca consertou o próprio descanso.",
+   "demonstracao": "Frase de efeito moral sem fato concreto: não diz quem é, por que não descansou ou qual cena o mostra. A correção exigiria outra história."
+  }
+ },
+ {
+  "par": "P046",
+  "item": "W11",
+  "na_foto": "Uma escova de dentes num copo de louça.",
+  "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+  "motivo_externo": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série.",
+  "defeito_do_critico": {
+   "categoria": "repeticao",
+   "trecho": "Duas escovas de dente no mesmo copo (texto anterior) / escova e copo para duas (candidata)",
+   "demonstracao": "O texto anterior já usa o motivo das escovas no mesmo copo como indicador de casal; esta candidata é o espelho dessa ideia, com o mesmo objeto e a mesma estrutura de objeto doméstico mais história de casal."
+  }
+ },
+ {
+  "par": "P009",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "relacao_narrativa_insuficiente",
+   "trecho": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+   "demonstracao": "O tamanho de um par indica a idade de quem o usa, mas não se ele voltou; o leitor não sabe qual par é o do ausente. Sem esse par identificado, a relação não se completa. Também o tamanho já está na foto, o que faz o FORA repetir."
+  }
+ },
+ {
+  "par": "P028",
+  "item": "W07",
+  "na_foto": "Uma mesa de canto com vista para a avenida.",
+  "fora": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+  "motivo_externo": "A troca de convivência familiar por ascensão profissional é um tema legítimo, mas apresentado de maneira excessivamente convencional. O texto reproduz a conhecida ideia de que o sucesso profissional custa tempo com a família, sem uma perspectiva narrativa distintiva.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+   "demonstracao": "É a associação mais imediata da categoria (escritório de canto, vida familiar sacrificada) e duas das três previsões a produziram quase igual. A frase não traz detalhe vivido que a particularize; 'jantares em casa' é genérico."
+  }
+ },
+ {
+  "par": "P003",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "A casa insiste em esperar quem sempre sentava ali.",
+   "demonstracao": "A associação comum (cadeira de balanço do familiar morto) é a própria revelação; o único acréscimo (balança com o vento) é cena, não perspectiva humana específica. Corroboração: os três leitores previram exatamente isso."
+  }
+ },
+ {
+  "par": "P043",
+  "item": "W11",
+  "na_foto": "Uma escova de dentes num copo de louça.",
+  "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+  "motivo_externo": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série.",
+  "defeito_do_critico": {
+   "categoria": "repeticao",
+   "trecho": "O copo é grande demais para uma escova só. Foi comprado para duas",
+   "demonstracao": "Repete o objeto e a ideia de uma edição anterior ('Duas escovas de dente no mesmo copo. A segunda foi trocada...'), em versão invertida e mais genérica."
+  }
+ },
+ {
+  "par": "P010",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "obscuridade",
+   "trecho": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+   "demonstracao": "A paráfrase concreta é impossível: não há pessoa, gesto nem fato, só abstração enumerada. O tamanho do par não mostra quem 'ainda não voltou', e o leitor teria de inventar todos os acontecimentos."
+  }
+ },
+ {
+  "par": "P067",
+  "item": "W25",
+  "na_foto": "Geladeira coberta de ímãs e papéis.",
+  "fora": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+  "motivo_externo": "A geladeira utilizada para guardar contas, lembretes e uma data familiar importante apresenta uma descrição cotidiana, mas a revelação permanece genérica. Não há informação suficiente sobre a data para que sua presença produza uma segunda leitura particular.",
+  "defeito_do_critico": {
+   "categoria": "relacao_narrativa_insuficiente",
+   "trecho": "a data que a família jurou não esquecer de novo",
+   "demonstracao": "O único gancho é uma data sem nome nem consequência; o leitor não consegue completar o elo e o remédio é inventar a história."
+  }
+ },
+ {
+  "par": "P011",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "quem cresceu, quem ficou e quem ainda não voltou",
+   "demonstracao": "Não há objeto, gesto ou relação que mude; o texto fecha a leitura com formulação genérica."
+  }
+ },
+ {
+  "par": "P027",
+  "item": "W07",
+  "na_foto": "Uma mesa de canto com vista para a avenida.",
+  "fora": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+  "motivo_externo": "A troca de convivência familiar por ascensão profissional é um tema legítimo, mas apresentado de maneira excessivamente convencional. O texto reproduz a conhecida ideia de que o sucesso profissional custa tempo com a família, sem uma perspectiva narrativa distintiva.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "trocou três anos de jantares em casa por reuniões às oito da noite",
+   "demonstracao": "A troca família por carreira é a associação mais comum; os números e o horário não bastam para dar perspectiva própria."
+  }
+ },
+ {
+  "par": "P071",
+  "item": "W27",
+  "na_foto": "Panela de arroz no fogão, tampa torta.",
+  "fora": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+  "motivo_externo": "A relação entre a panela, a quantidade de comida preparada e o hábito de esperar visitas apresenta problemas de formulação e causalidade. A frase \"ela sobrou\" não estabelece de maneira clara o referente nem explica coerentemente o papel da panela na história.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+   "demonstracao": "A associação comum é cozinhar a mais por hábito de quem não está; o texto apenas a nomeia ('hábito de esperar visita'), sem nada que mostre quem, há quanto tempo ou o que acontece com a sobra. Corroboração: duas das três previsões chegaram a essa ideia."
+  }
+ },
+ {
+  "par": "P034",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Quem consertou tanta coisa nunca consertou o próprio descanso.",
+   "demonstracao": "A associação comum é o trabalhador que nunca descansou; a frase fecha em fórmula de efeito sem fato concreto sobre ele."
+  }
+ },
+ {
+  "par": "P052",
+  "item": "W17",
+  "na_foto": "Uma mesa de cozinha com quatro cadeiras.",
+  "fora": "Três têm almofada gasta. A quarta continua nova, puxada para fora todo almoço, como se alguém fosse chegar atrasado.",
+  "motivo_externo": "A cadeira preservada para alguém ausente reproduz uma construção emocional amplamente conhecida. O contraste entre almofadas gastas e uma almofada intacta já antecipa a ausência. O texto acrescenta pouca informação à primeira leitura.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "Três têm almofada gasta. A quarta continua nova",
+   "demonstracao": "A foto já exibe três cadeiras com almofada desbotada e uma intacta afastada; a frase só repete isso sem acrescentar fato. Corroboração: leitores previram a cadeira ausente."
+  }
+ },
+ {
+  "par": "P054",
+  "item": "W17",
+  "na_foto": "Uma mesa de cozinha com quatro cadeiras.",
+  "fora": "Três têm almofada gasta. A quarta continua nova, puxada para fora todo almoço, como se alguém fosse chegar atrasado.",
+  "motivo_externo": "A cadeira preservada para alguém ausente reproduz uma construção emocional amplamente conhecida. O contraste entre almofadas gastas e uma almofada intacta já antecipa a ausência. O texto acrescenta pouca informação à primeira leitura.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "como se alguém fosse chegar atrasado",
+   "demonstracao": "A cadeira vazia do ausente é a associação padrão e todas as previsões chegaram a ela; só a nuance de 'atrasado' é própria."
+  }
+ },
+ {
+  "par": "P083",
+  "item": "W30",
+  "na_foto": "Um ímã segurando um papel amarelado na geladeira.",
+  "fora": "Faltam ovos e café desde março. Ninguém comprou nem tirou a lista, escrita na letra da avó.",
+  "motivo_externo": "A lista de compras preservada pela caligrafia da avó sugere uma memória familiar concreta. Entretanto, a permanência da falta de produtos cotidianos desde março enfraquece a plausibilidade literal. A história pode funcionar melhor com precisão na relação entre a lista, sua permanência e o vínculo afetivo.",
+  "defeito_do_critico": {
+   "categoria": "plausibilidade_comprometida",
+   "trecho": "Faltam ovos e café desde março. Ninguém comprou",
+   "demonstracao": "Lida literalmente, uma casa sem ovos e café por meses é pouco plausível, e o texto não oferece a leitura simbólica que salvaria a frase."
+  }
+ },
+ {
+  "par": "P024",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Cada risco é um nome, um namoro ou um medo",
+   "demonstracao": "A enumeração entrega uma explicação geral dos riscos e fecha a leitura, sem motivo para rever a foto."
+  }
+ },
+ {
+  "par": "P016",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "quem ainda não voltou",
+   "demonstracao": "Alude a ausência sem fato, apenas emoção sugerida."
+  }
+ },
+ {
+  "par": "P044",
+  "item": "W11",
+  "na_foto": "Uma escova de dentes num copo de louça.",
+  "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+  "motivo_externo": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "ninguém teve coragem de trocar",
+   "demonstracao": "As três previsões capturaram a ausência; o FORA só confirma, sem perspectiva própria."
+  }
+ },
+ {
+  "par": "P060",
+  "item": "W18",
+  "na_foto": "Banco de ponto de ônibus sob chuva fina.",
+  "fora": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+  "motivo_externo": "O banco de ônibus associado à perda de sono apresenta uma observação previsível sobre a rotina de deslocamento e trabalho. Não existe uma história específica nem uma transformação interpretativa suficientemente relevante.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+   "demonstracao": "Observação genérica sem acontecimento, pessoa ou detalhe; a foto não ganha segunda leitura e a frase poderia acompanhar qualquer ponto de ônibus."
+  }
+ },
+ {
+  "par": "P082",
+  "item": "W28",
+  "na_foto": "Um chinelo largado na calçada molhada.",
+  "fora": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+  "motivo_externo": "O chinelo abandonado gera hipóteses sobre alguém que voltou para casa descalço, mas não oferece uma revelação efetiva. O texto apenas sugere acontecimentos alternativos e termina afirmando um mistério que permanece sem desenvolvimento narrativo.",
+  "defeito_do_critico": {
+   "categoria": "obscuridade",
+   "trecho": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+   "demonstracao": "O texto hesita entre 'rindo' e 'correndo' e declara o motivo oculto, de modo que a paráfrase concreta fica impossível: não há fato, só a promessa de um."
+  }
+ },
+ {
+  "par": "P020",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+   "demonstracao": "Aforismo sem fato concreto: nomeia 'medo' e 'coragem' em abstrato, e nenhum risco é identificado."
+  }
+ },
+ {
+  "par": "P074",
+  "item": "W27",
+  "na_foto": "Panela de arroz no fogão, tampa torta.",
+  "fora": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+  "motivo_externo": "A relação entre a panela, a quantidade de comida preparada e o hábito de esperar visitas apresenta problemas de formulação e causalidade. A frase \"ela sobrou\" não estabelece de maneira clara o referente nem explica coerentemente o papel da panela na história.",
+  "defeito_do_critico": {
+   "categoria": "relacao_narrativa_insuficiente",
+   "trecho": "alguém sempre cozinha para mais gente do que mora ali",
+   "demonstracao": "O sujeito é indefinido e a visita é genérica; o leitor não tem como completar o elo com a cena."
+  }
+ },
+ {
+  "par": "P048",
+  "item": "W16",
+  "na_foto": "Mochila pequena pendurada numa grade.",
+  "fora": "Dentro tem um lanche feito com pressa e um bilhete. É o único abraço que coube antes do portão.",
+  "motivo_externo": "O lanche e o bilhete na mochila poderiam revelar um gesto de cuidado, mas a formulação sobre o abraço que coube antes do portão transforma a situação em sentimentalismo metafórico. Falta uma revelação específica e narrativamente desenvolvida.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Dentro tem um lanche feito com pressa e um bilhete. É o único abraço que coube antes do portão.",
+   "demonstracao": "O conteúdo é invisível; o leitor não tem o que rever na foto, e a segunda frase fecha o sentido com uma metáfora pronta."
+  }
+ },
+ {
+  "par": "P002",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "repeticao",
+   "trecho": "Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém.",
+   "demonstracao": "O texto anterior usa o mesmo objeto, a mesma ideia (cadeira de balanço que ninguém ocupa por causa de quem sentava) e a mesma estrutura de objeto mais ausência; X11 apenas troca a janela pela varanda e acrescenta o vento."
+  }
+ },
+ {
+  "par": "P056",
+  "item": "W18",
+  "na_foto": "Banco de ponto de ônibus sob chuva fina.",
+  "fora": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+  "motivo_externo": "O banco de ônibus associado à perda de sono apresenta uma observação previsível sobre a rotina de deslocamento e trabalho. Não existe uma história específica nem uma transformação interpretativa suficientemente relevante.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+   "demonstracao": "A frase não identifica pessoa, objeto ou gesto que mude o sentido do banco; é observação genérica sobre cansaço de quem pega ônibus cedo."
+  }
+ },
+ {
+  "par": "P063",
+  "item": "W21",
+  "na_foto": "Um carregador de celular ligado na tomada, sem celular.",
+  "fora": "É o lado dele da cama. Ela dorme encolhida do outro, e o carregador segue ligado, esperando a bateria.",
+  "motivo_externo": "O carregador mantido no lado vazio da cama utiliza a ideia de um objeto esperando alguém ausente. Além da previsibilidade sentimental, a referência à bateria não estabelece uma relação narrativa suficientemente precisa.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "É o lado dele da cama. [...] o carregador segue ligado, esperando a bateria.",
+   "demonstracao": "Três previsões chegaram à mesma leitura do parceiro ausente, e o FORA não acrescenta além de 'ela dorme encolhida'. Há também imprecisão ('esperando a bateria': quem espera é o celular)."
+  }
+ },
+ {
+  "par": "P069",
+  "item": "W25",
+  "na_foto": "Geladeira coberta de ímãs e papéis.",
+  "fora": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+  "motivo_externo": "A geladeira utilizada para guardar contas, lembretes e uma data familiar importante apresenta uma descrição cotidiana, mas a revelação permanece genérica. Não há informação suficiente sobre a data para que sua presença produza uma segunda leitura particular.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+   "demonstracao": "A frase enumera o que uma geladeira cheia de ímãs e papéis já sugere; a única pista nova ('a data [...] de novo') não é ligada a nenhum elemento da foto, então não há o que reler. Sem transformação identificável."
+  }
+ },
+ {
+  "par": "P084",
+  "item": "W30",
+  "na_foto": "Um ímã segurando um papel amarelado na geladeira.",
+  "fora": "Faltam ovos e café desde março. Ninguém comprou nem tirou a lista, escrita na letra da avó.",
+  "motivo_externo": "A lista de compras preservada pela caligrafia da avó sugere uma memória familiar concreta. Entretanto, a permanência da falta de produtos cotidianos desde março enfraquece a plausibilidade literal. A história pode funcionar melhor com precisão na relação entre a lista, sua permanência e o vínculo afetivo.",
+  "defeito_do_critico": {
+   "categoria": "ambiguidade_prejudicial",
+   "trecho": "Faltam ovos e café desde março. Ninguém comprou",
+   "demonstracao": "Lido literalmente, a casa passaria meses sem ovos e café, o que é pouco plausível; a leitura pretendida (a lista parada) só aparece depois."
+  }
+ },
+ {
+  "par": "P066",
+  "item": "W25",
+  "na_foto": "Geladeira coberta de ímãs e papéis.",
+  "fora": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+  "motivo_externo": "A geladeira utilizada para guardar contas, lembretes e uma data familiar importante apresenta uma descrição cotidiana, mas a revelação permanece genérica. Não há informação suficiente sobre a data para que sua presença produza uma segunda leitura particular.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "Ali estão as contas, as vacinas",
+   "demonstracao": "Enumera o que a foto já mostra (papéis, listas) sem acrescentar."
+  }
+ },
+ {
+  "par": "P077",
+  "item": "W28",
+  "na_foto": "Um chinelo largado na calçada molhada.",
+  "fora": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+  "motivo_externo": "O chinelo abandonado gera hipóteses sobre alguém que voltou para casa descalço, mas não oferece uma revelação efetiva. O texto apenas sugere acontecimentos alternativos e termina afirmando um mistério que permanece sem desenvolvimento narrativo.",
+  "defeito_do_critico": {
+   "categoria": "obscuridade",
+   "trecho": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+   "demonstracao": "A paráfrase concreta se resume a alguém que voltou descalço por motivo não dito, e 'rindo ou correndo' não escolhe nem uma situação."
+  }
+ },
+ {
+  "par": "P047",
+  "item": "W11",
+  "na_foto": "Uma escova de dentes num copo de louça.",
+  "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+  "motivo_externo": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "ninguém teve coragem de trocar",
+   "demonstracao": "As três previsões foram idênticas (partiu ou morreu) e o FORA acrescenta só o tamanho do copo; a coragem é emoção nomeada."
+  }
+ },
+ {
+  "par": "P018",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "um medo que ninguém teve coragem de dizer em voz alta",
+   "demonstracao": "Nomeia emoção genérica e sem fato; o próprio risco é uma forma de dizer, o que enfraquece a formulação."
+  }
+ },
+ {
+  "par": "P037",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "Quem consertou tanta coisa nunca consertou o próprio descanso.",
+   "demonstracao": "Aforismo moral sem fato concreto; 'consertar o descanso' é metáfora, não acontecimento."
+  }
+ },
+ {
+  "par": "P078",
+  "item": "W28",
+  "na_foto": "Um chinelo largado na calçada molhada.",
+  "fora": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+  "motivo_externo": "O chinelo abandonado gera hipóteses sobre alguém que voltou para casa descalço, mas não oferece uma revelação efetiva. O texto apenas sugere acontecimentos alternativos e termina afirmando um mistério que permanece sem desenvolvimento narrativo.",
+  "defeito_do_critico": {
+   "categoria": "revelacao_arbitraria",
+   "trecho": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+   "demonstracao": "O leitor precisa inventar o motivo; 'rindo ou correndo' são alternativas opostas e o texto promete um motivo que nunca entrega."
+  }
+ },
+ {
+  "par": "P030",
+  "item": "W08",
+  "na_foto": "Um varal com uma camisa de homem.",
+  "fora": "Ela lava a camisa todo mês sem que ninguém a vista. Quer que a casa cheire a alguém.",
+  "motivo_externo": "A intenção de preservar o cheiro de alguém por meio de lavagens mensais apresenta uma contradição material importante: lavar repetidamente a camisa tende a remover justamente o vestígio que se pretende conservar. O mecanismo central não se sustenta como foi apresentado.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Quer que a casa cheire a alguém.",
+   "demonstracao": "As três previsões chegaram à viúva que lava a roupa do ausente; a única nuance nova (cheiro) é dita em abstração. Além disso, lavar apaga o cheiro dele, o que torna o motivo declarado pouco convincente sem um detalhe concreto."
+  }
+ },
+ {
+  "par": "P041",
+  "item": "W11",
+  "na_foto": "Uma escova de dentes num copo de louça.",
+  "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+  "motivo_externo": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "'O copo é grande demais para uma escova só.' / foto: 'espaço vazio visível ao lado'",
+   "demonstracao": "A foto já mostra uma escova só e um espaço vazio ao lado; a primeira frase do FORA descreve de novo essa mesma desproporção, e a ausência fica entregue antes de o texto acrescentar 'foi comprado para duas'."
+  }
+ },
+ {
+  "par": "P049",
+  "item": "W16",
+  "na_foto": "Mochila pequena pendurada numa grade.",
+  "fora": "Dentro tem um lanche feito com pressa e um bilhete. É o único abraço que coube antes do portão.",
+  "motivo_externo": "O lanche e o bilhete na mochila poderiam revelar um gesto de cuidado, mas a formulação sobre o abraço que coube antes do portão transforma a situação em sentimentalismo metafórico. Falta uma revelação específica e narrativamente desenvolvida.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "É o único abraço que coube antes do portão.",
+   "demonstracao": "O período fecha a leitura com metáfora e nomeia a emoção; o conteúdo da mochila está dentro, então a foto não oferece nada para rever."
+  }
+ },
+ {
+  "par": "P062",
+  "item": "W21",
+  "na_foto": "Um carregador de celular ligado na tomada, sem celular.",
+  "fora": "É o lado dele da cama. Ela dorme encolhida do outro, e o carregador segue ligado, esperando a bateria.",
+  "motivo_externo": "O carregador mantido no lado vazio da cama utiliza a ideia de um objeto esperando alguém ausente. Além da previsibilidade sentimental, a referência à bateria não estabelece uma relação narrativa suficientemente precisa.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "É o lado dele da cama. Ela dorme encolhida do outro, e o carregador segue ligado",
+   "demonstracao": "A associação comum (objeto do parceiro que se foi mantido ligado) é a revelação inteira; 'encolhida' é postura sem fato. 'esperando a bateria' também é impreciso. Corroboração: as três previsões convergem."
+  }
+ },
+ {
+  "par": "P053",
+  "item": "W17",
+  "na_foto": "Uma mesa de cozinha com quatro cadeiras.",
+  "fora": "Três têm almofada gasta. A quarta continua nova, puxada para fora todo almoço, como se alguém fosse chegar atrasado.",
+  "motivo_externo": "A cadeira preservada para alguém ausente reproduz uma construção emocional amplamente conhecida. O contraste entre almofadas gastas e uma almofada intacta já antecipa a ausência. O texto acrescenta pouca informação à primeira leitura.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "Três têm almofada gasta. A quarta continua nova, puxada para fora",
+   "demonstracao": "As duas primeiras frases descrevem o que o conceito da foto já mostra (três almofadas desbotadas, uma intacta e afastada); só 'todo almoço' e 'chegar atrasado' são novos."
+  }
+ },
+ {
+  "par": "P007",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "repeticao",
+   "trecho": "Cadeira de balanço virada para a janela. Ninguém senta nela há anos (texto anterior)",
+   "demonstracao": "O texto anterior já usa a cadeira de balanço vazia evitada por todos; a candidata repete o objeto e a ideia da espera pelo ausente."
+  }
+ },
+ {
+  "par": "P057",
+  "item": "W18",
+  "na_foto": "Banco de ponto de ônibus sob chuva fina.",
+  "fora": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+  "motivo_externo": "O banco de ônibus associado à perda de sono apresenta uma observação previsível sobre a rotina de deslocamento e trabalho. Não existe uma história específica nem uma transformação interpretativa suficientemente relevante.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "conta os minutos de sono que já perdeu",
+   "demonstracao": "O cansaço de quem madruga é a associação mais comum do ponto de ônibus ao amanhecer e nada específico a transforma."
+  }
+ },
+ {
+  "par": "P055",
+  "item": "W18",
+  "na_foto": "Banco de ponto de ônibus sob chuva fina.",
+  "fora": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+  "motivo_externo": "O banco de ônibus associado à perda de sono apresenta uma observação previsível sobre a rotina de deslocamento e trabalho. Não existe uma história específica nem uma transformação interpretativa suficientemente relevante.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+   "demonstracao": "Frase genérica sobre o cansaço de quem espera ônibus; sem situação concreta e sem elemento da foto que ganhe novo significado."
+  }
+ },
+ {
+  "par": "P039",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "A chave de fenda tem o cabo liso de tanto uso.",
+   "demonstracao": "O conceito da foto já mostra o cabo de ferramenta gasto; a frase só repete o visual."
+  }
+ },
+ {
+  "par": "P029",
+  "item": "W08",
+  "na_foto": "Um varal com uma camisa de homem.",
+  "fora": "Ela lava a camisa todo mês sem que ninguém a vista. Quer que a casa cheire a alguém.",
+  "motivo_externo": "A intenção de preservar o cheiro de alguém por meio de lavagens mensais apresenta uma contradição material importante: lavar repetidamente a camisa tende a remover justamente o vestígio que se pretende conservar. O mecanismo central não se sustenta como foi apresentado.",
+  "defeito_do_critico": {
+   "categoria": "ambiguidade_prejudicial",
+   "trecho": "Quer que a casa cheire a alguém.",
+   "demonstracao": "Leitura A: quer o cheiro dele (mas lavar o apaga). Leitura B: quer cheiro de roupa limpa como sinal de casa habitada. Mudam o sentido: luto ou simulação de presença. Corroboração: previsões também seguem a A."
+  }
+ },
+ {
+  "par": "P058",
+  "item": "W18",
+  "na_foto": "Banco de ponto de ônibus sob chuva fina.",
+  "fora": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+  "motivo_externo": "O banco de ônibus associado à perda de sono apresenta uma observação previsível sobre a rotina de deslocamento e trabalho. Não existe uma história específica nem uma transformação interpretativa suficientemente relevante.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+   "demonstracao": "A frase fecha a leitura com uma generalização e não há elemento da foto que mude de sentido."
+  }
+ },
+ {
+  "par": "P045",
+  "item": "W11",
+  "na_foto": "Uma escova de dentes num copo de louça.",
+  "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+  "motivo_externo": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "ninguém teve coragem",
+   "demonstracao": "Nomeia a emoção em vez de mostrar um fato."
+  }
+ },
+ {
+  "par": "P051",
+  "item": "W17",
+  "na_foto": "Uma mesa de cozinha com quatro cadeiras.",
+  "fora": "Três têm almofada gasta. A quarta continua nova, puxada para fora todo almoço, como se alguém fosse chegar atrasado.",
+  "motivo_externo": "A cadeira preservada para alguém ausente reproduz uma construção emocional amplamente conhecida. O contraste entre almofadas gastas e uma almofada intacta já antecipa a ausência. O texto acrescenta pouca informação à primeira leitura.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "Três têm almofada gasta. A quarta continua nova, puxada para fora",
+   "demonstracao": "A foto já mostra três almofadas desbotadas e uma intacta afastada."
+  }
+ },
+ {
+  "par": "P059",
+  "item": "W18",
+  "na_foto": "Banco de ponto de ônibus sob chuva fina.",
+  "fora": "Quem espera ali conta os minutos de sono que já perdeu e os que ainda vai perder.",
+  "motivo_externo": "O banco de ônibus associado à perda de sono apresenta uma observação previsível sobre a rotina de deslocamento e trabalho. Não existe uma história específica nem uma transformação interpretativa suficientemente relevante.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "minutos de sono que já perdeu",
+   "demonstracao": "Cansaço do trabalhador no ponto é a associação imediata; a frase não traz perspectiva específica."
+  }
+ },
+ {
+  "par": "P005",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "quem sempre sentava ali",
+   "demonstracao": "As três previsões idênticas mostram a associação comum sem perspectiva própria."
+  }
+ },
+ {
+  "par": "P013",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "quem ainda não voltou para buscar o seu",
+   "demonstracao": "Evoca saudade sem fato."
+  }
+ },
+ {
+  "par": "P079",
+  "item": "W28",
+  "na_foto": "Um chinelo largado na calçada molhada.",
+  "fora": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+  "motivo_externo": "O chinelo abandonado gera hipóteses sobre alguém que voltou para casa descalço, mas não oferece uma revelação efetiva. O texto apenas sugere acontecimentos alternativos e termina afirmando um mistério que permanece sem desenvolvimento narrativo.",
+  "defeito_do_critico": {
+   "categoria": "obscuridade",
+   "trecho": "Só o chinelo guardou o motivo.",
+   "demonstracao": "Paráfrase concreta impossível."
+  }
+ },
+ {
+  "par": "P014",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "O tamanho de cada par mostra",
+   "demonstracao": "O FORA descreve o que a foto já mostra e não dá nova leitura."
+  }
+ },
+ {
+  "par": "P075",
+  "item": "W27",
+  "na_foto": "Panela de arroz no fogão, tampa torta.",
+  "fora": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+  "motivo_externo": "A relação entre a panela, a quantidade de comida preparada e o hábito de esperar visitas apresenta problemas de formulação e causalidade. A frase \"ela sobrou\" não estabelece de maneira clara o referente nem explica coerentemente o papel da panela na história.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "alguém sempre cozinha para mais gente do que mora ali",
+   "demonstracao": "É a associação padrão de comida em excesso; sem quem, quando ou o que sobra concretamente, o enunciado serve a qualquer panela. A foto (panela amassada, tampa torta) não é aproveitada."
+  }
+ },
+ {
+  "par": "P035",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "Quem consertou tanta coisa nunca consertou o próprio descanso.",
+   "demonstracao": "É aforismo sem fato concreto: nenhum gesto, nem pessoa, nem acontecimento."
+  }
+ },
+ {
+  "par": "P017",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+   "demonstracao": "A frase generaliza com categorias abstratas (nome, namoro, medo) sem nenhum caso identificável, e o 'medo não dito' é emoção nomeada. A foto já mostra os rabiscos, então nada muda na releitura."
+  }
+ },
+ {
+  "par": "P068",
+  "item": "W25",
+  "na_foto": "Geladeira coberta de ímãs e papéis.",
+  "fora": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+  "motivo_externo": "A geladeira utilizada para guardar contas, lembretes e uma data familiar importante apresenta uma descrição cotidiana, mas a revelação permanece genérica. Não há informação suficiente sobre a data para que sua presença produza uma segunda leitura particular.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Ali estão as contas, as vacinas",
+   "demonstracao": "A geladeira como arquivo da família é a associação imediata e nada específico a transforma."
+  }
+ },
+ {
+  "par": "P070",
+  "item": "W25",
+  "na_foto": "Geladeira coberta de ímãs e papéis.",
+  "fora": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+  "motivo_externo": "A geladeira utilizada para guardar contas, lembretes e uma data familiar importante apresenta uma descrição cotidiana, mas a revelação permanece genérica. Não há informação suficiente sobre a data para que sua presença produza uma segunda leitura particular.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "as contas, as vacinas",
+   "demonstracao": "Repete o que o NA FOTO ('ímãs e papéis') e a lista de compras já dizem."
+  }
+ },
+ {
+  "par": "P006",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "A casa insiste em esperar",
+   "demonstracao": "Personificação que nomeia a emoção sem fato concreto."
+  }
+ },
+ {
+  "par": "P008",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "A casa insiste em esperar quem sempre sentava ali.",
+   "demonstracao": "Personificação que nomeia a emoção sem fato concreto; as três previsões foram idênticas."
+  }
+ },
+ {
+  "par": "P021",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Cada risco é um nome, um namoro ou um medo",
+   "demonstracao": "A frase já esgota a leitura e não oferece mudança de sentido para a foto."
+  }
+ },
+ {
+  "par": "P022",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "nome, namoro ou medo",
+   "demonstracao": "Associação imediata de carteira riscada com memórias, sem perspectiva específica."
+  }
+ },
+ {
+  "par": "P012",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "obscuridade",
+   "trecho": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+   "demonstracao": "Nenhuma pessoa nem acontecimento concreto; a paráfrase possível é só abstração."
+  }
+ },
+ {
+  "par": "P050",
+  "item": "W16",
+  "na_foto": "Mochila pequena pendurada numa grade.",
+  "fora": "Dentro tem um lanche feito com pressa e um bilhete. É o único abraço que coube antes do portão.",
+  "motivo_externo": "O lanche e o bilhete na mochila poderiam revelar um gesto de cuidado, mas a formulação sobre o abraço que coube antes do portão transforma a situação em sentimentalismo metafórico. Falta uma revelação específica e narrativamente desenvolvida.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "É o único abraço que coube antes do portão.",
+   "demonstracao": "A metáfora do abraço nomeia a emoção e fecha a leitura; o lanche feito com pressa e o bilhete já bastavam para o leitor concluir."
+  }
+ },
+ {
+  "par": "P073",
+  "item": "W27",
+  "na_foto": "Panela de arroz no fogão, tampa torta.",
+  "fora": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+  "motivo_externo": "A relação entre a panela, a quantidade de comida preparada e o hábito de esperar visitas apresenta problemas de formulação e causalidade. A frase \"ela sobrou\" não estabelece de maneira clara o referente nem explica coerentemente o papel da panela na história.",
+  "defeito_do_critico": {
+   "categoria": "ambiguidade_prejudicial",
+   "trecho": "Ela sobrou porque alguém sempre cozinha...",
+   "demonstracao": "'Ela' pode ser a panela (que não sobra) ou o arroz (que não está na foto); muda o que o leitor olha na imagem."
+  }
+ },
+ {
+  "par": "P080",
+  "item": "W28",
+  "na_foto": "Um chinelo largado na calçada molhada.",
+  "fora": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+  "motivo_externo": "O chinelo abandonado gera hipóteses sobre alguém que voltou para casa descalço, mas não oferece uma revelação efetiva. O texto apenas sugere acontecimentos alternativos e termina afirmando um mistério que permanece sem desenvolvimento narrativo.",
+  "defeito_do_critico": {
+   "categoria": "obscuridade",
+   "trecho": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+   "demonstracao": "A paráfrase concreta é impossível: o texto oferece duas alternativas e declara que o motivo não existe no texto."
+  }
+ },
+ {
+  "par": "P023",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "sentimentalismo_moralismo",
+   "trecho": "um medo que ninguém teve coragem de dizer em voz alta",
+   "demonstracao": "Emoção nomeada e generalizada sem acontecimento concreto; a frase é aforismo, e 'ninguém' não aponta um fato."
+  }
+ },
+ {
+  "par": "P064",
+  "item": "W21",
+  "na_foto": "Um carregador de celular ligado na tomada, sem celular.",
+  "fora": "É o lado dele da cama. Ela dorme encolhida do outro, e o carregador segue ligado, esperando a bateria.",
+  "motivo_externo": "O carregador mantido no lado vazio da cama utiliza a ideia de um objeto esperando alguém ausente. Além da previsibilidade sentimental, a referência à bateria não estabelece uma relação narrativa suficientemente precisa.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "o lençol amarrotado só de um lado",
+   "demonstracao": "Parte do FORA ('é o lado dele', 'ela dorme do outro') repete o que o lençol amarrotado de um lado já mostra."
+  }
+ },
+ {
+  "par": "P004",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "repeticao",
+   "trecho": "Cadeira de balanço vazia ... A casa insiste em esperar quem sempre sentava ali.",
+   "demonstracao": "Repete a ideia e a estrutura da edição anterior ('Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos.')."
+  }
+ },
+ {
+  "par": "P036",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "A chave de fenda tem o cabo liso de tanto uso.",
+   "demonstracao": "A foto já traz o cabo de ferramenta gasto em primeiro plano."
+  }
+ },
+ {
+  "par": "P001",
+  "item": "W01",
+  "na_foto": "Cadeira de balanço vazia, varanda de madeira.",
+  "fora": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+  "motivo_externo": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original.",
+  "defeito_do_critico": {
+   "categoria": "repeticao",
+   "trecho": "Ela ainda balança um pouco quando venta. A casa insiste em esperar quem sempre sentava ali.",
+   "demonstracao": "O texto anterior diz: 'Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém.' Ambos tratam uma cadeira de balanço vazia como lugar de alguém ausente respeitado pela casa. Mesmo objeto, mesma revelação."
+  }
+ },
+ {
+  "par": "P065",
+  "item": "W25",
+  "na_foto": "Geladeira coberta de ímãs e papéis.",
+  "fora": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+  "motivo_externo": "A geladeira utilizada para guardar contas, lembretes e uma data familiar importante apresenta uma descrição cotidiana, mas a revelação permanece genérica. Não há informação suficiente sobre a data para que sua presença produza uma segunda leitura particular.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Ali estão as contas, as vacinas e a data que a família jurou não esquecer de novo.",
+   "demonstracao": "O texto lista o que qualquer geladeira de família guarda e ignora a foto (paisagens, lista); o único acréscimo, a data jurada, é só anunciado, sem fato. Corroboração: as previsões também foram genéricas."
+  }
+ },
+ {
+  "par": "P076",
+  "item": "W27",
+  "na_foto": "Panela de arroz no fogão, tampa torta.",
+  "fora": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+  "motivo_externo": "A relação entre a panela, a quantidade de comida preparada e o hábito de esperar visitas apresenta problemas de formulação e causalidade. A frase \"ela sobrou\" não estabelece de maneira clara o referente nem explica coerentemente o papel da panela na história.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "O hábito de esperar visita.",
+   "demonstracao": "Fragmento final nomeia a conclusão em vez de deixá-la ao leitor, fechando a leitura."
+  }
+ },
+ {
+  "par": "P019",
+  "item": "W04",
+  "na_foto": "Carteira escolar riscada, sala vazia.",
+  "fora": "Cada risco é um nome, um namoro ou um medo que ninguém teve coragem de dizer em voz alta.",
+  "motivo_externo": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "Cada risco é um nome, um namoro ou um medo",
+   "demonstracao": "Lista o que qualquer carteira riscada contém e a foto já mostra os riscos."
+  }
+ },
+ {
+  "par": "P081",
+  "item": "W28",
+  "na_foto": "Um chinelo largado na calçada molhada.",
+  "fora": "Alguém voltou para casa descalço, rindo ou correndo. Só o chinelo guardou o motivo.",
+  "motivo_externo": "O chinelo abandonado gera hipóteses sobre alguém que voltou para casa descalço, mas não oferece uma revelação efetiva. O texto apenas sugere acontecimentos alternativos e termina afirmando um mistério que permanece sem desenvolvimento narrativo.",
+  "defeito_do_critico": {
+   "categoria": "revelacao_arbitraria",
+   "trecho": "rindo ou correndo",
+   "demonstracao": "O leitor teria de inventar o acontecimento inteiro."
+  }
+ },
+ {
+  "par": "P072",
+  "item": "W27",
+  "na_foto": "Panela de arroz no fogão, tampa torta.",
+  "fora": "Ela sobrou porque alguém sempre cozinha para mais gente do que mora ali. O hábito de esperar visita.",
+  "motivo_externo": "A relação entre a panela, a quantidade de comida preparada e o hábito de esperar visitas apresenta problemas de formulação e causalidade. A frase \"ela sobrou\" não estabelece de maneira clara o referente nem explica coerentemente o papel da panela na história.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "O hábito de esperar visita.",
+   "demonstracao": "O período nomeia a explicação e fecha a leitura; a foto (panela amassada, tampa torta) não tem nada que o leitor volte a olhar. O 'Ela sobrou' é impreciso (o arroz sobrou, não a panela). Corroboração: leitores previram quem cozinha para ausente."
+  }
+ },
+ {
+  "par": "P061",
+  "item": "W19",
+  "na_foto": "Um guarda-chuva preto pendurado atrás da porta.",
+  "fora": "Chove há uma semana e ela se molha. Era do marido, e abri-lo seria gastar o que resta dele.",
+  "motivo_externo": "O guarda-chuva preservado como vestígio de uma pessoa ausente utiliza uma associação sentimental convencional. A ideia de que abrir o objeto consumiria o que resta do marido é poética, mas pouco sustentada por uma relação narrativa original.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "abri-lo seria gastar o que resta dele",
+   "demonstracao": "A frase final explica o sentimento que o fato (ela se molha) já sugere."
+  }
+ },
+ {
+  "par": "P038",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "perda_segunda_leitura",
+   "trecho": "Quem consertou tanta coisa nunca consertou o próprio descanso.",
+   "demonstracao": "A frase fecha a leitura com a lição e nada leva o leitor a rever a foto."
+  }
+ },
+ {
+  "par": "P015",
+  "item": "W03",
+  "na_foto": "Pares de sandálias de tamanhos diferentes na porta.",
+  "fora": "O tamanho de cada par mostra quem cresceu, quem ficou e quem ainda não voltou para buscar o seu.",
+  "motivo_externo": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas.",
+  "defeito_do_critico": {
+   "categoria": "obscuridade",
+   "trecho": "quem cresceu, quem ficou e quem ainda não voltou para buscar o seu",
+   "demonstracao": "Três categorias genéricas de pessoas sem nenhuma situação concreta; a paráfrase é só abstração e serve a qualquer fileira de sandálias."
+  }
+ },
+ {
+  "par": "P025",
+  "item": "W07",
+  "na_foto": "Uma mesa de canto com vista para a avenida.",
+  "fora": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+  "motivo_externo": "A troca de convivência familiar por ascensão profissional é um tema legítimo, mas apresentado de maneira excessivamente convencional. O texto reproduz a conhecida ideia de que o sucesso profissional custa tempo com a família, sem uma perspectiva narrativa distintiva.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+   "demonstracao": "A associação comum é a do executivo que sacrifica a família; o texto a enuncia em fórmula de troca, sem fato que a particularize. Corroboração: duas previsões chegaram a ela."
+  }
+ },
+ {
+  "par": "P031",
+  "item": "W09",
+  "na_foto": "Riscos de lápis num batente de porta.",
+  "fora": "Os riscos sobem até a altura do ombro e param. A família pintou a casa inteira, menos esse pedaço.",
+  "motivo_externo": "Os riscos de altura preservados durante a pintura podem representar uma memória familiar significativa. Entretanto, a revelação permanece próxima de uma associação nostálgica previsível. Falta uma perspectiva mais específica que diferencie a história de uma recordação genérica do crescimento de alguém.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "A família pintou a casa inteira, menos esse pedaço.",
+   "demonstracao": "A foto já mostra parede recém-pintada ao redor do batente riscado; a frase repete o que se vê sem acrescentar fato."
+  }
+ },
+ {
+  "par": "P026",
+  "item": "W07",
+  "na_foto": "Uma mesa de canto com vista para a avenida.",
+  "fora": "Para ganhar esta sala, trocou três anos de jantares em casa por reuniões às oito da noite.",
+  "motivo_externo": "A troca de convivência familiar por ascensão profissional é um tema legítimo, mas apresentado de maneira excessivamente convencional. O texto reproduz a conhecida ideia de que o sucesso profissional custa tempo com a família, sem uma perspectiva narrativa distintiva.",
+  "defeito_do_critico": {
+   "categoria": "cliche_efetivo",
+   "trecho": "trocou três anos de jantares em casa por reuniões às oito da noite",
+   "demonstracao": "A revelação é a associação comum (carreira versus família); os números não traz pessoa nem gesto específico. Corroboração: duas previsões a apontaram."
+  }
+ },
+ {
+  "par": "P042",
+  "item": "W11",
+  "na_foto": "Uma escova de dentes num copo de louça.",
+  "fora": "O copo é grande demais para uma escova só. Foi comprado para duas, e ninguém teve coragem de trocar.",
+  "motivo_externo": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série.",
+  "defeito_do_critico": {
+   "categoria": "repeticao",
+   "trecho": "Duas escovas de dente no mesmo copo. A segunda foi trocada na semana em que ela decidiu ficar.",
+   "demonstracao": "O texto anterior usa as mesmas escovas no mesmo copo como índice de casal e de coragem; X04 apenas inverte (uma só, ninguém teve coragem de trocar). O objeto, a estrutura e o vocabulário de 'coragem' coincidem. Corroboração: a previsão é a ausência clássica."
+  }
+ },
+ {
+  "par": "P033",
+  "item": "W10",
+  "na_foto": "Ferramentas espalhadas numa bancada manchada de graxa.",
+  "fora": "A chave de fenda tem o cabo liso de tanto uso. Quem consertou tanta coisa nunca consertou o próprio descanso.",
+  "motivo_externo": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal.",
+  "defeito_do_critico": {
+   "categoria": "redundancia",
+   "trecho": "A chave de fenda tem o cabo liso de tanto uso.",
+   "demonstracao": "A foto já traz o cabo de ferramenta gasto em primeiro plano; a primeira frase só descreve isso."
+  }
+ }
+]

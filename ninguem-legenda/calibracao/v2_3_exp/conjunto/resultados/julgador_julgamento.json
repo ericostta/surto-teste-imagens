@@ -1,0 +1,506 @@
+[
+ {
+  "par": "P032",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam a revelação como associação nostálgica previsível."
+ },
+ {
+  "par": "P040",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam frase abstrata e moral no lugar de fato narrativo."
+ },
+ {
+  "par": "P046",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Motivo trata de previsibilidade; o Crítico alega repetição de texto anterior, que não consta no item."
+ },
+ {
+  "par": "P009",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos veem genericidade, mas o Crítico foca em elo lógico falho e redundância."
+ },
+ {
+  "par": "P028",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: troca carreira versus família convencional."
+ },
+ {
+  "par": "P003",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: saudade convencional sem história específica."
+ },
+ {
+  "par": "P043",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Repetição de edição anterior não verificável no texto e distinta de previsibilidade."
+ },
+ {
+  "par": "P010",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Genericidade em comum, mas o Crítico acrescenta a falha de que o tamanho não mostra quem não voltou."
+ },
+ {
+  "par": "P067",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam a data sem informação que a particularize."
+ },
+ {
+  "par": "P011",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos veem formulação genérica sem especificidade."
+ },
+ {
+  "par": "P027",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: tema convencional sem perspectiva própria."
+ },
+ {
+  "par": "P071",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Motivo trata de referente e causalidade; o Crítico trata de clichê."
+ },
+ {
+  "par": "P034",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam metáfora conhecida sem fato concreto."
+ },
+ {
+  "par": "P052",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Ambos tocam o pouco acréscimo, mas a redundância com a foto não é verificável no texto."
+ },
+ {
+  "par": "P054",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: cadeira do ausente como construção padrão."
+ },
+ {
+  "par": "P083",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam implausibilidade literal de faltar ovos e café desde março."
+ },
+ {
+  "par": "P024",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam enumeração nostálgica sem revelação concreta."
+ },
+ {
+  "par": "P016",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a sentimentalidade genérica, sem o aspecto de história não específica."
+ },
+ {
+  "par": "P044",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: ausência previsível sem perspectiva própria."
+ },
+ {
+  "par": "P060",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam observação genérica sem história específica."
+ },
+ {
+  "par": "P082",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam hipóteses sem revelação efetiva."
+ },
+ {
+  "par": "P020",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam abstração sem revelação concreta."
+ },
+ {
+  "par": "P074",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a imprecisão do sujeito, mas deixa de fora o referente de 'ela'."
+ },
+ {
+  "par": "P048",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam o fechamento em metáfora sentimental."
+ },
+ {
+  "par": "P002",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Repetição de texto anterior não consta no item e difere do motivo."
+ },
+ {
+  "par": "P056",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: observação genérica sem história."
+ },
+ {
+  "par": "P063",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam previsibilidade sentimental e imprecisão da bateria."
+ },
+ {
+  "par": "P069",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam enumeração genérica e data sem ligação específica."
+ },
+ {
+  "par": "P084",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: plausibilidade literal."
+ },
+ {
+  "par": "P066",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Redundância com a foto toca a descrição cotidiana, mas não a genericidade da data."
+ },
+ {
+  "par": "P077",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: acontecimento não entregue."
+ },
+ {
+  "par": "P047",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: ausência previsível."
+ },
+ {
+  "par": "P018",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a emoção genérica, não a previsibilidade nostálgica central."
+ },
+ {
+  "par": "P037",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: aforismo abstrato sem fato."
+ },
+ {
+  "par": "P078",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam motivo prometido e não entregue."
+ },
+ {
+  "par": "P030",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Cita cheiro e lavagem, mas o central do Crítico é o clichê."
+ },
+ {
+  "par": "P041",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Redundância com a foto difere da previsibilidade apontada."
+ },
+ {
+  "par": "P049",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: metáfora sentimental do abraço."
+ },
+ {
+  "par": "P062",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: parceiro ausente previsível."
+ },
+ {
+  "par": "P053",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Toca o pouco acréscimo, mas a redundância com a foto não é verificável."
+ },
+ {
+  "par": "P007",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Repetição de texto anterior não verificável e distinta do motivo."
+ },
+ {
+  "par": "P057",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: observação previsível sobre o cansaço."
+ },
+ {
+  "par": "P055",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: generalidade sem história."
+ },
+ {
+  "par": "P039",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Redundância com foto não verificável no texto; motivo trata de metáfora conhecida."
+ },
+ {
+  "par": "P029",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a contradição da lavagem, mas centra em ambiguidade de leitura."
+ },
+ {
+  "par": "P058",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: generalização sem história."
+ },
+ {
+  "par": "P045",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Emoção nomeada toca o sentimentalismo, não a previsibilidade."
+ },
+ {
+  "par": "P051",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Toca o pouco acréscimo, mas a foto não está no texto."
+ },
+ {
+  "par": "P059",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: associação imediata sem especificidade."
+ },
+ {
+  "par": "P005",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: sentimentalismo convencional."
+ },
+ {
+  "par": "P013",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a sentimentalidade sem fato, não a genericidade da história."
+ },
+ {
+  "par": "P079",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca o motivo não revelado, sem o desenvolvimento narrativo."
+ },
+ {
+  "par": "P014",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Redundância toca a genericidade, mas não a falta de história específica."
+ },
+ {
+  "par": "P075",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Motivo trata de referente e causalidade; o Crítico trata de clichê."
+ },
+ {
+  "par": "P035",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: aforismo sem fato."
+ },
+ {
+  "par": "P017",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam generalização abstrata sem revelação."
+ },
+ {
+  "par": "P068",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Clichê da geladeira toca a genericidade, não a data."
+ },
+ {
+  "par": "P070",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Redundância alegada com a foto não se sustenta bem no texto."
+ },
+ {
+  "par": "P006",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam personificação sentimental sem história."
+ },
+ {
+  "par": "P008",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam personificação sentimental sem história."
+ },
+ {
+  "par": "P021",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam explicação genérica sem revelação nova."
+ },
+ {
+  "par": "P022",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a associação nostálgica, sem a falta de revelação concreta."
+ },
+ {
+  "par": "P012",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Abstração sem pessoa toca a genericidade, não a nostalgia."
+ },
+ {
+  "par": "P050",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: metáfora sentimental do abraço."
+ },
+ {
+  "par": "P073",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam referente de 'ela' indefinido."
+ },
+ {
+  "par": "P080",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam hipóteses sem revelação entregue."
+ },
+ {
+  "par": "P023",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a emoção nomeada sem fato, não a previsibilidade."
+ },
+ {
+  "par": "P064",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Lençol não consta no item; redundância difere do motivo."
+ },
+ {
+  "par": "P004",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Repetição de texto anterior não verificável e distinta do motivo."
+ },
+ {
+  "par": "P036",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Redundância com a foto não verificável; motivo trata de metáfora."
+ },
+ {
+  "par": "P001",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Repetição de texto anterior não verificável e distinta do motivo."
+ },
+ {
+  "par": "P065",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam texto genérico e data apenas anunciada."
+ },
+ {
+  "par": "P076",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Fechamento da leitura difere do problema de referente e causalidade."
+ },
+ {
+  "par": "P019",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Redundância toca a genericidade do enunciado."
+ },
+ {
+  "par": "P081",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: acontecimento não entregue."
+ },
+ {
+  "par": "P072",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Menciona 'ela sobrou' impreciso, mas centra no fechamento da leitura."
+ },
+ {
+  "par": "P061",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a explicação do sentimento, não a associação convencional."
+ },
+ {
+  "par": "P038",
+  "correspondencia": "coincide_em_parte",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Toca a lição abstrata, não a metáfora conhecida."
+ },
+ {
+  "par": "P015",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Ambos apontam categorias genéricas sem história."
+ },
+ {
+  "par": "P025",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: tema convencional."
+ },
+ {
+  "par": "P031",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Redundância com foto não verificável; motivo trata de nostalgia previsível."
+ },
+ {
+  "par": "P026",
+  "correspondencia": "coincide",
+  "defeito_valido_no_texto": true,
+  "justificativa": "Mesmo problema: tema convencional."
+ },
+ {
+  "par": "P042",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Repetição de texto anterior não verificável e distinta do motivo."
+ },
+ {
+  "par": "P033",
+  "correspondencia": "nao_coincide",
+  "defeito_valido_no_texto": false,
+  "justificativa": "Redundância com foto não verificável; motivo trata de metáfora."
+ }
+]
