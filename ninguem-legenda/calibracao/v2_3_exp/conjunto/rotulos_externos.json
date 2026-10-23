@@ -1,0 +1,127 @@
+{
+ "avaliador": "ChatGPT",
+ "conjunto": "W01-W30",
+ "nota": "Cabeçalhos numéricos do consolidado (8/4/18) estavam errados; a própria observação do avaliador manda prevalecer a lista nominal: 10 BOA, 4 AMBÍGUA, 16 RUIM. Conferido contra os rótulos individuais.",
+ "rotulos": {
+  "W01": {
+   "rotulo": "RUIM",
+   "justificativa": "A cadeira vazia associada à saudade e à casa que espera alguém reproduz sentimentalismo convencional. A personificação da casa não acrescenta uma história humana específica nem produz segunda leitura original."
+  },
+  "W02": {
+   "rotulo": "BOA",
+   "justificativa": "O freio ajustado pelo irmão transforma a bicicleta em um gesto silencioso de aproximação. A relação entre cuidado material e pedido de desculpas ainda não realizado é concreta, plausível e narrativamente significativa."
+  },
+  "W03": {
+   "rotulo": "RUIM",
+   "justificativa": "Os tamanhos das sandálias são utilizados para sugerir crescimento, permanência e ausência, mas a revelação é genérica e não estabelece uma história suficientemente específica. O significado depende de associações sentimentais amplas."
+  },
+  "W04": {
+   "rotulo": "RUIM",
+   "justificativa": "A frase atribui aos riscos da carteira nomes, namoros e medos sem acrescentar uma revelação concreta. Trata-se de uma interpretação nostálgica previsível, não de uma segunda leitura significativa."
+  },
+  "W05": {
+   "rotulo": "BOA",
+   "justificativa": "O arrependimento de lavar a manta revela uma tentativa específica de preservar a presença do animal ausente. O gesto de alisar o tecido sem alterar sua forma dá novo significado à caminha vazia. Embora emocional, a narrativa se sustenta num comportamento concreto."
+  },
+  "W06": {
+   "rotulo": "BOA",
+   "justificativa": "A casa desenhada em giz ganha significado inesperado quando descobrimos que foi feita por uma vizinha de oitenta anos para ajudar uma criança. A inversão de expectativas é plausível e apresenta um gesto humano particular, sem depender de sentimentalismo abstrato."
+  },
+  "W07": {
+   "rotulo": "RUIM",
+   "justificativa": "A troca de convivência familiar por ascensão profissional é um tema legítimo, mas apresentado de maneira excessivamente convencional. O texto reproduz a conhecida ideia de que o sucesso profissional custa tempo com a família, sem uma perspectiva narrativa distintiva."
+  },
+  "W08": {
+   "rotulo": "RUIM",
+   "justificativa": "A intenção de preservar o cheiro de alguém por meio de lavagens mensais apresenta uma contradição material importante: lavar repetidamente a camisa tende a remover justamente o vestígio que se pretende conservar. O mecanismo central não se sustenta como foi apresentado."
+  },
+  "W09": {
+   "rotulo": "AMBÍGUA",
+   "justificativa": "Os riscos de altura preservados durante a pintura podem representar uma memória familiar significativa. Entretanto, a revelação permanece próxima de uma associação nostálgica previsível. Falta uma perspectiva mais específica que diferencie a história de uma recordação genérica do crescimento de alguém."
+  },
+  "W10": {
+   "rotulo": "RUIM",
+   "justificativa": "A ferramenta desgastada e o trabalhador que nunca descansou formam uma metáfora conhecida sobre excesso de trabalho. O texto troca uma revelação narrativa por uma crítica abstrata ao sacrifício pessoal."
+  },
+  "W11": {
+   "rotulo": "RUIM",
+   "justificativa": "O copo comprado para duas escovas e utilizado por apenas uma remete diretamente a uma ausência afetiva. O mecanismo é previsível, convencional e insuficientemente específico para justificar uma nova edição da série."
+  },
+  "W12": {
+   "rotulo": "BOA",
+   "justificativa": "A caixa de objetos pessoais sugere o encerramento de uma relação de trabalho, enquanto a revelação acrescenta o descanso inesperado após a demissão. Existe uma mudança de perspectiva: a perda profissional passa a conter também uma experiência de alívio. O contraste é concreto e plausível."
+  },
+  "W13": {
+   "rotulo": "BOA",
+   "justificativa": "A caixa transportada com cinto de segurança ganha significado quando descobrimos que contém cartas pessoais preservadas durante uma mudança. A diferença entre as quarenta caixas comuns e aquela protegida individualmente cria uma história específica sobre valor afetivo."
+  },
+  "W14": {
+   "rotulo": "AMBÍGUA",
+   "justificativa": "O aproveitamento dos tomates rejeitados apresenta uma situação social plausível e concreta. Entretanto, a revelação é próxima do destino esperado para alimentos que não foram vendidos. A referência ao horário de trabalho acrescenta esforço, mas não transforma suficientemente a interpretação."
+  },
+  "W15": {
+   "rotulo": "RUIM",
+   "justificativa": "O quarto vazio, a luz mantida acesa e a mãe que afirma ter esquecido constroem uma representação bastante convencional da ausência. A omissão da causa não é necessariamente um defeito, mas o conjunto depende de uma sugestão sentimental previsível e pouco original."
+  },
+  "W16": {
+   "rotulo": "RUIM",
+   "justificativa": "O lanche e o bilhete na mochila poderiam revelar um gesto de cuidado, mas a formulação sobre o abraço que coube antes do portão transforma a situação em sentimentalismo metafórico. Falta uma revelação específica e narrativamente desenvolvida."
+  },
+  "W17": {
+   "rotulo": "RUIM",
+   "justificativa": "A cadeira preservada para alguém ausente reproduz uma construção emocional amplamente conhecida. O contraste entre almofadas gastas e uma almofada intacta já antecipa a ausência. O texto acrescenta pouca informação à primeira leitura."
+  },
+  "W18": {
+   "rotulo": "RUIM",
+   "justificativa": "O banco de ônibus associado à perda de sono apresenta uma observação previsível sobre a rotina de deslocamento e trabalho. Não existe uma história específica nem uma transformação interpretativa suficientemente relevante."
+  },
+  "W19": {
+   "rotulo": "RUIM",
+   "justificativa": "O guarda-chuva preservado como vestígio de uma pessoa ausente utiliza uma associação sentimental convencional. A ideia de que abrir o objeto consumiria o que resta do marido é poética, mas pouco sustentada por uma relação narrativa original."
+  },
+  "W20": {
+   "rotulo": "BOA",
+   "justificativa": "O quadro torto e o silêncio na parede ganham novo significado quando descobrimos que a personagem aumenta o volume para descobrir se o vizinho continua morando ali. A história apresenta humor discreto, curiosidade humana e uma interpretação inesperada de uma situação doméstica."
+  },
+  "W21": {
+   "rotulo": "RUIM",
+   "justificativa": "O carregador mantido no lado vazio da cama utiliza a ideia de um objeto esperando alguém ausente. Além da previsibilidade sentimental, a referência à bateria não estabelece uma relação narrativa suficientemente precisa."
+  },
+  "W22": {
+   "rotulo": "BOA",
+   "justificativa": "Os tênis cuidadosamente preparados contrastam com o fato de que seu proprietário ainda não começou a correr. A fotografia deixa de simbolizar disciplina e passa a representar uma preparação que substitui a ação. Há ironia comportamental, especificidade e identificação."
+  },
+  "W23": {
+   "rotulo": "BOA",
+   "justificativa": "A sala de reunião reservada permanentemente pela diretoria revela uma contradição organizacional concreta. O detalhe de que quem precisa de silêncio utiliza a escada reforça a crítica sem explicá-la excessivamente. A segunda leitura é específica e irônica."
+  },
+  "W24": {
+   "rotulo": "AMBÍGUA",
+   "justificativa": "A troca anual das cordas no aniversário do pai, apesar de o personagem não tocar o violão, sugere um ritual de memória potencialmente significativo. Contudo, a relação entre o instrumento, a data e o gesto ainda depende de pressupostos importantes. Precisa de maior precisão sem transformar a sutileza em explicação excessiva."
+  },
+  "W25": {
+   "rotulo": "RUIM",
+   "justificativa": "A geladeira utilizada para guardar contas, lembretes e uma data familiar importante apresenta uma descrição cotidiana, mas a revelação permanece genérica. Não há informação suficiente sobre a data para que sua presença produza uma segunda leitura particular."
+  },
+  "W26": {
+   "rotulo": "BOA",
+   "justificativa": "O semáforo vermelho deixa de representar apenas uma interrupção desagradável e passa a simbolizar um raro momento de tranquilidade. A personagem desejar encontrar outros sinais fechados inverte de maneira plausível a interpretação habitual do trânsito."
+  },
+  "W27": {
+   "rotulo": "RUIM",
+   "justificativa": "A relação entre a panela, a quantidade de comida preparada e o hábito de esperar visitas apresenta problemas de formulação e causalidade. A frase \"ela sobrou\" não estabelece de maneira clara o referente nem explica coerentemente o papel da panela na história."
+  },
+  "W28": {
+   "rotulo": "RUIM",
+   "justificativa": "O chinelo abandonado gera hipóteses sobre alguém que voltou para casa descalço, mas não oferece uma revelação efetiva. O texto apenas sugere acontecimentos alternativos e termina afirmando um mistério que permanece sem desenvolvimento narrativo."
+  },
+  "W29": {
+   "rotulo": "BOA",
+   "justificativa": "A maçã descascada deixada à porta transforma um gesto cotidiano em uma tentativa silenciosa de aproximação depois de uma briga. A ausência de diálogo reforça, em vez de prejudicar, a interpretação. A relação entre fotografia e revelação é específica, plausível e emocionalmente contida."
+  },
+  "W30": {
+   "rotulo": "AMBÍGUA",
+   "justificativa": "A lista de compras preservada pela caligrafia da avó sugere uma memória familiar concreta. Entretanto, a permanência da falta de produtos cotidianos desde março enfraquece a plausibilidade literal. A história pode funcionar melhor com precisão na relação entre a lista, sua permanência e o vínculo afetivo."
+  }
+ }
+}
