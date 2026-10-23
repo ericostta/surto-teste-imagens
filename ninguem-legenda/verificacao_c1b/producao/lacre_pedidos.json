@@ -1,0 +1,10 @@
+{
+ "nota": "Lacre dos pedidos de produ\u00e7\u00e3o, anterior \u00e0 produ\u00e7\u00e3o.",
+ "hashes": {
+  "verificacao_c1b/producao/pedidos/pedido_grupo_N.md": "086d2d22713696f1635954f2e4eb89a301c1f2e96a10a23bbb59bf0360e9f8b6",
+  "verificacao_c1b/producao/pedidos/pedido_grupo_D.md": "bce2470313c8fbe5785c88114464bf196875e4cd4ea18ebae89e2054428e9ab1",
+  "verificacao_c1b/producao/pedidos/pedido_grupo_M.md": "fc1058a34016301a2a6c3c340c0496d8dd74558135429ce7ff4538454918c931",
+  "verificacao_c1b/producao/pedidos/pedido_grupo_A.md": "b4b3e47e8a32b71d03d924711c18b9079fa2b60c6e72337ef0f00ba3639d34f2",
+  "verificacao_c1b/producao/pedidos/pedido_grupo_P.md": "f5dcac604a3e20a65326f7ad1640b32cf2da74597f1ba7c76f5bc50e933cb156"
+ }
+}
