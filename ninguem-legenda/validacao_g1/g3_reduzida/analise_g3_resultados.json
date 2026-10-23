@@ -1,0 +1,1812 @@
+{
+ "tabela_veredictos": {
+  "v22_e1|fluxo|BOA": {
+   "APROVADA": 20,
+   "n": 20
+  },
+  "v22_e1|fluxo|AMBÍGUA": {
+   "APROVADA": 6,
+   "n": 6
+  },
+  "v22_e1|fluxo|RUIM": {
+   "REVISAR": 1,
+   "APROVADA": 3,
+   "n": 4
+  },
+  "v22_e1|desafio|BOA": {
+   "APROVADA": 11,
+   "REVISAR": 2,
+   "n": 13
+  },
+  "v22_e1|desafio|AMBÍGUA": {
+   "REVISAR": 3,
+   "APROVADA": 7,
+   "n": 10
+  },
+  "v22_e1|desafio|RUIM": {
+   "APROVADA": 5,
+   "REPROVADA": 1,
+   "REVISAR": 1,
+   "n": 7
+  },
+  "v22_e2|fluxo|BOA": {
+   "APROVADA": 19,
+   "REVISAR": 1,
+   "n": 20
+  },
+  "v22_e2|fluxo|AMBÍGUA": {
+   "APROVADA": 6,
+   "n": 6
+  },
+  "v22_e2|fluxo|RUIM": {
+   "REVISAR": 1,
+   "APROVADA": 3,
+   "n": 4
+  },
+  "v22_e2|desafio|BOA": {
+   "APROVADA": 13,
+   "n": 13
+  },
+  "v22_e2|desafio|AMBÍGUA": {
+   "REVISAR": 4,
+   "APROVADA": 6,
+   "n": 10
+  },
+  "v22_e2|desafio|RUIM": {
+   "APROVADA": 5,
+   "REVISAR": 2,
+   "n": 7
+  },
+  "v24_e1|fluxo|BOA": {
+   "REPROVADA": 1,
+   "APROVADA": 18,
+   "REVISAR": 1,
+   "n": 20
+  },
+  "v24_e1|fluxo|AMBÍGUA": {
+   "APROVADA": 6,
+   "n": 6
+  },
+  "v24_e1|fluxo|RUIM": {
+   "APROVADA": 3,
+   "REVISAR": 1,
+   "n": 4
+  },
+  "v24_e1|desafio|BOA": {
+   "APROVADA": 9,
+   "REVISAR": 2,
+   "REPROVADA": 2,
+   "n": 13
+  },
+  "v24_e1|desafio|AMBÍGUA": {
+   "REPROVADA": 4,
+   "APROVADA": 6,
+   "n": 10
+  },
+  "v24_e1|desafio|RUIM": {
+   "APROVADA": 5,
+   "REPROVADA": 1,
+   "REVISAR": 1,
+   "n": 7
+  },
+  "v24_e2|fluxo|BOA": {
+   "APROVADA": 20,
+   "n": 20
+  },
+  "v24_e2|fluxo|AMBÍGUA": {
+   "APROVADA": 6,
+   "n": 6
+  },
+  "v24_e2|fluxo|RUIM": {
+   "REVISAR": 2,
+   "APROVADA": 2,
+   "n": 4
+  },
+  "v24_e2|desafio|BOA": {
+   "APROVADA": 12,
+   "REPROVADA": 1,
+   "n": 13
+  },
+  "v24_e2|desafio|AMBÍGUA": {
+   "REPROVADA": 3,
+   "APROVADA": 6,
+   "REVISAR": 1,
+   "n": 10
+  },
+  "v24_e2|desafio|RUIM": {
+   "APROVADA": 3,
+   "REPROVADA": 3,
+   "REVISAR": 1,
+   "n": 7
+  }
+ },
+ "composicao": {
+  "fluxo": {
+   "BOA": 20,
+   "RUIM": 4,
+   "AMBÍGUA": 6
+  },
+  "desafio": {
+   "BOA": 13,
+   "AMBÍGUA": 10,
+   "RUIM": 7
+  }
+ },
+ "composicao_tensoes": {
+  "tensoes": {
+   "BOA": 6,
+   "RUIM": 11
+  },
+  "sem_tensoes": {
+   "BOA": 27,
+   "AMBÍGUA": 16
+  }
+ },
+ "erros": {
+  "v22_e1": {
+   "RUIM_aprovada": [
+    "G1-D04",
+    "G1-D31",
+    "G1-D32",
+    "G1-D33",
+    "G1-D35",
+    "G1-F16",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBIGUA_aprovada": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D11",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D24",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ],
+   "BOA_perdida": [
+    "G1-D08",
+    "G1-D15"
+   ]
+  },
+  "v22_e2": {
+   "RUIM_aprovada": [
+    "G1-D04",
+    "G1-D31",
+    "G1-D32",
+    "G1-D33",
+    "G1-D35",
+    "G1-F16",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBIGUA_aprovada": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D24",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ],
+   "BOA_perdida": [
+    "G1-F29"
+   ]
+  },
+  "v24_e1": {
+   "RUIM_aprovada": [
+    "G1-D04",
+    "G1-D30",
+    "G1-D31",
+    "G1-D32",
+    "G1-D33",
+    "G1-F03",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBIGUA_aprovada": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D23",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ],
+   "BOA_perdida": [
+    "G1-D03",
+    "G1-D08",
+    "G1-D13",
+    "G1-D15",
+    "G1-F01",
+    "G1-F07"
+   ]
+  },
+  "v24_e2": {
+   "RUIM_aprovada": [
+    "G1-D04",
+    "G1-D31",
+    "G1-D32",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBIGUA_aprovada": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D23",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ],
+   "BOA_perdida": [
+    "G1-D15"
+   ]
+  }
+ },
+ "erros_por_estrato": {
+  "v22_e1": {
+   "fluxo": {
+    "RUIM_aprovada": 3,
+    "AMBIGUA_aprovada": 6,
+    "BOA_perdida": 0
+   },
+   "desafio": {
+    "RUIM_aprovada": 5,
+    "AMBIGUA_aprovada": 7,
+    "BOA_perdida": 2
+   }
+  },
+  "v22_e2": {
+   "fluxo": {
+    "RUIM_aprovada": 3,
+    "AMBIGUA_aprovada": 6,
+    "BOA_perdida": 1
+   },
+   "desafio": {
+    "RUIM_aprovada": 5,
+    "AMBIGUA_aprovada": 6,
+    "BOA_perdida": 0
+   }
+  },
+  "v24_e1": {
+   "fluxo": {
+    "RUIM_aprovada": 3,
+    "AMBIGUA_aprovada": 6,
+    "BOA_perdida": 2
+   },
+   "desafio": {
+    "RUIM_aprovada": 5,
+    "AMBIGUA_aprovada": 6,
+    "BOA_perdida": 4
+   }
+  },
+  "v24_e2": {
+   "fluxo": {
+    "RUIM_aprovada": 2,
+    "AMBIGUA_aprovada": 6,
+    "BOA_perdida": 0
+   },
+   "desafio": {
+    "RUIM_aprovada": 3,
+    "AMBIGUA_aprovada": 6,
+    "BOA_perdida": 1
+   }
+  }
+ },
+ "BOA_aprovadas": {
+  "v22_e1": {
+   "fluxo": 20,
+   "desafio": 11
+  },
+  "v22_e2": {
+   "fluxo": 19,
+   "desafio": 13
+  },
+  "v24_e1": {
+   "fluxo": 18,
+   "desafio": 9
+  },
+  "v24_e2": {
+   "fluxo": 20,
+   "desafio": 12
+  }
+ },
+ "corrigidos_completos": [
+  {
+   "item": "G1-D24",
+   "estrato": "desafio",
+   "rotulo": "AMBÍGUA",
+   "tensao": null,
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "REPROVADA",
+    "REPROVADA"
+   ]
+  },
+  {
+   "item": "G1-D35",
+   "estrato": "desafio",
+   "rotulo": "RUIM",
+   "tensao": "B",
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "REVISAR",
+    "REPROVADA"
+   ]
+  },
+  {
+   "item": "G1-F16",
+   "estrato": "fluxo",
+   "rotulo": "RUIM",
+   "tensao": "B",
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "REVISAR",
+    "REVISAR"
+   ]
+  }
+ ],
+ "corrigidos_parciais": [
+  {
+   "item": "G1-D11",
+   "estrato": "desafio",
+   "rotulo": "AMBÍGUA",
+   "tensao": null,
+   "v22": [
+    "APROVADA",
+    "REVISAR"
+   ],
+   "v24": [
+    "REPROVADA",
+    "REVISAR"
+   ],
+   "erros_v22": 1,
+   "erros_v24": 0
+  },
+  {
+   "item": "G1-D33",
+   "estrato": "desafio",
+   "rotulo": "RUIM",
+   "tensao": "B",
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "APROVADA",
+    "REPROVADA"
+   ],
+   "erros_v22": 2,
+   "erros_v24": 1
+  },
+  {
+   "item": "G1-F29",
+   "estrato": "fluxo",
+   "rotulo": "BOA",
+   "tensao": "A",
+   "v22": [
+    "APROVADA",
+    "REVISAR"
+   ],
+   "v24": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "erros_v22": 1,
+   "erros_v24": 0
+  }
+ ],
+ "novos_erros_completos": [
+  {
+   "item": "G1-D23",
+   "estrato": "desafio",
+   "rotulo": "AMBÍGUA",
+   "tensao": null,
+   "v22": [
+    "REVISAR",
+    "REVISAR"
+   ],
+   "v24": [
+    "APROVADA",
+    "APROVADA"
+   ]
+  }
+ ],
+ "novos_erros_parciais": [
+  {
+   "item": "G1-D03",
+   "estrato": "desafio",
+   "rotulo": "BOA",
+   "tensao": "A",
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "REVISAR",
+    "APROVADA"
+   ],
+   "erros_v22": 0,
+   "erros_v24": 1
+  },
+  {
+   "item": "G1-D13",
+   "estrato": "desafio",
+   "rotulo": "BOA",
+   "tensao": "A",
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "REPROVADA",
+    "APROVADA"
+   ],
+   "erros_v22": 0,
+   "erros_v24": 1
+  },
+  {
+   "item": "G1-D15",
+   "estrato": "desafio",
+   "rotulo": "BOA",
+   "tensao": "A",
+   "v22": [
+    "REVISAR",
+    "APROVADA"
+   ],
+   "v24": [
+    "REVISAR",
+    "REPROVADA"
+   ],
+   "erros_v22": 1,
+   "erros_v24": 2
+  },
+  {
+   "item": "G1-D30",
+   "estrato": "desafio",
+   "rotulo": "RUIM",
+   "tensao": "B",
+   "v22": [
+    "REVISAR",
+    "REVISAR"
+   ],
+   "v24": [
+    "APROVADA",
+    "REVISAR"
+   ],
+   "erros_v22": 0,
+   "erros_v24": 1
+  },
+  {
+   "item": "G1-F01",
+   "estrato": "fluxo",
+   "rotulo": "BOA",
+   "tensao": "A",
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "REPROVADA",
+    "APROVADA"
+   ],
+   "erros_v22": 0,
+   "erros_v24": 1
+  },
+  {
+   "item": "G1-F03",
+   "estrato": "fluxo",
+   "rotulo": "RUIM",
+   "tensao": "B",
+   "v22": [
+    "REVISAR",
+    "REVISAR"
+   ],
+   "v24": [
+    "APROVADA",
+    "REVISAR"
+   ],
+   "erros_v22": 0,
+   "erros_v24": 1
+  },
+  {
+   "item": "G1-F07",
+   "estrato": "fluxo",
+   "rotulo": "BOA",
+   "tensao": null,
+   "v22": [
+    "APROVADA",
+    "APROVADA"
+   ],
+   "v24": [
+    "REVISAR",
+    "APROVADA"
+   ],
+   "erros_v22": 0,
+   "erros_v24": 1
+  }
+ ],
+ "inconsistencia_entre_execucoes": {
+  "v22": [
+   {
+    "item": "G1-D08",
+    "estrato": "desafio",
+    "rotulo": "BOA",
+    "tensao": null,
+    "v22": [
+     "REVISAR",
+     "APROVADA"
+    ],
+    "v24": [
+     "REPROVADA",
+     "APROVADA"
+    ]
+   },
+   {
+    "item": "G1-D10",
+    "estrato": "desafio",
+    "rotulo": "RUIM",
+    "tensao": "B",
+    "v22": [
+     "REPROVADA",
+     "REVISAR"
+    ],
+    "v24": [
+     "REPROVADA",
+     "REPROVADA"
+    ]
+   },
+   {
+    "item": "G1-D11",
+    "estrato": "desafio",
+    "rotulo": "AMBÍGUA",
+    "tensao": null,
+    "v22": [
+     "APROVADA",
+     "REVISAR"
+    ],
+    "v24": [
+     "REPROVADA",
+     "REVISAR"
+    ]
+   },
+   {
+    "item": "G1-D15",
+    "estrato": "desafio",
+    "rotulo": "BOA",
+    "tensao": "A",
+    "v22": [
+     "REVISAR",
+     "APROVADA"
+    ],
+    "v24": [
+     "REVISAR",
+     "REPROVADA"
+    ]
+   },
+   {
+    "item": "G1-F29",
+    "estrato": "fluxo",
+    "rotulo": "BOA",
+    "tensao": "A",
+    "v22": [
+     "APROVADA",
+     "REVISAR"
+    ],
+    "v24": [
+     "APROVADA",
+     "APROVADA"
+    ]
+   }
+  ],
+  "v24": [
+   {
+    "item": "G1-D03",
+    "estrato": "desafio",
+    "rotulo": "BOA",
+    "tensao": "A",
+    "v22": [
+     "APROVADA",
+     "APROVADA"
+    ],
+    "v24": [
+     "REVISAR",
+     "APROVADA"
+    ]
+   },
+   {
+    "item": "G1-D08",
+    "estrato": "desafio",
+    "rotulo": "BOA",
+    "tensao": null,
+    "v22": [
+     "REVISAR",
+     "APROVADA"
+    ],
+    "v24": [
+     "REPROVADA",
+     "APROVADA"
+    ]
+   },
+   {
+    "item": "G1-D11",
+    "estrato": "desafio",
+    "rotulo": "AMBÍGUA",
+    "tensao": null,
+    "v22": [
+     "APROVADA",
+     "REVISAR"
+    ],
+    "v24": [
+     "REPROVADA",
+     "REVISAR"
+    ]
+   },
+   {
+    "item": "G1-D13",
+    "estrato": "desafio",
+    "rotulo": "BOA",
+    "tensao": "A",
+    "v22": [
+     "APROVADA",
+     "APROVADA"
+    ],
+    "v24": [
+     "REPROVADA",
+     "APROVADA"
+    ]
+   },
+   {
+    "item": "G1-D15",
+    "estrato": "desafio",
+    "rotulo": "BOA",
+    "tensao": "A",
+    "v22": [
+     "REVISAR",
+     "APROVADA"
+    ],
+    "v24": [
+     "REVISAR",
+     "REPROVADA"
+    ]
+   },
+   {
+    "item": "G1-D30",
+    "estrato": "desafio",
+    "rotulo": "RUIM",
+    "tensao": "B",
+    "v22": [
+     "REVISAR",
+     "REVISAR"
+    ],
+    "v24": [
+     "APROVADA",
+     "REVISAR"
+    ]
+   },
+   {
+    "item": "G1-D33",
+    "estrato": "desafio",
+    "rotulo": "RUIM",
+    "tensao": "B",
+    "v22": [
+     "APROVADA",
+     "APROVADA"
+    ],
+    "v24": [
+     "APROVADA",
+     "REPROVADA"
+    ]
+   },
+   {
+    "item": "G1-D35",
+    "estrato": "desafio",
+    "rotulo": "RUIM",
+    "tensao": "B",
+    "v22": [
+     "APROVADA",
+     "APROVADA"
+    ],
+    "v24": [
+     "REVISAR",
+     "REPROVADA"
+    ]
+   },
+   {
+    "item": "G1-F01",
+    "estrato": "fluxo",
+    "rotulo": "BOA",
+    "tensao": "A",
+    "v22": [
+     "APROVADA",
+     "APROVADA"
+    ],
+    "v24": [
+     "REPROVADA",
+     "APROVADA"
+    ]
+   },
+   {
+    "item": "G1-F03",
+    "estrato": "fluxo",
+    "rotulo": "RUIM",
+    "tensao": "B",
+    "v22": [
+     "REVISAR",
+     "REVISAR"
+    ],
+    "v24": [
+     "APROVADA",
+     "REVISAR"
+    ]
+   },
+   {
+    "item": "G1-F07",
+    "estrato": "fluxo",
+    "rotulo": "BOA",
+    "tensao": null,
+    "v22": [
+     "APROVADA",
+     "APROVADA"
+    ],
+    "v24": [
+     "REVISAR",
+     "APROVADA"
+    ]
+   }
+  ]
+ },
+ "v24_aprovada_bruta_sem_elegibilidade": {
+  "v24_e1": [],
+  "v24_e2": []
+ },
+ "erros_pela_elegibilidade": {
+  "v22_e1": {
+   "RUIM": [
+    "G1-D04",
+    "G1-D31",
+    "G1-D32",
+    "G1-D33",
+    "G1-D35",
+    "G1-F16",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBÍGUA": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D11",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D24",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ]
+  },
+  "v22_e2": {
+   "RUIM": [
+    "G1-D04",
+    "G1-D31",
+    "G1-D32",
+    "G1-D33",
+    "G1-D35",
+    "G1-F16",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBÍGUA": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D24",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ]
+  },
+  "v24_e1": {
+   "RUIM": [
+    "G1-D04",
+    "G1-D30",
+    "G1-D31",
+    "G1-D32",
+    "G1-D33",
+    "G1-F03",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBÍGUA": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D23",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ]
+  },
+  "v24_e2": {
+   "RUIM": [
+    "G1-D04",
+    "G1-D31",
+    "G1-D32",
+    "G1-F22",
+    "G1-F26"
+   ],
+   "AMBÍGUA": [
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D23",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19"
+   ]
+  }
+ },
+ "divergencia_material_v24": {
+  "v24_e1": {},
+  "v24_e2": {
+   "G1-D15": {
+    "interpretacoes": [
+     {
+      "veredicto": "APROVADA",
+      "fundamento": "O foco desloca-se da criança para o pai e as mãos vazias particularizam a perda de função."
+     },
+     {
+      "veredicto": "REPROVADA",
+      "fundamento": "A primeira frase repete a foto e a segunda é a fórmula do pai que larga, sem contribuição distintiva."
+     }
+    ],
+    "material": true,
+    "razao_sem_consenso": "As duas leituras são defensáveis com trechos: a deslocação de foco existe, mas a distinção do gesto é questão de peso editorial."
+   }
+  }
+ },
+ "erros_em_tensao_e_fora": {
+  "v22_e1": {
+   "em_tensao": {
+    "RUIM_aprovada": 8,
+    "AMBIGUA_aprovada": 0,
+    "BOA_perdida": 1
+   },
+   "fora_de_tensao": {
+    "AMBIGUA_aprovada": 13,
+    "BOA_perdida": 1
+   }
+  },
+  "v22_e2": {
+   "em_tensao": {
+    "RUIM_aprovada": 8,
+    "AMBIGUA_aprovada": 0,
+    "BOA_perdida": 1
+   },
+   "fora_de_tensao": {
+    "AMBIGUA_aprovada": 12,
+    "BOA_perdida": 0
+   }
+  },
+  "v24_e1": {
+   "em_tensao": {
+    "RUIM_aprovada": 8,
+    "AMBIGUA_aprovada": 0,
+    "BOA_perdida": 4
+   },
+   "fora_de_tensao": {
+    "AMBIGUA_aprovada": 12,
+    "BOA_perdida": 2
+   }
+  },
+  "v24_e2": {
+   "em_tensao": {
+    "RUIM_aprovada": 5,
+    "AMBIGUA_aprovada": 0,
+    "BOA_perdida": 1
+   },
+   "fora_de_tensao": {
+    "AMBIGUA_aprovada": 12,
+    "BOA_perdida": 0
+   }
+  }
+ },
+ "nota_sensibilidade": "O grupo fora de tensão não contém RUIM; nenhuma taxa de RUIM aprovado é calculada sobre ele.",
+ "gate": {
+  "v22_primeira_e1": {
+   "G1_uma_avaliacao": {
+    "aprovadas": 52,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-D33",
+     "G1-D35",
+     "G1-F16",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D11",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D24",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 31
+   },
+   "G2_dupla_aprovacao": {
+    "aprovadas": 50,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-D33",
+     "G1-D35",
+     "G1-F16",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D24",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 30,
+    "erros_evitados": [
+     "G1-D11"
+    ],
+    "BOA_atrasadas": [
+     "G1-F29"
+    ]
+   },
+   "G3_sinais": {
+    "aprovadas": 50,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-D33",
+     "G1-D35",
+     "G1-F16",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D24",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 30,
+    "erros_evitados": [
+     "G1-D11"
+    ],
+    "BOA_atrasadas": [
+     "G1-F29"
+    ],
+    "segundas_avaliacoes_acionadas": 16,
+    "de_primeiras_aprovadas": 52
+   },
+   "aprovados_indevidos_sem_nenhum_sinal": [
+    "G1-D04",
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D31",
+    "G1-D35",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F16",
+    "G1-F19",
+    "G1-F26"
+   ],
+   "sinais_por_aprovado_indevido": {
+    "G1-D11": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D04": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D33": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D21": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F12": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D35": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D07": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F26": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F22": {
+     "S1": false,
+     "S2": true,
+     "S3": false
+    },
+    "G1-D19": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F10": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D05": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F06": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D24": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F08": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F19": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F16": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D31": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F14": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D20": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D32": {
+     "S1": true,
+     "S2": false,
+     "S3": false
+    }
+   }
+  },
+  "v22_primeira_e2": {
+   "G1_uma_avaliacao": {
+    "aprovadas": 52,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-D33",
+     "G1-D35",
+     "G1-F16",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D24",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 32
+   },
+   "G2_dupla_aprovacao": {
+    "aprovadas": 50,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-D33",
+     "G1-D35",
+     "G1-F16",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D24",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 30,
+    "erros_evitados": [],
+    "BOA_atrasadas": [
+     "G1-D08",
+     "G1-D15"
+    ]
+   },
+   "G3_sinais": {
+    "aprovadas": 51,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-D33",
+     "G1-D35",
+     "G1-F16",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D24",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 31,
+    "erros_evitados": [],
+    "BOA_atrasadas": [
+     "G1-D15"
+    ],
+    "segundas_avaliacoes_acionadas": 14,
+    "de_primeiras_aprovadas": 52
+   },
+   "aprovados_indevidos_sem_nenhum_sinal": [
+    "G1-D04",
+    "G1-D05",
+    "G1-D07",
+    "G1-D19",
+    "G1-D20",
+    "G1-D21",
+    "G1-D31",
+    "G1-D35",
+    "G1-F06",
+    "G1-F08",
+    "G1-F10",
+    "G1-F12",
+    "G1-F14",
+    "G1-F16",
+    "G1-F19",
+    "G1-F26"
+   ],
+   "sinais_por_aprovado_indevido": {
+    "G1-D04": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D33": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D21": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F12": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D35": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D07": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F26": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F22": {
+     "S1": false,
+     "S2": true,
+     "S3": false
+    },
+    "G1-D19": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F10": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D05": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F06": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D24": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F08": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F19": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F16": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D31": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F14": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D20": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D32": {
+     "S1": true,
+     "S2": false,
+     "S3": false
+    }
+   }
+  },
+  "v24_primeira_e1": {
+   "G1_uma_avaliacao": {
+    "aprovadas": 47,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D30",
+     "G1-D31",
+     "G1-D32",
+     "G1-D33",
+     "G1-F03",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D23",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 27
+   },
+   "G2_dupla_aprovacao": {
+    "aprovadas": 44,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D23",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 27,
+    "erros_evitados": [
+     "G1-D30",
+     "G1-D33",
+     "G1-F03"
+    ],
+    "BOA_atrasadas": []
+   },
+   "G3_sinais": {
+    "aprovadas": 44,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D23",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 27,
+    "erros_evitados": [
+     "G1-D30",
+     "G1-D33",
+     "G1-F03"
+    ],
+    "BOA_atrasadas": [],
+    "segundas_avaliacoes_acionadas": 22,
+    "de_primeiras_aprovadas": 47
+   },
+   "aprovados_indevidos_sem_nenhum_sinal": [
+    "G1-D04",
+    "G1-D05",
+    "G1-D07",
+    "G1-D20",
+    "G1-D31",
+    "G1-F06",
+    "G1-F08",
+    "G1-F12",
+    "G1-F14",
+    "G1-F19",
+    "G1-F26"
+   ],
+   "sinais_por_aprovado_indevido": {
+    "G1-D04": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D33": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D21": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F12": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D07": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F26": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F22": {
+     "S1": false,
+     "S2": true,
+     "S3": false
+    },
+    "G1-D19": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D23": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F10": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D05": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F06": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F08": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F19": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F03": {
+     "S1": false,
+     "S2": true,
+     "S3": true
+    },
+    "G1-D30": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D31": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F14": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D20": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D32": {
+     "S1": true,
+     "S2": false,
+     "S3": false
+    }
+   }
+  },
+  "v24_primeira_e2": {
+   "G1_uma_avaliacao": {
+    "aprovadas": 49,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D23",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 32
+   },
+   "G2_dupla_aprovacao": {
+    "aprovadas": 44,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D23",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 27,
+    "erros_evitados": [],
+    "BOA_atrasadas": [
+     "G1-D03",
+     "G1-D08",
+     "G1-D13",
+     "G1-F01",
+     "G1-F07"
+    ]
+   },
+   "G3_sinais": {
+    "aprovadas": 44,
+    "RUIM_aprovada": [
+     "G1-D04",
+     "G1-D31",
+     "G1-D32",
+     "G1-F22",
+     "G1-F26"
+    ],
+    "AMBIGUA_aprovada": [
+     "G1-D05",
+     "G1-D07",
+     "G1-D19",
+     "G1-D20",
+     "G1-D21",
+     "G1-D23",
+     "G1-F06",
+     "G1-F08",
+     "G1-F10",
+     "G1-F12",
+     "G1-F14",
+     "G1-F19"
+    ],
+    "BOA_aprovadas": 27,
+    "erros_evitados": [],
+    "BOA_atrasadas": [
+     "G1-D03",
+     "G1-D08",
+     "G1-D13",
+     "G1-F01",
+     "G1-F07"
+    ],
+    "segundas_avaliacoes_acionadas": 27,
+    "de_primeiras_aprovadas": 49
+   },
+   "aprovados_indevidos_sem_nenhum_sinal": [
+    "G1-D04",
+    "G1-D20",
+    "G1-F06",
+    "G1-F10",
+    "G1-F12",
+    "G1-F19",
+    "G1-F26"
+   ],
+   "sinais_por_aprovado_indevido": {
+    "G1-D04": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D21": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F12": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D07": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F26": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F22": {
+     "S1": false,
+     "S2": true,
+     "S3": false
+    },
+    "G1-D19": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D23": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F10": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D05": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F06": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-F08": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F19": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D31": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-F14": {
+     "S1": false,
+     "S2": false,
+     "S3": true
+    },
+    "G1-D20": {
+     "S1": false,
+     "S2": false,
+     "S3": false
+    },
+    "G1-D32": {
+     "S1": true,
+     "S2": false,
+     "S3": false
+    }
+   }
+  }
+ },
+ "sinais_estaticos_contagem": {
+  "S1": 3,
+  "S2": 5
+ }
+}
