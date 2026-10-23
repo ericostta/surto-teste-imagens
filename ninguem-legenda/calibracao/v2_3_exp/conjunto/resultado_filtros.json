@@ -1,0 +1,430 @@
+[
+  {
+    "id": "W01",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "W05"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W02",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.38,
+      "com": "LAB-005"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W03",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.43,
+      "com": "W29"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W04",
+    "palavras": {
+      "na_foto": 5,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "W11"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W05",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 20
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "W01"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W06",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M04 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "W07",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W08",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "W15"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W09",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "W03"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W10",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 20
+    },
+    "similaridade_max": {
+      "valor": 0.36,
+      "com": "W16"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W11",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.48,
+      "com": "W04"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W12",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "W02"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M10 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "W13",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 20
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "LAB-004"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W14",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.46,
+      "com": "W08"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W15",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "W20"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W16",
+    "palavras": {
+      "na_foto": 5,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "W12"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W17",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.43,
+      "com": "W04"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W18",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "W26"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W19",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 20
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "W30"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W20",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.47,
+      "com": "W15"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W21",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W22",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "W11"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M09 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "W23",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.48,
+      "com": "W15"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M07 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "W24",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "LAB-002"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W25",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W26",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "W14"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W27",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "W13"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W28",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "W01"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W29",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "W30",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "W22"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  }
+]

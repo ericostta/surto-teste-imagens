@@ -5,16 +5,63 @@
 3c3
 < Versão v2.2 experimental, de 22/10/2026. Não homologada. A v2.1 (prompts/critico.md e prompts/critico_v2_1.md) permanece preservada e inalterada.
 ---
-> Versão v2.3-exp, derivada da v2.2 (prompts/critico_v2_2.md, preservada e inalterada) com DUAS correções autorizadas em 22/10/2026: (1) a previsão cega não constitui defeito; (2) contradição exige busca de interpretação alternativa natural. A terceira correção (omissão legítima x imprecisão x obscuridade) NÃO está implementada aqui. Não homologada. A v2.1 (prompts/critico.md) permanece inalterada.
-42c42
+> Versão v2.3-exp, de 22/10/2026, derivada da v2.2 (prompts/critico_v2_2.md, preservada e inalterada). Três correções autorizadas: (1) a previsão cega nunca constitui defeito sozinha; (2) contradição exige busca de interpretação alternativa natural; (3) Teste de Integridade Narrativa para distinguir omissão legítima, imprecisão periférica, imprecisão central corrigível e obscuridade estrutural. Experimental, não executada, não homologada. A v2.1 (prompts/critico.md) permanece inalterada.
+20a21
+> 7. Teste de Integridade Narrativa (ver abaixo), que classifica cada lacuna ou imprecisão em A, B, C ou D e governa o veredicto de forma mecânica.
+38c39
+< Cada defeito exige: categoria (da lista), trecho citado do texto ou da foto, demonstração (por que compromete a leitura, a compreensão, a plausibilidade ou a coerência) e gravidade.
+---
+> Cada defeito exige: categoria (da lista), classe ("C" se corrigível, "D" se estrutural), trecho citado do texto ou da foto, relacao_comprometida, demonstração (por que compromete a leitura, a compreensão, a plausibilidade ou a coerência), gravidade e justificativa_veredicto.
+42c43
 < - contradicao: incompatibilidade entre trechos do texto ou entre texto e foto, sem leitura plausível em que ambos sejam verdadeiros.
 ---
 > - contradicao: incompatibilidade entre trechos do texto ou entre texto e foto, sem interpretação alternativa plausível e natural em que ambos sejam verdadeiros. Procedimento obrigatório antes de apontar: (a) escreva a interpretação alternativa mais natural em que os dois trechos coexistem; (b) se ela for plausível e natural para um leitor comum, NÃO há contradição: registre em observacoes_descartadas; (c) só se a alternativa for artificial ou excessivamente improvável, e apenas se a incompatibilidade puder ser demonstrada com o próprio conteúdo, reporte. Uma interpretação meramente possível mas forçada não salva o texto; uma interpretação natural sim. Na demonstracao escreva "Alternativa natural:" (a que você procurou) e "Por que não vale:" (por que é artificial ou improvável).
-53c53
+53c54
 < Previsibilidade NÃO está na lista. As previsões cegas só entram como prova DENTRO de um defeito da lista (por exemplo, leitores capturaram a revelação e você demonstra que ela não acrescenta nada específico: cliche_efetivo; ou capturaram porque a foto entrega: redundancia). Capturar a revelação, sozinho, não é defeito.
 ---
 > Previsibilidade NÃO está na lista. A previsão cega, mesmo confirmada pelos três leitores, NUNCA constitui sozinha um defeito de cliche_efetivo, redundancia ou falta de originalidade. Esses defeitos exigem DEMONSTRAÇÃO NARRATIVA INDEPENDENTE, escrita sem citar as previsões: para cliche_efetivo, nomear a associação comum e mostrar, no texto, que nada específico a transforma; para redundancia, mostrar, comparando FORA com foto e NA FOTO, qual informação do FORA já está dada lá. Só depois de a demonstração independente existir, a previsão pode ser citada como corroboração, em frase separada que comece por "Corroboração:". Se retirar a frase de corroboração a demonstração deixa de se sustentar, o defeito não está demonstrado e deve ir para observacoes_descartadas.
-72c72
+55c56
+< ## Informação implícita não é defeito automático
+---
+> ## Teste de Integridade Narrativa
+57c58,78
+< O fato de não conhecermos um motivo, um personagem ou um detalhe não constitui, por si só, falha narrativa. A omissão pode ser a sutileza da história. Só trate uma omissão como defeito quando demonstrar, com o texto, que a ausência compromete efetivamente a compreensão, a plausibilidade ou a coerência. Se a omissão é legítima, registre-a em observacoes_descartadas com o motivo. Não exija que a história explique o que pode ser legitimamente sugerido: clareza não exige explicação completa, e profundidade não exige obscuridade.
+---
+> Objetivo: separar a sutileza de uma história de uma falha que a impede de funcionar. A função do Crítico não é eliminar ambiguidades interpretativas produtivas, é identificar falhas que impedem a compreensão narrativa. Não exija que personagens expliquem motivações, que as pessoas sejam completamente identificadas nem que todo acontecimento tenha causa explicitada: omissões legítimas fazem parte da linguagem de O QUE NINGUÉM LEGENDA.
+> 
+> Responda, por escrito, no campo "integridade", estas seis perguntas:
+> 
+> 1. transformacao_central: qual é a transformação interpretativa central (leitura inicial e leitura final).
+> 2. relacao_sustentadora: qual relação narrativa sustenta essa transformação, em uma frase.
+> 3. implicitos: que informações permanecem implícitas ou ausentes (lista; pode ser vazia).
+> 4. necessidade_dos_ausentes: para cada implícito, se ele é realmente necessário para compreender a relação central. Teste: completá-lo de qualquer modo plausível mudaria a leitura central? Se a leitura permanece a mesma e a lacuna só acrescenta interesse, não é necessário.
+> 5. plausibilidade_sem_invencao: a relação apresentada é plausível sem que o leitor invente fatos essenciais? Se o texto AFIRMA um mecanismo, uma causa ou uma referência, verifique se ele funciona como escrito. Uma lacuna é o texto calar algo; uma imprecisão é o texto dizer algo que não fecha.
+> 6. efeito_na_segunda_leitura: eventual falha compromete materialmente a segunda leitura?
+> 
+> Classifique cada lacuna ou imprecisão em exatamente uma classe:
+> 
+> A. OMISSÃO LEGÍTIMA: a história é compreensível e a informação omitida não é indispensável à transformação. Não é defeito. Registre em observacoes_descartadas com o motivo.
+> B. IMPRECISÃO PERIFÉRICA: pequena imperfeição que não compromete a compreensão, a plausibilidade nem a força central. Registre em imprecisoes_perifericas, sem bloqueio automático.
+> C. IMPRECISÃO CENTRAL CORRIGÍVEL: falha demonstrável que compromete a relação narrativa e pode ser corrigida pontualmente sem substituir o núcleo. Entra em defeitos_demonstrados com gravidade "corrigivel". Veredicto: REVISAR.
+> D. OBSCURIDADE ESTRUTURAL: o leitor precisa inventar acontecimentos ou relações essenciais para a revelação fazer sentido, e a correção exigiria reconstruir a proposta. Entra em defeitos_demonstrados com gravidade "estrutural". Veredicto: REPROVADA.
+> 
+> Regra de materialidade: não bloqueie por imperfeição periférica sem efeito relevante na segunda leitura. Para classificar algo como C ou D, demonstre a importância concreta. Cada defeito contém: trecho citado; relacao_comprometida (qual relação narrativa fica comprometida); demonstracao (a explicação do problema); gravidade; justificativa_veredicto (por que isso leva ao veredicto). Não aceite afirmações vagas como "falta contexto" ou "a relação não está clara" sem demonstração com o texto.
+> 
+> Regra mecânica de veredicto: se houver ao menos um defeito D ou eliminatória, REPROVADA. Senão, se houver ao menos um C, REVISAR. Senão (apenas A e B, e nenhum outro defeito), a candidata pode ser APROVADA se satisfaz E1 a E5. Aprovar exige que B seja realmente periférico.
+72c93
 < T1. PREVISÃO (auxiliar). Para cada uma das três previsões, diga se capturou o essencial da revelação (sim, em parte, não) e registre o total. Use isso só como evidência para cliche_efetivo ou redundancia. Divergência entre as previsões indica foto aberta. Nunca decida por aqui.
 ---
 > T1. PREVISÃO (auxiliar). Para cada uma das três previsões, diga se capturou o essencial da revelação (sim, em parte, não) e registre o total. Use isso apenas como corroboração, depois de demonstrar o defeito de forma independente. Divergência entre as previsões indica foto aberta. Nunca decida por aqui.
+92c113
+<     versao_criterio  ("v2.2")
+---
+>     versao_criterio  ("v2.3-exp")
+98a120,121
+>     integridade  (objeto com transformacao_central, relacao_sustentadora, implicitos, necessidade_dos_ausentes, plausibilidade_sem_invencao, efeito_na_segunda_leitura)
+>     imprecisoes_perifericas  (lista de itens com: trecho, observacao; classe B; vazia se não houver)
+103,104c126,127
+<     defeitos_demonstrados  (lista, vazia se nenhum; cada item com: categoria, trecho, demonstracao, gravidade ("corrigivel" | "estrutural"))
+<     observacoes_descartadas  (lista de itens com: observacao, motivo; omissões e implícitos legítimos, hipóteses sem demonstração)
+---
+>     defeitos_demonstrados  (lista, vazia se nenhum; cada item com: categoria, classe ("C" | "D"), trecho, relacao_comprometida, demonstracao, gravidade ("corrigivel" | "estrutural"), justificativa_veredicto)
+>     observacoes_descartadas  (lista de itens com: observacao, motivo; omissões legítimas classe A, implícitos, hipóteses sem demonstração)

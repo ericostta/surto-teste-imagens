@@ -15,6 +15,11 @@ Modo v2.2 (experimental): ativado quando a avaliação traz versao_criterio == "
 - REVISAR exige ao menos um defeito, todos corrigíveis, cada um com categoria da lista, trecho e demonstração, e instrução com "Defeito", "Mudar", "NÃO pode mudar" e menção ao núcleo/acontecimento central;
 - REPROVADA exige ao menos um defeito estrutural ou eliminatória;
 - aviso (não conta como inconsistência) quando a demonstração usa linguagem hipotética.
+Modo v2.3-exp (experimental): versao_criterio == "v2.3-exp". Aplica as regras do v2.2 e acrescenta:
+- campos integridade (6 chaves) e imprecisoes_perifericas obrigatórios;
+- cada defeito exige classe C (gravidade corrigivel) ou D (gravidade estrutural), relacao_comprometida e justificativa_veredicto;
+- veredicto mecânico: D ou eliminatória => REPROVADA; senão C => REVISAR; senão APROVADA (se E1 a E5);
+- aviso para demonstração vaga ("falta contexto", "não está clara") curta.
 O modo v2.1 permanece idêntico.
 Não altera veredictos: só aponta inconsistências para auditoria humana.
 """
@@ -34,6 +39,9 @@ OBRIG_V22 = ["codigo", "versao_criterio", "previsoes_que_capturaram", "elemento_
              "nomeia_emocao_sem_fato", "ambiguidades", "associacao_mais_comum", "e_a_associacao_mais_comum",
              "perspectiva_especifica", "evidencias_positivas", "defeitos_demonstrados", "observacoes_descartadas",
              "eliminatorias", "veredicto", "justificativa_objetiva", "nota"]
+INTEGRIDADE_V23 = ["transformacao_central", "relacao_sustentadora", "implicitos", "necessidade_dos_ausentes",
+                   "plausibilidade_sem_invencao", "efeito_na_segunda_leitura"]
+VAGAS_V23 = ("falta contexto", "não está clara", "nao esta clara", "não fica claro", "relação não é clara")
 HIPOTETICO = ("talvez", "possivelmente", "pode ser que", "poderia ser", "quem sabe")
 
 
@@ -102,7 +110,58 @@ def validar_v22(a: dict) -> list:
     return erros
 
 
+def validar_v23(a: dict) -> list:
+    erros = validar_v22(a)
+    for campo in ("integridade", "imprecisoes_perifericas"):
+        if campo not in a:
+            erros.append(f"campo ausente (v2.3-exp): {campo}")
+    integ = a.get("integridade")
+    if isinstance(integ, dict):
+        for k in INTEGRIDADE_V23:
+            if k not in integ or integ[k] in (None, ""):
+                erros.append(f"integridade sem '{k}'")
+    elif "integridade" in a:
+        erros.append("integridade deve ser objeto")
+    defs = a.get("defeitos_demonstrados", []) or []
+    for d in defs:
+        cat = d.get("categoria")
+        classe = d.get("classe")
+        if classe not in ("C", "D"):
+            erros.append(f"defeito '{cat}' sem classe C ou D")
+        elif (classe == "C") != (d.get("gravidade") == "corrigivel"):
+            erros.append(f"defeito '{cat}' com classe {classe} incoerente com gravidade {d.get('gravidade')}")
+        for campo in ("relacao_comprometida", "justificativa_veredicto"):
+            if not (d.get(campo) or "").strip():
+                erros.append(f"defeito '{cat}' sem {campo}")
+    for item in a.get("imprecisoes_perifericas", []) or []:
+        if not (item.get("trecho") or "").strip() or not (item.get("observacao") or "").strip():
+            erros.append("imprecisão periférica sem trecho ou observação")
+    v = a.get("veredicto")
+    tem_d = any(d.get("classe") == "D" for d in defs) or bool(a.get("eliminatorias"))
+    tem_c = any(d.get("classe") == "C" for d in defs)
+    if tem_d and v != "REPROVADA":
+        erros.append("classe D ou eliminatória exige REPROVADA")
+    if (not tem_d) and tem_c and v != "REVISAR":
+        erros.append("classe C sem D exige REVISAR")
+    if (not tem_d) and (not tem_c) and v != "APROVADA":
+        erros.append("sem defeitos C ou D o veredicto mecânico é APROVADA (se E1 a E5) ou há defeito sem classe")
+    return erros
+
+
+def avisos_v23(a: dict) -> list:
+    out = avisos_v22(a)
+    for d in a.get("defeitos_demonstrados", []) or []:
+        t = (d.get("demonstracao", "") or "").lower()
+        if len(t) < 120 and any(x in t for x in VAGAS_V23):
+            out.append(f"{a.get('codigo')}: demonstração vaga ({d.get('categoria')})")
+        if d.get("categoria") in ("cliche_efetivo", "redundancia") and ("previs" in t and "corrobora" not in t and len(t) < 160):
+            out.append(f"{a.get('codigo')}: defeito {d.get('categoria')} parece apoiado só na previsão")
+    return out
+
+
 def validar(a: dict) -> list:
+    if a.get("versao_criterio") == "v2.3-exp":
+        return validar_v23(a)
     if a.get("versao_criterio") == "v2.2":
         return validar_v22(a)
     erros = []
@@ -171,6 +230,9 @@ def main() -> int:
         for a in dados:
             if a.get("versao_criterio") == "v2.2":
                 for w in avisos_v22(a):
+                    print("  aviso: " + w)
+            elif a.get("versao_criterio") == "v2.3-exp":
+                for w in avisos_v23(a):
                     print("  aviso: " + w)
     print(f"\n{com_erro} de {total} com inconsistência")
     return 0

@@ -1,0 +1,134 @@
+{
+ "semente": 20261022,
+ "rejeitadas_nos_filtros": [
+  "O2-06"
+ ],
+ "mapa_codigos": {
+  "W01": {
+   "id_original": "O3-07",
+   "origem": "O3"
+  },
+  "W02": {
+   "id_original": "O1-05",
+   "origem": "O1"
+  },
+  "W03": {
+   "id_original": "O3-12",
+   "origem": "O3"
+  },
+  "W04": {
+   "id_original": "O3-02",
+   "origem": "O3"
+  },
+  "W05": {
+   "id_original": "O2-10",
+   "origem": "O2"
+  },
+  "W06": {
+   "id_original": "O1-04",
+   "origem": "O1"
+  },
+  "W07": {
+   "id_original": "O1-02",
+   "origem": "O1"
+  },
+  "W08": {
+   "id_original": "O2-04",
+   "origem": "O2"
+  },
+  "W09": {
+   "id_original": "O2-05",
+   "origem": "O2"
+  },
+  "W10": {
+   "id_original": "O3-08",
+   "origem": "O3"
+  },
+  "W11": {
+   "id_original": "O2-03",
+   "origem": "O2"
+  },
+  "W12": {
+   "id_original": "O1-10",
+   "origem": "O1"
+  },
+  "W13": {
+   "id_original": "O1-01",
+   "origem": "O1"
+  },
+  "W14": {
+   "id_original": "O3-06",
+   "origem": "O3"
+  },
+  "W15": {
+   "id_original": "O2-12",
+   "origem": "O2"
+  },
+  "W16": {
+   "id_original": "O3-10",
+   "origem": "O3"
+  },
+  "W17": {
+   "id_original": "O2-02",
+   "origem": "O2"
+  },
+  "W18": {
+   "id_original": "O3-11",
+   "origem": "O3"
+  },
+  "W19": {
+   "id_original": "O2-07",
+   "origem": "O2"
+  },
+  "W20": {
+   "id_original": "O1-03",
+   "origem": "O1"
+  },
+  "W21": {
+   "id_original": "O2-11",
+   "origem": "O2"
+  },
+  "W22": {
+   "id_original": "O1-09",
+   "origem": "O1"
+  },
+  "W23": {
+   "id_original": "O1-07",
+   "origem": "O1"
+  },
+  "W24": {
+   "id_original": "O2-09",
+   "origem": "O2"
+  },
+  "W25": {
+   "id_original": "O3-05",
+   "origem": "O3"
+  },
+  "W26": {
+   "id_original": "O1-12",
+   "origem": "O1"
+  },
+  "W27": {
+   "id_original": "O3-01",
+   "origem": "O3"
+  },
+  "W28": {
+   "id_original": "O3-04",
+   "origem": "O3"
+  },
+  "W29": {
+   "id_original": "O1-08",
+   "origem": "O1"
+  },
+  "W30": {
+   "id_original": "O2-08",
+   "origem": "O2"
+  }
+ },
+ "origens": {
+  "O1": "Criador do projeto (prompts/criador.md, taxonomia, registro)",
+  "O2": "Cronista livre, só o formato e um exemplo",
+  "O3": "Redator de rascunhos rápidos, sem revisão"
+ },
+ "observacao": "Sem tipo pretendido por item: os tipos de qualidade serão apenas os rótulos externos. Itens escolhidos ao acaso entre os que passaram nos filtros, 10 por origem."
+}
