@@ -390,6 +390,42 @@
    "ordem_producao": 60,
    "celula_intencao": "correcao_pontual",
    "ambiente_designado": "escola"
+  },
+  {
+   "codigo": "G1-D31",
+   "amostra": "desafio",
+   "ordem_producao": 61,
+   "celula_intencao": "divergencia_legitima_potencial",
+   "ambiente_designado": "lazer_esporte",
+   "substitui": "G1-D12",
+   "motivo": "exclusão técnica por duplicata de conceito"
+  },
+  {
+   "codigo": "G1-D32",
+   "amostra": "desafio",
+   "ordem_producao": 62,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "trabalho",
+   "substitui": "G1-D22",
+   "motivo": "exclusão técnica por duplicata de conceito"
+  },
+  {
+   "codigo": "G1-D33",
+   "amostra": "desafio",
+   "ordem_producao": 63,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "festa",
+   "substitui": "G1-D26",
+   "motivo": "exclusão técnica por duplicata de conceito"
+  },
+  {
+   "codigo": "G1-D34",
+   "amostra": "desafio",
+   "ordem_producao": 64,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "escola",
+   "substitui": "G1-D27",
+   "motivo": "exclusão técnica por duplicata de conceito"
   }
  ]
 }

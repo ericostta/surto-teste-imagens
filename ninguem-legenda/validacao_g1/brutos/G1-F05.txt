@@ -1,0 +1,14 @@
+```json
+{
+  "id": "G1-F05",
+  "tema": "cuidado público escondido",
+  "situacao": "zelador deixa as folhas caídas ao redor da árvore para as crianças da escola",
+  "mecanismo": "M05",
+  "emocao": "pequena_alegria",
+  "tipo_contraste": "pressa_vs_cuidado",
+  "na_foto": "Uma praça que ninguém cuida no outono.",
+  "fora": "O zelador varre a praça inteira, menos ali. Às quatro, as crianças da escola vêm pisar nas folhas.",
+  "conceito_foto": "Árvore grande no centro de uma praça, folhas amarelas espalhadas pelo chão.",
+  "rosto": false
+}
+```

@@ -1,0 +1,58 @@
+{
+ "nota": "Log de exclusões técnicas da G1. Registrado antes de qualquer rótulo, avaliação ou triagem. Os itens excluídos continuam preservados em validacao_g1/itens/ e validacao_g1/brutos/ (nada foi apagado).",
+ "regra_aplicada": "Condições documentais 2.4, inclusão 4: conceito de foto sem repetição no conjunto. Considera-se repetição quando duas fotografias do conjunto mostram a mesma cena (mesmos objetos principais, no mesmo tipo de lugar). Entre dois itens que se repetem, sai o de maior ordem de produção. Não se usou qualidade, texto, rótulo ou resultado de Crítico. Substituição: uma por item excluído, na mesma célula de intenção, com outro ambiente designado.",
+ "quem_decidiu": "orquestrador (Claude), dentro da autorização de Eri de 23/10/2026 00h13 (item 9: exclusões só por motivos técnicos previamente autorizados)",
+ "quando": "2026-10-23T03:17:27.751460+00:00",
+ "exclusoes": [
+  {
+   "item": "G1-D12",
+   "motivo": "duplicata de conceito fotográfico",
+   "repete": "G1-F23",
+   "detalhe": "bicicleta presa a poste por corrente grossa em rua de bairro; mesma cena do conceito sorteado K10",
+   "substituto": "G1-D31"
+  },
+  {
+   "item": "G1-D22",
+   "motivo": "duplicata de conceito fotográfico",
+   "repete": "G1-D02",
+   "detalhe": "banquinho encostado a portão de ferro verde em calçada de bairro",
+   "substituto": "G1-D32"
+  },
+  {
+   "item": "G1-D26",
+   "motivo": "duplicata de conceito fotográfico",
+   "repete": "G1-D06",
+   "detalhe": "trilha estreita de terra batida em capinzal ao fim de tarde",
+   "substituto": "G1-D33"
+  },
+  {
+   "item": "G1-D27",
+   "motivo": "duplicata de conceito fotográfico",
+   "repete": "G1-D17",
+   "detalhe": "passageiro de costas dormindo no último banco de ônibus urbano",
+   "substituto": "G1-D34"
+  }
+ ],
+ "ocorrencias_nao_excluidas": [
+  {
+   "item": "G1-F08",
+   "ocorrencia": "filtros.py acusou falha \"abstração excessiva: destino\" (a palavra aparece em sentido literal, \"passagem de ida, ainda sem destino\")",
+   "decisao": "mantido. O filtro lexical não consta dos motivos técnicos de exclusão autorizados e excluir seria decisão próxima de juízo de qualidade. Registrado para ciência de Eri."
+  },
+  {
+   "item": "G1-D02",
+   "ocorrencia": "alerta de \"logotipo\" no conceito de foto",
+   "decisao": "mantido. A palavra aparece na negação (\"sem ... logotipo\"); falso positivo do filtro."
+  },
+  {
+   "item": "G1-F13",
+   "ocorrencia": "alerta: mecanismo M10 já usado nas últimas 5 edições (registro histórico de laboratório)",
+   "decisao": "mantido. Alerta, não falha."
+  },
+  {
+   "item": "G1-D27",
+   "ocorrencia": "alerta de semelhança com G1-D17 (0.62)",
+   "decisao": "item excluído por duplicata de conceito, conforme acima."
+  }
+ ]
+}
