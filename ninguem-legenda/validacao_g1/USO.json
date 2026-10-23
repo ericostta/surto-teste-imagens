@@ -1,0 +1,11 @@
+{
+ "lote": "G1",
+ "estado": "reservado",
+ "historico": [
+  {
+   "estado": "reservado",
+   "quando": "2026-10-23T03:14:43.197053+00:00",
+   "nota": "G1 autorizada por Eri em 23/10/2026 00h13. Nenhum item gerado ainda."
+  }
+ ]
+}

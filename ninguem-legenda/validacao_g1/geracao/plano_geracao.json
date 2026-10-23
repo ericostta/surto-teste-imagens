@@ -1,0 +1,395 @@
+{
+ "nota": "Mapa privado de procedência e intenção de geração. Células são intenções, não classificações reais. Não entra em nenhum pacote de avaliação.",
+ "itens": [
+  {
+   "codigo": "G1-F01",
+   "amostra": "fluxo",
+   "ordem_producao": 1,
+   "conceito_sorteado": "K38"
+  },
+  {
+   "codigo": "G1-F02",
+   "amostra": "fluxo",
+   "ordem_producao": 2,
+   "conceito_sorteado": "K18"
+  },
+  {
+   "codigo": "G1-F03",
+   "amostra": "fluxo",
+   "ordem_producao": 3,
+   "conceito_sorteado": "K01"
+  },
+  {
+   "codigo": "G1-F04",
+   "amostra": "fluxo",
+   "ordem_producao": 4,
+   "conceito_sorteado": "K41"
+  },
+  {
+   "codigo": "G1-F05",
+   "amostra": "fluxo",
+   "ordem_producao": 5,
+   "conceito_sorteado": "K23"
+  },
+  {
+   "codigo": "G1-F06",
+   "amostra": "fluxo",
+   "ordem_producao": 6,
+   "conceito_sorteado": "K33"
+  },
+  {
+   "codigo": "G1-F07",
+   "amostra": "fluxo",
+   "ordem_producao": 7,
+   "conceito_sorteado": "K20"
+  },
+  {
+   "codigo": "G1-F08",
+   "amostra": "fluxo",
+   "ordem_producao": 8,
+   "conceito_sorteado": "K55"
+  },
+  {
+   "codigo": "G1-F09",
+   "amostra": "fluxo",
+   "ordem_producao": 9,
+   "conceito_sorteado": "K13"
+  },
+  {
+   "codigo": "G1-F10",
+   "amostra": "fluxo",
+   "ordem_producao": 10,
+   "conceito_sorteado": "K12"
+  },
+  {
+   "codigo": "G1-F11",
+   "amostra": "fluxo",
+   "ordem_producao": 11,
+   "conceito_sorteado": "K34"
+  },
+  {
+   "codigo": "G1-F12",
+   "amostra": "fluxo",
+   "ordem_producao": 12,
+   "conceito_sorteado": "K50"
+  },
+  {
+   "codigo": "G1-F13",
+   "amostra": "fluxo",
+   "ordem_producao": 13,
+   "conceito_sorteado": "K42"
+  },
+  {
+   "codigo": "G1-F14",
+   "amostra": "fluxo",
+   "ordem_producao": 14,
+   "conceito_sorteado": "K39"
+  },
+  {
+   "codigo": "G1-F15",
+   "amostra": "fluxo",
+   "ordem_producao": 15,
+   "conceito_sorteado": "K03"
+  },
+  {
+   "codigo": "G1-F16",
+   "amostra": "fluxo",
+   "ordem_producao": 16,
+   "conceito_sorteado": "K29"
+  },
+  {
+   "codigo": "G1-F17",
+   "amostra": "fluxo",
+   "ordem_producao": 17,
+   "conceito_sorteado": "K51"
+  },
+  {
+   "codigo": "G1-F18",
+   "amostra": "fluxo",
+   "ordem_producao": 18,
+   "conceito_sorteado": "K40"
+  },
+  {
+   "codigo": "G1-F19",
+   "amostra": "fluxo",
+   "ordem_producao": 19,
+   "conceito_sorteado": "K06"
+  },
+  {
+   "codigo": "G1-F20",
+   "amostra": "fluxo",
+   "ordem_producao": 20,
+   "conceito_sorteado": "K30"
+  },
+  {
+   "codigo": "G1-F21",
+   "amostra": "fluxo",
+   "ordem_producao": 21,
+   "conceito_sorteado": "K52"
+  },
+  {
+   "codigo": "G1-F22",
+   "amostra": "fluxo",
+   "ordem_producao": 22,
+   "conceito_sorteado": "K26"
+  },
+  {
+   "codigo": "G1-F23",
+   "amostra": "fluxo",
+   "ordem_producao": 23,
+   "conceito_sorteado": "K10"
+  },
+  {
+   "codigo": "G1-F24",
+   "amostra": "fluxo",
+   "ordem_producao": 24,
+   "conceito_sorteado": "K08"
+  },
+  {
+   "codigo": "G1-F25",
+   "amostra": "fluxo",
+   "ordem_producao": 25,
+   "conceito_sorteado": "K44"
+  },
+  {
+   "codigo": "G1-F26",
+   "amostra": "fluxo",
+   "ordem_producao": 26,
+   "conceito_sorteado": "K58"
+  },
+  {
+   "codigo": "G1-F27",
+   "amostra": "fluxo",
+   "ordem_producao": 27,
+   "conceito_sorteado": "K57"
+  },
+  {
+   "codigo": "G1-F28",
+   "amostra": "fluxo",
+   "ordem_producao": 28,
+   "conceito_sorteado": "K35"
+  },
+  {
+   "codigo": "G1-F29",
+   "amostra": "fluxo",
+   "ordem_producao": 29,
+   "conceito_sorteado": "K07"
+  },
+  {
+   "codigo": "G1-F30",
+   "amostra": "fluxo",
+   "ordem_producao": 30,
+   "conceito_sorteado": "K02"
+  },
+  {
+   "codigo": "G1-D01",
+   "amostra": "desafio",
+   "ordem_producao": 31,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "casa"
+  },
+  {
+   "codigo": "G1-D02",
+   "amostra": "desafio",
+   "ordem_producao": 32,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "rua"
+  },
+  {
+   "codigo": "G1-D03",
+   "amostra": "desafio",
+   "ordem_producao": 33,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "comercio"
+  },
+  {
+   "codigo": "G1-D04",
+   "amostra": "desafio",
+   "ordem_producao": 34,
+   "celula_intencao": "divergencia_legitima_potencial",
+   "ambiente_designado": "cozinha"
+  },
+  {
+   "codigo": "G1-D05",
+   "amostra": "desafio",
+   "ordem_producao": 35,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "lazer_esporte"
+  },
+  {
+   "codigo": "G1-D06",
+   "amostra": "desafio",
+   "ordem_producao": 36,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "natureza"
+  },
+  {
+   "codigo": "G1-D07",
+   "amostra": "desafio",
+   "ordem_producao": 37,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "transporte"
+  },
+  {
+   "codigo": "G1-D08",
+   "amostra": "desafio",
+   "ordem_producao": 38,
+   "celula_intencao": "divergencia_legitima_potencial",
+   "ambiente_designado": "trabalho"
+  },
+  {
+   "codigo": "G1-D09",
+   "amostra": "desafio",
+   "ordem_producao": 39,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "festa"
+  },
+  {
+   "codigo": "G1-D10",
+   "amostra": "desafio",
+   "ordem_producao": 40,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "escola"
+  },
+  {
+   "codigo": "G1-D11",
+   "amostra": "desafio",
+   "ordem_producao": 41,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "casa"
+  },
+  {
+   "codigo": "G1-D12",
+   "amostra": "desafio",
+   "ordem_producao": 42,
+   "celula_intencao": "divergencia_legitima_potencial",
+   "ambiente_designado": "rua"
+  },
+  {
+   "codigo": "G1-D13",
+   "amostra": "desafio",
+   "ordem_producao": 43,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "comercio"
+  },
+  {
+   "codigo": "G1-D14",
+   "amostra": "desafio",
+   "ordem_producao": 44,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "cozinha"
+  },
+  {
+   "codigo": "G1-D15",
+   "amostra": "desafio",
+   "ordem_producao": 45,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "lazer_esporte"
+  },
+  {
+   "codigo": "G1-D16",
+   "amostra": "desafio",
+   "ordem_producao": 46,
+   "celula_intencao": "divergencia_legitima_potencial",
+   "ambiente_designado": "natureza"
+  },
+  {
+   "codigo": "G1-D17",
+   "amostra": "desafio",
+   "ordem_producao": 47,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "transporte"
+  },
+  {
+   "codigo": "G1-D18",
+   "amostra": "desafio",
+   "ordem_producao": 48,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "trabalho"
+  },
+  {
+   "codigo": "G1-D19",
+   "amostra": "desafio",
+   "ordem_producao": 49,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "festa"
+  },
+  {
+   "codigo": "G1-D20",
+   "amostra": "desafio",
+   "ordem_producao": 50,
+   "celula_intencao": "divergencia_legitima_potencial",
+   "ambiente_designado": "escola"
+  },
+  {
+   "codigo": "G1-D21",
+   "amostra": "desafio",
+   "ordem_producao": 51,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "casa"
+  },
+  {
+   "codigo": "G1-D22",
+   "amostra": "desafio",
+   "ordem_producao": 52,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "rua"
+  },
+  {
+   "codigo": "G1-D23",
+   "amostra": "desafio",
+   "ordem_producao": 53,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "comercio"
+  },
+  {
+   "codigo": "G1-D24",
+   "amostra": "desafio",
+   "ordem_producao": 54,
+   "celula_intencao": "divergencia_legitima_potencial",
+   "ambiente_designado": "cozinha"
+  },
+  {
+   "codigo": "G1-D25",
+   "amostra": "desafio",
+   "ordem_producao": 55,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "lazer_esporte"
+  },
+  {
+   "codigo": "G1-D26",
+   "amostra": "desafio",
+   "ordem_producao": 56,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "natureza"
+  },
+  {
+   "codigo": "G1-D27",
+   "amostra": "desafio",
+   "ordem_producao": 57,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "transporte"
+  },
+  {
+   "codigo": "G1-D28",
+   "amostra": "desafio",
+   "ordem_producao": 58,
+   "celula_intencao": "sentimentalismo_implicito",
+   "ambiente_designado": "trabalho"
+  },
+  {
+   "codigo": "G1-D29",
+   "amostra": "desafio",
+   "ordem_producao": 59,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "festa"
+  },
+  {
+   "codigo": "G1-D30",
+   "amostra": "desafio",
+   "ordem_producao": 60,
+   "celula_intencao": "correcao_pontual",
+   "ambiente_designado": "escola"
+  }
+ ]
+}
