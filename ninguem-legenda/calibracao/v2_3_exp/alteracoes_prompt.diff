@@ -1,0 +1,20 @@
+1c1
+< # CRÍTICO EDITORIAL v2.2 (EXPERIMENTAL, FASE A): O QUE NINGUÉM LEGENDA
+---
+> # CRÍTICO EDITORIAL v2.3-EXP (EXPERIMENTAL, FASE A, NÃO EXECUTADO): O QUE NINGUÉM LEGENDA
+3c3
+< Versão v2.2 experimental, de 22/10/2026. Não homologada. A v2.1 (prompts/critico.md e prompts/critico_v2_1.md) permanece preservada e inalterada.
+---
+> Versão v2.3-exp, derivada da v2.2 (prompts/critico_v2_2.md, preservada e inalterada) com DUAS correções autorizadas em 22/10/2026: (1) a previsão cega não constitui defeito; (2) contradição exige busca de interpretação alternativa natural. A terceira correção (omissão legítima x imprecisão x obscuridade) NÃO está implementada aqui. Não homologada. A v2.1 (prompts/critico.md) permanece inalterada.
+42c42
+< - contradicao: incompatibilidade entre trechos do texto ou entre texto e foto, sem leitura plausível em que ambos sejam verdadeiros.
+---
+> - contradicao: incompatibilidade entre trechos do texto ou entre texto e foto, sem interpretação alternativa plausível e natural em que ambos sejam verdadeiros. Procedimento obrigatório antes de apontar: (a) escreva a interpretação alternativa mais natural em que os dois trechos coexistem; (b) se ela for plausível e natural para um leitor comum, NÃO há contradição: registre em observacoes_descartadas; (c) só se a alternativa for artificial ou excessivamente improvável, e apenas se a incompatibilidade puder ser demonstrada com o próprio conteúdo, reporte. Uma interpretação meramente possível mas forçada não salva o texto; uma interpretação natural sim. Na demonstracao escreva "Alternativa natural:" (a que você procurou) e "Por que não vale:" (por que é artificial ou improvável).
+53c53
+< Previsibilidade NÃO está na lista. As previsões cegas só entram como prova DENTRO de um defeito da lista (por exemplo, leitores capturaram a revelação e você demonstra que ela não acrescenta nada específico: cliche_efetivo; ou capturaram porque a foto entrega: redundancia). Capturar a revelação, sozinho, não é defeito.
+---
+> Previsibilidade NÃO está na lista. A previsão cega, mesmo confirmada pelos três leitores, NUNCA constitui sozinha um defeito de cliche_efetivo, redundancia ou falta de originalidade. Esses defeitos exigem DEMONSTRAÇÃO NARRATIVA INDEPENDENTE, escrita sem citar as previsões: para cliche_efetivo, nomear a associação comum e mostrar, no texto, que nada específico a transforma; para redundancia, mostrar, comparando FORA com foto e NA FOTO, qual informação do FORA já está dada lá. Só depois de a demonstração independente existir, a previsão pode ser citada como corroboração, em frase separada que comece por "Corroboração:". Se retirar a frase de corroboração a demonstração deixa de se sustentar, o defeito não está demonstrado e deve ir para observacoes_descartadas.
+72c72
+< T1. PREVISÃO (auxiliar). Para cada uma das três previsões, diga se capturou o essencial da revelação (sim, em parte, não) e registre o total. Use isso só como evidência para cliche_efetivo ou redundancia. Divergência entre as previsões indica foto aberta. Nunca decida por aqui.
+---
+> T1. PREVISÃO (auxiliar). Para cada uma das três previsões, diga se capturou o essencial da revelação (sim, em parte, não) e registre o total. Use isso apenas como corroboração, depois de demonstrar o defeito de forma independente. Divergência entre as previsões indica foto aberta. Nunca decida por aqui.
