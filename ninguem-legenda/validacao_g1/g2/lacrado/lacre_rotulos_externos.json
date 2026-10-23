@@ -1,0 +1,15 @@
+{
+  "arquivo": "lacrado/rotulos_externos_bruto.txt",
+  "sha256": "7d80fa286edf13e672de7fa3d26c664e8986b868af7942196eb65a4748f82e08",
+  "linhas": 60,
+  "conferencia": {
+    "linhas": 60,
+    "codigos_unicos": 60,
+    "duplicados": [],
+    "faltantes_no_envio": [],
+    "codigos_fora_do_pacote": [],
+    "valores_invalidos": [],
+    "sha256": "7d80fa286edf13e672de7fa3d26c664e8986b868af7942196eb65a4748f82e08"
+  },
+  "nota": "Conteúdo = as 60 linhas de rótulos exatamente como enviadas por Eri; texto de autorização que acompanhou não faz parte do arquivo. Nenhuma decodificação ou confronto realizado."
+}
