@@ -1,0 +1,170 @@
+[
+  {
+    "id": "N1",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "P2"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "N2",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "N3"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "N3",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "D1",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 21
+    },
+    "similaridade_max": {
+      "valor": 0.34,
+      "com": "N2"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "D2",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 22
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "N3"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "D3",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 22
+    },
+    "similaridade_max": {
+      "valor": 0.43,
+      "com": "M1"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "M1",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 22
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "D1"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "M2",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 22
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "M1"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "A1",
+    "palavras": {
+      "na_foto": 10,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "LAB-005"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "A2",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "P1"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "P1",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "D3"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "P2",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "D2"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  }
+]
