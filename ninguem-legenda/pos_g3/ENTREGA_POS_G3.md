@@ -89,7 +89,7 @@ A média de 1,5 tentativa é premissa de planejamento, não medida. A alternativ
 
 **Seis histórias candidatas** (aprovadas pela v2.2 e pela v2.4-exp nas quatro execuções, rótulo BOA, fora de tensão, mecanismos e emoções variados): G1-D06 (trilha, M06, cotidiano), G1-D17 (ônibus, M08, relação humana), G1-F02 (pescador, M03, melancolia), G1-F13 (mancha na parede, M10, alívio), G1-F27 (lugar reservado na praia, M01, humor), G1-F05 (praça, M05, pequena alegria). Decisão em lote único, como você pediu. D17 e F02 pedem pessoa na cena, então a composição precisa evitar rosto.
 
-**Critérios de avaliação visual** (Auditor Visual, sem crédito). Reprovam objetivamente: rosto ou mão deformados; texto, marca ou logotipo legível na imagem; contradição com o NA FOTO ou com o conceito de foto; elemento essencial do FORA ausente; aspecto de ilustração ou render em vez de fotografia documental; artefatos visíveis; composição sem espaço para o texto em 9:16. Avaliados sem reprovar: luz, paleta e coerência da série.
+**Critérios de avaliação visual** (Auditor Visual, sem crédito). Reprovam objetivamente: rosto ou mão deformados; texto, marca ou logotipo legível na imagem; contradição com o NA FOTO ou com o conceito de foto; aspecto de ilustração ou render em vez de fotografia documental; artefatos visíveis; composição sem espaço para o texto em 9:16. Correção de 23/10/2026 por decisão de Eri: a fotografia deve corresponder ao conceito visual e ao NA FOTO, mas não deve necessariamente mostrar o que está fora do enquadramento. Uma imagem que antecipe a revelação do FORA compromete a identidade da série e deve ser tratada como defeito, não como acerto. Avaliados sem reprovar: luz, paleta e coerência da série.
 
 ---
 
