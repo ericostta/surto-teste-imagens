@@ -1,0 +1,580 @@
+[
+ {
+  "codigo": "R01",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 1,
+  "elemento_que_muda": "A capa pequena. Leitura inicial: capa de uma criança ausente ou de alguém que partiu. Passa a ser: capa de criança que cresceu e que o pai mantém no cabide para o lugar dela continuar existindo.",
+  "elo_humano": "O pai não consegue tirar do cabide a capa que a filha já não veste, porque tirar seria desocupar o lugar dela na casa.",
+  "parafrase_concreta": "Um pai mantém no cabide a capa de chuva que a filha já não veste, para que ela continue tendo um lugar na entrada.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Pertence de quem morreu ou foi embora, mantido por saudade.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "A criança não partiu nem morreu, apenas cresceu; o pai resiste ao crescimento mantendo o lugar dela, com o dado concreto de dois invernos.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "A frase 'para o lugar continuar dela' explica a intenção do pai.", "motivo": "Sem peso: explicita o motivo, mas o fato (dois invernos, capa que não serve) segue carregando a cena, sem nomear emoção."},
+    {"observacao": "Duas previsões leram ausência da criança.", "motivo": "Capturar parte da leitura não é defeito; o texto corrige a leitura inicial e acrescenta o dado do crescimento."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A leitura de ausência dá lugar a uma criança que apenas cresceu, e o pai guarda o lugar dela ('já não serve há dois invernos'). O fato é concreto e o elo é imediato, sem emoção nomeada.",
+  "nota": 74
+ },
+ {
+  "codigo": "R02",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Não identificável: os chinelos não ganham leitura nova porque a frase não permite reconstruir o que aconteceu.",
+  "elo_humano": "Não há elo recuperável sem inventar a história inteira.",
+  "parafrase_concreta": "Impossível de formular com segurança: não se sabe quem deixou quem, quem voltou de quem, nem o que foi 'pedido'.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "'Ele a deixou' (o objeto 'a')", "leitura_A": "Ele deixou ela (a mulher)", "leitura_B": "Ele deixou a porta ou os chinelos"},
+    {"referencia": "'ela voltou dele'", "leitura_A": "Ela retornou ao relacionamento com ele", "leitura_B": "Ela voltou de algum lugar onde estava com ele"},
+    {"referencia": "'qual dos dois pediu'", "leitura_A": "Qual dos dois pediu a separação", "leitura_B": "Qual dos dois pediu a volta"}
+  ],
+  "associacao_mais_comum": "Chinelos de quem não mora mais ali; casal separado ou viúvo.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "obscuridade", "trecho": "Ele a deixou quando ela voltou dele, e agora não sabe qual dos dois pediu.", "demonstracao": "Os pronomes e o verbo 'pediu' (sem objeto) impedem qualquer paráfrase concreta; nenhuma leitura é estável e nenhuma se liga aos chinelos.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["obscuridade"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A frase 'Ele a deixou quando ela voltou dele, e agora não sabe qual dos dois pediu' admite várias leituras incompatíveis e nenhuma paráfrase concreta. Corrigir exigiria escrever outra história.",
+  "nota": 8
+ },
+ {
+  "codigo": "R03",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A cor branca do muro. Leitura inicial: reparo ou serviço comum de pintura. Passa a ser: cor que remete à casa onde o irmão do pintor nasceu em Recife.",
+  "elo_humano": "O pintor aceitou o serviço por nostalgia de família, ligada à cor, mas a razão de a cor importar e o papel do irmão ficam sem sustentação.",
+  "parafrase_concreta": "Um pintor aceitou o serviço porque o branco do muro é igual ao da casa onde o irmão nasceu em Recife.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "'o irmão'", "leitura_A": "Irmão do pintor", "leitura_B": "Irmão do dono do muro ou de outra pessoa não citada"}
+  ],
+  "associacao_mais_comum": "Muro pintado para cobrir pichação ou memória; apagamento.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O motivo íntimo e regional do pintor, mas não amarrado a nada visível além de 'branco'.",
+  "evidencias_positivas": ["E5"],
+  "defeitos_demonstrados": [
+    {"categoria": "relacao_narrativa_insuficiente", "trecho": "aceitou o serviço porque a cor é a mesma da casa onde o irmão nasceu em Recife", "demonstracao": "O 'porque' liga o aceite ao branco, que é a cor mais genérica possível, e o irmão aparece sem relação com o pintor; o leitor não consegue completar por que essa coincidência pesaria e de quem é a memória.", "gravidade": "corrigivel"}
+  ],
+  "observacoes_descartadas": [
+    {"observacao": "Não sabemos onde o irmão está hoje.", "motivo": "Omissão legítima; o defeito é o elo do aceite, não a ausência desse dado."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O elo entre o branco do muro e o aceite do serviço ('porque a cor é a mesma da casa onde o irmão nasceu') exige esforço inventivo, e 'o irmão' fica sem dono claro. A ideia sobrevive a um ajuste pontual de formulação.",
+  "instrucao_de_revisao": "Defeito: relacao_narrativa_insuficiente, em 'aceitou o serviço porque a cor é a mesma da casa onde o irmão nasceu em Recife' (o elo entre a cor e o aceite fica implícito demais e 'o irmão' não tem dono claro). Mudar: reformular apenas o FORA para deixar legível de quem é o irmão (relação com o pintor) e por que aquele branco pesou no aceite, sem acrescentar fatos novos além dessa relação. NÃO pode mudar: o núcleo narrativo (o pintor aceita o serviço por causa da memória ligada à cor da casa em Recife), o acontecimento central, o muro branco da foto e o NA FOTO.",
+  "nota": 40
+ },
+ {
+  "codigo": "R04",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhum identificável: o banco vazio não ganha leitura nova com o FORA.",
+  "elo_humano": "Não existe: o motorista virar pescador não leva a ela usar botas amarelas sem uma história inventada pelo leitor.",
+  "parafrase_concreta": "Uma mulher usa botas amarelas porque o motorista do ônibus virou pescador (o nexo não é recuperável).",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "'ela'", "leitura_A": "Passageira que esperava no ponto", "leitura_B": "Qualquer mulher não apresentada no NA FOTO ou no texto"}
+  ],
+  "associacao_mais_comum": "Alguém que esperava no ponto não vem mais; espera por quem não chega.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "revelacao_arbitraria", "trecho": "por isso ela agora usa botas amarelas", "demonstracao": "'Por isso' liga duas coisas sem nexo humano visível; o leitor teria de inventar a relação entre motorista, pesca e botas, e 'ela' não tem antecedente.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["revelacao_arbitraria"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O 'por isso ela agora usa botas amarelas' não tem nexo recuperável com o motorista que virou pescador, e 'ela' não tem antecedente. A ligação precisa ser inventada pelo leitor.",
+  "nota": 10
+ },
+ {
+  "codigo": "R05",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "A segunda xícara fria. Leitura inicial: café esquecido. Passa a ser: xícara servida diariamente para alguém ausente, retirada só depois que a primeira acaba.",
+  "elo_humano": "Ela serve duas xícaras por hábito de quem já não está, e espera a sua terminar para recolher a outra.",
+  "parafrase_concreta": "Uma mulher serve duas xícaras de café todo dia e só retira a segunda quando termina a sua.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Xícara servida para quem morreu ou partiu, por hábito.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O único dado próprio é recolher a segunda xícara só quando a primeira acaba; falta quem é o ausente ou qualquer traço da pessoa.",
+  "evidencias_positivas": ["E2", "E3", "E4"],
+  "defeitos_demonstrados": [
+    {"categoria": "cliche_efetivo", "trecho": "Ela sempre serve duas. A segunda esfria, e só é retirada quando a primeira acaba.", "demonstracao": "As três previsões (confiança alta) chegaram ao mesmo ponto: serve-se para o ausente. O texto repete essa associação e só acrescenta o detalhe do recolhimento, sem nenhum traço específico do ausente ou da relação; a foto (uma fumegando, outra fria) já entrega quase tudo.", "gravidade": "corrigivel"}
+  ],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz quem é o ausente.", "motivo": "Omissão legítima; o problema é a falta de um detalhe específico, não a omissão em si."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O FORA confirma a associação mais comum da cena (serve-se para o ausente), e só o detalhe 'só é retirada quando a primeira acaba' é próprio. Falta um traço específico que transforme a leitura.",
+  "instrucao_de_revisao": "Defeito: cliche_efetivo, em 'Ela sempre serve duas. A segunda esfria...' (o FORA entrega a associação mais comum e a foto já mostra o par fumegando/frio). Mudar: acrescentar no FORA um único detalhe concreto e específico do hábito ou da pessoa ausente (por exemplo, como o ausente tomava o café ou o que ela faz ao recolher a xícara), mantendo o gesto de servir duas e recolher a segunda depois da primeira. NÃO pode mudar: o núcleo narrativo (ela serve duas xícaras todo dia por quem não está), o acontecimento central, a foto e o NA FOTO.",
+  "nota": 42
+ },
+ {
+  "codigo": "R06",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "As etiquetas. Leitura inicial: organização caprichosa de quem é metódico. Passa a ser: andaime de memória de alguém que começou a esquecer onde guardava as coisas.",
+  "elo_humano": "Quem esquece onde guarda as coisas escreve a etiqueta em cada gaveta para não se perder na própria oficina.",
+  "parafrase_concreta": "Um homem etiquetou as gavetas da caixa de ferramentas depois que começou a esquecer onde guardava as coisas.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Objetos de um pai ou avô idoso ou falecido, preservados pela família.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "A ordem cuidadosa da caixa é, na verdade, o rastro datado do início do esquecimento (as etiquetas só apareceram depois).",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "Os leitores previram tremor ou perda de memória.", "motivo": "O texto confirma, mas a transformação (zelo que na verdade registra perda) é do texto, e os leitores acrescentaram um fim que o texto não traz (a família mantém a caixa)."},
+    {"observacao": "'A letra é a dele' repete em parte a letra trêmula do conceito.", "motivo": "Redundância mínima; a frase atribui autoria, que a foto não dá."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "As etiquetas deixam de ser capricho e passam a ser rastro do esquecimento ('só apareceram depois do ano em que começou a esquecer'), o que faz o leitor rever a letra e a ordem da caixa. O fato é concreto, sem emoção nomeada.",
+  "nota": 78
+ },
+ {
+  "codigo": "R07",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "O sábado riscado. Leitura inicial: visita que não ocorreu. Passa a ser: sábado de futebol com o filho em que ele perdeu 'de propósito'.",
+  "elo_humano": "Pai e filho jogam futebol aos sábados e um dia o pai fez algo de propósito que o calendário marca, mas não se sabe o quê.",
+  "parafrase_concreta": "Um pai circula os sábados de futebol com o filho e riscou aquele em que 'perdeu de propósito', sem que se saiba se perdeu a partida ou o dia.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "'perdeu de propósito'", "leitura_A": "Deixou o filho ganhar a partida", "leitura_B": "Faltou ao sábado de propósito"}
+  ],
+  "associacao_mais_comum": "Dias de visita a alguém internado, preso ou distante; dia em que a visita falhou.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "Pai que cede ao filho (ou se afasta dele) com marca no calendário; o gesto é específico, mas o sentido depende de qual leitura vale.",
+  "evidencias_positivas": ["E5"],
+  "defeitos_demonstrados": [
+    {"categoria": "ambiguidade_prejudicial", "trecho": "O riscado foi o dia em que ele perdeu de propósito.", "demonstracao": "Em A, perder a partida de propósito não explica por que o dia seria riscado no calendário; em B, faltar de propósito muda a história para afastamento. As duas leituras são incompatíveis e mudam o sentido da revelação.", "gravidade": "corrigivel"}
+  ],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz por que ele perdeu de propósito.", "motivo": "Omissão legítima se a leitura estiver clara; o defeito é a dupla leitura do verbo, não a ausência do motivo."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "'Perdeu de propósito' admite duas leituras incompatíveis (perder a partida ou perder o dia) e o risco no calendário só se explica numa delas. A ideia (sábados de futebol com o filho, um deles marcado) sobrevive a um ajuste de formulação.",
+  "instrucao_de_revisao": "Defeito: ambiguidade_prejudicial, em 'O riscado foi o dia em que ele perdeu de propósito' ('perdeu' pode ser perder a partida ou perder o dia). Mudar: reformular apenas esse trecho do FORA para que exista uma única leitura, mantendo a que o Criador pretendia e tornando coerente a razão de o dia estar riscado. NÃO pode mudar: o núcleo narrativo (sábados de futebol com o filho, um deles riscado), o acontecimento central de o pai ter feito algo de propósito naquele sábado, a foto e o NA FOTO.",
+  "nota": 46
+ },
+ {
+  "codigo": "R08",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A caneca no escorredor. Leitura inicial: caneca da avó falecida, guardada. Passa a ser: caneca sem origem lembrada que a neta usa às escondidas, e que, por estar no escorredor, acabou de ser lavada.",
+  "elo_humano": "A neta se apega a um objeto que ninguém sabe de onde veio e esconde o apego dos outros.",
+  "parafrase_concreta": "Ninguém lembra quem deu a caneca com VÓ, e a neta só toma café nela quando acha que ninguém está olhando.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Caneca da avó falecida, usada pela neta para sentir a presença dela.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O apego é secreto e o objeto não tem história lembrada, então a ternura vive no gesto escondido e não na memória da avó.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz por que a neta esconde o hábito.", "motivo": "Omissão legítima: pudor com a própria emoção é leitura natural e completa."},
+    {"observacao": "As previsões deram a associação comum (avó falecida, uso diário).", "motivo": "Capturar a associação comum não é defeito; o texto troca o uso aberto por uso escondido e tira a avó do centro."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A caneca deixa de ser relíquia da avó e vira objeto sem origem usado em segredo ('só toma café nela quando acha que ninguém está olhando'), e o escorredor passa a indicar uso recente. Fato concreto, sem emoção nomeada.",
+  "nota": 76
+ },
+ {
+  "codigo": "R09",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhum: a frase é uma sentença geral que independe da foto.",
+  "elo_humano": "Não há fato humano; só uma generalização sobre estradas e vontade.",
+  "parafrase_concreta": "Impossível: não há situação humana concreta, só abstração.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Estrada de quem partiu e não voltou.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "sentimentalismo_moralismo", "trecho": "Toda estrada termina onde a vontade de seguir já passou.", "demonstracao": "É um aforismo sem fato, pessoa ou situação; serviria para qualquer estrada.", "gravidade": "estrutural"},
+    {"categoria": "obscuridade", "trecho": "Toda estrada termina onde a vontade de seguir já passou.", "demonstracao": "Nenhuma paráfrase concreta é possível.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["sentimentalismo_moralismo", "obscuridade"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA é um aforismo sem fato ('Toda estrada termina onde a vontade de seguir já passou') e não reconfigura nada na foto. Não há paráfrase concreta nem segunda leitura.",
+  "nota": 5
+ },
+ {
+  "codigo": "R10",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhum identificável: a cesta de pães não ganha leitura nova.",
+  "elo_humano": "Não existe: o filho ter aprendido violino em Lisboa não explica por que a padeira assa só às terças sem inventar a razão.",
+  "parafrase_concreta": "Uma padeira assa só às terças porque o filho aprendeu violino em Lisboa (o nexo não é recuperável).",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Padaria prestes a fechar ou pão do dia anterior destinado a quem precisa.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "revelacao_arbitraria", "trecho": "A padeira só assa nas terças porque o filho dela aprendeu violino em Lisboa.", "demonstracao": "O 'porque' liga a frequência da fornada a um fato do filho sem nexo; o 'aprendeu' (passado) nem indica sacrifício ou envio de dinheiro. O leitor teria de inventar a história.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["revelacao_arbitraria"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "A ligação entre assar só nas terças e o filho ter aprendido violino em Lisboa precisa ser inventada pelo leitor. Corrigir exigiria outra história.",
+  "nota": 10
+ },
+ {
+  "codigo": "R11",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhum: o FORA generaliza sobre esquecimentos e ignora a cena.",
+  "elo_humano": "Não há fato; só uma tese sentimental.",
+  "parafrase_concreta": "Impossível: não há situação concreta, só aforismo.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Guarda-chuva esquecido por alguém que nunca voltou.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "sentimentalismo_moralismo", "trecho": "Alguns esquecimentos são o jeito que o coração encontra de deixar alguém voltar.", "demonstracao": "Aforismo com personificação ('o coração'), sem pessoa, ato ou detalhe do guarda-chuva.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["sentimentalismo_moralismo"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA é um aforismo sentimental ('o jeito que o coração encontra de deixar alguém voltar') sem fato concreto e sem relação com o guarda-chuva da foto.",
+  "nota": 6
+ },
+ {
+  "codigo": "R12",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "O preço riscado e reescrito. Leitura inicial: feirante apertado, liquidando. Passa a ser: gentileza combinada em silêncio entre feirante e freguesa, com pretexto mútuo.",
+  "elo_humano": "Ele dá desconto a uma freguesa de sempre sob o pretexto de que as laranjas passaram do ponto, e ela finge acreditar para preservar a dignidade dos dois.",
+  "parafrase_concreta": "Um feirante baixa o preço para a freguesa de sempre alegando que as laranjas passaram do ponto, e ela finge acreditar.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "sujeito de 'diz que passaram do ponto' (compartilhado com 'baixa' ou com 'a freguesa passa')", "leitura_A": "O feirante diz que as laranjas passaram do ponto, e a freguesa finge acreditar (gentileza velada dele)", "leitura_B": "A freguesa diz que as laranjas passaram do ponto para obter o desconto, e então não se entende o que 'ela finge acreditar'"}
+  ],
+  "associacao_mais_comum": "Feirante baixa o preço porque as vendas caíram ou a fruta está passando.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "Troca de pretextos entre feirante e freguesa que transforma o desconto em gentileza combinada.",
+  "evidencias_positivas": ["E1", "E2", "E4", "E5"],
+  "defeitos_demonstrados": [
+    {"categoria": "ambiguidade_prejudicial", "trecho": "Ele baixa o preço quando a freguesa de sempre passa e diz que passaram do ponto. Ela finge acreditar.", "demonstracao": "'diz' pode ter como sujeito 'a freguesa' (mais próxima) ou 'ele'; em A o pretexto é do feirante, em B a freguesa pede desconto e 'ela finge acreditar' perde objeto. O sentido da gentileza muda.", "gravidade": "corrigivel"}
+  ],
+  "observacoes_descartadas": [
+    {"observacao": "As previsões deram a leitura comum (vendas fracas), nenhuma capturou a freguesa.", "motivo": "Foto aberta, mérito da proposta, não defeito."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "A ideia do desconto-pretexto aceito em silêncio é humana e específica, mas o sujeito de 'diz que passaram do ponto' é ambíguo e inverte quem dá o pretexto. A correção é pontual na redação.",
+  "instrucao_de_revisao": "Defeito: ambiguidade_prejudicial, em 'Ele baixa o preço quando a freguesa de sempre passa e diz que passaram do ponto' (o sujeito de 'diz' pode ser ele ou a freguesa). Mudar: reformular apenas essa frase do FORA para que fique inequívoco quem alega que as laranjas passaram do ponto e quem finge acreditar. NÃO pode mudar: o núcleo narrativo (desconto dado à freguesa de sempre sob um pretexto que os dois fingem aceitar), o acontecimento central, a foto e o NA FOTO.",
+  "nota": 60
+ },
+ {
+  "codigo": "R13",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "As saídas idênticas. Leitura inicial: ponto adulterado ou horas extras ocultas. Passa a ser: pai que sai pontualmente às 17h30 desde o nascimento do filho, com a tolerância silenciosa do chefe.",
+  "elo_humano": "Ele cumpre o mesmo horário todos os dias para chegar ao filho e o chefe permite fingindo não ver.",
+  "parafrase_concreta": "Um funcionário sai às cinco e meia todos os dias desde que o filho nasceu e o chefe finge não reparar.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Fraude no ponto ou exploração com horas extras escondidas.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "A regularidade do cartão passa de suspeita a prova de devoção, e há uma cumplicidade silenciosa do chefe.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz qual é o horário contratual.", "motivo": "Omissão legítima: 'finge que não repara' já sugere que o horário excede 17h30."},
+    {"observacao": "Saídas no mesmo minuto é exagero.", "motivo": "Hipótese sem demonstração; o cartão da foto já mostra o fato."},
+    {"observacao": "As previsões leram fraude.", "motivo": "Foto aberta; o texto reconfigura a leitura."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O cartão que parecia adulterado vira registro de um pai que sai às cinco e meia desde que o filho nasceu, com o chefe fingindo não ver. A cena e a revelação se ligam sem esforço e sem emoção nomeada.",
+  "nota": 72
+ },
+ {
+  "codigo": "R14",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 3,
+  "elemento_que_muda": "Nenhum: o FORA repete o que a foto e as previsões já dão (cadeira vazia de quem se foi).",
+  "elo_humano": "Já está dado pela foto; o texto só acrescenta personificação.",
+  "parafrase_concreta": "A família continua pondo a mesa para alguém que não está mais lá.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Cadeira vazia de quem morreu ou partiu, mesa posta por saudade.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "sentimentalismo_moralismo", "trecho": "A saudade senta ali todo dia, e o amor continua servindo o prato dela.", "demonstracao": "Personifica 'a saudade' e 'o amor' e nomeia a emoção sem fato concreto.", "gravidade": "estrutural"},
+    {"categoria": "cliche_efetivo", "trecho": "o amor continua servindo o prato dela", "demonstracao": "As três previsões, todas de confiança alta e idênticas, chegaram ao mesmo ponto; o texto não traz traço específico.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["sentimentalismo_moralismo", "cliche_efetivo"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA nomeia a emoção ('a saudade senta ali', 'o amor continua servindo') e entrega a associação mais comum da cena sem nenhum detalhe próprio. Não há segunda leitura.",
+  "nota": 6
+ },
+ {
+  "codigo": "R15",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "A fita crepe na tecla. Leitura inicial: tecla quebrada ou desafinada, abandono. Passa a ser: marca de proteção feita por ele para preservar a nota que ela tocava errada de propósito.",
+  "elo_humano": "Ele cobre a tecla para que ninguém conserte a nota que era marca dela.",
+  "parafrase_concreta": "Uma mulher tocava de propósito uma nota fora do tom e o marido cobriu a tecla com fita para ninguém consertá-la.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Tecla quebrada; o pianista morreu ou parou de tocar e ninguém conserta.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "A imperfeição é preservada como assinatura de quem se amou, e o amor aparece como proteção de um defeito.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz que ela morreu ou partiu.", "motivo": "Implícito legítimo no 'tocava' e na fita."},
+    {"observacao": "A fita protegeria a nota apenas como sinal de 'não mexer'.", "motivo": "Hipótese sem demonstração; a função de marca é compreensível pelo texto."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A fita deixa de ser sinal de defeito e passa a ser proteção afetuosa de uma nota errada que era marca dela ('A fita foi ideia dele, para que ninguém a corrigisse'). Fato concreto, elo claro, nenhuma previsão chegou perto.",
+  "nota": 82
+ },
+ {
+  "codigo": "R16",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "O par de sapatos trocado de pé. Leitura inicial: erro de criança que acabou de aprender a se calçar. Passa a ser: marca recorrente de Davi, tolerada pela professora como jeito de dizer que chegou.",
+  "elo_humano": "A professora lê o par trocado como assinatura de Davi e por isso nunca corrige.",
+  "parafrase_concreta": "Todo dia o par de Davi aparece trocado de pé e a professora não corrige, porque é o jeito dele de dizer que chegou.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Criança que acabou de aprender a se calçar sozinha e a professora deixa por orgulho dela.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O erro vira linguagem de um aluno específico, nomeado, e a professora o respeita.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "'É o jeito do Davi dizer que chegou' é interpretativo.", "motivo": "Sem peso: é a leitura de quem convive com o aluno, ancorada no fato repetido ('sempre trocado'), e não nomeia emoção."},
+    {"observacao": "Não se diz se Davi troca de propósito.", "motivo": "Omissão legítima; o texto atribui o sentido à leitura da professora."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O par trocado deixa de ser descuido e vira assinatura de Davi que a professora preserva ('nunca corrige: é o jeito do Davi dizer que chegou'), o que faz o leitor voltar ao par torto da foto. Situação plausível, ancorada em fato repetido.",
+  "nota": 70
+ },
+ {
+  "codigo": "R17",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhum: o FORA é uma tese moral sobre telas e ignora a cena.",
+  "elo_humano": "Inexistente: não há pessoa, ato ou momento.",
+  "parafrase_concreta": "Impossível: é um sermão genérico sem situação concreta.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+    {"referencia": "'Vivemos' e 'quem amamos'", "leitura_A": "Humanidade em geral", "leitura_B": "Narrador e seu círculo íntimo"}
+  ],
+  "associacao_mais_comum": "Celular quebrado após ligação com má notícia, ou crítica ao vício em telas.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "sentimentalismo_moralismo", "trecho": "Vivemos tão presos às telas que esquecemos de olhar nos olhos de quem amamos.", "demonstracao": "É moralismo e autoajuda sem fato; a tela rachada da foto nem é explorada.", "gravidade": "estrutural"},
+    {"categoria": "cliche_efetivo", "trecho": "Vivemos tão presos às telas", "demonstracao": "É a crítica mais comum a celulares, sem perspectiva própria.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["sentimentalismo_moralismo", "cliche_efetivo"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA é um sermão sobre telas ('esquecemos de olhar nos olhos de quem amamos') sem fato nem relação com a rachadura da foto. É moralismo e lugar-comum.",
+  "nota": 4
+ },
+ {
+  "codigo": "R18",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 1,
+  "elemento_que_muda": "As duas metades do pão. Leitura inicial: pão partido para dois, um que sobrou. Passa a ser: troca silenciosa da metade maior entre os dois, cada um a oferecer ao outro.",
+  "elo_humano": "Cada um quer que o outro fique com a metade maior e o gesto se repete sem palavras.",
+  "parafrase_concreta": "Ele deu a metade maior do pão a ela, ela devolveu a ele, e ele não disse nada.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Pão dividido entre dois, e agora um come sozinho porque o outro se foi.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "Generosidade mútua em forma de ritual silencioso à mesa.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz com quem terminou a metade maior.", "motivo": "Omissão legítima; o fecho em 'não disse nada' sugere aceitação silenciosa."},
+    {"observacao": "A foto não mostra metades desiguais.", "motivo": "Hipótese sem demonstração de contradição; a diferença pode ser sutil."},
+    {"observacao": "Cadeia de relativas 'que a deu a ele, que não disse nada'.", "motivo": "Sem leitura incompatível: cada 'que' liga ao antecedente imediato."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O pão partido ganha um gesto de duas pessoas que se oferecem a metade maior ('Ele deu a metade maior a ela, que a deu a ele'), com fecho silencioso. É a candidata aprovada de menor margem: o ganho de segunda leitura é modesto.",
+  "nota": 60
+ },
+ {
+  "codigo": "R19",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Nenhum: o FORA descreve o que a foto já mostra.",
+  "elo_humano": "Inexistente: nenhuma pessoa nem motivo.",
+  "parafrase_concreta": "Um copo está pela metade, o que já se via; nenhuma situação humana é acrescentada.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Copo deixado por alguém que saiu às pressas ou morreu.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "redundancia", "trecho": "Metade da água foi bebida e a outra metade ficou ali.", "demonstracao": "Repete integralmente o NA FOTO ('copo de água pela metade') e a foto, sem acrescentar fato.", "gravidade": "estrutural"},
+    {"categoria": "perda_segunda_leitura", "trecho": "esperando que alguém a bebesse", "demonstracao": "Não há nada a rever na foto depois da leitura; é tautologia com leve personificação.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["redundancia", "perda_segunda_leitura"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA apenas reconta a foto ('Metade da água foi bebida e a outra metade ficou ali') e não oferece revelação. É redundância integral.",
+  "nota": 3
+ },
+ {
+  "codigo": "R20",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 2,
+  "elemento_que_muda": "A rodinha que falta. Leitura inicial: bicicleta quebrada ou desfalcada. Passa a ser: marca do dia em que a criança decidiu dispensar o apoio, e o pai guardou o que sobrou.",
+  "elo_humano": "A filha dispensou o apoio e o pai guarda a rodinha que restou, sem querer encerrar a fase.",
+  "parafrase_concreta": "A filha dispensou as rodinhas numa semana em que uma delas sumiu, e o pai guardou a que sobrou.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Criança que cresceu e o pai guarda a bicicleta por nostalgia.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O detalhe de a outra rodinha ter 'sumido' na semana em que ela decidiu que não precisava e de ele guardar só a que sobrou, ligando a perda do objeto à autonomia dela.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "'a que sobrou' poderia ser a bicicleta ou a rodinha.", "motivo": "O paralelo com 'A outra' fixa a leitura como rodinha, e a ideia sobrevive nas duas."},
+    {"observacao": "Duas previsões chegaram perto.", "motivo": "Familiaridade não é clichê: o texto traz o detalhe específico do sumiço e da guarda."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "A rodinha que falta passa de defeito a marca da autonomia da filha, e o pai guarda a que sobrou. A associação comum aparece, mas com detalhe específico ('sumiu na semana em que ela decidiu que não precisava').",
+  "nota": 68
+ },
+ {
+  "codigo": "R21",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "O segundo toque. Leitura inicial: telefone antigo em desuso. Passa a ser: ele deixa o primeiro toque para ela, que já não atende.",
+  "elo_humano": "Ele deixa o primeiro toque, o dela, passar sem atender, como se ela ainda fosse atender.",
+  "parafrase_concreta": "Ele só atende no segundo toque, porque o primeiro era o dela (a lógica dos toques não está clara).",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [
+    {"referencia": "'o primeiro era dela e o outro dele'", "leitura_A": "Ele reserva o primeiro toque para ela, que já não está", "leitura_B": "Os dois sempre atendiam em toques alternados e nada mudou"}
+  ],
+  "associacao_mais_comum": "Telefone fixo esperando ligação de quem partiu.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "A ausência vive como hábito de contagem de toques, gesto preciso e íntimo.",
+  "evidencias_positivas": ["E1", "E5"],
+  "defeitos_demonstrados": [
+    {"categoria": "ambiguidade_prejudicial", "trecho": "Ele só atende no segundo toque, porque o primeiro era dela e o outro dele.", "demonstracao": "'o outro dele' sugere que o segundo toque já era o habitual dele, o que desfaz o gesto de reservar o primeiro para ela; nas duas leituras o que mudou depois da ausência fica incompatível.", "gravidade": "corrigivel"}
+  ],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz que ela partiu.", "motivo": "Implícito legítimo no tempo verbal."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "REVISAR",
+  "justificativa_objetiva": "O hábito de deixar o primeiro toque para ela é específico e humano, mas 'o outro dele' confunde a lógica e permite ler que nada mudou. A correção é pontual na formulação.",
+  "instrucao_de_revisao": "Defeito: ambiguidade_prejudicial, em 'o primeiro era dela e o outro dele' (não fica claro se ele deixa o primeiro toque para ela ou se os toques já eram alternados). Mudar: reformular apenas essa frase do FORA para que fique claro que o primeiro toque seguiu sendo o dela e ele só atende depois. NÃO pode mudar: o núcleo narrativo (ele só atende no segundo toque por causa dela), o acontecimento central, a foto e o NA FOTO.",
+  "nota": 58
+ },
+ {
+  "codigo": "R22",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 2,
+  "elemento_que_muda": "Nenhum: o FORA personifica o tempo e repete a leitura de relógio parado.",
+  "elo_humano": "Não há pessoa nem fato, só metáfora.",
+  "parafrase_concreta": "Impossível sem inventar: não há situação concreta, só uma imagem sobre tempo e espera.",
+  "nomeia_emocao_sem_fato": true,
+  "ambiguidades": [
+    {"referencia": "'quem ficou esperando'", "leitura_A": "Alguém que mora na casa", "leitura_B": "A pessoa que partiu"}
+  ],
+  "associacao_mais_comum": "Relógio parado na hora de uma morte ou partida.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "nenhuma",
+  "evidencias_positivas": [],
+  "defeitos_demonstrados": [
+    {"categoria": "sentimentalismo_moralismo", "trecho": "O tempo não espera ninguém, mas ali ele parou para quem ficou esperando.", "demonstracao": "Aforismo com personificação do tempo, sem fato concreto.", "gravidade": "estrutural"},
+    {"categoria": "cliche_efetivo", "trecho": "ali ele parou para quem ficou esperando", "demonstracao": "É a associação mais comum do relógio parado, sem traço próprio.", "gravidade": "estrutural"}
+  ],
+  "observacoes_descartadas": [],
+  "eliminatorias": ["sentimentalismo_moralismo", "cliche_efetivo"],
+  "veredicto": "REPROVADA",
+  "justificativa_objetiva": "O FORA é um aforismo ('O tempo não espera ninguém, mas ali ele parou') que entrega a associação comum do relógio parado sem fato concreto.",
+  "nota": 6
+ },
+ {
+  "codigo": "R23",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 2,
+  "elemento_que_muda": "O prato emborcado. Leitura inicial: sobra guardada de uma noite. Passa a ser: vigília de trinta anos, em que ela o esquenta de novo toda vez que ouve o portão.",
+  "elo_humano": "Ela fica atenta ao portão todas as noites para esquentar o prato no momento em que ele chega.",
+  "parafrase_concreta": "Há trinta anos ele volta tarde e ela esquenta de novo o prato toda vez que ouve o portão.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Prato guardado por quem espera o outro chegar do trabalho.",
+  "e_a_associacao_mais_comum": true,
+  "perspectiva_especifica": "O gesto de esquentar o prato ao som do portão e a duração de trinta anos tornam a espera um ofício diário e atento.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "'O prato nunca esfria' pareceria contradizer a foto do prato na mesa.", "motivo": "Hipótese sem demonstração: o texto esclarece que ela o reaquece ao ouvir o portão."},
+    {"observacao": "Duas previsões chegaram perto.", "motivo": "Associação comum com detalhe específico não é clichê efetivo."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O prato guardado vira trinta anos de espera atenta, com o gesto concreto de reaquecer ao ouvir o portão. A associação é comum, mas o detalhe ('esquenta de novo toda vez que ouve o portão') é específico.",
+  "nota": 66
+ },
+ {
+  "codigo": "R24",
+  "versao_criterio": "v2.2",
+  "previsoes_que_capturaram": 0,
+  "elemento_que_muda": "Os ponteiros parados às 4h10. Leitura inicial: relógio parado na hora de uma morte. Passa a ser: a hora em que o pai saía para a padaria, que o corpo dela ainda guarda.",
+  "elo_humano": "A filha cresceu ouvindo o pai sair às 4h10 e aos quarenta anos acorda nessa hora sem alarme.",
+  "parafrase_concreta": "O pai saía às 4h10 para a padaria e a filha, aos quarenta anos, ainda acorda nesse horário sem alarme.",
+  "nomeia_emocao_sem_fato": false,
+  "ambiguidades": [],
+  "associacao_mais_comum": "Relógio parado na hora de uma morte, e ninguém mais dá corda.",
+  "e_a_associacao_mais_comum": false,
+  "perspectiva_especifica": "O relógio parado deixa de ser luto e passa a ser um hábito do corpo herdado do pai, com a ironia de o despertador ser dispensável.",
+  "evidencias_positivas": ["E1", "E2", "E3", "E4", "E5"],
+  "defeitos_demonstrados": [],
+  "observacoes_descartadas": [
+    {"observacao": "Não se diz por que o despertador parou às 4h10.", "motivo": "Omissão legítima: o texto trata o horário como marca de hábito, não de causa."},
+    {"observacao": "Não se diz que o pai morreu.", "motivo": "Implícito legítimo no 'Era' e no 'ainda'."}
+  ],
+  "eliminatorias": [],
+  "veredicto": "APROVADA",
+  "justificativa_objetiva": "O relógio parado, que pedia a leitura de luto, vira marca de um hábito herdado ('ainda acorda nesse horário sem alarme'), e o despertador inútil reforça a volta à foto. Fato concreto, nenhuma previsão chegou à revelação.",
+  "nota": 82
+ }
+]

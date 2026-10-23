@@ -26,7 +26,7 @@ Não toca: fila/, publicadas/, fila-eri/, fila-threads/, frases/, scripts/, agen
 - calibracao/revisao_fase_a/: ciclo REVISAR de J01 e J15, análise de J06, auditoria das reprovações e relatorio_revisao.md.
 - prompts/auditor_logico.md e calibracao/auditor_logico/: Auditor Lógico v1 (somente testes), protocolo, resultados e relatório.
 - calibracao/revisao_fase_a/proposta_regra_revisar.md e decisoes_externas_3.json: proposta mínima da regra A/B/C (não implementada).
-- prompts/critico_v2_2.md e calibracao/v2_2/: Crítico v2.2 EXPERIMENTAL (não homologado), alterações, protocolo de validação e conjunto inédito (aguardando rótulos externos).
+- prompts/critico_v2_2.md e calibracao/v2_2/: Crítico v2.2 EXPERIMENTAL (não homologado), alterações, protocolo de validação e conjunto inédito (validado; ver relatorio_validacao_v2_2.md).
 - REVISAR nunca segue para imagem. Volta ao Criador (até 2 ciclos) e é reavaliado em contexto limpo.
 
 ## Estados do registro

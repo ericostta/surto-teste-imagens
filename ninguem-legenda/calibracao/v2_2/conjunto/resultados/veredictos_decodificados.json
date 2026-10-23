@@ -1,0 +1,266 @@
+{
+ "Q01": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q02": {
+  "v22_run1": {
+   "veredicto": "REVISAR"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q03": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q04": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q05": {
+  "v22_run1": {
+   "veredicto": "REVISAR"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q06": {
+  "v22_run1": {
+   "veredicto": "APROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q07": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q08": {
+  "v22_run1": {
+   "veredicto": "REVISAR"
+  },
+  "v22_run2": {
+   "veredicto": "REVISAR"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q09": {
+  "v22_run1": {
+   "veredicto": "APROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q10": {
+  "v22_run1": {
+   "veredicto": "APROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "APROVADA"
+  }
+ },
+ "Q11": {
+  "v22_run1": {
+   "veredicto": "APROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "APROVADA"
+  }
+ },
+ "Q12": {
+  "v22_run1": {
+   "veredicto": "APROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q13": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q14": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q15": {
+  "v22_run1": {
+   "veredicto": "REVISAR"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q16": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q17": {
+  "v22_run1": {
+   "veredicto": "APROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REVISAR"
+  },
+  "v21_controle": {
+   "veredicto": "APROVADA"
+  }
+ },
+ "Q18": {
+  "v22_run1": {
+   "veredicto": "REVISAR"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "APROVADA"
+  }
+ },
+ "Q19": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q20": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REPROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q21": {
+  "v22_run1": {
+   "veredicto": "REVISAR"
+  },
+  "v22_run2": {
+   "veredicto": "REVISAR"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q22": {
+  "v22_run1": {
+   "veredicto": "APROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "APROVADA"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ },
+ "Q23": {
+  "v22_run1": {
+   "veredicto": "REPROVADA"
+  },
+  "v22_run2": {
+   "veredicto": "REVISAR"
+  },
+  "v21_controle": {
+   "veredicto": "REPROVADA"
+  }
+ },
+ "Q24": {
+  "v22_run1": {
+   "veredicto": "REVISAR"
+  },
+  "v22_run2": {
+   "veredicto": "REVISAR"
+  },
+  "v21_controle": {
+   "veredicto": "REVISAR"
+  }
+ }
+}

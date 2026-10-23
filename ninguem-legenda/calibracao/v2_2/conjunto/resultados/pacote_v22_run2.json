@@ -1,0 +1,522 @@
+{
+ "textos_anteriores": [
+  "Uma cadeira de escritório nova, ainda com o plástico. A primeira que ele escolheu sem olhar o preço antes.",
+  "Um crachá de visitante preso na camisa. Terceiro ano nesta empresa, e o cadastro de funcionário ainda não saiu.",
+  "Uma marmita aberta sobre o capô de um carro. Ela atravessou a cidade de ônibus só para ver se ele tinha comido.",
+  "Uma planta perfeita no parapeito da janela. É a quarta. As três primeiras foram enterradas no mesmo vaso, em segredo.",
+  "Uma cama de solteiro bem arrumada, lençol esticado. A primeira semana em que dormir sozinho deixou de parecer castigo.",
+  "Uma mala fechada, pronta ao lado da porta. Está assim há dois anos. Ele gosta de saber que poderia ir.",
+  "Uma fila longa diante de um balcão. Metade está ali só porque achou que a outra metade sabia o motivo.",
+  "Uma mesa de Natal farta, vista de cima. A mão que segura o celular é a única que nunca sai nas fotos de família.",
+  "Um relógio de pulso antigo ao lado da torneira. Ele o tira para lavar as mãos há trinta anos, igual ao pai, que nunca explicou por quê.",
+  "Duas escovas de dente no mesmo copo. A segunda foi trocada na semana em que ela decidiu ficar.",
+  "Um diploma emoldurado numa parede ainda sem pintura. Ele o pendurou antes de pintar a casa, para o caso de a coragem passar.",
+  "Uma cadeira de balanço virada para a janela. Ninguém senta nela há anos. Todo mundo contorna, como quem não quer acordar ninguém."
+ ],
+ "candidatas": [
+  {
+   "codigo": "R01",
+   "conceito_foto": "Capa de chuva amarela de criança e capa de adulto penduradas lado a lado num cabide da entrada. Nenhuma pessoa.",
+   "na_foto": "Uma capa de chuva pequena e uma grande, juntas.",
+   "fora": "A pequena já não serve há dois invernos. Ele a deixa pendurada ao lado da sua para o lugar continuar dela.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Uma das pessoas dona de uma das capas não mora mais ali, e a outra capa continua pendurada porque ninguém quer tirar.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Pai ou mãe e filho saíram juntos naquela chuva, e a capa pequena segue ali porque a criança já não cabe mais nela ou não voltou.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A capa pequena já não serve ou a criança não mora mais ali, mas a mãe ou o pai mantém as duas penduradas juntas por saudade.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R02",
+   "conceito_foto": "Dois pares de chinelos diante da porta de um quarto. Nenhuma pessoa.",
+   "na_foto": "Dois pares de chinelos na porta do quarto.",
+   "fora": "Ele a deixou quando ela voltou dele, e agora não sabe qual dos dois pediu.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Um dos pares é de alguém que não dorme mais ali, e o outro par ainda espera na porta, porque o casal se separou ou um morreu.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Um casal que dorme no mesmo quarto, ou um par de chinelos é de alguém que não mora mais ali e permanece à porta.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Um dos pares é de alguém que já não mora ali ou morreu, e os chinelos continuam na porta porque ninguém consegue tirá-los.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R03",
+   "conceito_foto": "Escada de pedreiro encostada num muro branco recém-pintado, balde de tinta ao lado. Nenhuma pessoa.",
+   "na_foto": "Uma escada encostada num muro recém-pintado.",
+   "fora": "O pintor aceitou o serviço porque a cor é a mesma da casa onde o irmão nasceu em Recife.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O muro foi pintado para cobrir uma pichação ou uma homenagem a alguém, apagando algo que as pessoas queriam manter.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A tinta nova cobre uma pichação ou uma marca antiga, e o muro branco esconde o que aconteceu ali.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O muro foi pintado para cobrir uma pichação, uma mensagem ou uma marca de algo que aconteceu ali, apagando um rastro que a vizinhança preferia esquecer.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R04",
+   "conceito_foto": "Banco de madeira vazio num ponto de ônibus, luz de manhã. Nenhuma pessoa.",
+   "na_foto": "Um banco vazio num ponto de ônibus.",
+   "fora": "O motorista que passava aqui virou pescador, e por isso ela agora usa botas amarelas.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O banco está vazio porque a pessoa que o ocupava todo dia, esperando o ônibus, morreu ou deixou de ir ao trabalho ou ao hospital.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Alguém esperava ali todo dia por uma pessoa que não chegou, ou que vinha e agora não vem mais.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O banco é onde alguém esperava todo dia por uma pessoa que nunca chegou, ou onde uma rotina de despedida terminou.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R05",
+   "conceito_foto": "Duas xícaras de café sobre a mesa de uma varanda, uma ainda fumegando e a outra cheia e fria. Nenhuma pessoa.",
+   "na_foto": "Duas xícaras de café na varanda.",
+   "fora": "Ela sempre serve duas. A segunda esfria, e só é retirada quando a primeira acaba.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Uma das xícaras é de quem morreu ou partiu, e o café continua sendo servido para essa pessoa por hábito.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "Uma das xícaras é de quem se foi, e a pessoa que ficou continua preparando duas por hábito.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A segunda xícara é servida todo dia para alguém que não está mais lá, e o café esfria sem ser tomado.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R06",
+   "conceito_foto": "Caixa de ferramentas aberta sobre uma mesa, gavetas com etiquetas escritas à mão em letra trêmula. Nenhuma pessoa.",
+   "na_foto": "Uma caixa de ferramentas com etiquetas escritas à mão.",
+   "fora": "A letra é a dele. As etiquetas só apareceram depois do ano em que começou a esquecer onde guardava as coisas.",
+   "previsoes_cegas": [
+    {
+     "previsao": "As etiquetas foram escritas por um pai ou avô que tinha tremores ou perdia a memória, e a família mantém a caixa como ele deixou.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "As etiquetas foram escritas por um pai ou avô que já tinha a mão trêmula pela idade, e a família não troca por memória dele.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "As etiquetas foram escritas por um avô ou pai idoso que tem tremores ou perdeu a memória, e a letra trêmula é o que resta dele.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R07",
+   "conceito_foto": "Calendário de parede com todos os sábados circulados a caneta vermelha, um deles riscado. Nenhuma pessoa.",
+   "na_foto": "Um calendário com os sábados circulados.",
+   "fora": "São os sábados de futebol com o filho. O riscado foi o dia em que ele perdeu de propósito.",
+   "previsoes_cegas": [
+    {
+     "previsao": "Os sábados circulados são os dias de visita a alguém internado ou preso, e o sábado riscado é o dia em que a visita não aconteceu ou a pessoa morreu.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Os sábados são dias de visita a alguém, como um filho ou parente internado ou preso, e o sábado riscado foi o dia em que a visita não aconteceu.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Os sábados circulados são os dias de visita a alguém, como um filho ou um parente preso ou internado, e o sábado riscado é o dia em que a visita não aconteceu.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R08",
+   "conceito_foto": "Caneca com a palavra VÓ desbotada no esmalte, secando num escorredor ao lado de uma colher de pau. Nenhuma pessoa.",
+   "na_foto": "Uma caneca desbotada escrita VÓ no escorredor.",
+   "fora": "Ninguém lembra quem a deu. A neta só toma café nela quando acha que ninguém está olhando.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A avó que dava nome à caneca morreu, e a neta usa a caneca todos os dias para sentir a presença dela.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A caneca era da avó que morreu, e é usada todo dia pela neta ou neto para lembrar dela.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A caneca era da avó que morreu, e a neta ou o neto a usa todo dia para sentir a presença dela, mesmo com a palavra desbotando.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R09",
+   "conceito_foto": "Estrada de terra entre duas árvores secas, névoa ao fundo. Nenhuma pessoa.",
+   "na_foto": "Uma estrada de terra entre árvores secas.",
+   "fora": "Toda estrada termina onde a vontade de seguir já passou.",
+   "previsoes_cegas": [
+    {
+     "previsao": "É a estrada que alguém percorreu para ir embora e nunca voltou, e quem ficou ainda olha para ela esperando.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "Era o caminho que uma pessoa fazia todo dia até a escola ou o trabalho, e hoje ninguém mais passa por ele.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "É a estrada que leva a uma casa onde ninguém mora mais, ou por onde alguém partiu e nunca voltou, e ela segue sem ser percorrida.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R10",
+   "conceito_foto": "Cesta de pães sobre um balcão de padaria, guardanapo xadrez. Nenhuma pessoa.",
+   "na_foto": "Uma cesta de pães sobre o balcão.",
+   "fora": "A padeira só assa nas terças porque o filho dela aprendeu violino em Lisboa.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A padaria está prestes a fechar depois de décadas, e os pães do dia são os últimos que o dono assa.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "A padaria vende pão que sobrou do dia anterior, e quem vive de comprar o último da cesta é quem mais precisa.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "Os pães são do dia anterior ou sobraram, e a padaria os separa para quem não tem o que comer, uma gentileza que ninguém vê.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R11",
+   "conceito_foto": "Guarda-chuva preto esquecido num banco de praça, folhas ao redor. Nenhuma pessoa.",
+   "na_foto": "Um guarda-chuva esquecido num banco de praça.",
+   "fora": "Alguns esquecimentos são o jeito que o coração encontra de deixar alguém voltar.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O guarda-chuva foi esquecido por alguém que saiu de um encontro de despedida e nunca voltou para buscá-lo.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O guarda-chuva é de alguém que esqueceu na pressa e nunca voltou, mas ele está ali há semanas e ninguém levou.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O guarda-chuva foi esquecido de propósito ou por alguém que sofria de esquecimentos, e quem o encontra costuma deixá-lo ali esperando o dono voltar.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R12",
+   "conceito_foto": "Banca de feira com pilha de laranjas e placa escrita à mão com o preço riscado e reescrito menor. Nenhuma pessoa.",
+   "na_foto": "Uma pilha de laranjas com o preço riscado.",
+   "fora": "Ele baixa o preço quando a freguesa de sempre passa e diz que passaram do ponto. Ela finge acreditar.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O feirante baixou o preço porque as laranjas estão passando do ponto e ele precisa vender para pagar as contas do dia.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O feirante baixou o preço porque as vendas caíram e ele precisa vender tudo antes do fim do dia.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O vendedor baixou o preço porque as vendas estão fracas ou porque o dia está acabando, e a dificuldade de quem vive de feira não aparece na foto.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R13",
+   "conceito_foto": "Cartão de ponto preso a uma parede, um mês inteiro de saídas no mesmo minuto. Nenhuma pessoa.",
+   "na_foto": "Um cartão de ponto com todas as saídas iguais.",
+   "fora": "Ele sai às cinco e meia desde que o filho nasceu, e o chefe finge que não repara.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O cartão mostra um trabalhador que bate o ponto no mesmo minuto por ser maquiado, ou que está sendo explorado e saindo sempre no horário forçado, escondendo as horas extras não pagas.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O ponto foi batido por outra pessoa ou preenchido automaticamente, e a rotina de horas extras não registradas fica invisível.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O cartão foi preenchido de forma automática ou falsificada, mostrando que ninguém controla de verdade o horário, ou que a pessoa trabalha muito além do que registra.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R14",
+   "conceito_foto": "Cadeira vazia à mesa de jantar posta, velas apagadas. Nenhuma pessoa.",
+   "na_foto": "Uma cadeira vazia à mesa posta.",
+   "fora": "A saudade senta ali todo dia, e o amor continua servindo o prato dela.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A cadeira era de alguém que morreu ou foi embora, e a família continua pondo a mesa para essa pessoa todo dia.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A cadeira era de alguém que morreu ou foi embora, e a família continua pondo a mesa para essa pessoa todo dia.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "A cadeira era de alguém que morreu ou foi embora, e a família continua pondo a mesa para essa pessoa por hábito e saudade.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R15",
+   "conceito_foto": "Teclado de piano com uma tecla coberta por fita crepe amarela. Nenhuma pessoa.",
+   "na_foto": "Um piano com uma tecla coberta de fita.",
+   "fora": "Ela tocava aquela nota errada de propósito. A fita foi ideia dele, para que ninguém a corrigisse.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A tecla está coberta porque está desafinada ou quebrada, e o pianista que a tocava morreu ou parou de tocar, então ninguém conserta.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A tecla está quebrada ou desafinada e a fita foi posta por alguém que já não toca mais, e a música da casa parou.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A tecla está quebrada ou desafinada e ninguém a conserta porque quem tocava aquele piano já não toca mais.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R16",
+   "conceito_foto": "Fila de sapatos pequenos alinhados na entrada de uma sala de aula, um par calçado ao contrário. Nenhuma pessoa.",
+   "na_foto": "Sapatos de crianças alinhados na entrada da sala.",
+   "fora": "Um par está sempre trocado de pé. A professora nunca corrige: é o jeito do Davi dizer que chegou.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O par calçado ao contrário é de uma criança que acabou de aprender a se calçar sozinha, e a professora não corrige para ela sentir orgulho.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O par calçado ao contrário é de uma criança que se vestiu sozinha pela primeira vez, e a professora deixou assim por orgulho dela.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O par calçado ao contrário é de uma criança que acabou de aprender a se calçar sozinha, e a professora deixa assim para ela se orgulhar da conquista.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R17",
+   "conceito_foto": "Celular com a tela rachada caído no chão de uma sala. Nenhuma pessoa.",
+   "na_foto": "Um celular com a tela rachada no chão.",
+   "fora": "Vivemos tão presos às telas que esquecemos de olhar nos olhos de quem amamos.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O celular caiu depois de uma ligação com uma má notícia, e a pessoa que o derrubou ainda está sentada em silêncio sem recolhê-lo.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O celular caiu depois de uma ligação com uma má notícia, e a pessoa saiu sem recolhê-lo.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O celular caiu depois de uma ligação com uma notícia ruim, e a tela rachada é o momento em que a vida de alguém mudou.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R18",
+   "conceito_foto": "Pão cortado ao meio sobre uma tábua, faca ao lado. Nenhuma pessoa.",
+   "na_foto": "Um pão cortado ao meio sobre a tábua.",
+   "fora": "Ele deu a metade maior a ela, que a deu a ele, que não disse nada.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O pão foi cortado ao meio para duas pessoas, mas agora só uma come, porque a outra se foi.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O pão foi cortado por quem divide sempre com alguém, e agora corta ao meio por hábito mesmo comendo sozinho.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O pão foi cortado ao meio para dividir com alguém, mas agora só uma metade será comida porque a outra pessoa não está mais ali.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R19",
+   "conceito_foto": "Copo de água pela metade sobre uma mesa. Nenhuma pessoa.",
+   "na_foto": "Um copo de água pela metade.",
+   "fora": "Metade da água foi bebida e a outra metade ficou ali, esperando que alguém a bebesse.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O copo foi deixado por alguém que saiu às pressas ou morreu, e ninguém teve coragem de tirá-lo da mesa desde então.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O copo foi deixado por alguém que saiu às pressas, e ninguém teve coragem de recolher, de tão recente é a ausência.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O copo foi deixado assim por alguém que saiu às pressas ou não voltou, e ninguém teve coragem de mexer nele desde então.",
+     "confianca": "baixa"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R20",
+   "conceito_foto": "Bicicleta infantil com rodinhas encostada num muro, uma das rodinhas ausente. Nenhuma pessoa.",
+   "na_foto": "Uma bicicleta de criança com uma rodinha só.",
+   "fora": "A outra sumiu na semana em que ela decidiu que não precisava. Ele guardou a que sobrou.",
+   "previsoes_cegas": [
+    {
+     "previsao": "A criança cresceu ou não está mais ali, e a rodinha que falta foi tirada para ela aprender a pedalar sozinha, enquanto o pai ainda guarda a bicicleta.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A criança cresceu ou não está mais ali, e a rodinha que falta foi tirada porque ela aprendeu a andar sozinha.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "A criança cresceu e aprendeu a andar sem a rodinha, e o pai guardou a outra rodinha como lembrança de que ela já não precisa mais de apoio.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R21",
+   "conceito_foto": "Telefone fixo antigo sobre um aparador, fio enrolado. Nenhuma pessoa.",
+   "na_foto": "Um telefone fixo antigo num aparador.",
+   "fora": "Ele só atende no segundo toque, porque o primeiro era dela e o outro dele.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O telefone ainda funciona e a família mantém a linha só para o caso de alguém que partiu ligar de volta, ou porque é o número que todos sabem de cor.",
+     "confianca": "baixa"
+    },
+    {
+     "previsao": "O telefone ainda funciona e toca de vez em quando, e a família guarda por causa de quem só ligava para esse número.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O telefone ainda toca ou fica ligado porque a família espera uma ligação que nunca vem, ou porque guarda a voz de quem já morreu na secretária.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R22",
+   "conceito_foto": "Relógio de parede parado numa sala vazia, luz de tarde. Nenhuma pessoa.",
+   "na_foto": "Um relógio parado numa sala vazia.",
+   "fora": "O tempo não espera ninguém, mas ali ele parou para quem ficou esperando.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O relógio parou na hora em que alguém partiu, e a sala está vazia porque a pessoa que a ocupava morreu ou se mudou.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O relógio parou quando a pessoa que cuidava dele morreu, e a casa ficou vazia desde então.",
+     "confianca": "média"
+    },
+    {
+     "previsao": "O relógio parou há anos e ninguém trocou a pilha, porque a casa ficou vazia depois que a pessoa que cuidava dela se foi.",
+     "confianca": "média"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R23",
+   "conceito_foto": "Prato de comida coberto por outro prato emborcado sobre a mesa de uma cozinha, luz de fim de noite. Nenhuma pessoa.",
+   "na_foto": "Um prato coberto por outro sobre a mesa.",
+   "fora": "Ele volta tarde há trinta anos. O prato nunca esfria: ela o esquenta de novo toda vez que ouve o portão.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O prato foi guardado para alguém que ainda não chegou do trabalho, e quem cozinhou espera acordado todas as noites.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O prato foi guardado para alguém que chega tarde do trabalho, e quem cozinhou foi dormir sem esperar.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O prato foi deixado coberto para alguém que trabalha até tarde e chega em casa quando todos já dormem, um cuidado silencioso de quem espera.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  },
+  {
+   "codigo": "R24",
+   "conceito_foto": "Despertador antigo de corda sobre uma mesa de cabeceira, ponteiros parados às quatro e dez, luz de madrugada. Nenhuma pessoa.",
+   "na_foto": "Um despertador parado às quatro e dez.",
+   "fora": "Era a hora em que o pai saía para a padaria. Aos quarenta anos, ela ainda acorda nesse horário sem alarme.",
+   "previsoes_cegas": [
+    {
+     "previsao": "O despertador parou na hora em que alguém da casa morreu, e ninguém mais deu corda desde então.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O relógio parou na hora em que alguém da casa morreu, e ninguém dá corda para não deixar o tempo seguir.",
+     "confianca": "alta"
+    },
+    {
+     "previsao": "O despertador parou na hora em que alguém morreu ou em que algo terrível aconteceu, e a família nunca o deixou voltar a funcionar.",
+     "confianca": "alta"
+    }
+   ],
+   "filtros": "omitido neste teste"
+  }
+ ]
+}
