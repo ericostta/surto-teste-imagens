@@ -1,0 +1,20 @@
+{
+ "tipo": "SEGUNDA LEITURA EDITORIAL NÃO INDEPENDENTE",
+ "procedencia": "Realizada pelo mesmo ChatGPT que produziu os 60 rótulos externos originais, sobre o pacote humano H (27 itens). Não é auditoria humana independente nem validação humana. O requisito de auditoria humana independente permanece PENDENTE.",
+ "arquivo": "g2/lacrado/segunda_leitura_chatgpt_nao_independente_bruto.txt",
+ "sha256": "f0655859094416d6522a166d1fb06c77f71811155cad6119e7f77f3f0c53ef93",
+ "conferencia": {
+  "linhas": 27,
+  "unicos": 27,
+  "duplicados": [],
+  "faltantes": [],
+  "fora_do_pacote": [],
+  "invalidos": []
+ },
+ "restricoes": [
+  "Não usar concordância com rótulos anteriores para afirmar que o gabarito foi confirmado.",
+  "Rótulos originais, conjunto, lacres e instrumentos não foram modificados.",
+  "Nenhuma comparação com os rótulos originais, com as previsões ou com a lista de tensões foi feita neste registro."
+ ],
+ "autorizacao": "Eri, 23/10/2026 00:48"
+}
