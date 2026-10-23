@@ -1,3 +1,4 @@
 {"quando": "2026-10-23T03:14:43.197053+00:00", "quem": "orquestrador (Claude)", "passo": "preparar prompts de geração; nenhum item existe", "arquivos": "validacao_g1/geracao/"}
 {"quando": "2026-10-23T03:19:55.239397+00:00", "quem": "orquestrador (Claude)", "passo": "receber saídas dos Criadores, salvar sem alterar, filtros técnicos e checagem de duplicata (leitura dos textos)", "arquivos": "validacao_g1/itens, brutos"}
 {"quando": "2026-10-23T03:19:55.239397+00:00", "quem": "orquestrador (Claude)", "passo": "varredura de vazamento e manifesto; nenhuma avaliação", "arquivos": "validacao_g1/itens, brutos"}
+{"quando": "2026-10-23T03:24:28.716818+00:00", "quem": "orquestrador (Claude)", "passo": "auditoria de duplicatas (leitura dos conceitos), preparação dos pacotes G2 (leitura de na_foto, fora, conceito_foto); sem avaliação, sem rótulos", "arquivos": "validacao_g1/itens"}

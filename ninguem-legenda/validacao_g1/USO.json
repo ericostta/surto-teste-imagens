@@ -11,6 +11,11 @@
    "estado": "congelado",
    "quando": "2026-10-23T03:19:55.239397+00:00",
    "nota": "60 itens inclu\u00eddos, manifesto_g1.json gravado. Sem r\u00f3tulos, triagem ou avalia\u00e7\u00e3o."
+  },
+  {
+   "estado": "congelado",
+   "quando": "2026-10-23T03:24:28.716818+00:00",
+   "nota": "Auditoria de duplicatas, nota de representatividade e prepara\u00e7\u00e3o documental da G2 (pacotes n\u00e3o enviados). Lote inalterado."
   }
  ]
 }
