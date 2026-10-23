@@ -1,0 +1,354 @@
+[
+  {
+    "id": "V22-01",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 21
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "V22-20"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-02",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 21
+    },
+    "similaridade_max": {
+      "valor": 0.45,
+      "com": "V22-06"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-03",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 21
+    },
+    "similaridade_max": {
+      "valor": 0.44,
+      "com": "LAB-006"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-04",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.45,
+      "com": "V22-19"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-05",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 10
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-08"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M09 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-06",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 13
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-21"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-07",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.37,
+      "com": "V22-19"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M04 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-08",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-09"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-09",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.43,
+      "com": "V22-21"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M04 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-10",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.43,
+      "com": "V22-15"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-11",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-22"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-12",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 21
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-05"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-13",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "V22-09"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M04 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-14",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.46,
+      "com": "V22-20"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-15",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 15
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-10"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M04 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-16",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "LAB-002"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-17",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-23"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-18",
+    "palavras": {
+      "na_foto": 9,
+      "fora": 18
+    },
+    "similaridade_max": {
+      "valor": 0.39,
+      "com": "V22-09"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M07 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-19",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 16
+    },
+    "similaridade_max": {
+      "valor": 0.4,
+      "com": "V22-12"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M11 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-20",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.46,
+      "com": "V22-14"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-21",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 14
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "V22-06"
+    },
+    "falhas": [],
+    "alertas": [
+      "mecanismo M07 já usado nas últimas 5 edições"
+    ],
+    "passou": true
+  },
+  {
+    "id": "V22-22",
+    "palavras": {
+      "na_foto": 8,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.41,
+      "com": "LAB-005"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-23",
+    "palavras": {
+      "na_foto": 7,
+      "fora": 17
+    },
+    "similaridade_max": {
+      "valor": 0.43,
+      "com": "V22-05"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  },
+  {
+    "id": "V22-24",
+    "palavras": {
+      "na_foto": 6,
+      "fora": 19
+    },
+    "similaridade_max": {
+      "valor": 0.42,
+      "com": "V22-18"
+    },
+    "falhas": [],
+    "alertas": [],
+    "passou": true
+  }
+]

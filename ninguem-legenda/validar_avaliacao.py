@@ -9,6 +9,13 @@ Regras (derivadas de prompts/critico.md):
 - REVISAR exige instrucao_de_revisao com "Errado", "Mudar" e "NÃO pode mudar" (ou "Não pode mudar"), sem eliminatórias;
 - REPROVADA exige ao menos uma eliminatória;
 - nenhum travessão nos textos.
+Modo v2.2 (experimental): ativado quando a avaliação traz versao_criterio == "v2.2". Regras:
+- previsão cega não é defeito (categoria "previsibilidade" é inválida);
+- APROVADA exige E1 a E5, nenhum defeito demonstrado e nenhuma eliminatória;
+- REVISAR exige ao menos um defeito, todos corrigíveis, cada um com categoria da lista, trecho e demonstração, e instrução com "Defeito", "Mudar", "NÃO pode mudar" e menção ao núcleo/acontecimento central;
+- REPROVADA exige ao menos um defeito estrutural ou eliminatória;
+- aviso (não conta como inconsistência) quando a demonstração usa linguagem hipotética.
+O modo v2.1 permanece idêntico.
 Não altera veredictos: só aponta inconsistências para auditoria humana.
 """
 import json
@@ -20,7 +27,84 @@ OBRIG = ["codigo", "grau_previsao", "elemento_que_muda", "elo_humano", "parafras
          "justificativa_objetiva", "nota"]
 
 
+CATEGORIAS_V22 = {"relacao_narrativa_insuficiente", "ambiguidade_prejudicial", "contradicao", "plausibilidade_comprometida",
+                  "redundancia", "cliche_efetivo", "perda_segunda_leitura", "revelacao_arbitraria", "obscuridade",
+                  "sentimentalismo_moralismo", "repeticao", "veto"}
+OBRIG_V22 = ["codigo", "versao_criterio", "previsoes_que_capturaram", "elemento_que_muda", "elo_humano", "parafrase_concreta",
+             "nomeia_emocao_sem_fato", "ambiguidades", "associacao_mais_comum", "e_a_associacao_mais_comum",
+             "perspectiva_especifica", "evidencias_positivas", "defeitos_demonstrados", "observacoes_descartadas",
+             "eliminatorias", "veredicto", "justificativa_objetiva", "nota"]
+HIPOTETICO = ("talvez", "possivelmente", "pode ser que", "poderia ser", "quem sabe")
+
+
+def avisos_v22(a: dict) -> list:
+    out = []
+    for d in a.get("defeitos_demonstrados", []) or []:
+        t = (d.get("demonstracao", "") or "").lower()
+        if any(h in t for h in HIPOTETICO):
+            out.append(f"{a.get('codigo')}: demonstração com linguagem hipotética ({d.get('categoria')})")
+    return out
+
+
+def validar_v22(a: dict) -> list:
+    erros = []
+    for campo in OBRIG_V22:
+        if campo not in a:
+            erros.append(f"campo ausente: {campo}")
+    v = a.get("veredicto")
+    ev = set(a.get("evidencias_positivas", []))
+    defs = a.get("defeitos_demonstrados", []) or []
+    elim = a.get("eliminatorias", []) or []
+    for d in defs:
+        cat = d.get("categoria")
+        if cat not in CATEGORIAS_V22:
+            erros.append(f"categoria de defeito inválida: {cat}" + (" (previsão não é defeito)" if cat and "previs" in cat else ""))
+        if not (d.get("trecho") or "").strip():
+            erros.append(f"defeito '{cat}' sem trecho citado")
+        if not (d.get("demonstracao") or "").strip():
+            erros.append(f"defeito '{cat}' sem demonstração")
+        if d.get("gravidade") not in ("corrigivel", "estrutural"):
+            erros.append(f"defeito '{cat}' com gravidade inválida")
+    if v == "APROVADA":
+        falta = {"E1", "E2", "E3", "E4", "E5"} - ev
+        if falta:
+            erros.append(f"APROVADA sem evidências obrigatórias: {sorted(falta)}")
+        if defs:
+            erros.append("APROVADA com defeito demonstrado (deveria ser REVISAR ou REPROVADA)")
+        if elim:
+            erros.append("APROVADA com eliminatórias")
+        if a.get("nomeia_emocao_sem_fato") is True:
+            erros.append("APROVADA com emoção nomeada sem fato concreto")
+        if a.get("e_a_associacao_mais_comum") is True and (a.get("perspectiva_especifica") in (None, "", "nenhuma", "Nenhuma")):
+            erros.append("APROVADA com associação comum e sem perspectiva específica")
+    elif v == "REVISAR":
+        if not defs:
+            erros.append("REVISAR sem defeito demonstrado")
+        if any(d.get("gravidade") == "estrutural" for d in defs):
+            erros.append("REVISAR com defeito estrutural (deveria ser REPROVADA)")
+        if elim:
+            erros.append("REVISAR com eliminatórias (deveria ser REPROVADA)")
+        ins = a.get("instrucao_de_revisao", "") or ""
+        for chave in ("Defeito", "Mudar"):
+            if chave not in ins:
+                erros.append(f"REVISAR sem '{chave}' na instrução")
+        if "pode mudar" not in ins.lower():
+            erros.append("REVISAR sem 'não pode mudar' na instrução")
+        if "núcleo" not in ins.lower() and "acontecimento central" not in ins.lower():
+            erros.append("REVISAR sem preservar explicitamente o núcleo narrativo")
+    elif v == "REPROVADA":
+        if not elim and not any(d.get("gravidade") == "estrutural" for d in defs):
+            erros.append("REPROVADA sem defeito estrutural nem eliminatória")
+    else:
+        erros.append(f"veredicto inválido: {v}")
+    if "—" in json.dumps(a, ensure_ascii=False) or "–" in json.dumps(a, ensure_ascii=False):
+        erros.append("travessão no texto")
+    return erros
+
+
 def validar(a: dict) -> list:
+    if a.get("versao_criterio") == "v2.2":
+        return validar_v22(a)
     erros = []
     for campo in OBRIG:
         if campo not in a:
@@ -84,6 +168,10 @@ def main() -> int:
                 com_erro += 1
                 print(f"  {a.get('codigo')} ({a.get('veredicto')}): " + "; ".join(e))
         print(f"  {len(dados)} avaliações")
+        for a in dados:
+            if a.get("versao_criterio") == "v2.2":
+                for w in avisos_v22(a):
+                    print("  aviso: " + w)
     print(f"\n{com_erro} de {total} com inconsistência")
     return 0
 

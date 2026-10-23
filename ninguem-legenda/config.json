@@ -29,11 +29,22 @@
     "pode_revisar_foto_e_na_foto": true,
     "alteracao_material_exige_previsoes_novas": true,
     "recuperacao_exige_superioridade_sobre_original": true,
-    "foto_que_entrega_correcao_controlada_max": 1
+    "foto_que_entrega_correcao_controlada_max": 1,
+    "criterio_v2_2_experimental": {
+      "acionado_por": "defeito_concreto_demonstrado",
+      "previsao_cega_e_gatilho": false,
+      "preserva_nucleo_narrativo": true,
+      "proibido_trocar_acontecimento_central": true
+    }
   },
   "versao_critico": "v2.1",
   "critico": {
     "nota_minima_desempate": 0,
     "observacao": "Nota so serve para desempatar candidatas aprovaveis. Eliminatorias valem sobre a nota."
+  },
+  "critico_experimental": {
+    "versao": "v2.2",
+    "homologada": false,
+    "prompt": "prompts/critico_v2_2.md"
   }
 }
