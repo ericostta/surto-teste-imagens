@@ -1,6 +1,6 @@
 {
  "nota": "Log de exclusões técnicas da G1. Registrado antes de qualquer rótulo, avaliação ou triagem. Os itens excluídos continuam preservados em validacao_g1/itens/ e validacao_g1/brutos/ (nada foi apagado).",
- "regra_aplicada": "Condições documentais 2.4, inclusão 4: conceito de foto sem repetição no conjunto. Considera-se repetição quando duas fotografias do conjunto mostram a mesma cena (mesmos objetos principais, no mesmo tipo de lugar). Entre dois itens que se repetem, sai o de maior ordem de produção. Não se usou qualidade, texto, rótulo ou resultado de Crítico. Substituição: uma por item excluído, na mesma célula de intenção, com outro ambiente designado.",
+ "regra_aplicada": "Condições documentais 2.4, inclusão 4: conceito de foto sem repetição no conjunto. Considera-se repetição quando duas fotografias do conjunto mostram a mesma cena (mesmos objetos principais, no mesmo tipo de lugar). Entre dois itens que se repetem, sai o de maior ordem de produção. Não se usou qualidade, texto, rótulo ou resultado de Crítico. Substituição: uma por item excluído, na mesma célula de intenção, com outro ambiente designado. Critério operacional: repetição apenas quando a descrição fotográfica é praticamente a mesma cena (mesmo sujeito principal, mesmo cenário e composição equivalente). Pares com sujeito ou tema parecido, mas cena diferente, foram mantidos. Limite: duas rodadas de substituição no total; se um substituto também repetir cena, o item fica excluído e a amostra de desafio é declarada com menos de 30.",
  "quem_decidiu": "orquestrador (Claude), dentro da autorização de Eri de 23/10/2026 00h13 (item 9: exclusões só por motivos técnicos previamente autorizados)",
  "quando": "2026-10-23T03:17:27.751460+00:00",
  "exclusoes": [
@@ -31,6 +31,14 @@
    "repete": "G1-D17",
    "detalhe": "passageiro de costas dormindo no último banco de ônibus urbano",
    "substituto": "G1-D34"
+  },
+  {
+   "item": "G1-D14",
+   "motivo": "duplicata de conceito fotográfico",
+   "repete": "G1-F28",
+   "detalhe": "prato de arroz com ovo frito e garfo ao lado em cozinha; mesma cena do conceito sorteado K35",
+   "substituto": "G1-D35",
+   "nota": "identificada na conferência final, depois dos quatro primeiros substitutos; segunda e última rodada de substituição, pré-registrada aqui antes da geração"
   }
  ],
  "ocorrencias_nao_excluidas": [
@@ -52,7 +60,67 @@
   {
    "item": "G1-D27",
    "ocorrencia": "alerta de semelhança com G1-D17 (0.62)",
-   "decisao": "item excluído por duplicata de conceito, conforme acima."
+   "decisao": "item excluído por duplicata de conceito (similaridade textual 0.62 com G1-D17 e fotografia praticamente igual)."
+  }
+ ],
+ "semelhancas_notadas_e_mantidas": [
+  {
+   "itens": [
+    "G1-D05",
+    "G1-D15"
+   ],
+   "nota": "bicicleta infantil encostada; cenários e composição diferentes; textos com tema próximo (pai e filha aprendendo a pedalar)"
+  },
+  {
+   "itens": [
+    "G1-D10",
+    "G1-D30",
+    "G1-D34"
+   ],
+   "nota": "objetos escolares sobre carteira; sujeitos principais diferentes"
+  },
+  {
+   "itens": [
+    "G1-D08",
+    "G1-D18",
+    "G1-D32"
+   ],
+   "nota": "mesa de escritório; sujeitos principais diferentes"
+  },
+  {
+   "itens": [
+    "G1-D03",
+    "G1-D23"
+   ],
+   "nota": "balcão de mercearia; sujeitos principais diferentes"
+  },
+  {
+   "itens": [
+    "G1-D13",
+    "G1-F29"
+   ],
+   "nota": "balança de prato; cenários e composição diferentes"
+  },
+  {
+   "itens": [
+    "G1-D29",
+    "G1-D33"
+   ],
+   "nota": "balões em salão de festa; composição diferente"
+  },
+  {
+   "itens": [
+    "G1-D31",
+    "G1-F19"
+   ],
+   "nota": "bola parada em quadra; esportes e composição diferentes"
+  },
+  {
+   "itens": [
+    "G1-D24",
+    "G1-F28"
+   ],
+   "nota": "ovo frito; frigideira em close contra prato servido"
   }
  ]
 }

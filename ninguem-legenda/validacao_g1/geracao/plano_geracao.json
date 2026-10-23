@@ -426,6 +426,15 @@
    "ambiente_designado": "escola",
    "substitui": "G1-D27",
    "motivo": "exclusão técnica por duplicata de conceito"
+  },
+  {
+   "codigo": "G1-D35",
+   "amostra": "desafio",
+   "ordem_producao": 65,
+   "celula_intencao": "ausencia_de_segunda_leitura",
+   "ambiente_designado": "natureza",
+   "substitui": "G1-D14",
+   "motivo": "exclusão técnica por duplicata de conceito"
   }
  ]
 }
