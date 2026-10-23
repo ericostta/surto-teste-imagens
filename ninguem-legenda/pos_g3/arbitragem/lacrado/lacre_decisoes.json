@@ -1,0 +1,17 @@
+{
+ "quando": "2026-10-23T18:11:16.696286+00:00",
+ "hashes": {
+  "decisoes_eri_bruto.txt": "2f0e7dc745ec9590e58e6026b6510c7cf0823d8752e89931868df5636d09c1a3",
+  "nota_natureza_decisoes.md": "682c050dfa7cc3c49608b90c174128a2b91ecf16aad51a96b0960bc50536a2fc",
+  "pacote_arbitragem.md (referência)": "cd3cba922e54c6940ac0acdfc2c551296b9219a6bd599552bcf4713efc4ce9df",
+  "privado/mapa_codigos.json (NÃO aberto; hash para verificação)": "9d93b3ca62cc5a022b1cc8554079ba4c0695385d12778ba68c39db80fa053a73"
+ },
+ "verificacao": {
+  "seis_codigos_correspondem_ao_pacote": true,
+  "contagem": {
+   "AMBÍGUA": 3,
+   "BOA": 3
+  },
+  "hashes_do_pacote_e_do_mapa_iguais_ao_lacre_anterior": true
+ }
+}
