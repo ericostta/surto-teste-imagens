@@ -1,11 +1,16 @@
 {
  "lote": "G1",
- "estado": "reservado",
+ "estado": "congelado",
  "historico": [
   {
    "estado": "reservado",
    "quando": "2026-10-23T03:14:43.197053+00:00",
    "nota": "G1 autorizada por Eri em 23/10/2026 00h13. Nenhum item gerado ainda."
+  },
+  {
+   "estado": "congelado",
+   "quando": "2026-10-23T03:19:55.239397+00:00",
+   "nota": "60 itens inclu\u00eddos, manifesto_g1.json gravado. Sem r\u00f3tulos, triagem ou avalia\u00e7\u00e3o."
   }
  ]
 }
