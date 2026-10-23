@@ -1,0 +1,23 @@
+{
+  "run1": {
+    "arquivo": "lacrado/triagem_run1.txt",
+    "sha256": "c37e6248942b6882f83f021744f9ab14fdf013f8eb0d403c4a050258ba1b73af",
+    "itens": 60,
+    "codigos_unicos": 60,
+    "agente": "a739ab2f7f227f793"
+  },
+  "run2": {
+    "arquivo": "lacrado/triagem_run2.txt",
+    "sha256": "d403d154c71598ea2e9e7353d237caae0ca7f9b843c9e5d4986788073cf3692d",
+    "itens": 60,
+    "codigos_unicos": 60,
+    "agente": "a1d625f7288c85d88"
+  },
+  "run3": {
+    "arquivo": "lacrado/triagem_run3.txt",
+    "sha256": "851072afaa4fd77730c5130269c29cffc5decfb9eb255de3ecc1f340bf584d24",
+    "itens": 60,
+    "codigos_unicos": 60,
+    "agente": "a847abb0aeb614977"
+  }
+}
