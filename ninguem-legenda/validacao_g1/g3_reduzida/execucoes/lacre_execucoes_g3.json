@@ -1,0 +1,90 @@
+{
+ "v22_e1_p1": {
+  "agente": "a12a3a794578df1d9",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "20bf5a61087cc67921cc5d7a1dde0e2870769467291a3bd7eae6b926910146eb",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v22_e1_p1.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ },
+ "v22_e1_p2": {
+  "agente": "abff288126f5e4962",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "c64c6b1ab616193abcffda088567a794accb68dc6a12bf20eaa97c53ecd00f62",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v22_e1_p2.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ },
+ "v22_e2_p1": {
+  "agente": "a953cad3f902af3c4",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "1c485524de07e60fdcf0e84982676d8f7da23c586cdff8905ca453a797915382",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v22_e2_p1.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ },
+ "v22_e2_p2": {
+  "agente": "a3544c6723f6f70a1",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "9d594c4a13e5719355270b7458233e165fa83804749f870376858aa9e0cb82f3",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v22_e2_p2.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ },
+ "v24_e1_p1": {
+  "agente": "ab82104b77aa7b815",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "59022a8518be5dabedece3ffb2539ae7665bb4b6e3d6a84b40383f378f22220a",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v24_e1_p1.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ },
+ "v24_e1_p2": {
+  "agente": "afd8d95913510107e",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "8c0b49525f24e325230775788b757a5aeb2503aea1ca809fa8f91f0f5141aa6e",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v24_e1_p2.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ },
+ "v24_e2_p1": {
+  "agente": "aea402428ded7b851",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "58bed3f8b68cb5f370f5338a1347e6657a85609bf52a65ce4ebedc7c74835124",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v24_e2_p1.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ },
+ "v24_e2_p2": {
+  "agente": "abdb424cc9d265c96",
+  "modelo": [
+   "claude-sonnet-5-5"
+  ],
+  "sha256": "10c64e786ce357a72db8f08bfdb2f13562e26e0c8fa0b70fb9cd9d8ce9612e2a",
+  "arquivo": "validacao_g1/g3_reduzida/execucoes/bruto_v24_e2_p2.txt",
+  "n_itens": 30,
+  "cobertura_ok": true,
+  "json_ok": true
+ }
+}

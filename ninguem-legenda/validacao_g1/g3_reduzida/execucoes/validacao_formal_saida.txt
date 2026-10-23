@@ -1,0 +1,36 @@
+== execucao_v22_e1.json
+  C495B94 (REVISAR): REVISAR sem preservar explicitamente o núcleo narrativo
+  C073E8A (REVISAR): REVISAR sem preservar explicitamente o núcleo narrativo
+  C142BC2 (REVISAR): REVISAR sem preservar explicitamente o núcleo narrativo
+  60 avaliações
+== execucao_v22_e2.json
+  60 avaliações
+== execucao_v24_e1.json
+  C33130C (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C1364F2 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C0F10F4 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  CDF2985 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  CD8840F (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C99F35E (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C1EA4BC (REVISAR): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C0A6E22 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C70347F (APROVADA): objeção 'perda_segunda_leitura' de fundamento C só pode ter gravidade 'preferencia'
+  CA728E2 (REVISAR): objeção B bloqueante 'relacao_narrativa_insuficiente' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  60 avaliações
+  aviso: C376B1B: objeção 'insuficiencia_editorial' insuficientemente demonstrada (reportar à parte)
+  aviso: C376B1B: leitura alternativa favorável muito curta (insuficiencia_editorial)
+  aviso: C670985: objeção 'perda_segunda_leitura' insuficientemente demonstrada (reportar à parte)
+  aviso: C670985: leitura alternativa favorável muito curta (perda_segunda_leitura)
+== execucao_v24_e2.json
+  C004FFF (REVISAR): objeção B bloqueante 'perda_segunda_leitura' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C0C6774 (REVISAR): objeção B bloqueante 'perda_segunda_leitura' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  CEB643D (REVISAR): objeção B bloqueante 'perda_segunda_leitura' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  CC856F8 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C35EB99 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  C5FA747 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  CF71E69 (REPROVADA): objeção B bloqueante 'insuficiencia_editorial' sem atinge_nucleo (registrar como 'nao_demonstrada' com lacuna, não como preferência)
+  60 avaliações
+  aviso: C19AA41: divergência material declarada (acompanhar a taxa no conjunto)
+  aviso: C06DCA4: argumento com linguagem hipotética (sentimentalismo_moralismo)
+
+20 de 240 com inconsistência
