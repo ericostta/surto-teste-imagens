@@ -1,0 +1,14 @@
+[
+ {"codigo": "T810B97", "previsao": "A bola é de uma criança que não voltou mais para buscá-la, porque o campo onde ela jogava vai ser demolido ou ela se mudou.", "confianca": "baixa"},
+ {"codigo": "T361D3B", "previsao": "O cone foi colocado por um vizinho para guardar a vaga de alguém que não vai voltar, como um pai ou uma mãe que morreu, e ninguém tem coragem de tirar.", "confianca": "média"},
+ {"codigo": "TDC5DA7", "previsao": "O telefone ainda está ligado só para o caso de uma pessoa querida ligar, e ninguém atende porque a pessoa que esperava a ligação já foi embora.", "confianca": "média"},
+ {"codigo": "T6AB462", "previsao": "A garrafa foi preparada para uma reunião ou plantão que acontece fora do andar, e quem a enche todo dia é uma funcionária de limpeza ou copeira que ninguém agradece.", "confianca": "baixa"},
+ {"codigo": "T4AC00E", "previsao": "O monte de pedras é enorme, e a pedra pequena no topo é só a última de milhares colocadas por pessoas ao longo de anos, algo que o close esconde.", "confianca": "média"},
+ {"codigo": "T95911A", "previsao": "O guarda-chuva é de alguém que chegou em casa e ainda não conseguiu entrar nem sair, ou que mora sozinho e deixa o guarda-chuva aberto porque ninguém mais precisa dele.", "confianca": "baixa"},
+ {"codigo": "T803764", "previsao": "Os fones foram deixados ali por um filho ou filha que saiu de casa de vez, e quem ficou não mexe no aparador desde então.", "confianca": "média"},
+ {"codigo": "T51B70E", "previsao": "O prato guardado é o jantar de alguém que ainda não voltou do trabalho, e quem cozinhou fica esperando acordado até muito tarde.", "confianca": "alta"},
+ {"codigo": "T08DF76", "previsao": "Quem lava a louça é uma criança pequena em cima de um banquinho, ou uma pessoa que acabou de chegar de um dia longo e ainda faz sozinha o trabalho da casa.", "confianca": "média"},
+ {"codigo": "TD6620E", "previsao": "O pendrive guarda os últimos arquivos ou fotos de alguém que saiu da empresa ou morreu, e ninguém teve coragem de abrir.", "confianca": "média"},
+ {"codigo": "TDE9A3A", "previsao": "No lado esquerdo da lousa, fora do enquadramento, ainda está escrita uma mensagem de um aluno que ela deixou de propósito, e ela apaga todo o resto menos isso.", "confianca": "média"},
+ {"codigo": "TC5FF24", "previsao": "O pote de moedas é a economia de anos para realizar um sonho ou pagar algo importante, e cada moeda foi guardada em dias difíceis.", "confianca": "alta"}
+]

@@ -1,0 +1,14 @@
+[
+ {"codigo": "T4FE3FE", "previsao": "O pendrive guarda o trabalho ou os arquivos de alguém que foi demitido ou saiu, e ninguém foi buscar nem abrir.", "confianca": "baixa"},
+ {"codigo": "TE9F10A", "previsao": "A bola foi deixada ali depois do último jogo do time ou de uma criança que não voltou, e o campo está abandonado.", "confianca": "baixa"},
+ {"codigo": "T974D3D", "previsao": "A pedra é a última de um monte enorme que alguém levou anos para empilhar, e o enquadramento esconde o tamanho do esforço.", "confianca": "média"},
+ {"codigo": "TC0C37C", "previsao": "O telefone não toca há anos, mas ninguém tem coragem de desligá-lo ou tirá-lo dali porque era de alguém que já morreu.", "confianca": "média"},
+ {"codigo": "T2CC41E", "previsao": "A garrafa foi enchida para uma reunião ou plantão longo, e o andar inteiro está vazio porque todos já foram embora ou foram demitidos.", "confianca": "baixa"},
+ {"codigo": "TA3A48F", "previsao": "O prato guarda o jantar de alguém que ainda não chegou em casa, e quem cozinhou esperou até tarde.", "confianca": "alta"},
+ {"codigo": "TDB2234", "previsao": "As moedas são a economia de alguém que juntou por anos para um objetivo, e o pote quase cheio mostra o tempo que levou.", "confianca": "média"},
+ {"codigo": "TB75733", "previsao": "O cone guarda a vaga para alguém que não vai voltar, como um parente que morreu ou saiu de casa, e a família mantém o costume.", "confianca": "média"},
+ {"codigo": "T7DE6F2", "previsao": "Os fones são de alguém que saiu de casa ou morreu, e foram deixados na entrada onde ninguém mexe desde então.", "confianca": "média"},
+ {"codigo": "TC0ABBC", "previsao": "A parte esquerda da lousa, fora do quadro, guarda uma mensagem de um aluno ou um recado que ela não consegue apagar.", "confianca": "média"},
+ {"codigo": "T0E060C", "previsao": "Fora do quadro há uma criança ou alguém pequeno sobre um banquinho ajudando a lavar, ou a pessoa lava sozinha em pé depois de um dia cansativo.", "confianca": "baixa"},
+ {"codigo": "T0E476D", "previsao": "O guarda-chuva é de alguém que acabou de chegar em casa, ou de quem saiu sem ele, e a pessoa que o espera está do outro lado da porta.", "confianca": "baixa"}
+]

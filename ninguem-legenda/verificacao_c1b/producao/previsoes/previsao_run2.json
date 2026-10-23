@@ -1,0 +1,14 @@
+[
+ {"codigo": "T971AEF", "previsao": "O prato guarda o jantar que alguém deixou reservado para quem ainda não chegou do trabalho e que será comido sozinho, tarde da noite.", "confianca": "alta"},
+ {"codigo": "T18654D", "previsao": "O cone guarda a vaga há dias para alguém que não vai voltar, como um parente que morreu ou se mudou, e a família mantém o costume.", "confianca": "média"},
+ {"codigo": "TE5701D", "previsao": "O café foi feito para uma reunião ou plantão que ninguém apareceu para participar, e quem preparou ficou sozinho no andar.", "confianca": "média"},
+ {"codigo": "T81374C", "previsao": "O lado esquerdo da lousa, fora do enquadramento, traz uma mensagem ou despedida dos alunos que ela vai deixar apagada ou guardar.", "confianca": "baixa"},
+ {"codigo": "T350E7C", "previsao": "O pendrive guarda os arquivos e as fotos de alguém que já não está mais ali, e ninguém teve coragem de abrir.", "confianca": "média"},
+ {"codigo": "T11D2D5", "previsao": "Os fones foram deixados ali por alguém que saiu de casa de vez, e quem ficou os mantém no mesmo lugar sem mexer.", "confianca": "média"},
+ {"codigo": "TEDC67B", "previsao": "O jogo acabou há horas, os amigos foram embora, e a bola ficou porque ninguém quis ser o primeiro a recolher e admitir que acabou.", "confianca": "baixa"},
+ {"codigo": "T00FA50", "previsao": "As moedas são a economia de anos para um sonho ou uma viagem, e o pote ainda está longe de bastar.", "confianca": "média"},
+ {"codigo": "T192482", "previsao": "O telefone fixo ainda funciona e fica ali esperando uma ligação que alguém já sabe que não virá mais.", "confianca": "média"},
+ {"codigo": "TC41D65", "previsao": "A pedra é a última de um monte enorme que alguém montou pedra por pedra ao longo de uma longa e difícil subida.", "confianca": "baixa"},
+ {"codigo": "TFC596B", "previsao": "Quem lava a louça está sentada num banquinho porque não consegue mais ficar de pé por muito tempo, mas insiste em fazer sozinha.", "confianca": "baixa"},
+ {"codigo": "T7E2693", "previsao": "O guarda-chuva é de quem acabou de chegar em casa depois de um dia difícil, e a pessoa está sentada no escuro sem coragem de entrar.", "confianca": "baixa"}
+]

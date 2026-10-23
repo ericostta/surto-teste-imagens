@@ -1,0 +1,22 @@
+{
+ "nota": "Lacre da produ\u00e7\u00e3o das 12 hist\u00f3rias, previs\u00f5es cegas e lote cego de Eri, anterior \u00e0 classifica\u00e7\u00e3o de Eri e a qualquer Cr\u00edtico.",
+ "hashes": {
+  "verificacao_c1b/lote_eri/lote_cego_12.md": "4d282841ce74658efceefdb240a52a341240b142e102ce34f575549bfca2fba0",
+  "verificacao_c1b/privado/mapa_lote_eri.json": "147fe580c343a90fa239fa04707c11332a8850c214b567ddc2de84a1bbd4e081",
+  "verificacao_c1b/privado/mapa_previsoes.json": "28864f2ca3ae2dc74f09660c4c9296fbf5293801f13b8dc37564481da61f5e8b",
+  "verificacao_c1b/privado/previsoes_por_id.json": "63fa1155ac67f4fae285caa53372cc339d87e940ec16ed11c03b7bbd25e2b42a",
+  "verificacao_c1b/producao/candidatas_12.json": "b3e5d7d9f7182c7c20e8953798af39b415074632a65c72c9a02b4ad85ce9178d",
+  "verificacao_c1b/producao/entradas_previsao/entrada_run1.json": "934606337fb24082edf57334b5946db0ee085c78273328ee1842da9fd3ede264",
+  "verificacao_c1b/producao/entradas_previsao/entrada_run2.json": "2f3be55a5da39c38ea0cb4fdb409297fc99ef5cde7a9f8e93e62f67e7935fe57",
+  "verificacao_c1b/producao/entradas_previsao/entrada_run3.json": "6e02af45e17efb401e378341f3d76232a1f23f814b2f5f143a75104fcc56f779",
+  "verificacao_c1b/producao/previsoes/previsao_run1.json": "48f4ab4bbe4c4d7fe1c19cc0c2dabbf2f54679747a21597aacf2e63cfe85a343",
+  "verificacao_c1b/producao/previsoes/previsao_run2.json": "e1496e1959b878ab378b26bfe6eef31631dcafca7f76f9c524cadc778a0eefa0",
+  "verificacao_c1b/producao/previsoes/previsao_run3.json": "d292968a506181e08ee2770bfeadc04c306abf95a0a515df3149891956e614cc",
+  "verificacao_c1b/producao/resultado_filtros.json": "ba9664f3c6f5b0659df65c2e0d39b2345c0efde3835c12d51785749626cd0a94",
+  "verificacao_c1b/producao/saidas/grupo_A.json": "e2018f95cd630204a8050643a79e46678d92c1fb928ee19b31b04ab9bd647881",
+  "verificacao_c1b/producao/saidas/grupo_D.json": "6741b40d64221e3e3c885eda3c5d10a6b0b68ec1b40e6400f7c9044934b18292",
+  "verificacao_c1b/producao/saidas/grupo_M.json": "0059f1850d68b16e825c27b9ab07f78b5a0f8de0ea8583f1cc0c5a634e1a41ae",
+  "verificacao_c1b/producao/saidas/grupo_N.json": "ef2d42724f9b71a813e919bac28f350a9a6ba7863a99f4030fcf4c52719bd3e5",
+  "verificacao_c1b/producao/saidas/grupo_P.json": "3478ed1f03344261a671176977ee083e7646595e1b647de78af32774fce55116"
+ }
+}
