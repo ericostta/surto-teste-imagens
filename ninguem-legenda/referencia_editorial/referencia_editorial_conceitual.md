@@ -67,10 +67,23 @@ Controle de complexidade: esta referência não acrescenta etapas, agentes, pont
 
 Não autorizado e não feito: alterar prompts, criar v2.4, executar Críticos ou agentes, gerar amostras ou testes, imagens ou créditos, alterar grade, n8n, fila, publicadas ou skills, ativar publicações, homologar versões.
 
-## 7. Indefinições conceituais que ainda observo (para a sua decisão, sem proposta de implementação)
+## 7. Correspondência entre rótulos externos e estados do Crítico (decisão de 22/10/2026, 23h18)
+
+Correspondência operacional, em princípio: BOA corresponde a APROVADA; AMBÍGUA corresponde a REVISAR; RUIM corresponde a REPROVADA. A correspondência não transforma os rótulos externos em verdades absolutas. Divergências editoriais legítimas e arbitragens posteriores permanecem identificadas separadamente. Nenhum rótulo congelado foi alterado e nenhuma métrica anterior foi recalculada.
+
+## 8. Decisões de encerramento da etapa conceitual (22/10/2026, 23h18)
+
+- A referência é considerada consolidada para fins de planejamento experimental. Isso não significa que sua aplicação por um modelo tenha sido validada. A distinção entre integridade narrativa e mérito editorial positivo permanece fundamental.
+- Núcleo promissor e intervenção localizada: sem regras adicionais; o futuro protocolo deve incluir casos inéditos que mostrem se o Crítico distingue correção pontual de reconstrução integral.
+- Objeção relevante e preferência C: manter as definições atuais, sem novas categorias nem exceções antecipadas; as fronteiras serão observadas empiricamente.
+- Fronteira entre fundamentos B e C: permanece uma das principais incertezas; a referência não a resolveu por si só.
+- Registro de casos: sem número mínimo arbitrário. Seu valor depende da diversidade das situações e da qualidade das justificativas. W05, W15 e W19 permanecem contaminados e não podem demonstrar melhoria de versões futuras.
+- Única etapa autorizada: um plano experimental conceitual (plano_experimental_conceitual.md). Sem prompts experimentais, sem novos conjuntos, sem execuções, sem v2.4.
+
+## 9. Indefinições conceituais registradas antes dessas decisões (para memória; as decisões acima as tratam)
 
 1. "Núcleo promissor" e "intervenção localizada" ainda não têm exemplos suficientes além de W19; o registro tem poucos casos.
 2. "Objeção relevante" (para aprovar) e "dúvida C periférica" têm fronteira que pode ser interpretada de modos diferentes por avaliadores diferentes.
-3. A relação entre este vocabulário e os rótulos usados nas avaliações externas (BOA, AMBÍGUA, RUIM) e nos veredictos do Crítico (APROVADA, REVISAR, REPROVADA) está implícita, não formalizada: BOA, AMBÍGUA e RUIM seguem como rótulos de avaliação externa, e os três estados como decisão.
+3. A relação entre os rótulos externos e os estados do Crítico estava implícita; foi explicitada na seção 7.
 4. A fronteira entre B fundamentado e C pode reproduzir a instabilidade B/C observada no experimento. Só um teste futuro, que não está autorizado, mostraria.
 5. Não se sabe ainda quantos casos arbitrados são necessários para o registro orientar decisões.
