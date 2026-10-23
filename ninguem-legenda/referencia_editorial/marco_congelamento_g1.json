@@ -1,0 +1,60 @@
+{
+  "marco": "M1",
+  "tipo": "congelamento documental (nao e aprovacao de qualidade editorial nem homologacao)",
+  "data": "2026-10-23",
+  "autorizacao": "Eri, 23/10/2026 00h04",
+  "commit_base": "c47274cb8cdbe21fc9ca45b96e733775f270938c",
+  "hash_canonico_lista_conceitos": "454a83dd4ff1d1924e534ed58a6e5d880b428167a22736541563e7e36e8d39f8",
+  "n_conceitos": 60,
+  "arquivos": {
+    "candidata": {
+      "prompts/critico_v2_4_exp.md": "0e50a120d7b8874d1e11ecde8ff4595fc04550eb86d361075d07f0f7b8b28984"
+    },
+    "controles": {
+      "prompts/critico_v2_2.md": "468fd3823f83909dd87127d7a4affd835df4be09c7601e62c37b38dc54b553a3",
+      "prompts/critico_v2_3_exp.md": "74bc6f3a4ee1d13bf8fabde542234e97881c1c7e0089467d6cfbb700643f7e23"
+    },
+    "historico_preservado": {
+      "prompts/critico.md": "9910c786f6f006122fda1e88deab9ff99aa1f71382b9cef49e97bbf1b4792c15"
+    },
+    "julgador": {
+      "prompts/julgador_motivos_v1_rascunho.md": "4b5c80f789b35b1e9fc5f53fdb1c67b1ef48eb451ac59a21d371eac04aafdec9"
+    },
+    "protocolo_analise": {
+      "referencia_editorial/protocolo_analise_g1.md": "e1fa01dc5f741dd464f08008366bf6081b2827c29e2caf3a305f15d003d4638b"
+    },
+    "instrumentos": {
+      "calibracao/v2_4_exp/teste_instrumentos.py": "261450410582eb4fc897262902e9f76ae77fa6580ee7d243cfcce281433de93f",
+      "calibracao/v2_4_exp/teste_validador.py": "96e4e5f5e760468ee777964b17e0e7758df5b32da9a51767c33e37507e51b8d6",
+      "instrumentos_g1/manifesto_hashes.py": "68455c452b319bbdd5e175201bf93e8fbd65844fcaee7e85f902046cab2614f8",
+      "instrumentos_g1/montar_pacotes.py": "2a9e16ed2902cee8b8c29df2f23b969c8a6045c023748c685867a55f1b1128e1",
+      "instrumentos_g1/varredura_vazamento.py": "59851bbf3b7b48a6d4657edbcb19453def11f0b0265265c089fe55ce425060d2",
+      "referencia_editorial/sorteio_g1.py": "aad751f78f84350bc4b1ab9e164f17520679c9e8a33e1a396b5a4d067835bd0b",
+      "validar_avaliacao.py": "04a0183bc93598ed72e41ea7a1294cbb1db8d0b92bf175dbe8c65442e4c487f1"
+    },
+    "lista_conceitos": {
+      "referencia_editorial/g1_conceitos_candidatos.json": "38ce3107d58d906a0788835c2f823ba43aa268ab4646736a708c3f6d52297a24",
+      "referencia_editorial/g1_conceitos_candidatos.md": "248aea4ee60018e4c0a547adb42e34d9eac4c710ec60dcf7c5b96828aa63fc58"
+    },
+    "documentos_do_marco": {
+      "calibracao/v2_4_exp/diferencas_v2_4_exp.md": "668ba3416e0c8863e7f8ec0d9a5d0ecb8492133d13125889aa36bb607c416e7f",
+      "referencia_editorial/decisoes_eri_plano_rev2.md": "59499fd8fb72b93e7d7c728366fa9443bb52aad564906ed5e025bda06b0373ae",
+      "referencia_editorial/declaracao_fim_desenvolvimento.md": "0eda8471afa6efde7998f31f9c2c2ea979b9aed1ec2080d3f466cbc4293c9941",
+      "referencia_editorial/g0_materiais_desenvolvimento.json": "3ab0ba7398d0a1cfd6fd72e9d4d78eff1f504df3c72b550c0b5f93c550d7e9fc",
+      "referencia_editorial/g1_condicoes_documentais.md": "ec56dbc02a2c264dd43c851fb7a7e01dfbd61051aa02ec76f29e80ea42642ec3",
+      "referencia_editorial/g1_procedimento_sorteio.md": "93c3317a5b0c383fc0a7f43a3f2628e960447b5f8aaea1520352533b5142534c",
+      "referencia_editorial/g1_protecao_conjunto_validacao.md": "0e52d2dca131251879adf826fa57faad7b4862197807f36d31e540d7663ac208"
+    }
+  },
+  "declaracoes": {
+    "nenhuma_geracao": true,
+    "nenhum_sorteio": true,
+    "nenhuma_execucao_de_criador_critico_preditor_ou_julgador": true,
+    "nenhuma_imagem_nem_credito": true,
+    "nenhum_item_de_validacao_existe": true,
+    "frase_semente_nao_solicitada": true,
+    "controles_especiais_nao_produzidos": true,
+    "m2_g1_g2_g3_nao_iniciados": true
+  },
+  "observacao": "O hash do proprio marco fica no commit que o registra. Alteracao posterior de qualquer arquivo listado exige novo marco declarado."
+}
