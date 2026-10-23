@@ -1,0 +1,162 @@
+{
+ "versao": "1",
+ "criado_em": "2026-10-22",
+ "estatuto": "Referência interpretativa. Não é gabarito absoluto.",
+ "regras": [
+  "Rótulos congelados e arbitragens ficam separados; nada aqui altera registros congelados.",
+  "Resultados anteriores não foram recalculados.",
+  "Os casos não servem como validação independente de versões futuras.",
+  "Casos novos só entram por decisão expressa de Eri."
+ ],
+ "fontes_congeladas": {
+  "rotulos_externos_json_sha256": "6dc6f0152d3fc948487dd243e958263df5b6b1a3d673f1d6dcd6939002c06dd6",
+  "arquivo": "calibracao/v2_3_exp/conjunto/rotulos_externos.json",
+  "avaliacoes": "calibracao/v2_3_exp/conjunto/resultados/"
+ },
+ "casos": {
+  "W05": {
+   "conteudo_original": {
+    "foto_prevista": "Caminha redonda de pano ao lado de um sofá, manta amassada com uma depressão no centro, alguns pelos claros no tecido. Luz baixa de tarde, sem animais nem pessoas.",
+    "na_foto": "Uma caminha de cachorro vazia perto do sofá.",
+    "fora": "Ela lavou a manta uma vez e se arrependeu. Agora só alisa por cima, para não apagar o formato dele."
+   },
+   "classificacao_inicial": {
+    "avaliador": "ChatGPT (externo independente, cego aos Críticos)",
+    "rotulo": "BOA"
+   },
+   "justificativas_historicas": {
+    "externa": "O arrependimento de lavar a manta revela uma tentativa específica de preservar a presença do animal ausente. O gesto de alisar o tecido sem alterar sua forma dá novo significado à caminha vazia. Embora emocional, a narrativa se sustenta num comportamento concreto.",
+    "criticos": {
+     "v23_run1": {
+      "veredicto": "APROVADA",
+      "justificativa": "A depressão na manta e os pelos ganham sentido pelo arrependimento de ter lavado. O gesto de só alisar é concreto e específico."
+     },
+     "v23_run2": {
+      "veredicto": "APROVADA",
+      "justificativa": "A depressão da manta e os pelos claros ganham significado novo com o arrependimento de ter lavado. A associação comum é transformada por um gesto específico."
+     },
+     "v22_run1": {
+      "veredicto": "APROVADA",
+      "justificativa": "Embora a associação (caminha de cachorro que morreu) seja a mais comum, o arrependimento de ter lavado e o gesto de alisar são fatos concretos e próprios. A depressão no centro da manta ganha novo significado."
+     },
+     "v22_run2": {
+      "veredicto": "APROVADA",
+      "justificativa": "O gesto de lavar uma vez, se arrepender e só alisar dá fato concreto ao luto pelo animal, e o formato amassado da manta passa a ser a razão de rever a foto."
+     }
+    }
+   },
+   "divergencias_observadas": "Avaliação externa e arbitragem coincidem (BOA). As quatro execuções do Crítico aprovaram. Divergência em discussão apenas sobre a tensão física de 'alisar por cima', resolvida por Eri a favor da interpretação natural.",
+   "decisao_posterior": {
+    "decisor": "Eri",
+    "decisao": "BOA, mantida"
+   },
+   "data_e_contexto": {
+    "data": "2026-10-22",
+    "circunstancias": "22/10/2026, por volta das 23h, após Eri conhecer os veredictos das quatro execuções do Crítico (v2.2 e v2.3-exp), o relatório comparativo, o diagnóstico qualitativo e o documento de arbitragem. Decisão posterior ao conhecimento dos resultados; não é avaliação cega.",
+    "conhecimento_previo_dos_veredictos_dos_criticos": true
+   },
+   "contaminacao": {
+    "contaminado_para_validacao_independente": true,
+    "observacao": "Não usar como validação independente de versões futuras."
+   },
+   "principio_editorial_extraido": "A sequência comportamental (lavar a manta, arrepender-se, passar a preservar a forma) e a transformação da manta de objeto abandonado em vestígio deliberadamente preservado sustentam o mérito. 'Alisar por cima' admite interpretação natural em que a depressão não é desfeita, então não se considera demonstrada contradição física.",
+   "limites_de_generalizacao": "Sequência, arrependimento e mudança de conduta são contribuições possíveis, não requisitos. A premissa (luto por animal) não é original por si; a qualidade depende da construção específica. Não generaliza para outras histórias de luto animal. [Limites redigidos por Claude e aprovados por Eri em 22/10/2026.]"
+  },
+  "W15": {
+   "conteudo_original": {
+    "foto_prevista": "Corredor escuro à noite com uma porta entreaberta deixando escapar uma faixa de luz quente sobre o piso. Vê-se apenas a cama arrumada pela fresta, sem pessoas, sem marcas.",
+    "na_foto": "Uma porta de quarto entreaberta, luz acesa.",
+    "fora": "Ninguém dorme ali desde setembro. A mãe apaga todas as luzes da casa, menos essa, e diz que esqueceu."
+   },
+   "classificacao_inicial": {
+    "avaliador": "ChatGPT (externo independente, cego aos Críticos)",
+    "rotulo": "RUIM"
+   },
+   "justificativas_historicas": {
+    "externa": "O quarto vazio, a luz mantida acesa e a mãe que afirma ter esquecido constroem uma representação bastante convencional da ausência. A omissão da causa não é necessariamente um defeito, mas o conjunto depende de uma sugestão sentimental previsível e pouco original.",
+    "criticos": {
+     "v23_run1": {
+      "veredicto": "APROVADA",
+      "justificativa": "A faixa de luz vira vigília disfarçada de esquecimento. 'Diz que esqueceu' dá o comportamento específico."
+     },
+     "v23_run2": {
+      "veredicto": "APROVADA",
+      "justificativa": "A cama arrumada e a luz quente ganham novo sentido com o FORA, e 'diz que esqueceu' acrescenta perspectiva humana específica. A emoção fica implícita."
+     },
+     "v22_run1": {
+      "veredicto": "APROVADA",
+      "justificativa": "A associação comum (luz esperando alguém) é transformada pelo detalhe concreto 'apaga todas as luzes, menos essa, e diz que esqueceu'. A foto ganha segunda leitura pela fresta e pela cama arrumada."
+     },
+     "v22_run2": {
+      "veredicto": "APROVADA",
+      "justificativa": "A luz que parecia esquecida vira vigília negada pela própria mãe, e o par 'apaga todas, menos essa' mais 'diz que esqueceu' é específico e concreto. A associação é comum, mas tem detalhe humano próprio."
+     }
+    }
+   },
+   "divergencias_observadas": "Avaliador externo: RUIM (convencionalidade sentimental). Eri, após arbitragem: AMBÍGUA. As quatro execuções do Crítico: APROVADA. Três posições distintas sobre o mesmo texto.",
+   "decisao_posterior": {
+    "decisor": "Eri",
+    "decisao": "AMBÍGUA, reavaliada (antes RUIM)"
+   },
+   "data_e_contexto": {
+    "data": "2026-10-22",
+    "circunstancias": "22/10/2026, por volta das 23h, após Eri conhecer os veredictos das quatro execuções do Crítico (v2.2 e v2.3-exp), o relatório comparativo, o diagnóstico qualitativo e o documento de arbitragem. Decisão posterior ao conhecimento dos resultados; não é avaliação cega.",
+    "conhecimento_previo_dos_veredictos_dos_criticos": true
+   },
+   "contaminacao": {
+    "contaminado_para_validacao_independente": true,
+    "observacao": "Não usar como validação independente de versões futuras."
+   },
+   "principio_editorial_extraido": "O contraste entre manter deliberadamente a luz acesa e afirmar que a esqueceu acrescenta dimensão comportamental ao texto. A causa da ausência pode permanecer implícita; não se exige explicação sobre o que aconteceu em setembro.",
+   "limites_de_generalizacao": "A construção continua muito associada à convenção da luz mantida para alguém ausente: há potencial editorial, mas a força não está suficientemente demonstrada para aprovação inequívoca. Não vale para qualquer contraste entre ato e fala. Convencionalidade da premissa não é, por si, motivo de reprovação. [Limites redigidos por Claude e aprovados por Eri em 22/10/2026.]"
+  },
+  "W19": {
+   "conteudo_original": {
+    "foto_prevista": "Gancho atrás de uma porta com guarda-chuva preto fechado, sem logotipo, cabo de madeira gasto pelo uso. Penumbra de corredor, pingos visíveis numa janela ao fundo. Sem pessoas.",
+    "na_foto": "Um guarda-chuva preto pendurado atrás da porta.",
+    "fora": "Chove há uma semana e ela se molha. Era do marido, e abri-lo seria gastar o que resta dele."
+   },
+   "classificacao_inicial": {
+    "avaliador": "ChatGPT (externo independente, cego aos Críticos)",
+    "rotulo": "RUIM"
+   },
+   "justificativas_historicas": {
+    "externa": "O guarda-chuva preservado como vestígio de uma pessoa ausente utiliza uma associação sentimental convencional. A ideia de que abrir o objeto consumiria o que resta do marido é poética, mas pouco sustentada por uma relação narrativa original.",
+    "criticos": {
+     "v23_run1": {
+      "veredicto": "REVISAR",
+      "justificativa": "O comportamento concreto (se molhar há uma semana) é bom, mas a frase final explica o que o gesto já mostra. É corrigível cortando a explicação."
+     },
+     "v23_run2": {
+      "veredicto": "APROVADA",
+      "justificativa": "O cabo gasto e a janela com pingos ganham sentido quando o FORA mostra que ela se molha para não gastar o guarda-chuva. O mecanismo é concreto e a emoção fica implícita."
+     },
+     "v22_run1": {
+      "veredicto": "APROVADA",
+      "justificativa": "O guarda-chuva pendurado passa de esquecimento a objeto que ela protege de si mesma, e 'chove há uma semana e ela se molha' é fato concreto. A segunda cláusula é um tanto explicativa, por isso a nota é média."
+     },
+     "v22_run2": {
+      "veredicto": "APROVADA",
+      "justificativa": "A foto de um guarda-chuva parado no gancho ganha novo sentido: ela se molha para não gastar o que resta do marido, e o cabo gasto passa a pesar. O custo físico torna a perspectiva específica."
+     }
+    }
+   },
+   "divergencias_observadas": "Avaliador externo: RUIM (associação sentimental convencional). Eri, após arbitragem: AMBÍGUA. Crítico: APROVADA em três das quatro execuções, REVISAR em uma (v2.3-exp execução 1).",
+   "decisao_posterior": {
+    "decisor": "Eri",
+    "decisao": "AMBÍGUA, reavaliada (antes RUIM)"
+   },
+   "data_e_contexto": {
+    "data": "2026-10-22",
+    "circunstancias": "22/10/2026, por volta das 23h, após Eri conhecer os veredictos das quatro execuções do Crítico (v2.2 e v2.3-exp), o relatório comparativo, o diagnóstico qualitativo e o documento de arbitragem. Decisão posterior ao conhecimento dos resultados; não é avaliação cega.",
+    "conhecimento_previo_dos_veredictos_dos_criticos": true
+   },
+   "contaminacao": {
+    "contaminado_para_validacao_independente": true,
+    "observacao": "Não usar como validação independente de versões futuras."
+   },
+   "principio_editorial_extraido": "Molhar-se para não usar o guarda-chuva é comportamento específico e relevante. A oração final explica a emoção por uma metáfora de perda; esse excesso pode ser corrigível sem substituir o núcleo narrativo. Um problema principal localizado e potencialmente corrigível não leva automaticamente a RUIM.",
+   "limites_de_generalizacao": "Corrigível não implica aprovação imediata. Não generaliza para casos em que a metáfora sustenta todo o núcleo. [Limites redigidos por Claude e aprovados por Eri em 22/10/2026.]"
+  }
+ }
+}
