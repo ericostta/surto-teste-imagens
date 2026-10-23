@@ -1,0 +1,126 @@
+PROJETO: SURTO DE LUCIDEZ  
+SKILL: O QUE NINGUÉM LEGENDA  
+AVALIAÇÃO EXTERNA INDEPENDENTE  
+CONJUNTO: Q01 A Q24  
+AVALIADOR: ChatGPT  
+REFERÊNCIA: DNA Editorial e padrão de exigência máxima
+
+## CLASSIFICAÇÕES
+
+Q01: RUIM  
+A cadeira vazia associada à saudade e ao amor que permanece é um clichê sentimental. O texto reforça uma associação previsível e utiliza personificação convencional, sem revelação humana específica.
+
+Q02: AMBÍGUA  
+A passagem para a autonomia infantil tem potencial, mas a lógica entre retirar uma rodinha e guardar a outra não é suficientemente clara. A cena precisa de maior coerência para que o gesto adquira significado.
+
+Q03: RUIM  
+A revelação simplesmente descreve o estado do copo e da água. Não existe segunda leitura, transformação narrativa ou informação significativa.
+
+Q04: RUIM  
+Mensagem moralista e genérica sobre o uso de celulares. A fotografia funciona apenas como ilustração de uma lição de comportamento.
+
+Q05: BOA  
+A cena revela um ritual cotidiano de cuidado construído ao longo de trinta anos. O prato coberto ganha significado afetivo pela repetição de um gesto concreto, sem depender de uma declaração abstrata de amor.
+
+Q06: AMBÍGUA  
+A capa infantil que deixou de servir sugere passagem do tempo e ausência, mas "para o lugar continuar dela" é impreciso. A história depende de uma situação familiar não suficientemente estabelecida e se aproxima de sentimentalismo convencional.
+
+Q07: RUIM  
+Metáfora abstrata sobre caminhos e vontade de continuar. Não apresenta micro-história, personagem ou transformação específica da interpretação da fotografia.
+
+Q08: AMBÍGUA  
+O ritual dos dois cafés tem força visual, mas a ausência da segunda pessoa permanece indefinida e a revelação não oferece uma mudança de perspectiva suficientemente clara. Pode resultar em tristeza sugerida apenas para provocar emoção.
+
+Q09: BOA  
+O horário de saída ganha uma dimensão familiar e social. A discrição do chefe acrescenta uma segunda camada à história, revelando uma relação humana que não é evidente no cartão de ponto.
+
+Q10: AMBÍGUA  
+A tecla marcada e o gesto de proteger uma nota tocada incorretamente oferecem uma possibilidade narrativa original. Entretanto, não fica suficientemente claro quem são os personagens, por que a nota era tocada errada de propósito nem como a fita evitaria correções. A ideia exige maior coerência.
+
+Q11: BOA  
+O despertador parado deixa de ser apenas um objeto antigo e passa a representar um hábito incorporado à memória familiar. A relação entre o horário do pai e o despertar da filha apresenta uma segunda leitura plausível e específica.
+
+Q12: BOA  
+O par de sapatos trocado ganha significado como expressão particular de uma criança. A decisão da professora de não corrigir revela uma forma discreta de reconhecimento e acolhimento, sem moralizar o gesto.
+
+Q13: RUIM  
+A frase utiliza uma metáfora convencional sobre o tempo e a espera. Não existe uma situação humana concreta que transforme a interpretação do relógio.
+
+Q14: RUIM  
+Atribui ao esquecimento um significado afetivo abstrato sem estabelecer uma história verificável dentro da narrativa. É uma frase de aparência poética, mas sem segunda leitura consistente.
+
+Q15: BOA  
+As etiquetas passam de simples organização a estratégias para lidar com dificuldades de memória. A letra trêmula reforça a interpretação sem entregar necessariamente toda a história. Há conexão concreta entre imagem e revelação.
+
+Q16: RUIM  
+Não existe uma relação narrativa compreensível entre o motorista que virou pescador e a pessoa que passou a usar botas amarelas. A surpresa é arbitrária.
+
+Q17: AMBÍGUA  
+A redução do preço poderia revelar uma relação de solidariedade entre feirante e freguesa. Entretanto, a construção contradiz a lógica do diálogo: a própria freguesa afirma que as laranjas passaram do ponto e depois finge acreditar. A intenção narrativa precisa ser esclarecida.
+
+Q18: AMBÍGUA  
+O gesto de oferecer a metade maior do pão tem potencial para revelar cuidado recíproco. Entretanto, a troca descrita é pouco clara e o significado final permanece incompleto. A cena ainda não atinge a força de uma segunda leitura autônoma.
+
+Q19: RUIM  
+A revelação apresenta referências pronominais confusas e uma sequência de ações que não permite reconstruir uma história compreensível. Obscuridade não constitui profundidade.
+
+Q20: RUIM  
+A relação entre os dias em que a padeira trabalha e as aulas de violino do filho em Lisboa não possui sustentação narrativa. A informação inesperada é arbitrária.
+
+Q21: RUIM  
+A divisão dos toques do telefone entre duas pessoas não é esclarecida de maneira plausível. A frase sugere um ritual afetivo, mas não fornece os elementos necessários para compreendê-lo.
+
+Q22: AMBÍGUA  
+O uso secreto da caneca pela neta sugere um vínculo afetivo particular. Entretanto, a razão do segredo não é apresentada, e o objeto identificado como pertencente à avó já antecipa boa parte do campo emocional. Falta uma revelação mais precisa.
+
+Q23: RUIM  
+A coincidência entre a cor da parede e a casa onde o irmão nasceu não estabelece, por si só, uma ligação narrativa convincente. O detalhe geográfico adiciona especificidade superficial, mas não cria significado suficiente.
+
+Q24: AMBÍGUA  
+O calendário registra uma rotina entre pai e filho, mas não fica clara a relação entre o sábado riscado e a derrota proposital no futebol. A informação pode ser significativa, mas a revelação está incompleta.
+
+## RESULTADO CONSOLIDADO
+
+BOA: 5  
+Q05, Q09, Q11, Q12, Q15.
+
+AMBÍGUA: 8  
+Q02, Q06, Q08, Q10, Q17, Q18, Q22, Q24.
+
+RUIM: 11  
+Q01, Q03, Q04, Q07, Q13, Q14, Q16, Q19, Q20, Q21, Q23.
+
+## ORIENTAÇÃO METODOLÓGICA
+
+Claude,
+
+Estas classificações constituem a referência externa independente para o teste da v2.2.
+
+Os rótulos foram definidos sem acesso aos resultados do Crítico, às previsões cegas ou ao gabarito de intenções do Criador.
+
+As classificações AMBÍGUA não autorizam publicação. Indicam potencial editorial acompanhado de falha que necessita de correção.
+
+Não altere os rótulos nem reescreva os itens após receber esta avaliação.
+
+Execute a validação conforme o protocolo previamente registrado.
+
+Compare separadamente os resultados da v2.1 e das duas execuções da v2.2.
+
+Priorize a investigação de:
+
+1. Publicações RUIM que forem aprovadas.
+2. Publicações BOA que forem reprovadas.
+3. Encaminhamentos desnecessários para REVISAR.
+4. Defeitos reais identificados corretamente.
+5. Defeitos inventados ou insuficientemente demonstrados.
+6. Inconsistências entre as duas execuções da v2.2.
+
+Não utilize a taxa global de concordância como justificativa isolada para homologação.
+
+Não ajuste os prompts retrospectivamente para acomodar estas classificações.
+
+A intenção do Criador não deverá prevalecer sobre a qualidade efetivamente demonstrada pela publicação.
+
+A Fase A continuará experimental até que os resultados sejam examinados criticamente.
+
+O critério de aprovação permanece elevado: uma publicação precisa ser boa por mérito narrativo, não apenas porque não apresenta erros evidentes.
