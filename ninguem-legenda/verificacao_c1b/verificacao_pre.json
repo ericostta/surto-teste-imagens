@@ -1,5 +1,5 @@
 {
- "quando": "2026-10-23T19:55:56.759417+00:00",
+ "quando": "2026-10-23T19:58:29.345027+00:00",
  "resultado": {
   "lacre_emenda2": [
    14,
@@ -21,8 +21,8 @@
   "arquivos_em_execucoes": 0,
   "arquivos_em_lacrado": 0,
   "arquivos_em_pacotes": 0,
-  "arquivos_em_privado": 0,
-  "arquivos_em_producao": 0
+  "arquivos_em_privado": 3,
+  "arquivos_em_producao": 20
  },
  "falhas": []
 }
