@@ -1,0 +1,680 @@
+{
+ "marco": "M2",
+ "data_hora_local": "2026-10-23T00:11-03:00 (mensagem de Eri); execução em 2026-10-23T03:12:00.847218+00:00",
+ "execucoes_do_sorteio": 1,
+ "frase_semente_literal": "O que ninguém legenda também merece ser visto.",
+ "frase_observacao": "Registrada exatamente como enviada por Eri na mensagem de 23/10/2026 00h11, incluindo o ponto final e a acentuação. Codificação UTF-8, sem espaços extras.",
+ "algoritmo": "pontuacao(id)=SHA-256(frase|hash_lista|sal|id); ordem crescente; 30 primeiros = fluxo; demais = reservas",
+ "script": "referencia_editorial/sorteio_g1.py",
+ "hash_lista": "454a83dd4ff1d1924e534ed58a6e5d880b428167a22736541563e7e36e8d39f8",
+ "sal": "g1-fluxo",
+ "n": 30,
+ "integridade_m1_antes_do_sorteio": "22 arquivos conferidos, sem divergência",
+ "commit_base_m1": "c47274cb8cdbe21fc9ca45b96e733775f270938c",
+ "selecionados_em_ordem": [
+  {
+   "ordem": 1,
+   "id": "K38",
+   "pontuacao": "00139b4d5dafcb0f9464e461ab4a4b3087ba58bad87dd85c5f191974066d9582",
+   "conceito": {
+    "id": "K38",
+    "descricao": "Goteira no telhado de zinco durante chuva forte, panela no chão aparando a água.",
+    "ambiente": "casa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 2,
+   "id": "K18",
+   "pontuacao": "0269d0039ed5dde9c51db58ea6a525456c73bbc0f33b1b851ff00d4511929eae",
+   "conceito": {
+    "id": "K18",
+    "descricao": "Pescador de costas lançando uma rede num lago ao amanhecer, neblina baixa.",
+    "ambiente": "natureza",
+    "presenca": "costas"
+   }
+  },
+  {
+   "ordem": 3,
+   "id": "K01",
+   "pontuacao": "027853359df7fd888ea2cc2d5ee28719de6d2b6583dab9ab61dc6970f786af23",
+   "conceito": {
+    "id": "K01",
+    "descricao": "Bancada de cozinha com tábua de madeira, uma cebola cortada ao meio e uma faca, luz da manhã.",
+    "ambiente": "cozinha",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 4,
+   "id": "K41",
+   "pontuacao": "027c00222803ccca989bb7eb49a17df64050d5e3993795ace3da327a757e5f23",
+   "conceito": {
+    "id": "K41",
+    "descricao": "Mesa de sinuca com bolas dispostas e o taco encostado na borda.",
+    "ambiente": "lazer_esporte",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 5,
+   "id": "K23",
+   "pontuacao": "02d6827aa280b588e26c162ebbaecd829dae1f5edef95904e4114275534b3642",
+   "conceito": {
+    "id": "K23",
+    "descricao": "Árvore grande no centro de uma praça, folhas amarelas espalhadas pelo chão.",
+    "ambiente": "natureza",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 6,
+   "id": "K33",
+   "pontuacao": "114a00fc333f6d2dfb4e809a9d43d4ab64d38748851fedf83a34f94ecbbc47e7",
+   "conceito": {
+    "id": "K33",
+    "descricao": "Ônibus escolar amarelo parado numa estrada rural, poeira no ar.",
+    "ambiente": "transporte",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 7,
+   "id": "K20",
+   "pontuacao": "15c720efad8de55d1a781e1f2d716dc1cedcc90fd3a156a278aa08436038b807",
+   "conceito": {
+    "id": "K20",
+    "descricao": "Sofá de sala com almofadas desalinhadas e um controle remoto no braço, televisão desligada.",
+    "ambiente": "casa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 8,
+   "id": "K55",
+   "pontuacao": "1781c7e48a38b56700a4aedf5da2367780b1d724480ad14dc62d7fda14d57c02",
+   "conceito": {
+    "id": "K55",
+    "descricao": "Rodoviária à noite com bancos de plástico e um funcionário de costas varrendo o chão.",
+    "ambiente": "transporte",
+    "presenca": "costas"
+   }
+  },
+  {
+   "ordem": 9,
+   "id": "K13",
+   "pontuacao": "18434c628f3cccba5398a2c9656856374c7fc374a676553f2417677f5edc1620",
+   "conceito": {
+    "id": "K13",
+    "descricao": "Bandeirinhas coloridas penduradas entre postes numa rua de bairro, céu de fim de tarde.",
+    "ambiente": "festa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 10,
+   "id": "K12",
+   "pontuacao": "1a6d50751bc96086fe8e4fccfbbb979a05fc083e25cb11c611413e06df9fe2e8",
+   "conceito": {
+    "id": "K12",
+    "descricao": "Tesoura e mechas de cabelo no chão de uma barbearia, cadeira giratória ao fundo.",
+    "ambiente": "comercio",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 11,
+   "id": "K34",
+   "pontuacao": "1cf2fa8ac7795ad9fcb571293727f155e506ee02165ab6b5bbebc425810b548b",
+   "conceito": {
+    "id": "K34",
+    "descricao": "Máquina de costura com tecido estampado sob a agulha, mão guiando o pano.",
+    "ambiente": "trabalho",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 12,
+   "id": "K50",
+   "pontuacao": "22a9726d1e9402ac3ad8df1f000051885cb99e6f25463ec7dbf7f989ed57529a",
+   "conceito": {
+    "id": "K50",
+    "descricao": "Mão segurando um molho de chaves diante de uma porta de madeira.",
+    "ambiente": "casa",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 13,
+   "id": "K42",
+   "pontuacao": "257e6b7c47a62ab347ff03c71ea5ba39e0bba20b781356a3a7a7a29402052928",
+   "conceito": {
+    "id": "K42",
+    "descricao": "Aparelho de ar-condicionado pingando na fachada de um prédio, mancha escura na parede abaixo.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 14,
+   "id": "K39",
+   "pontuacao": "25dc5fc535d6a8078eeceb7bd1ea240fa16c142931f4c2169906fb044818bc6d",
+   "conceito": {
+    "id": "K39",
+    "descricao": "Contêineres coloridos de coleta seletiva alinhados na calçada, dia de recolhimento.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 15,
+   "id": "K03",
+   "pontuacao": "2723474251bcf4a5f693053bc4baf45a089bcef2d96e6659ea1a3d8c8776e28e",
+   "conceito": {
+    "id": "K03",
+    "descricao": "Mãos descascando uma laranja sobre uma pia de aço inox.",
+    "ambiente": "cozinha",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 16,
+   "id": "K29",
+   "pontuacao": "279674f4e0cfd793e38ebebebe6dc34eeedf04c3613cabe3288f423ac7a6f546",
+   "conceito": {
+    "id": "K29",
+    "descricao": "Pegadas pequenas de pés descalços na areia molhada, uma onda chegando.",
+    "ambiente": "natureza",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 17,
+   "id": "K51",
+   "pontuacao": "29516815f451be595d7a522c69981f459dccbaeb18883ad3d3ce17989db8fc73",
+   "conceito": {
+    "id": "K51",
+    "descricao": "Cortina de janela balançando com o vento, luz de fim de tarde atravessando o tecido.",
+    "ambiente": "casa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 18,
+   "id": "K40",
+   "pontuacao": "2959b99d366ca9d67e839f9e09cedc14435b7d4b0a60c2464dcec4196d0e929c",
+   "conceito": {
+    "id": "K40",
+    "descricao": "Campo de futebol de várzea com gramado irregular, gol de madeira e nuvens carregadas.",
+    "ambiente": "lazer_esporte",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 19,
+   "id": "K06",
+   "pontuacao": "2b192144afacc1b4d3610a869495b762b431720ec77810797b3d2659d1feb442",
+   "conceito": {
+    "id": "K06",
+    "descricao": "Quadra de futsal de bairro com traves enferrujadas e uma bola parada no meio, fim de tarde.",
+    "ambiente": "lazer_esporte",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 20,
+   "id": "K30",
+   "pontuacao": "37a341ec94afca00c5715ff90272ba8fcba3c7dda6e4ee54f4de658ef31c781a",
+   "conceito": {
+    "id": "K30",
+    "descricao": "Bandejas de salgados sob a vitrine iluminada de uma lanchonete, balcão de inox.",
+    "ambiente": "comercio",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 21,
+   "id": "K52",
+   "pontuacao": "3927a02dd46d393629a1b2a1d61cb4e2335fbcb5b26b9cdaef2c198fe0d3b63c",
+   "conceito": {
+    "id": "K52",
+    "descricao": "Estante de livros com lombadas desalinhadas e uma escada de madeira encostada.",
+    "ambiente": "casa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 22,
+   "id": "K26",
+   "pontuacao": "4083d63ee986e3a4e32355b84d131590d9e660bad72ab5c6638c8b37fa99c666",
+   "conceito": {
+    "id": "K26",
+    "descricao": "Capacete de obra e botas de segurança sobre um andaime ao fim do dia.",
+    "ambiente": "trabalho",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 23,
+   "id": "K10",
+   "pontuacao": "4ffc4f9e9d8d85331ce4c455828bdf7f0c6aa103b733b470bf10d722a2f2e04d",
+   "conceito": {
+    "id": "K10",
+    "descricao": "Bicicleta presa a um poste por uma corrente grossa, rua de bairro ao entardecer.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 24,
+   "id": "K08",
+   "pontuacao": "50363242f55960ce5c722081915b6d0e2728813616d3c6f902fb5aa4396b96f8",
+   "conceito": {
+    "id": "K08",
+    "descricao": "Pessoa de costas sentada na ponta de um píer, pés pendurados sobre a água calma.",
+    "ambiente": "natureza",
+    "presenca": "costas"
+   }
+  },
+  {
+   "ordem": 25,
+   "id": "K44",
+   "pontuacao": "536b54b56166e7ea88876ac00591632eafb1a3347ff51dd4c397e38e54530f63",
+   "conceito": {
+    "id": "K44",
+    "descricao": "Mão de criança segurando a mão de um adulto numa faixa de pedestres.",
+    "ambiente": "rua",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 26,
+   "id": "K58",
+   "pontuacao": "558239fb42560dfb5cee2dc33a736ce81a314b002b5b323d5bf116bb307996cd",
+   "conceito": {
+    "id": "K58",
+    "descricao": "Máquina de lavar roupa com a porta aberta e peças amontoadas dentro.",
+    "ambiente": "casa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 27,
+   "id": "K57",
+   "pontuacao": "56ca6dc367df0cb9313d62b2810e9b403193cf9cdb4980ab5aee3931048065d9",
+   "conceito": {
+    "id": "K57",
+    "descricao": "Toalha estendida sobre a areia de uma praia, sol alto e pegadas ao redor.",
+    "ambiente": "natureza",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 28,
+   "id": "K35",
+   "pontuacao": "67a465137ee67c191dd591cea3b2122513e4cfe78fc6d6ed4a0c4f6d9904f704",
+   "conceito": {
+    "id": "K35",
+    "descricao": "Prato de arroz, feijão e ovo frito sobre toalha xadrez, garfo ao lado.",
+    "ambiente": "cozinha",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 29,
+   "id": "K07",
+   "pontuacao": "7726dfa17da3db74b58291c1ca6e6949297aed53363f87b4cc8dc614c6e7f892",
+   "conceito": {
+    "id": "K07",
+    "descricao": "Balança de pratos com pesos de metal sobre o balcão de uma mercearia.",
+    "ambiente": "comercio",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 30,
+   "id": "K02",
+   "pontuacao": "7a58e3bcee02391b3aea3157cf83093e27220da18ae96223d780ea981aec80e3",
+   "conceito": {
+    "id": "K02",
+    "descricao": "Lençóis brancos balançando num varal de quintal, céu azul e muro baixo ao fundo.",
+    "ambiente": "quintal_varanda",
+    "presenca": "sem_pessoas"
+   }
+  }
+ ],
+ "reservas_em_ordem": [
+  {
+   "ordem": 1,
+   "id": "K32",
+   "pontuacao": "817b3a7ea361d53fd421ba73f1bd3f029719d5f6737312a5476ddcd8cef508fc",
+   "conceito": {
+    "id": "K32",
+    "descricao": "Aquário doméstico com peixes alaranjados e luz azulada, sala escura ao redor.",
+    "ambiente": "casa",
+    "presenca": "animal"
+   }
+  },
+  {
+   "ordem": 2,
+   "id": "K37",
+   "pontuacao": "81dd48044c4dc6b2d98b004623f76179fa0782c2a37176fd4e7ec8baab236fff",
+   "conceito": {
+    "id": "K37",
+    "descricao": "Mãos de duas pessoas jogando dominó sobre uma mesa de madeira.",
+    "ambiente": "lazer_esporte",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 3,
+   "id": "K28",
+   "pontuacao": "83aa040af1aaf8b473f6ffa6f301448ffe813dc481235063e14a962d9e9faa39",
+   "conceito": {
+    "id": "K28",
+    "descricao": "Prateleira de supermercado com latas alinhadas e um espaço vazio entre elas.",
+    "ambiente": "comercio",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 4,
+   "id": "K36",
+   "pontuacao": "83f4b5361eb799319215b560dbcc8669dd84dbc70b95fe99806d1121e178c75c",
+   "conceito": {
+    "id": "K36",
+    "descricao": "Biblioteca escolar com mesas compridas e uma pilha de livros devolvidos sobre o balcão.",
+    "ambiente": "escola",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 5,
+   "id": "K24",
+   "pontuacao": "85066ec272020c8a1ff8dca3973e8370d9976728c5e1eee4cc37d9c70d5e6cdb",
+   "conceito": {
+    "id": "K24",
+    "descricao": "Espelho de banheiro embaçado depois do banho, toalha pendurada atrás da porta.",
+    "ambiente": "casa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 6,
+   "id": "K22",
+   "pontuacao": "92cf0a17f213d7fd77ff0500e233d768caea57856bc14f2273a0bf4ffcc98fb9",
+   "conceito": {
+    "id": "K22",
+    "descricao": "Mãos sovando massa de pão sobre uma bancada enfarinhada.",
+    "ambiente": "cozinha",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 7,
+   "id": "K11",
+   "pontuacao": "933807ee295c784b7f26640f7f0f8714e60ab48e07306e43063923561b19878b",
+   "conceito": {
+    "id": "K11",
+    "descricao": "Entregador de costas empurrando um carrinho com caixas de papelão por um corredor de prédio.",
+    "ambiente": "trabalho",
+    "presenca": "costas"
+   }
+  },
+  {
+   "ordem": 8,
+   "id": "K45",
+   "pontuacao": "949aa45f471e518ce08e0bc4a5cc4c10ea8c2621a3f7e6a166c81993f439f031",
+   "conceito": {
+    "id": "K45",
+    "descricao": "Coador de pano sobre uma garrafa térmica, fogão a gás ao fundo, fumaça leve.",
+    "ambiente": "cozinha",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 9,
+   "id": "K19",
+   "pontuacao": "9b3f4e0f7967977006d953e28e7f74cfa4839d5dcfce5711ee3551a08484ca8f",
+   "conceito": {
+    "id": "K19",
+    "descricao": "Mesa de bar na calçada com garrafas verdes e um balde de gelo, noite quente.",
+    "ambiente": "lazer_esporte",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 10,
+   "id": "K54",
+   "pontuacao": "9b55b94cc45d54c6be65a56b03b9986378d2c3af6b6fcc9a587ca09518f4d074",
+   "conceito": {
+    "id": "K54",
+    "descricao": "Colher de pau dentro de uma panela de doce borbulhando, vapor subindo.",
+    "ambiente": "cozinha",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 11,
+   "id": "K49",
+   "pontuacao": "b00e6f6d00cf64b8eeea05c9fd328ac2a7435e753514e788eb21c1d2c60b68cc",
+   "conceito": {
+    "id": "K49",
+    "descricao": "Carrinho de pipoca na calçada com vidro embaçado e luz amarela ao entardecer.",
+    "ambiente": "comercio",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 12,
+   "id": "K25",
+   "pontuacao": "b4b4b844e7ba14f048ddd6e15dafcda32479dd4a2f0a7cc127c69e5749d569e7",
+   "conceito": {
+    "id": "K25",
+    "descricao": "Janela de ônibus com gotas de chuva escorrendo, paisagem urbana desfocada ao fundo.",
+    "ambiente": "transporte",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 13,
+   "id": "K60",
+   "pontuacao": "b66fcc618263795b24d9f3543a61011cd623569b4950132d2cb8e3511d8d7d26",
+   "conceito": {
+    "id": "K60",
+    "descricao": "Mãos trançando o cabelo de outra pessoa, as duas sentadas no chão de uma sala.",
+    "ambiente": "casa",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 14,
+   "id": "K43",
+   "pontuacao": "b83b8b081d02eb370b982b7b0d51bf23e75a3f68a222f352abd8f43fd681613c",
+   "conceito": {
+    "id": "K43",
+    "descricao": "Gato sentado no peitoril de uma janela observando a rua.",
+    "ambiente": "casa",
+    "presenca": "animal"
+   }
+  },
+  {
+   "ordem": 15,
+   "id": "K56",
+   "pontuacao": "b927b00b244f62243b37ff4c3e7798a9e67c200359161d7cc29589c1479d290e",
+   "conceito": {
+    "id": "K56",
+    "descricao": "Cone laranja de sinalização solto no meio de uma rua de paralelepípedos.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 16,
+   "id": "K46",
+   "pontuacao": "c05cdd5bc8aad8140e465e6ef18fdade5ec35f972b65e5598d643392edd6d2e9",
+   "conceito": {
+    "id": "K46",
+    "descricao": "Estrada de terra com porteira aberta e um carro distante levantando poeira.",
+    "ambiente": "natureza",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 17,
+   "id": "K16",
+   "pontuacao": "c29af3eb93e3ade1e8818f8e2b1c71e797c5df6d5a9efbf6ae5a19060ed90a3b",
+   "conceito": {
+    "id": "K16",
+    "descricao": "Cachorro caramelo dormindo ao sol diante de uma porta de metal fechada.",
+    "ambiente": "rua",
+    "presenca": "animal"
+   }
+  },
+  {
+   "ordem": 18,
+   "id": "K27",
+   "pontuacao": "c5e97ef7d19688c2bc0877199f04a031d21472d93d9cef2ec002545a759523fe",
+   "conceito": {
+    "id": "K27",
+    "descricao": "Pipa colorida presa nos fios elétricos acima de uma rua de casas.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 19,
+   "id": "K04",
+   "pontuacao": "d6ff8601a187cd582e0d14edaf642ac78cec1713a871d75e2071eba4ae847d01",
+   "conceito": {
+    "id": "K04",
+    "descricao": "Várias mãos segurando as barras de um vagão de metrô, luzes frias no teto.",
+    "ambiente": "transporte",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 20,
+   "id": "K09",
+   "pontuacao": "d853ae81be2d5471160148130b16aa1b36abf0b6d9576dc445a9f50f8f6cd407",
+   "conceito": {
+    "id": "K09",
+    "descricao": "Duas mãos digitando num notebook sobre a mesa de uma cafeteria, copos descartáveis ao lado.",
+    "ambiente": "trabalho",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 21,
+   "id": "K31",
+   "pontuacao": "da89cad891febdc41b53eebee46891eeb86536a9f84b7f5b5ceb11de26a39722",
+   "conceito": {
+    "id": "K31",
+    "descricao": "Quadro-negro limpo numa sala de aula com giz no apoio, luz entrando pela janela.",
+    "ambiente": "escola",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 22,
+   "id": "K21",
+   "pontuacao": "df7341415c6edc99af616f5684f7c25853ce36593c6b1884115d813c0a609fbd",
+   "conceito": {
+    "id": "K21",
+    "descricao": "Carrinhos de supermercado empilhados numa fileira longa no estacionamento, céu nublado.",
+    "ambiente": "comercio",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 23,
+   "id": "K14",
+   "pontuacao": "df9d1f0f0f7d89d92878b3f86ee30ce679ca95bd7acd2ad6756629abc82429e2",
+   "conceito": {
+    "id": "K14",
+    "descricao": "Mãos esfregando uma peça de roupa com sabão num tanque, espuma escorrendo.",
+    "ambiente": "casa",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 24,
+   "id": "K17",
+   "pontuacao": "e364e940747a6297a4a69f32b4d592916a6db6c6fe8945f5e6476f5b45b2eac3",
+   "conceito": {
+    "id": "K17",
+    "descricao": "Corrimão de escada rolante de um shopping, uma mão deslizando sobre a borracha preta.",
+    "ambiente": "comercio",
+    "presenca": "maos"
+   }
+  },
+  {
+   "ordem": 25,
+   "id": "K05",
+   "pontuacao": "e8fa830524bf4586c7ca1457801fc66a1f0e441c5b72011a98a8da4598f03f4a",
+   "conceito": {
+    "id": "K05",
+    "descricao": "Calçada molhada de chuva refletindo as luzes de uma rua à noite.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 26,
+   "id": "K47",
+   "pontuacao": "ee6adab5082b5b58dba36676308dbcd25e9d7283382d17a6a79f815c17ffecd1",
+   "conceito": {
+    "id": "K47",
+    "descricao": "Livro aberto de capa para baixo sobre uma toalha de praia, óculos de sol ao lado.",
+    "ambiente": "lazer_esporte",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 27,
+   "id": "K53",
+   "pontuacao": "ee88c1b11f0375c68dead26a600dd7d078efa3ca8636005e54dcb1b670298acd",
+   "conceito": {
+    "id": "K53",
+    "descricao": "Hortinha em latas penduradas numa laje, sol forte e roupas no varal ao fundo.",
+    "ambiente": "quintal_varanda",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 28,
+   "id": "K48",
+   "pontuacao": "f1a08945db966159eb72ae0faaaa32b3a5145e8b69aa1ce22433b501730c8ece",
+   "conceito": {
+    "id": "K48",
+    "descricao": "Balões de aniversário presos ao teto, alguns murchos, confete espalhado pelo chão.",
+    "ambiente": "festa",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 29,
+   "id": "K59",
+   "pontuacao": "f8221db82322513c57eca5821cf474378d7a9a4a9820ef1ccab9619f3d083afa",
+   "conceito": {
+    "id": "K59",
+    "descricao": "Prédios residenciais ao anoitecer com janelas acesas em andares diferentes.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  },
+  {
+   "ordem": 30,
+   "id": "K15",
+   "pontuacao": "fb8e29b2feedc2203a829b3548cdbbfb107ea36ce47f4aa4fd4ef4295021c943",
+   "conceito": {
+    "id": "K15",
+    "descricao": "Muro de tijolos aparentes com uma trepadeira florida e um portão de ferro entreaberto.",
+    "ambiente": "rua",
+    "presenca": "sem_pessoas"
+   }
+  }
+ ],
+ "log_de_ocorrencias": [],
+ "nao_refeito": true
+}
