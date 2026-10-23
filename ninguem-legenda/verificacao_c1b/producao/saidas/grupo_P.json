@@ -1,0 +1,26 @@
+[
+  {
+    "id": "P1",
+    "tema": "trabalho acadêmico",
+    "situacao": "pendrive único com anos de tese, carregado em todo lugar",
+    "mecanismo": "M01",
+    "emocao": "ironia",
+    "tipo_contraste": "pequeno_vs_grande",
+    "na_foto": "Um pendrive esquecido ao lado de um teclado.",
+    "fora": "Guarda oito anos de tese, sem cópia. Ele o leva no bolso até para a piscina.",
+    "conceito_foto": "Pendrive preto simples, sem marca nem texto, caído de lado ao lado de um teclado cinza liso numa mesa de madeira clara. Caneca de cerâmica lisa desfocada ao fundo. Luz lateral de fim de tarde. Nenhuma pessoa.",
+    "rosto": false
+  },
+  {
+    "id": "P2",
+    "tema": "briga entre irmãos",
+    "situacao": "guarda-chuva devolvido depois de dois anos",
+    "mecanismo": "M08",
+    "emocao": "reconciliacao",
+    "tipo_contraste": "ordem_aparente_vs_historia",
+    "na_foto": "Um guarda-chuva aberto secando no corredor.",
+    "fora": "Era do irmão e passou dois anos no armário dela. Hoje ela o devolveu e ficou para almoçar.",
+    "conceito_foto": "Guarda-chuva preto grande, aberto e apoiado no chão de um corredor de apartamento, gotas escorrendo sobre o piso de porcelanato. Porta de entrada entreaberta ao fundo, luz cinzenta de dia chuvoso. Sem sapatos, sem texto, sem marca. Nenhuma pessoa.",
+    "rosto": false
+  }
+]

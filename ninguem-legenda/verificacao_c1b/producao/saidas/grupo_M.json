@@ -1,0 +1,26 @@
+[
+  {
+    "id": "M1",
+    "tema": "pequena alegria de quem cuida do campo",
+    "situacao": "bola deixada de propósito no centro do campo vazio",
+    "mecanismo": "M12",
+    "emocao": "pequena_alegria",
+    "tipo_contraste": "cena_vs_autor_da_cena",
+    "na_foto": "Uma bola esquecida no meio do campo vazio.",
+    "fora": "Foi deixada de propósito pelo zelador, toda sexta, porque ele gosta de imaginar a pelada que vai começar quando alguém a achar.",
+    "conceito_foto": "Bola de futebol gasta, de couro claro, parada no centro de um campo de grama irregular, sem traves visíveis nem pessoas. Fim de tarde, luz baixa e dourada, sombra longa da bola. Sem marca nem texto.",
+    "rosto": false
+  },
+  {
+    "id": "M2",
+    "tema": "trilha e hábito coletivo",
+    "situacao": "monte de pedras formado por pedras trazidas no bolso",
+    "mecanismo": "M01",
+    "emocao": "surpresa",
+    "tipo_contraste": "pequeno_vs_grande",
+    "na_foto": "Uma pedra pequena e lisa equilibrada no topo.",
+    "fora": "O monte passa da cintura. Cada pedra veio no bolso de quem subiu, porque ninguém quer chegar ao topo de mãos vazias.",
+    "conceito_foto": "Close apertado de uma pedra pequena e lisa equilibrada sobre outras pedras, fundo de montanha desfocado e céu claro. Enquadramento fechado que não mostra o tamanho do monte. Luz de manhã. Nenhuma pessoa, sem texto.",
+    "rosto": false
+  }
+]

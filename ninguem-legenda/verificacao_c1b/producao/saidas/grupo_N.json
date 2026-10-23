@@ -1,0 +1,38 @@
+[
+  {
+    "id": "N1",
+    "tema": "infância com responsabilidade de adulto",
+    "situacao": "criança lava a louça antes de a mãe chegar do trabalho",
+    "mecanismo": "M01",
+    "emocao": "amadurecimento",
+    "tipo_contraste": "pequeno_vs_grande",
+    "na_foto": "Mãos ensaboando panelas, mangas de moletom arregaçadas.",
+    "fora": "Ele tem nove anos. Sobe num banquinho todo dia para alcançar a pia antes de a mãe chegar.",
+    "conceito_foto": "Close em duas mãos ensaboando uma panela numa pia de cozinha, mangas de moletom cinza arregaçadas até o antebraço. Enquadramento corta na altura do balcão, sem mostrar o chão, o banquinho nem o corpo. Escorredor com pratos, janela com luz fraca de fim de tarde. Sem rosto, sem texto, sem marca.",
+    "rosto": false
+  },
+  {
+    "id": "N2",
+    "tema": "irmãos afastados",
+    "situacao": "linha fixa mantida por anos à espera de uma ligação",
+    "mecanismo": "M06",
+    "emocao": "reconciliacao",
+    "tipo_contraste": "ordem_aparente_vs_historia",
+    "na_foto": "Um telefone fixo bege numa estante da sala.",
+    "fora": "Pagou a linha por vinte e dois anos para o caso de o irmão ligar. Ele ligou ontem.",
+    "conceito_foto": "Telefone fixo bege de mesa, fio enrolado, sobre prateleira de estante de madeira ao lado de um porta-retratos virado de costas e um vaso pequeno. Sala de casa simples, luz suave de fim de tarde por cortina clara. Nenhuma pessoa, sem texto legível, sem marca visível.",
+    "rosto": false
+  },
+  {
+    "id": "N3",
+    "tema": "rotina que sobrevive ao motivo",
+    "situacao": "prato guardado todas as noites para quem não precisa mais chegar tarde",
+    "mecanismo": "M03",
+    "emocao": "ironia",
+    "tipo_contraste": "presenca_vs_ausencia",
+    "na_foto": "Um prato coberto por outro, sobre o fogão apagado.",
+    "fora": "Ele está aposentado há três anos. Ainda chega tarde da garagem, e ela ainda guarda o prato.",
+    "conceito_foto": "Prato de louça branca de jantar coberto por outro prato emborcado, sobre a grade de um fogão apagado numa cozinha doméstica. Pano de prato dobrado ao lado. Luz amarelada de lâmpada de teto, janela escura ao fundo. Nenhuma pessoa, sem texto, sem marca.",
+    "rosto": false
+  }
+]

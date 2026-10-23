@@ -1,0 +1,38 @@
+[
+  {
+    "id": "D1",
+    "tema": "trabalho que mudou",
+    "situacao": "copeira segue enchendo a garrafa para uma equipe que já saiu do andar",
+    "mecanismo": "M03",
+    "emocao": "desconforto",
+    "tipo_contraste": "presenca_vs_ausencia",
+    "na_foto": "Uma garrafa térmica cheia e copos empilhados na copa.",
+    "fora": "Às 6h40 a copeira ainda a enche para a equipe. O andar foi desocupado em março e ninguém avisou a ela.",
+    "conceito_foto": "Close de bancada de copa de escritório: garrafa térmica de inox grande, cheia, com copos descartáveis empilhados ao lado e um pano dobrado. Sem janela para o andar, sem mesas à vista. Luz fria de lâmpada de teto. Nenhuma pessoa, sem marca, sem texto.",
+    "rosto": false
+  },
+  {
+    "id": "D2",
+    "tema": "escola",
+    "situacao": "professora demora a apagar o canto da lousa onde o aluno escreveu o nome",
+    "mecanismo": "M12",
+    "emocao": "pequena_alegria",
+    "tipo_contraste": "pequeno_vs_grande",
+    "na_foto": "Uma professora apagando a lousa no fim do dia.",
+    "fora": "Deixa o canto esquerdo por último. Hoje um aluno de seis anos escreveu ali o próprio nome, e ela ainda quer olhar.",
+    "conceito_foto": "Professora de costas, esponja na mão, apagando a lousa de uma sala de aula vazia no fim da tarde. O quadro mostra apenas contas de matemática borradas no centro e a parte esquerda fica fora do enquadramento. Luz dourada pela janela. Sem rosto, sem texto legível, sem marca.",
+    "rosto": false
+  },
+  {
+    "id": "D3",
+    "tema": "cidade e hábitos de bairro",
+    "situacao": "cone de trânsito segue reservando vaga de moto que não existe mais",
+    "mecanismo": "M01",
+    "emocao": "ironia",
+    "tipo_contraste": "ordem_aparente_vs_historia",
+    "na_foto": "Um cone laranja marcando uma vaga vazia na rua.",
+    "fora": "Guarda a vaga de uma moto vendida há quatro anos. A rua inteira respeita, e quem pôs o cone mudou de cidade.",
+    "conceito_foto": "Cone de trânsito laranja, um pouco desbotado, sobre o asfalto junto ao meio-fio de uma rua residencial, com uma vaga vazia ao lado. Carros estacionados desfocados adiante, calçada de bairro. Luz de fim de manhã. Nenhuma pessoa, sem placa legível, sem marca.",
+    "rosto": false
+  }
+]

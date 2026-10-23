@@ -1,0 +1,26 @@
+[
+  {
+    "id": "A1",
+    "tema": "pequenas manias",
+    "situacao": "pote de moedas guardado a cada noite em que desceu do ônibus um ponto antes de casa",
+    "mecanismo": "M01",
+    "emocao": "cotidiano",
+    "tipo_contraste": "pequeno_vs_grande",
+    "na_foto": "Um pote de vidro com moedas na prateleira da cozinha.",
+    "fora": "Uma moeda para cada noite em que desceu do ônibus um ponto antes de casa.",
+    "conceito_foto": "Pote de vidro de boca larga, cheio até dois terços de moedas de valores variados, sobre prateleira de madeira numa cozinha simples. Ao lado, um pano de prato dobrado e uma xícara de louça. Luz suave de fim de tarde vinda de janela lateral. Nenhuma pessoa, sem texto legível, sem marca.",
+    "rosto": false
+  },
+  {
+    "id": "A2",
+    "tema": "rituais discretos",
+    "situacao": "fones de ouvido usados sem música sempre que alguém se aproxima no prédio",
+    "mecanismo": "M03",
+    "emocao": "desconforto",
+    "tipo_contraste": "presenca_vs_ausencia",
+    "na_foto": "Fones de ouvido enrolados sobre o aparador da entrada.",
+    "fora": "Não tocam nada. Ele os põe sempre que ouve passos no corredor do prédio.",
+    "conceito_foto": "Fones de ouvido com fio, de cor escura, enrolados em um pequeno laço sobre o tampo de um aparador de madeira na entrada de um apartamento. Porta fechada ao fundo, levemente desfocada, um porta-retratos virado e uma tigela vazia ao lado. Luz fria e neutra do corredor. Nenhuma pessoa, sem texto legível, sem marca, sem celular à vista.",
+    "rosto": false
+  }
+]
