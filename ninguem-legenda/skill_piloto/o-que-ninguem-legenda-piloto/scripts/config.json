@@ -1,0 +1,50 @@
+{
+  "versao": "fase-a-0.1",
+  "nota": "Todos os valores sao experimentais e serao calibrados na homologacao.",
+  "limites_texto": {
+    "na_foto_max_palavras": 10,
+    "fora_max_palavras": 22,
+    "fora_min_palavras": 6
+  },
+  "historico": {
+    "janela_emocao": 30,
+    "alerta_concentracao_emocao": 0.4,
+    "janela_mecanismo": 5,
+    "janela_abertura_sintatica": 30,
+    "similaridade_texto_alerta": 0.55,
+    "similaridade_texto_falha": 0.75
+  },
+  "rostos": {
+    "max_por_10_edicoes": 2
+  },
+  "rodadas": {
+    "candidatas_por_rodada": 3,
+    "max_rodadas_texto": 2,
+    "max_geracoes_imagem_por_texto": 2
+  },
+  "revisao": {
+    "max_ciclos_por_candidata": 2,
+    "revisar_segue_para_imagem": false,
+    "reavaliacao_em_contexto_limpo": true,
+    "pode_revisar_foto_e_na_foto": true,
+    "alteracao_material_exige_previsoes_novas": true,
+    "recuperacao_exige_superioridade_sobre_original": true,
+    "foto_que_entrega_correcao_controlada_max": 1,
+    "criterio_v2_2_experimental": {
+      "acionado_por": "defeito_concreto_demonstrado",
+      "previsao_cega_e_gatilho": false,
+      "preserva_nucleo_narrativo": true,
+      "proibido_trocar_acontecimento_central": true
+    }
+  },
+  "versao_critico": "v2.1",
+  "critico": {
+    "nota_minima_desempate": 0,
+    "observacao": "Nota so serve para desempatar candidatas aprovaveis. Eliminatorias valem sobre a nota."
+  },
+  "critico_experimental": {
+    "versao": "v2.2",
+    "homologada": false,
+    "prompt": "prompts/critico_v2_2.md"
+  }
+}

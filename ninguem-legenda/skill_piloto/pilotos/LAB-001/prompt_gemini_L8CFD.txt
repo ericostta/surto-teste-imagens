@@ -1,0 +1,17 @@
+Fotografia realista de linguagem documental, formato vertical 9:16 (1080 x 1920).
+
+Cena: um guarda-chuva preto grande, de cabo reto, aberto e em pé sobre o piso de porcelanato claro do corredor de um apartamento comum, com a copa levemente inclinada e encostada na parede lateral para secar. Gotas escorrem pelas varetas e pela borda do tecido, e uma pequena poça se forma sob ele. A porta de entrada do apartamento está entreaberta ao fundo, desfocada, deixando passar uma luz cinzenta de dia chuvoso.
+
+Ambiente: corredor estreito e comum de apartamento, paredes lisas em tom claro, rodapé branco, piso de porcelanato bege acinzentado com reflexos suaves da água. Nada sobre o piso além do guarda-chuva e da poça.
+
+Câmera: ponto de vista na altura do peito, levemente de frente e em ângulo suave, lente de 35 mm, profundidade de campo moderada (guarda-chuva nítido, fundo levemente desfocado).
+
+Luz e cor: luz natural fria e difusa vinda da porta entreaberta, paleta contida em cinzas, bege frio e preto, sem cores saturadas.
+
+Composição: guarda-chuva na metade superior e central do quadro, com ar ao redor; terço inferior do quadro mais calmo e escuro, apenas piso e reflexo suave, sem detalhes importantes nos 20% inferiores e nos 13% superiores.
+
+Aparência: foto real, com aspecto de câmera de celular de boa qualidade, grão sutil, sem acabamento publicitário, sem aspecto de ilustração ou render.
+
+Não incluir: nenhuma pessoa, mão ou rosto; nenhum texto, letra, número, logotipo, marca ou marca-d'água; nenhuma etiqueta, cartão, nome ou iniciais no guarda-chuva; nenhum segundo objeto além do guarda-chuva e do ambiente descrito.
+
+Gere uma única imagem.

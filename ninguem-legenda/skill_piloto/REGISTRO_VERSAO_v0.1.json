@@ -1,0 +1,30 @@
+{
+ "versao": "PILOTO MANUAL v0.1",
+ "data": "2026-10-23",
+ "zip": "dist/o-que-ninguem-legenda-piloto-v0.1.zip",
+ "zip_sha256": "970ad43c60f4315bb3b391d84add757dabd3ec1dae4d8a0cbc935ab4e8d20b8e",
+ "arquivos": {
+  "o-que-ninguem-legenda-piloto/SKILL.md": "d772f59dee5538b351c7cfd699b0fe6dea24c404639163f3e80d753e263d8359",
+  "o-que-ninguem-legenda-piloto/assets/fonts/Inter-Medium.otf": "1e65171fccd6f445b7742728454620ec2867356c849af78e71bf2c4f0e3d97ba",
+  "o-que-ninguem-legenda-piloto/assets/fonts/Inter-Regular.otf": "be6d709dcb730ddaf050cbdae6fe89bd56d5d14dc66885639bbf6f06bd03521b",
+  "o-que-ninguem-legenda-piloto/assets/fonts/Inter-SemiBold.otf": "bd68706b7bf8b3c580ae57685a2116bb1704b3a9998309ccfec7cd486f8a593e",
+  "o-que-ninguem-legenda-piloto/assets/fonts/NOTICE.txt": "aabfe89b5691224d8263f7a566f47e39190a13142f87537d6baf4e326207d590",
+  "o-que-ninguem-legenda-piloto/assets/registro_piloto_modelo.csv": "fbdc9b32ebadd8e8af9fa69ea6bcf2ad9dd175b7d191302a6f30d32bb5ae9069",
+  "o-que-ninguem-legenda-piloto/references/analise_visual.md": "a71c528195864aa71150f5c32ea19fa1084bf744b782986dff7d5a5b411cb2d0",
+  "o-que-ninguem-legenda-piloto/references/assinatura_numeracao.md": "6cbb7c282bdb786f2d34fa86da7a9701fa1f59cb04eb3f0922f80a580eaeb128",
+  "o-que-ninguem-legenda-piloto/references/criador.md": "dad8a4000328b108015ad88884be73798dd1abb006bf471b5b23cfb968be6d76",
+  "o-que-ninguem-legenda-piloto/references/critico_operacao.md": "6647ab765df18825d6b07ff3a504000ed2c7c458c667488f71e62ac36acf0ab9",
+  "o-que-ninguem-legenda-piloto/references/critico_v2_2_referencia.md": "468fd3823f83909dd87127d7a4affd835df4be09c7601e62c37b38dc54b553a3",
+  "o-que-ninguem-legenda-piloto/references/identidade_editorial.md": "90de48a4b3ca09f9e9ff8120373a88917945938b3d10c91bc437fbd7903f8acc",
+  "o-que-ninguem-legenda-piloto/references/preditor_cego.md": "8db6783131ca8bd1cb850c91e67e6fecc1f1f492dc09589b0b52496976b897d6",
+  "o-que-ninguem-legenda-piloto/references/prompt_fotografico.md": "6a99891b50f17f6cb54bd6b315335ab1f2be2b9c291fcd484d70a588f76011b1",
+  "o-que-ninguem-legenda-piloto/references/versao_limitacoes.md": "b11a6976b840877b7923ae1437bba916e13f5977ed341587424f358bb8b391fb",
+  "o-que-ninguem-legenda-piloto/scripts/analisar_foto.py": "e1cc66f10c85f255bda0c3f1308314f637503c7199ecd488bb4d731cb7f2b07d",
+  "o-que-ninguem-legenda-piloto/scripts/checar_prompt.py": "62018547660859a90a90e4bed6cc7a1e8911f8768e6ebbd6f95bf3b63d154d94",
+  "o-que-ninguem-legenda-piloto/scripts/compor_story.py": "f1aef2b42777ec4d478e4d4a63104e6a5cd59efab0881c4787dfd9fb2bb384c8",
+  "o-que-ninguem-legenda-piloto/scripts/config.json": "7f58f1c26c784e606d9ef2f88de4964a02de8e966a00389ee77ab18676662488",
+  "o-que-ninguem-legenda-piloto/scripts/filtros.py": "84930acefce918b7ee3f6dfade593da58c554f52247e0d460c37e76a7475c9ef",
+  "o-que-ninguem-legenda-piloto/scripts/registro_piloto.csv": "fbdc9b32ebadd8e8af9fa69ea6bcf2ad9dd175b7d191302a6f30d32bb5ae9069",
+  "o-que-ninguem-legenda-piloto/scripts/taxonomia.json": "5057da39d348647434291569751e2229725844524ebf9380b8dae39e6b76d326"
+ }
+}
