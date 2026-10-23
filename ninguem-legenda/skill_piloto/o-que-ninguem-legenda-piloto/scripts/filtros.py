@@ -85,11 +85,37 @@ def mencao_afirmativa(texto_norm: str, termo: str) -> bool:
     return False
 
 
-def carregar_historico() -> list:
+# Estados do registro do piloto (v0.1.1). Fonte única: usada também por registro_numeracao.py e verificar_skill.py.
+ESTADOS_CANONICOS = ("RASCUNHO", "TEXTO_APROVADO", "FOTO_APROVADA", "ARTE_APROVADA", "RESERVADO", "PUBLICADO", "LIBERADO", "DESCARTADO")
+# Estados legados do laboratório, lidos como equivalentes (o CSV legado não é reescrito).
+ESTADOS_LEGADOS = {"ARTE_VALIDADA": "ARTE_APROVADA", "NA_FILA": "ARTE_APROVADA", "PUBLICADA": "PUBLICADO", "TEXTO_REPROVADO": "DESCARTADO"}
+# Entram no controle de similaridade, repetição e diversidade: toda história que foi aprovada, reservada ou publicada.
+ESTADOS_QUE_CONTAM = ("TEXTO_APROVADO", "FOTO_APROVADA", "ARTE_APROVADA", "RESERVADO", "PUBLICADO", "LIBERADO")
+
+
+def normalizar_estado(valor) -> str:
+    e = (valor or "").strip().upper()
+    return ESTADOS_LEGADOS.get(e, e)
+
+
+def carregar_historico(avisos=None) -> list:
+    """Linhas do registro que contam para o controle. Estado desconhecido NÃO é ignorado em silêncio:
+    conta (postura conservadora) e gera aviso em stderr e na lista `avisos`, se fornecida."""
     if not REGISTRO.exists():
         return []
+    saida = []
     with REGISTRO.open(encoding="utf-8", newline="") as f:
-        return [r for r in csv.DictReader(f) if r.get("estado") in ("TEXTO_APROVADO", "ARTE_VALIDADA", "NA_FILA", "PUBLICADA")]
+        for r in csv.DictReader(f):
+            e = normalizar_estado(r.get("estado"))
+            if e in ESTADOS_QUE_CONTAM:
+                saida.append(r)
+            elif e not in ESTADOS_CANONICOS:
+                msg = f"estado desconhecido no registro ({r.get('id')}): '{r.get('estado')}'; contado por precaução"
+                print("AVISO:", msg, file=sys.stderr)
+                if avisos is not None:
+                    avisos.append(msg)
+                saida.append(r)
+    return saida
 
 
 def avaliar(c: dict, historico: list, lote: list) -> dict:

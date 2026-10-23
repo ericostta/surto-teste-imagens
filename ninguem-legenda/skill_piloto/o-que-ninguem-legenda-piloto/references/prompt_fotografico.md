@@ -24,10 +24,10 @@ Armadilhas:
 8. Exclusões: nenhum texto, letra, número, logotipo, marca, marca-d'água; nenhuma pessoa nem rosto (padrão da série), salvo decisão expressa; nenhum objeto além dos descritos.
 9. Saída: uma única imagem.
 
-## Conferência antes de entregar
-- Rode `python3 scripts/checar_prompt.py --fora "<texto do FORA>" --prompt-arquivo prompt.txt`. Ele acusa palavras de conteúdo do FORA que aparecem no prompt. Ocorrência não é prova de erro, mas exige justificativa (por exemplo, um objeto que já está no NA FOTO).
-- Releia: o prompt contém algo que Eri só entenderia depois de ler o FORA? Se sim, retire.
-- Cada elemento do prompt está no conceito_foto ou no NA FOTO?
+## Conferência antes de entregar (duas camadas, a semântica é obrigatória)
+1. ANÁLISE SEMÂNTICA, feita por você e mostrada a Eri em poucas linhas antes do bloco: liste cada elemento do prompt e sua origem (conceito_foto ou NA FOTO). Para cada elemento, pergunte: sugere uma relação (família, casal, trabalho), um tempo transcorrido, um motivo, um antes ou depois, um segundo personagem ou objeto simbólico, um sentimento? Pergunte também: um leitor que visse só esta foto, sabendo só o NA FOTO, já inferiria algo do FORA? Qualquer elemento que antecipe a revelação sai ou é reformulado. Elementos neutros que o modelo costuma inventar (segundo guarda-chuva, bilhete, porta-retrato, sapatos de outra pessoa, objetos "de contexto") entram na lista de exclusões.
+2. CONFERÊNCIA LEXICAL AUXILIAR: `python3 scripts/checar_prompt.py --fora "<texto do FORA>" --na-foto "<texto do NA FOTO>" --prompt-arquivo prompt.txt`. Ela acusa palavras de conteúdo do FORA e termos de vínculo. É apenas apoio: sinônimos, pistas visuais e relações implícitas passam por ela. Ausência de alerta NÃO garante que o prompt não antecipa a revelação.
+Só entregue o bloco depois das duas camadas.
 
 ## Depois da geração
 Eri anexa a imagem e a skill segue o procedimento de references/analise_visual.md. Máximo de 2 gerações por história no piloto; depois, decisão de Eri.

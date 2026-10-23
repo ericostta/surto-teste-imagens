@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Confere se o prompt fotográfico vaza o conteúdo do FORA (PILOTO v0.1).
 Uso: python3 checar_prompt.py --fora "texto do FORA" --prompt-arquivo prompt.txt [--na-foto "texto do NA FOTO"]
-Lista palavras de conteúdo do FORA presentes no prompt. Ocorrência não é prova de erro (pode ser objeto já presente no NA FOTO),
+Lista palavras de conteúdo do FORA presentes no prompt. Conferência AUXILIAR: não garante ausência de antecipação (sinônimos, pistas visuais e relações implícitas passam). Ocorrência não é prova de erro (pode ser objeto já presente no NA FOTO),
 mas exige justificativa."""
 import argparse, re, unicodedata
 
