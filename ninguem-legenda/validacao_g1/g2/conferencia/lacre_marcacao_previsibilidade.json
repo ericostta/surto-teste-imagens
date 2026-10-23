@@ -1,0 +1,9 @@
+{
+ "nota": "Lacre da marca\u00e7\u00e3o de previsibilidade e da regra, anterior \u00e0 leitura dos r\u00f3tulos P associados a itens.",
+ "hashes": {
+  "g2/conferencia/marcacao_previsibilidade.json": "dbb664b2b000ca554697b897be39c6e22049884a3196d42c3dae268ac84e54ae",
+  "g2/conferencia/marcacao_previsibilidade.md": "a46889786e60e6952ec0c6a25d735fbb02bf77b60947b7b8ebe999b04a75cd1c",
+  "g2/conferencia/dados_marcacao.py": "673824926e26072dad6ccbd5cbf42ce8bb4393f6f79e91daa2438566fa222682",
+  "g2/conferencia/regra_tensoes_controle_pacote_humano.md": "e4bbb438b1a6f35f87e649dc7f69bb738c4c31db082461af57ee37c3c373ebe7"
+ }
+}

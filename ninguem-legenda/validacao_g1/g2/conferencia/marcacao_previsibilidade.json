@@ -1,0 +1,1382 @@
+[
+ {
+  "codigo_T": "T4D9CCF",
+  "nucleo_do_fora": "bola de onze anos que quatro jogadores temem perder",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê bola abandonada; FORA é cuidado coletivo"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "idem, ninguém volta para buscá-la"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "idem, grupo que sumiu"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TA45D93",
+  "nucleo_do_fora": "deixa o capacete no local para pegar o ônibus de tênis e ocultar a profissão",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê demissão ou acidente"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê fim de jornada, sem ocultação"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê dispensa ou acidente"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TE1FFAF",
+  "nucleo_do_fora": "última rua em que a criança ainda dá a mão; ele demora",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "inverte os papéis, sem despedida da mão"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "adulto confia na criança, sem a mão"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "inverte os papéis"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TBA8CC8",
+  "nucleo_do_fora": "suculenta propagada de folha alheia, onze pelo andar",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê planta única"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê planta única"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê planta única e sobrevivente"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T9545BB",
+  "nucleo_do_fora": "sobra de cortina vira vestido de boneca; neta exige bolso",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "costura como sustento, sem a boneca ou a neta"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "vínculo geracional, sem o núcleo"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "encomenda e contas, sem a neta"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T6A3A38",
+  "nucleo_do_fora": "casa nova há uma semana, confere a chave no molho",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "porta e hesitação, mas é retorno e não mudança"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "porta e emoção, mas é retorno"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "porta e medo, mas é retorno"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TDF7139",
+  "nucleo_do_fora": "panela sob a goteira há tantas chuvas que a filha só dorme com o plim",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "panela em lugar fixo, rotina adaptada à goteira"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "goteira e adaptação, sem a panela"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "panela no chão, aprendeu a viver com ela"
+   }
+  ],
+  "n_equivalentes": 2,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "T136138",
+  "nucleo_do_fora": "menino reina atrás dos lençóis; mãe finge não ver os pés",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê doença ou retorno"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê doença ou visita"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê hospital ou visita"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T570723",
+  "nucleo_do_fora": "bala dada como troco quando faltava moeda, trinta anos de centavos devidos",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "balas e afeto, sem o troco em bala"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "balas para crianças, sem o troco"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "balas e vendas não registradas, sem o troco"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TD3AB8F",
+  "nucleo_do_fora": "mentiu em casa para ter duas horas de nada escondido",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "isolamento e luto, sem a mentira de pendências"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "segredo recorrente, mas atribui a perda ou decisão"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "pensar diante da água, atribui perda"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TA4A657",
+  "nucleo_do_fora": "feirante acrescenta duas sem avisar todo sábado",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "dá a mais no saco, discreto"
+   },
+   {
+    "n": 2,
+    "classe": "EQUIVALENTE",
+    "justificativa": "dá a mais no peso sem pedir"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "põe a mais para freguesa de poucos trocados"
+   }
+  ],
+  "n_equivalentes": 3,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "T62A3E2",
+  "nucleo_do_fora": "trator contorna a árvore há quarenta anos porque ninguém quis cortá-la",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "árvore poupada por decisão, FORA é evitação"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "poupada de propósito pelo dono"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "poupada por vínculo familiar"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T8C6324",
+  "nucleo_do_fora": "festa foi em junho, ninguém quer subir para tirar o enfeite",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "acerta a festa junina, não o enfeite esquecido"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TBE1D9E",
+  "nucleo_do_fora": "cliente quase sem cabelo vem pelos quinze minutos de conversa",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "corte de ocasião especial"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "corte como conversa, mas no barbeiro"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "cliente vem pelo contato humano, primeira vez em meses"
+   }
+  ],
+  "n_equivalentes": 1,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T368EEE",
+  "nucleo_do_fora": "motorista deu a volta no terminal duas vezes para ele dormir",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "ninguém acorda, sem o gesto do motorista"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "dorme até o fim da linha, sem o motorista"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "motorista o deixa dormir até o fim da linha"
+   }
+  ],
+  "n_equivalentes": 1,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T56D79D",
+  "nucleo_do_fora": "risca a dívida dos vizinhos e finge ter perdido o caderno",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "riscou dívidas por conta própria"
+   },
+   {
+    "n": 2,
+    "classe": "EQUIVALENTE",
+    "justificativa": "perdoa em silêncio, riscando"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "dívidas perdoadas, nunca cobrou"
+   }
+  ],
+  "n_equivalentes": 3,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "TBAD139",
+  "nucleo_do_fora": "duas horas escolhendo o que ver, riram e a TV nem ligou",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê briga e silêncio"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê briga sem pazes"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê briga entre o casal"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T85A356",
+  "nucleo_do_fora": "único furo deixado pelo senhorio; nada merece ficar por ser definitivo",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "não sabe se ficará tempo bastante para pendurar"
+   },
+   {
+    "n": 2,
+    "classe": "EQUIVALENTE",
+    "justificativa": "ainda sem coragem de pendurar, sem saber se fica"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "hesita entre resto do inquilino e primeiro prego"
+   }
+  ],
+  "n_equivalentes": 2,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "TF0D21A",
+  "nucleo_do_fora": "aprendeu hoje sem rodinhas; o pai não sabe o que fazer com as mãos",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "aprendeu naquele dia, rodinhas tiradas pelo pai ou mãe"
+   },
+   {
+    "n": 2,
+    "classe": "EQUIVALENTE",
+    "justificativa": "acabou de aprender sem rodinhas"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "aprendeu naquele dia, pai emocionado"
+   }
+  ],
+  "n_equivalentes": 3,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "T38F8E2",
+  "nucleo_do_fora": "desenho da filha colado no forro do capacete",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "menciona bilhete ou foto da família no interior"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê casas que não habitará"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê homenagem ou esquecimento"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T364C0F",
+  "nucleo_do_fora": "na casa de dentro a mãe dorme a noite inteira pela primeira vez em oito verões",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê impasse condominial"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê impasse condominial"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê impasse condominial"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TD079FA",
+  "nucleo_do_fora": "toalha estendida às cinco; o dono volta para a cama e chega depois do almoço",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "chegou cedo, ou dono no mar; não é a reserva"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "pessoa presente, folga semanal"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "guarda o lugar, dono chega horas depois"
+   }
+  ],
+  "n_equivalentes": 1,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T5A874D",
+  "nucleo_do_fora": "o dono abre o banquinho para cumprimentar quem passa",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "senta no fim da tarde para falar com vizinhos"
+   },
+   {
+    "n": 2,
+    "classe": "EQUIVALENTE",
+    "justificativa": "idoso cumprimenta quem passa"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "senta para cumprimentar quem passa"
+   }
+  ],
+  "n_equivalentes": 3,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "T53D17F",
+  "nucleo_do_fora": "trilha aberta por quem buscava água antes do encanamento",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "gerações de moradores, sem a água"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "passos anteriores, sem a água"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "gerações de moradores, sem a água"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T930FF6",
+  "nucleo_do_fora": "sacola com o uniforme do filho que começa a escola amanhã",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "algo precioso para alguém em casa, sem a escola"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "presente ou pão levado com cuidado"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "presente ou pão protegido no ônibus"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T429566",
+  "nucleo_do_fora": "abre a janela às cinco para o cheiro do pão do vizinho; nunca falaram",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê espera por alguém"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê espera ou casa vazia"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê casa abandonada"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T99E3BC",
+  "nucleo_do_fora": "tira cada fiapo branco da laranja desde 2019, quando ela reclamou",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê refeição solitária"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê refeição solitária"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê refeição solitária"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T426C22",
+  "nucleo_do_fora": "rede vazia há meses; sai de madrugada para a vila achar que ainda vive disso",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "sustento e preocupação, sem a fachada"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "sustento, sem a fachada"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "pesca em queda, sem a fachada"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TAD93F3",
+  "nucleo_do_fora": "corta a cebola sem precisar, único jeito de chorar sem explicar",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "a cebola não é só o motivo do choro, sem o álibi"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê visita ou saudade"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "choro duplo, sem a cebola como álibi"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TADFFEF",
+  "nucleo_do_fora": "aos quatro anos esperou a onda sem correr, pela primeira vez",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê brincar de correr da onda"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê brincar de correr da onda"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "criança e mar com o pai fora do quadro"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T342B2B",
+  "nucleo_do_fora": "frigideira do tempo de seis à mesa; nunca quis comprar menor",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "frigideira grande de quando havia mais gente"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "cozinha para um só, sem a frigideira"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "mesma frigideira, filhos saíram de casa"
+   }
+  ],
+  "n_equivalentes": 2,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "T6E7482",
+  "nucleo_do_fora": "zelador varre tudo menos ali; às quatro as crianças vêm pisar nas folhas",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê varredor anônimo"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "folhas como beleza do lugar, sem as crianças"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê aposentado que varre"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T66D67E",
+  "nucleo_do_fora": "lápis inteiro no primeiro dia; recusa trocar para lembrar",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "apego afetivo ao toco, sem o primeiro dia"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê economia doméstica"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê economia doméstica"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T667306",
+  "nucleo_do_fora": "cento e vinte brigadeiros para um convidado; enrolou na madrugada",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "mãe e brigadeiros, sem a ausência de convidados"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "mãe e noite enrolando, sem a ausência"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "brigadeiros de madrugada, convidado de honra talvez nem apareça"
+   }
+  ],
+  "n_equivalentes": 1,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TEB3C98",
+  "nucleo_do_fora": "põe cedo só para conversar dois minutos com o coletor",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "figura do catador, sem a conversa"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TDD6670",
+  "nucleo_do_fora": "onze anos na mesa; tudo dele cabe na gaveta de baixo, pronto para sair",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "saída e precariedade, mas por demissão naquele dia"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T6ACC77",
+  "nucleo_do_fora": "52 anos, voltou a estudar; estojo colorido porque ninguém o proíbe",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê criança"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê criança"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê criança"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T62CBA8",
+  "nucleo_do_fora": "lavada três vezes; ninguém estende, o mofo obriga a repetir",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "acúmulo e cansaço, sem o ciclo do mofo"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "cansaço, sem o ciclo do mofo"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "adiar a tarefa, sem o ciclo do mofo"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TE593B2",
+  "nucleo_do_fora": "só couberam no orçamento; a aniversariante contou duas vezes",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "recursos escassos, sem a contagem"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "vaquinha da vizinhança, sem a contagem"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "voluntários, sem a contagem"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T99F721",
+  "nucleo_do_fora": "passou por quatro setores e três chefes, única constante da mesa",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "permanência do objeto, atribui a colega perdido"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "permanência do objeto, sem a mudança ao redor"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "permanência do objeto, atribui a presente"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TD427AC",
+  "nucleo_do_fora": "rede de vizinho que aparece às quatro e fica vinte minutos",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê espera ou desistência"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê ausência definitiva"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "alguém vai chegar, sem a rotina"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TF43E6A",
+  "nucleo_do_fora": "guarda há seis anos moedas dos bancos; já dá para uma passagem sem destino",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "trabalho noturno, sem as moedas"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "trabalho noturno, sem as moedas"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "trabalho noturno, sem as moedas"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TF82120",
+  "nucleo_do_fora": "o pai chuta no canto que o filho alcança e vibra a cada defesa",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "luvas e pai que as consegue"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê treino sem ninguém"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê treino sem ninguém"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T674934",
+  "nucleo_do_fora": "o avô erra de propósito a tacada final desde os dez anos do neto",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "desfecho combinado, mas pelos dois"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê aposta ou honra"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "resultado combinado, mas pelos dois"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T271294",
+  "nucleo_do_fora": "cada lombada para fora marca um livro devolvido; ele não alinha",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê busca interrompida ou luto"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê leitor assíduo"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "uso em vez de abandono, sem a devolução"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T53D5BD",
+  "nucleo_do_fora": "fritos às cinco por quem almoça pão com manteiga em pé",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "madrugada e preparo, sem o contraste do almoço"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "trabalho invisível, sem o contraste"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "autoria solitária, sem o contraste"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T4D7FCA",
+  "nucleo_do_fora": "primeiro dia de aula; apontou todos na véspera, um por um",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "primeiro dia e lápis apontados na véspera"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê lápis intactos por medo"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "apontados na véspera, mas sem o primeiro dia"
+   }
+  ],
+  "n_equivalentes": 1,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T31FAD8",
+  "nucleo_do_fora": "faz sempre o dobro; arroz de um só nunca saiu no ponto",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê cozinha para muita gente"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê cozinha para muita gente"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê cozinha para muita gente"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T9AB2DD",
+  "nucleo_do_fora": "62 anos; a primeira palavra inteira foi o nome do neto",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "adulto aprendendo tarde, sem a idade nem o neto"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "idem"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TC00927",
+  "nucleo_do_fora": "a filha tem 26 anos e mora sozinha; o pai ainda deixa a luz acesa",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "luz para o filho, mas como medo infantil"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "luz para filha com medo, mas criança"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "luz para o filho, mas como medo infantil"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T6A1042",
+  "nucleo_do_fora": "o dono erra a favor de quem conta moedas; ninguém percebeu",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "EQUIVALENTE",
+    "justificativa": "ajustada a favor do cliente"
+   },
+   {
+    "n": 2,
+    "classe": "EQUIVALENTE",
+    "justificativa": "pesa a favor do cliente"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "arredonda a favor do freguês"
+   }
+  ],
+  "n_equivalentes": 3,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "T84EC54",
+  "nucleo_do_fora": "único balão que ele encheu sozinho, após uma tarde; ficou com a cadeira de honra",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê festa vazia"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê esquecimento do balão"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "balão que a criança escolheu e leva"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TC43787",
+  "nucleo_do_fora": "ovo frito é o placar do mês, só aparece quando a conta fecha no azul",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê trabalho doméstico invisível"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê trabalho doméstico invisível"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê sustento familiar genérico"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T2CF9CC",
+  "nucleo_do_fora": "14 a 14 desde ontem; ninguém quer fazer o gol que acaba o campeonato",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê bola esquecida"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê quadra vazia"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê bola esquecida"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T0DDB63",
+  "nucleo_do_fora": "42 anos, aprendeu há três semanas escondido para segurar o selim",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê criança"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê criança"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê criança"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T74F5A1",
+  "nucleo_do_fora": "pai da noiva tirou os sapatos para não pisar nela na valsa; ensaiou três meses",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "pai da noiva descalço, mas com alternativa de embriaguez"
+   },
+   {
+    "n": 2,
+    "classe": "EQUIVALENTE",
+    "justificativa": "pai da noiva, casamento, dança descalço"
+   },
+   {
+    "n": 3,
+    "classe": "EQUIVALENTE",
+    "justificativa": "pai da noiva descalço, emocionado com o casamento"
+   }
+  ],
+  "n_equivalentes": 2,
+  "previsivel": true
+ },
+ {
+  "codigo_T": "T1039BC",
+  "nucleo_do_fora": "escreveu o nome da turma nova aos 58, depois de jurar que era a última",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "giz e fim de carreira, o oposto da turma nova"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "giz próprio, sem a turma nova"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "giz e aposentadoria, o oposto da turma nova"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TA9520A",
+  "nucleo_do_fora": "a corrente custou o triplo da bicicleta, primeiro presente da filha",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "corrente mais cara, mas por medo de roubo"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "corrente mais cara, mas por medo de roubo"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "corrente mais cara, sem o valor afetivo"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "TB303C9",
+  "nucleo_do_fora": "onze contra onze todo domingo; quem cancelar paga a cerveja",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "domingos, mas no passado"
+   },
+   {
+    "n": 2,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê campo mantido sem time"
+   },
+   {
+    "n": 3,
+    "classe": "NÃO EQUIVALENTE",
+    "justificativa": "prevê terreno vendido"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ },
+ {
+  "codigo_T": "T7D8B4D",
+  "nucleo_do_fora": "faz quarenta quilômetros por um único aluno; o motorista sabe o nome do cachorro",
+  "previsoes": [
+   {
+    "n": 1,
+    "classe": "PARCIAL",
+    "justificativa": "ônibus como único acesso, sem o aluno único"
+   },
+   {
+    "n": 2,
+    "classe": "PARCIAL",
+    "justificativa": "ônibus quase vazio, por evasão e não por um aluno"
+   },
+   {
+    "n": 3,
+    "classe": "PARCIAL",
+    "justificativa": "ônibus como único acesso, sem o aluno único"
+   }
+  ],
+  "n_equivalentes": 0,
+  "previsivel": false
+ }
+]

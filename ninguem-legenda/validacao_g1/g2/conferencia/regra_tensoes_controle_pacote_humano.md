@@ -1,0 +1,9 @@
+# Regra registrada ANTES do cruzamento com os rótulos externos
+
+Autorização: Eri, 23/10/2026 (decisões 1 a 6). Registrada e publicada antes de qualquer leitura dos rótulos P associados a itens.
+
+1. Previsível: pelo menos 2 das 3 previsões marcadas EQUIVALENTE (ver marcacao_previsibilidade.json, lacrada). PARCIAL não conta. Indicador exploratório, não é qualidade editorial.
+2. Tensões exploratórias: (A) previsível com rótulo BOA; (B) não previsível com rótulo RUIM. Não são erros nem justificam reclassificação. Todas vão para a conferência humana. Itens AMBÍGUA não são excluídos: entram como tensão se couberem em A ou B (não cabem, pois A e B exigem BOA ou RUIM) e, fora disso, concorrem ao controle.
+3. Controle: universo = os 60 itens menos as tensões. Tamanho = max(10, ceil(0,20 x universo)), limitado ao universo. Estratificação por rótulo (BOA, AMBÍGUA, RUIM) com cotas proporcionais pelo método do maior resto, garantindo pelo menos 1 por rótulo presente no universo quando o tamanho permitir. Dentro de cada estrato, escolha pelos menores valores de SHA-256("g2-controle|" + hash_do_conjunto + "|" + codigo_interno). Sem escolha por conveniência editorial. Qualquer impossibilidade será documentada.
+4. Pacote humano: itens = tensões + controle. Códigos novos com prefixo H, derivados por SHA-256("g2|humana|" + hash_do_conjunto + "|" + codigo_interno)[:6]; ordem por SHA-256("g2-ordem|humana|" + hash_do_conjunto + "|" + codigo_interno) crescente. Conteúdo: código, conceito fotográfico, NA FOTO, FORA, referência editorial do avaliador (a mesma do pacote externo). Sem rótulo externo, previsões, indicador de previsibilidade, grupo, procedência ou intenção.
+5. Registros separados e lacrados com hash e commit: (i) marcação de previsibilidade, (ii) lista de tensões, (iii) seleção de controle, (iv) mapa privado dos códigos H, (v) pacote humano. O cruzamento não altera registros anteriores.
