@@ -1,0 +1,23 @@
+--- prompts/critico_v2_2.md
++++ pos_g3/intervencao/critico_v2_2_c1.md
+@@ -1,2 +1,4 @@
+-# CRÍTICO EDITORIAL v2.2 (EXPERIMENTAL, FASE A): O QUE NINGUÉM LEGENDA
++# CRÍTICO EDITORIAL v2.2 + CANDIDATA C1 (EXPERIMENTAL, NÃO PROMOVIDA): O QUE NINGUÉM LEGENDA
++
++Candidata C1 de 23/10/2026: idêntica à v2.2 exceto por este cabeçalho de identificação e por três inserções localizadas (E1, E5 e a seção Salvaguarda de abertura interpretativa). O campo versao_criterio da saída permanece "v2.2" para usar o validador congelado; a identidade da execução é registrada fora da saída.
+ 
+@@ -30,2 +32,3 @@
+ E1. Elemento que muda e segunda leitura: nomeie o objeto, gesto, ausência, relação ou situação que ganha novo significado, e diga qual era a leitura inicial e qual passa a ser. Diga por que o leitor voltaria a olhar a foto.
++    A transformação precisa ser demonstrada sobre o que a foto e o NA FOTO efetivamente mostram ou afirmam (um objeto, gesto ou ausência visível, ou a afirmação do próprio NA FOTO). Desfazer apenas a leitura que as previsões fizeram, quando o NA FOTO não afirma essa leitura, não demonstra transformação por si só.
+ E2. Plausibilidade e naturalidade: o comportamento e a situação são humanamente plausíveis e a frase soa natural, sem premissas forçadas para a história funcionar.
+@@ -34,2 +37,3 @@
+ E5. Originalidade: a revelação traz perspectiva humana específica e não é apenas a associação mais comum e imediata da categoria da imagem.
++    Teste de remoção: reescreva mentalmente o FORA sem números, idades, quantidades e outros detalhes de ornamento. Se a transformação da leitura da foto desaparece, o detalhe era ornamento e o mérito positivo não está demonstrado: não aprove. Registre o trecho e trate como cliche_efetivo corrigível (se o núcleo é aproveitável) ou perda_segunda_leitura.
+ 
+@@ -53,2 +57,6 @@
+ Previsibilidade NÃO está na lista. As previsões cegas só entram como prova DENTRO de um defeito da lista (por exemplo, leitores capturaram a revelação e você demonstra que ela não acrescenta nada específico: cliche_efetivo; ou capturaram porque a foto entrega: redundancia). Capturar a revelação, sozinho, não é defeito.
++
++## Salvaguarda de abertura interpretativa
++
++Uma história que admite mais de uma leitura legítima não é, por isso, deficiente. Se a transformação da leitura da foto está demonstrada em qualquer das leituras plausíveis, o mérito está demonstrado: aprove. Os dois reforços acima (E1 e E5) servem apenas para distinguir mérito demonstrado de mérito apenas sugerido. Não os use para exigir moral explícita, literalidade, motivo declarado ou explicação fechada, nem para punir polissemia, implícito ou emoção não nomeada.
+ 
