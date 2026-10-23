@@ -84,6 +84,12 @@ Não são pendências, por terem padrão adotado: acesso a segundo avaliador (Al
 Sequência vigente: M0, G0, M1, M2, G1, G2, G3, sem avanço automático. Estado: M0 pendente da aprovação definitiva da ordem e do hash da lista (lista aprovada preliminarmente); G0 em andamento, com entrega para revisão de Eri (prompts/critico_v2_4_exp.md, instrumentos, `g0_materiais_desenvolvimento.json`, `protocolo_analise_g1.md`); M1 não autorizado.
 Condições da G1 que agora dependem do M1: conjunto de versões declarado e congelado (v2.4-exp, v2.2, v2.3-exp); protocolo de análise lacrado; frase-semente fornecida por Eri só depois do M1. A pendência (c) da seção 3.1 está resolvida: o conjunto é v2.4-exp contra v2.2 (principal) e v2.3-exp (secundário). Controles especiais permanecem fora da G1.
 
+## 3.3 Atualização de 22/10, 23h55 (revisão 1 da G0)
+
+- A v2.4-exp foi aprovada na direção, sem autorização do M1, e revisada conforme as 12 decisões. Entregas: prompts/critico_v2_4_exp.md (revisão 1), prompts/julgador_motivos_v1_rascunho.md (revisão 1), protocolo_analise_g1.md (revisão 1), calibracao/v2_4_exp/diferencas_v2_4_exp.md e os diffs literais contra o rascunho de 0bd077f.
+- Controles especiais: a dimensão 6 não é eliminada. Sem os controles o experimento fica limitado à conclusão A. Lote independente, só com autorização específica posterior, depois do M1 e antes da G3, com regras congeladas antes da produção e fora dos 30 mais 30 (ver g1_protecao_conjunto_validacao.md, seção 3).
+- M1 permanece não autorizado. Nada foi executado, sorteado, gerado ou congelado.
+
 ## 4. Ordem que se seguirá, quando Eri autorizar
 
 Ordem aprovada: M0, G0, M1, M2, G1, G2, G3. G0, desenvolvimento só com material queimado. M1, congelamento por hash da candidata, controles, instrumentos e protocolo. M2, frase-semente e sorteio. G1, geração e congelamento dos itens com hash, sem rótulo e sem Crítico. G2, pacotes cegos, rótulos lacrados, triagem, exame humano, controle humano. G3, execuções, julgador, auditoria. Cada etapa exige autorização escrita própria, sem avanço automático. Permanecem intocáveis as dez janelas editoriais (início às 06h00, intervalo fixo de 1h30), a grade, o n8n, a fila, as publicadas e as skills existentes. Nenhuma publicação é ativada. Nenhuma versão é homologada.

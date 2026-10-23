@@ -1,70 +1,90 @@
-# Protocolo de análise da comparação G3 (PROPOSTA para revisão de Eri)
+# Protocolo de análise da comparação G3, revisão 1 (PROPOSTA para nova revisão de Eri)
 
-Data: 22/10/2026. Etapa G0. Rascunho. Não está lacrado nem congelado: só será lacrado por hash no marco M1, com autorização expressa de Eri. Nada foi executado. Os números abaixo são propostas a decidir por Eri, e estão marcados como tal.
+Data: 22/10/2026. Etapa G0, revisão conforme as decisões de Eri de 23h55. Não está lacrado nem congelado: só será lacrado por hash no marco M1, com autorização expressa. Nada foi executado. Os números marcados como proposta dependem de decisão de Eri.
 
 ## 1. Escopo e condições
 
-Versões comparadas: v2.4-exp (candidata), v2.2 (controle principal), v2.3-exp (controle secundário, só enquanto não for a candidata). Prompts, registros e resultados históricos das duas últimas permanecem inalterados. Mesmos 60 itens inéditos (30 de fluxo e 30 de desafio, analisados separadamente), mesmo pacote (instrumentos_g1/montar_pacotes.py), mesmo modelo e configuração, três execuções por versão, códigos e ordem embaralhados de forma independente por execução e por versão, contextos isolados, execuções das três versões feitas juntas e não reaproveitadas de experimentos anteriores. Falha técnica (formato inválido, truncamento) pode ser reexecutada uma vez, com o mesmo prompt e o motivo registrado. Todas as execuções entram na análise.
+Versões comparadas: v2.4-exp (candidata), v2.2 (controle principal), v2.3-exp (controle secundário, só enquanto não for a candidata), com prompts, registros e resultados históricos dos controles inalterados. Mesmos 60 itens inéditos (30 de fluxo e 30 de desafio, sempre analisados separadamente), mesmo pacote (instrumentos_g1/montar_pacotes.py), mesmo modelo e configuração, três execuções por versão, códigos e ordem embaralhados de forma independente por execução e por versão, contextos isolados, execuções das três versões feitas juntas e não reaproveitadas de experimentos anteriores. Falha técnica (formato inválido, truncamento) pode ser reexecutada uma vez, com o mesmo prompt e o motivo registrado. Todas as execuções entram na análise. Nenhuma execução favorável é selecionada retrospectivamente.
 
-Referência: rótulos do ChatGPT para os 60 itens, itens com conflito de triagem e amostra de controle (20% dos sem conflito, mínimo de 10) classificados por Eri às cegas e confrontados, divergências examinadas por Eri conforme a seção 2.3 do plano rev2. A referência não é verdade absoluta. Itens em divergência legítima formam a zona contestada e nunca entram como consenso. Correspondência: BOA, APROVADA; AMBÍGUA, REVISAR; RUIM, REPROVADA, em princípio.
+Referência: rótulos do ChatGPT para os 60 itens; itens com conflito de triagem e amostra de controle (20% dos sem conflito, mínimo de 10) classificados por Eri às cegas e confrontados; divergências examinadas por Eri conforme a seção 2.3 do plano rev2. A referência não é verdade absoluta. Itens em divergência legítima formam a zona contestada e nunca entram como consenso. Correspondência: BOA, APROVADA; AMBÍGUA, REVISAR; RUIM, REPROVADA, em princípio.
 
-## 2. Definições para evitar ambiguidade
+## 2. Dois registros por avaliação (decisão 3)
 
-- Aprovação automática: veredicto APROVADA sem divergência legítima material declarada. Nas versões v2.2 e v2.3-exp, que não têm o campo, toda APROVADA é aprovação automática. Para a candidata, os resultados são sempre reportados em duas leituras: por veredicto e por aprovação automática. A taxa de divergência material declarada por estrato é acompanhada, para detectar uso como escudo (proposta de alarme: declarada em mais de 20% dos itens, ou concentrada num estrato, a ser discutido por Eri).
-- Execução: uma rodada completa dos 30 itens do estrato por uma versão. Item e execução são os eventos analisados. Três execuções de 30 itens não são 90 itens independentes.
-- Evento grave: aprovação automática de item de referência RUIM sem contestação (camada 1).
+A. Veredicto bruto: APROVADA, REVISAR ou REPROVADA.
+B. Elegibilidade automática: APROVADA sem divergência material declarada. Nas versões v2.2 e v2.3-exp, que não têm o campo, toda APROVADA é elegível automaticamente. Na candidata, o campo elegibilidade_automatica é verificado pelo validador contra o veredicto e a divergência.
 
-## 3. Camadas de erro, reportadas separadamente (sem índice global)
+O relatório mostra sempre os dois, por camada de erro, por versão, por execução e por estrato. Nenhuma versão pode ser apresentada como superior apenas porque classificou aprovações duvidosas como divergência legítima: uma melhora que apareça só na elegibilidade automática, e não no veredicto bruto, é descrita como "melhora condicionada a divergências declaradas" e não sustenta a conclusão B.
 
-1. Aprovar automaticamente item de referência RUIM não contestado.
-2. Aprovar automaticamente item de referência AMBÍGUA, ou item contestado sem reconhecer a contestação.
-3. Reprovar ou inventar defeito em item BOA (reprovação indevida de história excelente).
+Controle das divergências declaradas:
+- O alarme exploratório de 20% de itens com divergência material declarada não é limite seguro nem autoriza declarar divergências até esse percentual.
+- Toda divergência declarada é fundamentada (duas interpretações, cada uma com trecho) e verificada pelo julgador de motivos quanto a serem realmente defensáveis e materiais (APROVADA contra outro estado).
+- Avaliação qualitativa, caso a caso: o relatório apresenta todos os itens em que a candidata alterou a elegibilidade automática em relação ao próprio veredicto bruto (APROVADA bruta com elegibilidade negada), com o texto da divergência, o estado de referência e o parecer do julgador.
+- Monitoramento particular das declarações concentradas em itens de referência RUIM, em sentimentalismo implícito e em propostas sem segunda leitura, informando contagem e identidade dos itens.
+- Objeções "nao_demonstrada" (falha que o Crítico não conseguiu demonstrar) são reportadas à parte, item a item, com o parecer do julgador sobre se a falha alegada é sustentada pelo texto. Não são tratadas como preferência.
+
+## 3. Camadas de erro, reportadas separadamente, sem índice global
+
+1. Aprovar (veredicto bruto e elegibilidade automática) item de referência RUIM não contestado.
+2. Aprovar item de referência AMBÍGUA, ou item contestado sem reconhecer a contestação.
+3. Reprovar ou inventar defeito em item BOA.
 4. Confundir REVISAR e REPROVADA.
 5. Veredicto correto com motivo errado.
 
-A ordem é prioridade inicial de análise, não medida absoluta de gravidade. Cada camada é reportada por versão, por execução, por estrato (fluxo e desafio; e, dentro do desafio, por célula de intenção e pela classe real) e por item. Contagens com intervalos, nunca só percentuais. Não se combina fluxo e desafio num número único.
+As camadas 1 e 3 são ambas relevantes para a confiabilidade editorial: não são idênticas, mas são preservadas separadamente, sem compensação matemática entre elas. Cada camada é reportada por versão, por execução, por estrato (fluxo e desafio, e no desafio por célula de intenção e por classe real) e por item. Contagens com intervalos, nunca só percentuais. Fluxo e desafio nunca entram num número único.
 
-## 4. Dimensões e resultado de cada uma
+## 4. Critério de melhoria e de piora (refinado)
 
-Dimensões (as oito já aprovadas como dimensões, não como condições absolutas): (1) camada 1; (2) camada 2; (3) retenção das BOA e defeitos inventados; (4) trocas entre aprovar e não aprovar entre execuções do mesmo item; (5) motivo correto; (6) controles especiais; (7) estrato de sentimentalismo implícito; (8) sem piora onde o controle já acertava.
+Princípio: comparação pareada dos mesmos itens. A decisão não usa a maior oscilação entre execuções como limiar estatístico universal, que pode ser conservadora demais num caso e enganosa noutro. A oscilação interna de cada versão é reportada como evidência de instabilidade, e não é convertida automaticamente em prova nem em refutação de superioridade.
 
-A dimensão 6 depende dos controles especiais, que não fazem parte da G1 e dependem de autorização posterior. Sem eles, a dimensão 6 é "não avaliada", e a conclusão B fica indisponível (no máximo A, com indicação a confirmar). Peço decisão de Eri sobre isso na seção 9.
+Ordem de prioridade da leitura:
+1. comparação dos mesmos itens entre candidata e controles;
+2. quantidade e identidade dos itens corrigidos;
+3. quantidade e identidade dos itens piorados;
+4. gravidade editorial dessas mudanças (camadas da seção 3);
+5. comportamento nas três execuções (padrões 3 de 3 e 2 de 3 por item);
+6. consistência das justificativas (motivos CORRETO, PARCIAL, ERRADO);
+7. análise separada de fluxo e desafio.
 
-Resultado por dimensão e por controle, com o mesmo critério simétrico:
-- Melhora: nas três execuções, o número de erros da candidata na camada é menor que o do controle na mesma execução; e, no pareamento por item, os itens corrigidos pela candidata (resultado correto em pelo menos duas das três execuções, contra errado no controle) superam os itens piorados; e a diferença é maior que a oscilação entre execuções da mesma versão observada neste experimento (maior diferença entre duas execuções da própria candidata e do próprio controle).
-- Piora: a mesma regra no sentido inverso.
-- Sem diferença distinguível: o que não cumprir nenhuma das duas. É o resultado padrão.
-- Inconclusivo: falha metodológica (julgador, pacote incompleto, rótulos comprometidos, execução inválida). Nunca é evidência de qualidade.
+Item corrigido: o controle erra e a candidata acerta com motivo CORRETO em pelo menos duas das três execuções. Item piorado: o inverso. Correção com motivo ERRADO ou PARCIAL é registrada, mas não conta como correção plena. Classificação de cada dimensão: "melhora" quando, nas três execuções, os itens corrigidos superam os piorados na camada considerada, as correções e as pioras estão identificadas uma a uma, e o conjunto de pioras não é mais grave que o de correções; "piora" é a regra simétrica; "sem diferença distinguível" quando o quadro é misto ou pequeno; "inconclusivo" quando há falha metodológica. Diferença que dependa de um único item é descrita como tal. A classificação final de cada dimensão é registrada com a lista de itens e submetida a Eri. Mesmos critérios, em sentido simétrico, para melhoria e piora. Nenhum índice global.
 
-A faixa histórica de variação da v2.2 não é critério. O ruído relevante é o deste experimento.
+Piora grave nas camadas 1 e 3 (proposta, Eri ajusta): pelo menos um item dessas camadas que o controle acertava em duas ou mais execuções e que a candidata erra em duas ou mais, ou aumento líquido de erros na camada em todas as execuções. Piora grave em qualquer das duas camadas impede a conclusão B, com o mesmo peso.
 
-## 5. Comparação pareada
+## 5. Dimensões
 
-Tabela por item e por execução: referência, veredicto e aprovação automática de cada versão, motivo julgado, flags. Para cada par (candidata contra principal, candidata contra secundária, e descritivamente secundária contra principal): itens iguais, itens corrigidos, itens piorados, por camada, e o padrão por item (3 de 3, 2 de 3). Testes pareados exatos (por exemplo de sinais) podem acompanhar como auxílio descritivo, com a ressalva de que o tamanho não sustenta inferência forte. O padrão por item não é convertido em decisão por maioria: em operação cada execução decide sozinha, e um erro grave em qualquer execução conta como evento.
+(1) camada 1; (2) camada 2; (3) camada 3 e defeitos inventados em BOA; (4) trocas entre aprovar e não aprovar entre execuções do mesmo item; (5) qualidade das justificativas; (6) controles especiais; (7) estrato de sentimentalismo implícito; (8) sem piora onde o controle já acertava. As dimensões não são oito condições absolutas: são lidas uma a uma.
 
-## 6. Itens contestados
+### 5.1 Qualidade das justificativas (dimensão 5)
 
-Não se mede concordância com um dos lados. Mede-se, segundo o julgador de motivos: se o Crítico apresenta interpretação defensável; se identifica corretamente a natureza do fundamento (A, B ou C); se reconhece a dúvida material quando existe, sem divergência vazia. Para as versões que não têm o campo de divergência, o reconhecimento só pode ser avaliado pelo texto da justificativa.
+Quatro categorias do julgador, sempre separadas: CORRETO, PARCIAL, ERRADO, INCONCLUSIVO. PARCIAL não vale como CORRETO e é informado à parte, sem completar o percentual de acertos. Limiar operacional inicial para a conclusão B: pelo menos 80% de CORRETO entre as avaliações conclusivas (excluídas as INCONCLUSIVO), nas duas amostras examinadas separadamente. É uma exigência editorial prévia, não demonstração estatística de segurança. A conclusão B também exige comparação com o controle: não basta alcançar 80% se a candidata não melhora efetivamente em relação a ele. Definição de cálculo (proposta): por amostra, sobre as avaliações das três execuções reunidas, com o percentual de cada execução também apresentado e qualquer execução muito abaixo sinalizada. Aprovações indevidas sustentadas por justificativas claramente falsas recebem destaque próprio, item a item, independentemente do percentual agregado.
 
-## 7. Julgador de motivos e auditoria
+Julgador: prompts/julgador_motivos_v1_rascunho.md (verificação factual antes da ficha; não considera correta uma justificativa por usar termos da referência; verifica as afirmações contra a fotografia prevista e o texto). Auditoria humana de pelo menos 20% das avaliações, mínimo de 10, com seleção definida antes: sorteio por semente de Eri (sal "g3-auditoria-julgador") mais cobertura de cada combinação de versão e veredicto e dos motivos ERRADO e INCONCLUSIVO quando existirem. Se a confiabilidade do julgador não for demonstrada na auditoria (erro sistemático), a dimensão 5 é INCONCLUSIVA. O limite de 15% de avaliações INCONCLUSIVAS é alarme metodológico, não tolerância: concentração numa categoria, origem ou tipo de defeito pode invalidar a conclusão correspondente mesmo abaixo de 15%.
 
-Instrumento: prompts/julgador_motivos_v1_rascunho.md, com pacote completo (foto, textos anteriores, texto, saída integral sem identificar a versão, ficha de referência, fundamentos concorrentes nos contestados), procedimento fixo e porta de completude. Pacote incompleto torna a avaliação do item inconclusiva. O limite de 15% de inconclusivas é alarme metodológico, não tolerância: se as inconclusivas se concentrarem numa categoria, origem ou tipo de defeito, a conclusão correspondente pode ser considerada inválida mesmo abaixo de 15%. Auditoria humana de pelo menos 20% das avaliações do julgador, mínimo de 10, com seleção definida antes: sorteio por semente de Eri (sal "g3-auditoria-julgador") mais cobertura obrigatória dos principais tipos de veredicto (pelo menos um caso por combinação de versão e veredicto, e por motivo "errado" e "inconclusivo" quando existirem). Erro sistemático encontrado inutiliza a contagem do julgador, e a dimensão 5 fica inconclusiva.
+### 5.2 Itens contestados
 
-## 8. Decisões possíveis ao final (sem homologar)
+Não se mede concordância com um dos lados. Segundo o julgador: o Crítico apresenta interpretação defensável? identifica a natureza do fundamento (A, B ou C)? reconhece a dúvida material quando existe, sem divergência vazia? Nas versões sem o campo de divergência, o reconhecimento só pode ser avaliado pelo texto da justificativa.
 
-- A, continuar investigando: evidência parcial, mecanismos de erro compreendidos, hipótese plausível.
-- B, considerar a candidata superior: melhora relevante, consistente e fundamentada sobre o controle principal, nas duas amostras lidas separadamente, sem perdas graves nas camadas 1 e 3 (nenhuma piora), dimensão 5 conclusiva, dimensão 6 avaliada e sem queda. Limiares numéricos propostos para Eri decidir: melhora nas camadas 1 e 2 conforme a regra da seção 4 em ambas as amostras; nenhuma piora nas camadas 1 e 3; pelo menos 70% dos acertos de veredicto com motivo "correto" ou "parcial" (proposta); taxa de divergência material declarada abaixo do alarme.
-- C, homologar para publicação autônoma: fora do alcance deste experimento. Exige validação muito maior e posterior.
-Sinais de reconsideração (alertas diagnósticos, sem gatilho automático): melhora dentro do ruído do experimento; sentimentalismo continuando a passar; mérito mal demonstrado; trocas entre aprovar e não aprovar tão frequentes quanto antes; maioria de acertos por motivo errado; Crítico seguindo um único avaliador; divergência declarada como escudo; aprovação de itens limpos e vazios (quando os controles existirem). Qualquer alerta pede diagnóstico escrito e decisão de Eri, e pode apontar para mudar a estratégia, inclusive a geração dos candidatos, e não para a v2.5.
+### 5.3 Controles especiais (dimensão 6)
 
-O experimento é capaz de mostrar melhora, igualdade e piora com a mesma clareza: a regra da seção 4 é simétrica, e a piora da candidata em qualquer camada é reportada com o mesmo destaque.
+Não se elimina a dimensão 6. Sem os controles especiais, o experimento fica limitado à conclusão A (continuar investigando), com no máximo indicação provisória de melhoria. Plano, sujeito a autorização específica posterior e sem geração agora:
+- um pequeno lote independente de controles especiais, produzido depois do M1 e antes da G3;
+- regras, categorias, critérios de inclusão e tratamento dos resultados congelados por hash antes da produção dos itens (marco próprio, a ser definido);
+- os itens dos controles não podem ser conhecidos pelo redator da candidata antes do M1. Limitação declarada: o redator conhece o desenho conceitual dos cinco tipos (seção 11 do plano rev2), mas nenhum item existe;
+- os controles não se misturam aos 30 itens de fluxo nem aos 30 de desafio e têm análise própria;
+- passam pela mesma rotulagem independente e pelas mesmas condições de execução.
 
-## 9. O que Eri precisa decidir sobre este protocolo
+## 6. Decisões possíveis ao final (sem homologar)
 
-1. Aceitar que, sem os controles especiais, a conclusão B fique indisponível, ou autorizar a produção deles antes da G3.
-2. Os limiares propostos (70% de motivos corretos ou parciais; alarme de 20% de divergência material declarada; regra de melhora da seção 4).
-3. Se a camada 3 (reprovar história excelente) deve ter peso de decisão igual à camada 1 na conclusão B, ou só ser reportada ao lado.
+- A, continuar investigando: evidência parcial, mecanismos de erro compreendidos, hipótese plausível, mesmo com dimensões inconclusivas ou não avaliadas. Pode vir com indicação provisória de melhoria.
+- B, considerar a candidata superior. Exige, juntas: melhora relevante, consistente e fundamentada sobre o controle principal, lida nas duas amostras separadamente; nenhuma piora grave na camada 1 nem na camada 3, ambas com o mesmo peso e sem compensação entre si; pelo menos 80% de motivos CORRETOS entre as conclusivas em cada amostra, com melhora sobre o controle; dimensão 5 conclusiva (julgador auditado); dimensão 6 avaliada e sem queda; relatório dos dois registros (bruto e elegibilidade) sem melhora apenas por divergências declaradas.
+- C, homologar para publicação autônoma: fora do alcance deste experimento.
+Sinais de reconsideração (alertas diagnósticos, sem gatilho automático): melhora dentro do ruído; sentimentalismo continuando a passar; mérito mal demonstrado; trocas entre aprovar e não aprovar tão frequentes quanto antes; motivos majoritariamente errados com justificativas fluentes; Crítico seguindo um único avaliador; divergência usada como escudo; aprovação de itens limpos e vazios (quando os controles existirem). Qualquer alerta pede diagnóstico escrito e decisão de Eri, e pode apontar para mudar a estratégia, inclusive a geração dos candidatos, e não para uma v2.5.
 
-## 10. Cláusula de inferência a constar no relatório final, antes dos resultados
+O experimento deve mostrar melhora, igualdade e piora com a mesma clareza: os critérios acima são simétricos e a piora da candidata em qualquer camada tem o mesmo destaque que a melhora.
 
-As amostras são pequenas; os resultados dependem dos modelos usados; a subjetividade editorial legítima não desaparece; avaliadores podem errar; as execuções repetidas são correlacionadas; consistência não é correção; concordância com o ChatGPT não é prova de qualidade; uma pequena redução percentual de erros não demonstra superioridade; três execuções não provam estabilidade. O conjunto não pode ser descrito como inacessível ao redator. As proteções (ordem cronológica, hashes, registros de acesso e uso único) dão integridade documental e auditoria parcial, e não provam ausência de acesso.
+## 7. Comparabilidade com as versões anteriores (decisão 8)
+
+A v2.4-exp não tem os campos evidencias_positivas, defeitos_demonstrados, eliminatorias e nota, e acrescenta leitura_inicial, merito, objecoes, nucleo, divergencia_legitima e elegibilidade_automatica. Os campos antigos e novos não são comparáveis diretamente. A comparação ocorre por veredictos brutos, decisões de elegibilidade e justificativas verificáveis (julgador e auditoria), nunca por contagem de defeitos nem por nota.
+
+## 8. Cláusula de inferência para o relatório final, antes dos resultados
+
+As amostras são pequenas; os resultados dependem dos modelos usados; a subjetividade editorial legítima não desaparece; avaliadores podem errar; as execuções repetidas são correlacionadas; consistência não é correção; concordância com o ChatGPT não é prova de qualidade; uma pequena redução percentual de erros não demonstra superioridade; três execuções não provam estabilidade; os 80% de motivos corretos são exigência editorial prévia, não demonstração estatística. O conjunto não pode ser descrito como inacessível ao redator: as proteções (ordem cronológica, hashes, registros de acesso e uso único) dão integridade documental e auditoria parcial, não prova de ausência de acesso.

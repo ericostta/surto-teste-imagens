@@ -10,7 +10,7 @@
   "referencia_editorial/preferencias_c.md": "4eff29a6159ea09618ec0471bb23890eefeb408958f6a1f0b89a1150b9cf8492",
   "referencia_editorial/referencia_editorial_conceitual.md": "0dc4b8e573c05f0bc5caef2261dae525f44a6b3c7bb1bf49eea0d725d92913c5",
   "referencia_editorial/registro_casos_arbitrados.md": "f759bdea3b453491db200c39bb5b1bae6c1c4f20551fe38551f0f58f6298e446",
-  "validar_avaliacao.py": "fbaade131f817a6af037e510ca94f05efb4f4246cb64e0de6ab6f81a1ac47681"
+  "validar_avaliacao.py": "04a0183bc93598ed72e41ea7a1294cbb1db8d0b92bf175dbe8c65442e4c487f1"
  },
  "consultado_parcialmente_na_g0": {
   "prompts/critico_v2_2.md": "468fd3823f83909dd87127d7a4affd835df4be09c7601e62c37b38dc54b553a3"
@@ -176,5 +176,6 @@
   "prompts/critico_v2_2.md": "468fd3823f83909dd87127d7a4affd835df4be09c7601e62c37b38dc54b553a3",
   "prompts/critico_v2_3_exp.md": "74bc6f3a4ee1d13bf8fabde542234e97881c1c7e0089467d6cfbb700643f7e23"
  },
- "observacao_hash": "validar_avaliacao.py foi ALTERADO na G0 (modo v2.4-exp acrescentado); o hash acima é o do arquivo no momento do commit desta etapa, e é o que será congelado no M1 se Eri aprovar. Os modos v2.1, v2.2 e v2.3-exp permanecem com os mesmos testes passando."
+ "observacao_hash": "validar_avaliacao.py foi ALTERADO na G0 (modo v2.4-exp acrescentado); o hash acima é o do arquivo no momento do commit da revisão 1, e é o que será congelado no M1 se Eri aprovar. Os modos v2.1, v2.2 e v2.3-exp permanecem com os mesmos testes passando.",
+ "revisao": "Revisão 1 de 22/10/2026 (23h55+): hashes recalculados após ajustes do validador e do prompt conforme decisões de Eri. Mesmo conjunto de materiais; nenhum material novo."
 }

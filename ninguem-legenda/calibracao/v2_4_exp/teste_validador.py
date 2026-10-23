@@ -11,7 +11,7 @@ BASE = {
     "elemento_que_muda": "e", "elo_humano": "h", "parafrase_concreta": "p", "nomeia_emocao_sem_fato": False,
     "ambiguidades": [], "integridade": INTEG, "imprecisoes_perifericas": [], "associacao_mais_comum": "a",
     "e_a_associacao_mais_comum": False, "perspectiva_especifica": "especifica", "objecoes": [], "nucleo": {},
-    "observacoes_descartadas": [], "divergencia_legitima": "nenhuma", "veredicto": "APROVADA",
+    "observacoes_descartadas": [], "divergencia_legitima": "nenhuma", "veredicto": "APROVADA", "elegibilidade_automatica": True,
     "justificativa_objetiva": "j",
     "merito": {"demonstrado": True, "segunda_leitura": "s", "o_que_muda_na_foto": "m", "elemento_especifico": "el",
                "contribuicao_do_gesto": "nao se aplica", "objecao_relevante": "nenhuma", "por_que_nao_compromete": "nao se aplica"},
@@ -45,28 +45,39 @@ caso("2 APROVADA sem elemento_especifico", mk(merito={"elemento_especifico": "na
 caso("3 associação comum sem teste de contribuição", mk(e_a_associacao_mais_comum=True), False, "contribuição")
 caso("4 associação comum com teste", mk(e_a_associacao_mais_comum=True, merito={"contribuicao_do_gesto": "sem o gesto a leitura some"}), True)
 bsem = dict(OBJ_B_ESTR); bsem.pop("atinge_nucleo")
-caso("5 B bloqueante sem atinge_nucleo", mk(veredicto="REPROVADA", objecoes=[bsem], merito={"demonstrado": False}), False, "atinge_nucleo")
-caso("6 C com gravidade corrigivel", mk(objecoes=[dict(OBJ_A_CORR, fundamento="C")], veredicto="REVISAR", nucleo=NUC, instrucao_de_revisao=REV_INS), False, "fundamento C")
-caso("7 REVISAR válido (A corrigível)", mk(objecoes=[OBJ_A_CORR], veredicto="REVISAR", nucleo=NUC, instrucao_de_revisao=REV_INS), True)
+caso("5 B bloqueante sem atinge_nucleo", mk(veredicto="REPROVADA", elegibilidade_automatica=False, objecoes=[bsem], merito={"demonstrado": False}), False, "atinge_nucleo")
+caso("6 C com gravidade corrigivel", mk(objecoes=[dict(OBJ_A_CORR, fundamento="C")], veredicto="REVISAR", elegibilidade_automatica=False, nucleo=NUC, instrucao_de_revisao=REV_INS), False, "fundamento C")
+caso("7 REVISAR válido (A corrigível)", mk(objecoes=[OBJ_A_CORR], veredicto="REVISAR", elegibilidade_automatica=False, nucleo=NUC, instrucao_de_revisao=REV_INS), True)
 caso("8 REVISAR sem núcleo", mk(objecoes=[OBJ_A_CORR], veredicto="REVISAR", instrucao_de_revisao=REV_INS), False, "nucleo")
-caso("9 REVISAR por mérito não demonstrado, com núcleo", mk(veredicto="REVISAR", nucleo=NUC, instrucao_de_revisao=REV_INS, merito={"demonstrado": False}), True)
-caso("10 REPROVADA por mérito sem objeção estrutural", mk(veredicto="REPROVADA", merito={"demonstrado": False}), False, "estrutural")
-caso("11 REPROVADA válida (B estrutural)", mk(veredicto="REPROVADA", objecoes=[OBJ_B_ESTR], merito={"demonstrado": False}), True)
+caso("9 REVISAR por mérito não demonstrado, com núcleo", mk(veredicto="REVISAR", elegibilidade_automatica=False, nucleo=NUC, instrucao_de_revisao=REV_INS, merito={"demonstrado": False}), True)
+caso("10 REPROVADA por mérito sem objeção estrutural", mk(veredicto="REPROVADA", elegibilidade_automatica=False, merito={"demonstrado": False}), False, "estrutural")
+caso("11 REPROVADA válida (B estrutural)", mk(veredicto="REPROVADA", elegibilidade_automatica=False, objecoes=[OBJ_B_ESTR], merito={"demonstrado": False}), True)
 caso("12 estrutural com REVISAR", mk(veredicto="REVISAR", objecoes=[OBJ_A_ESTR], nucleo=NUC, instrucao_de_revisao=REV_INS), False, "estrutural")
 caso("13 APROVADA com objeção corrigível", mk(objecoes=[OBJ_A_CORR]), False)
 peri = {"fundamento": "A", "categoria": "ambiguidade_prejudicial", "trecho": "t", "argumento": "arg", "gravidade": "periferica"}
 caso("14 periférica sem por_que_nao_compromete", mk(objecoes=[peri]), False, "periférica")
 caso("15 periférica com justificativa", mk(objecoes=[peri], merito={"por_que_nao_compromete": "não toca a relação central"}), True)
 dv_ok = {"interpretacoes": [{"veredicto": "APROVADA", "fundamento": "f1"}, {"veredicto": "REVISAR", "fundamento": "f2"}], "material": True, "razao_sem_consenso": "r"}
-caso("16 divergência material válida", mk(divergencia_legitima=dv_ok), True)
+caso("16 divergência material válida", mk(divergencia_legitima=dv_ok, elegibilidade_automatica=False), True)
 dv_ruim = {"interpretacoes": [{"veredicto": "REVISAR", "fundamento": "f1"}, {"veredicto": "REPROVADA", "fundamento": "f2"}], "material": True, "razao_sem_consenso": "r"}
 caso("17 divergência 'material' entre REVISAR e REPROVADA", mk(divergencia_legitima=dv_ruim), False, "divergência material")
 caso("18 divergência com uma interpretação só", mk(divergencia_legitima={"interpretacoes": [{"veredicto": "APROVADA", "fundamento": "f"}], "material": True, "razao_sem_consenso": "r"}), False, "duas interpretações")
 caso("19 travessão", mk(justificativa_objetiva="a — b"), False, "travessão")
 caso("20 emoção nomeada em APROVADA", mk(nomeia_emocao_sem_fato=True), False, "emoção")
 caso("21 mérito não demonstrado com APROVADA", mk(merito={"demonstrado": False}), False, "mérito")
-caso("22 categoria B com fundamento A", mk(objecoes=[dict(OBJ_B_ESTR, fundamento="A")], veredicto="REPROVADA", merito={"demonstrado": False}), False, "não admite fundamento A")
+caso("22 a categoria não determina o fundamento (insuficiencia_editorial com A)", mk(objecoes=[dict(OBJ_B_ESTR, fundamento="A")], veredicto="REPROVADA", elegibilidade_automatica=False, merito={"demonstrado": False}), True)
+caso("22b obscuridade com fundamento B completo", mk(objecoes=[dict(OBJ_B_ESTR, categoria="obscuridade")], veredicto="REPROVADA", elegibilidade_automatica=False, merito={"demonstrado": False}), True)
 caso("23 campo ausente", {k: v for k, v in BASE.items() if k != "merito"}, False, "campo ausente")
+
+nd = {"fundamento": "B", "categoria": "cliche_efetivo", "trecho": "t", "argumento": "arg", "gravidade": "nao_demonstrada", "lacuna": "faltou confronto com a leitura favorável"}
+caso("24 B não demonstrada com lacuna e justificativa na aprovação", mk(objecoes=[nd], merito={"por_que_nao_compromete": "não demonstrada; não decide"}), True)
+caso("25 não demonstrada sem lacuna", mk(objecoes=[{k: v for k, v in nd.items() if k != "lacuna"}], merito={"por_que_nao_compromete": "x"}), False, "sem lacuna")
+caso("26 não demonstrada com fundamento A", mk(objecoes=[dict(nd, fundamento="A")], merito={"por_que_nao_compromete": "x"}), False, "só vale para fundamento B")
+caso("27 APROVADA com não demonstrada sem enfrentá-la", mk(objecoes=[nd]), False, "por_que_nao_compromete")
+caso("28 B bloqueante incompleta deve virar nao_demonstrada", mk(veredicto="REVISAR", elegibilidade_automatica=False, objecoes=[dict(OBJ_B_ESTR, gravidade="corrigivel", atinge_nucleo="")], nucleo=NUC, instrucao_de_revisao=REV_INS), False, "nao_demonstrada")
+caso("29 elegibilidade true com divergência material", mk(divergencia_legitima=dv_ok), False, "elegibilidade_automatica incoerente")
+caso("30 elegibilidade false em APROVADA sem divergência", mk(elegibilidade_automatica=False), False, "elegibilidade_automatica incoerente")
+caso("31 elegibilidade ausente", {k: v for k, v in BASE.items() if k != "elegibilidade_automatica"}, False, "campo ausente")
 
 falhas = [c for c in casos if not c[1]]
 for nome, ok, e in casos:

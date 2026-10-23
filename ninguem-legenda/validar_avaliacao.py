@@ -23,7 +23,10 @@ Modo v2.3-exp (experimental): versao_criterio == "v2.3-exp". Aplica as regras do
 Modo v2.4-exp (rascunho G0, instrumento; não executado): versao_criterio == "v2.4-exp". Regras independentes das anteriores:
 - campos obrigatórios; integridade com 6 chaves; merito com os campos definidos;
 - cada objeção com fundamento A/B/C, categoria da lista, trecho, argumento e gravidade; C só com gravidade "preferencia";
+  a categoria NÃO determina o fundamento (decisão de Eri de 22/10, 23h55): qualquer categoria aceita A, B ou C;
   fundamento B bloqueante (corrigivel ou estrutural) exige leitura_alternativa_mais_favoravel e atinge_nucleo;
+  gravidade "nao_demonstrada" (só para B, com "lacuna"): falha que o Crítico não conseguiu demonstrar; não decide o estado e não é rebaixada a C;
+- elegibilidade_automatica (true só se APROVADA sem divergência material), coerente com veredicto e divergência;
 - veredicto mecânico: estrutural => REPROVADA; senão corrigivel => REVISAR (nucleo obrigatório); senão mérito demonstrado => APROVADA;
   mérito não demonstrado => REVISAR com nucleo, ou REPROVADA com objeção estrutural;
 - APROVADA exige os quatro elementos de mérito, sem objeção corrigivel ou estrutural, e por_que_nao_compromete quando há objeção periférica;
@@ -171,12 +174,12 @@ def avisos_v23(a: dict) -> list:
 OBRIG_V24 = ["codigo", "versao_criterio", "previsoes_que_capturaram", "leitura_inicial", "elemento_que_muda", "elo_humano",
              "parafrase_concreta", "nomeia_emocao_sem_fato", "ambiguidades", "integridade", "imprecisoes_perifericas",
              "associacao_mais_comum", "e_a_associacao_mais_comum", "perspectiva_especifica", "merito", "objecoes", "nucleo",
-             "observacoes_descartadas", "divergencia_legitima", "veredicto", "justificativa_objetiva"]
+             "observacoes_descartadas", "divergencia_legitima", "veredicto", "elegibilidade_automatica", "justificativa_objetiva"]
 MERITO_V24 = ["demonstrado", "segunda_leitura", "o_que_muda_na_foto", "elemento_especifico", "contribuicao_do_gesto",
               "objecao_relevante", "por_que_nao_compromete"]
-CATEG_A_OU_B = {"relacao_narrativa_insuficiente", "redundancia", "perda_segunda_leitura", "sentimentalismo_moralismo"}
-CATEG_A = {"contradicao", "plausibilidade_comprometida", "ambiguidade_prejudicial", "obscuridade", "repeticao", "veto"}
-CATEG_B = {"cliche_efetivo", "insuficiencia_editorial"}
+CATEG_V24 = {"relacao_narrativa_insuficiente", "redundancia", "perda_segunda_leitura", "sentimentalismo_moralismo",
+             "contradicao", "plausibilidade_comprometida", "ambiguidade_prejudicial", "obscuridade", "repeticao", "veto",
+             "cliche_efetivo", "insuficiencia_editorial"}
 NUCLEO_V24 = ["o_que_preservar", "deficiencia", "intervencao_localizada"]
 
 
@@ -220,29 +223,30 @@ def validar_v24(a: dict) -> list:
         f = o.get("fundamento"); cat = o.get("categoria"); g = o.get("gravidade")
         if f not in ("A", "B", "C"):
             erros.append(f"objeção '{cat}' com fundamento inválido: {f}")
-        if cat not in (CATEG_A_OU_B | CATEG_A | CATEG_B):
+        if cat not in CATEG_V24:
             erros.append(f"categoria de objeção inválida: {cat}")
-        elif f == "A" and cat in CATEG_B:
-            erros.append(f"categoria '{cat}' não admite fundamento A")
-        elif f == "B" and cat in CATEG_A:
-            erros.append(f"categoria '{cat}' não admite fundamento B")
         if not _txt(o.get("trecho")):
             erros.append(f"objeção '{cat}' sem trecho")
         if not _txt(o.get("argumento")):
             erros.append(f"objeção '{cat}' sem argumento")
-        if g not in ("periferica", "corrigivel", "estrutural", "preferencia"):
+        if g not in ("periferica", "corrigivel", "estrutural", "preferencia", "nao_demonstrada"):
             erros.append(f"objeção '{cat}' com gravidade inválida: {g}")
         if f == "C" and g != "preferencia":
             erros.append(f"objeção '{cat}' de fundamento C só pode ter gravidade 'preferencia'")
         if f in ("A", "B") and g == "preferencia":
             erros.append(f"objeção '{cat}' de fundamento {f} não pode ter gravidade 'preferencia'")
+        if g == "nao_demonstrada":
+            if f != "B":
+                erros.append(f"gravidade 'nao_demonstrada' só vale para fundamento B ('{cat}')")
+            if not _txt(o.get("lacuna")):
+                erros.append(f"objeção '{cat}' 'nao_demonstrada' sem lacuna")
         if f == "B" and g in ("corrigivel", "estrutural"):
             for campo in ("leitura_alternativa_mais_favoravel", "atinge_nucleo"):
                 if not _txt(o.get(campo)):
-                    erros.append(f"objeção B bloqueante '{cat}' sem {campo} (deveria ser C)")
+                    erros.append(f"objeção B bloqueante '{cat}' sem {campo} (registrar como 'nao_demonstrada' com lacuna, não como preferência)")
     estr = [o for o in objs if o.get("gravidade") == "estrutural"]
     corr = [o for o in objs if o.get("gravidade") == "corrigivel"]
-    peri = [o for o in objs if o.get("gravidade") == "periferica"]
+    peri = [o for o in objs if o.get("gravidade") in ("periferica", "nao_demonstrada")]
     nuc = a.get("nucleo") if isinstance(a.get("nucleo"), dict) else {}
     nucleo_ok = all(_txt(nuc.get(k)) for k in NUCLEO_V24)
     v = a.get("veredicto")
@@ -288,6 +292,11 @@ def validar_v24(a: dict) -> list:
     else:
         erros.append(f"veredicto inválido: {v}")
     d = a.get("divergencia_legitima")
+    material = isinstance(d, dict) and d.get("material") is True
+    if "elegibilidade_automatica" in a:
+        esperado = (v == "APROVADA") and not material
+        if a.get("elegibilidade_automatica") is not esperado:
+            erros.append(f"elegibilidade_automatica incoerente: esperado {esperado} para veredicto {v} e divergência material {material}")
     if d != "nenhuma" and "divergencia_legitima" in a:
         if not isinstance(d, dict):
             erros.append("divergencia_legitima deve ser 'nenhuma' ou objeto")
@@ -311,6 +320,9 @@ def validar_v24(a: dict) -> list:
 
 def avisos_v24(a: dict) -> list:
     out = []
+    for o in a.get("objecoes", []) or []:
+        if o.get("gravidade") == "nao_demonstrada":
+            out.append(f"{a.get('codigo')}: objeção '{o.get('categoria')}' insuficientemente demonstrada (reportar à parte)")
     for o in a.get("objecoes", []) or []:
         t = (o.get("argumento", "") or "").lower()
         if any(h in t for h in HIPOTETICO):
