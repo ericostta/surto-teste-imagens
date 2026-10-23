@@ -1,0 +1,32 @@
+# Decisões de Eri sobre o plano experimental conceitual, revisão 2
+
+Data: 22/10/2026, cerca de 23h30. Fase A. Registro documental. Estas decisões complementam `plano_experimental_conceitual_rev2.md` e, onde houver diferença, prevalecem sobre ele. O plano rev2 não foi editado. Nenhum rótulo, registro histórico, prompt, item, grade, n8n, fila, publicada ou skill foi alterado.
+
+Situação: PLANO CONCEITUAL APROVADO COM RESSALVAS. Autorizado somente incorporar estas decisões à documentação e preparar as condições documentais da etapa G1. Planejamento metodológico considerado encerrado, salvo pendência que realmente impeça a G1 (ver `g1_condicoes_documentais.md`).
+
+## Decisões e seu efeito no plano
+
+| # | Decisão de Eri | Efeito sobre o plano rev2 |
+|---|---|---|
+| 1 | ChatGPT é o avaliador externo principal. Segunda família (de preferência Gemini) só com confirmação expressa de acesso. Sem confirmação, vale a Alternativa 2. Na Alternativa 2: ChatGPT classifica todos os itens inéditos; previsões de subagentes Claude servem exclusivamente como triagem; referência humana examina os casos selecionados e uma amostra de controle; limitações de independência registradas; nenhum consenso artificial entre ChatGPT e Claude. A falta de segundo avaliador não impede a investigação exploratória, mas limita a força das conclusões. | Seção 3 do rev2. Estado atual: não há confirmação de acesso, logo a Alternativa 2 é a vigente. |
+| 2 | 60 itens: 30 de fluxo e 30 de desafio, separados na análise. Fluxo sem seleção retrospectiva por qualidade. Desafio sem pretensão de representatividade. Nenhum percentual global misturando as duas. | Seção 5 do rev2, proposta de partida agora fixada. |
+| 3 | Conferência humana de 20% dos itens com consenso, mínimo de 10, por procedimento registrado antes, às cegas quanto aos rótulos consensuais, com confronto depois. Discordâncias relevantes obrigam a discutir a confiabilidade do consenso. Consenso não é correto só porque dois avaliadores concordaram. | Seção 2.4 do rev2. Ver nota de terminologia abaixo. |
+| 4 | v2.2 é controle principal. v2.3-exp é controle secundário, desde que não seja a própria versão candidata (sem comparação de uma versão com ela mesma). Mesmos itens, condições equivalentes, registros íntegros. Três execuções por versão são parâmetro de planejamento, não autorização para executar. | Seções 1 e 7 do rev2. Se a candidata vier a ser a v2.3-exp, ela deixa de ser controle secundário. |
+| 5 | A hierarquia da seção 8.1 vale como prioridade inicial de análise, não como medida absoluta de gravidade. Reprovar indevidamente uma história excelente também pode ser falha relevante. Tipos de erro registrados separadamente; nenhum índice único. | Seção 8.1 do rev2. A camada 3 (reprovar BOA, inventar defeito) é reportada com o mesmo destaque, não como secundária no relatório. |
+| 6 | Limite de 15% de avaliações inconclusivas do julgador é provisório e é ALARME metodológico, não tolerância. Se inconclusivas se concentrarem em categoria, origem ou tipo de defeito, a conclusão correspondente pode ser invalidada mesmo abaixo de 15%. Auditoria humana de pelo menos 20% das avaliações do julgador, mínimo de 10, com seleção definida antes, incluindo sorteados e cobertura dos principais tipos de veredicto. Erros sistemáticos do julgador invalidam o uso da sua contagem. | Seção 10 do rev2. |
+| 7 | Limites da inferência: três execuções não provam estabilidade; concordância com o ChatGPT não prova qualidade; pequena redução percentual de erros não é superioridade demonstrada. As conclusões devem reconhecer amostras limitadas, dependência dos modelos, subjetividade editorial legítima, erros dos avaliadores, correlação entre execuções e diferença entre consistência e correção. | Seção 14 do rev2 e cláusula obrigatória do relatório final. |
+| 8 | Não criar agentes adicionais, pontuações, classes ou critérios sem necessidade demonstrada. Não desenvolver automaticamente nova versão do Crítico. O experimento deve mostrar se a referência acrescenta capacidade real de julgamento, não complexidade às justificativas. | Regra geral. Nada a acrescentar ao plano. |
+| 9 | Autorizado: incorporar estas decisões e preparar as condições documentais da G1. Não autorizado: gerar os 60 itens, produzir controles especiais, criar prompts experimentais, executar avaliadores ou Críticos, desenvolver v2.4, gerar imagens, consumir créditos visuais, alterar grade, n8n, fila, publicadas ou skills, ativar publicações, homologar. | Limites operacionais vigentes. |
+| 10 | Não continuar propondo revisões abstratas. Pendência que realmente impeça a G1 é apresentada de modo objetivo. Sem ela, planejamento encerrado, aguardar autorização expressa para a geração. | Ver `g1_condicoes_documentais.md`, seção 3. |
+
+## Nota de terminologia (consequência da decisão 1)
+
+Na Alternativa 2 não existe consenso entre dois avaliadores independentes, e a decisão 1 proíbe criar consenso artificial entre ChatGPT e Claude. Por isso, nesta alternativa:
+- "consenso" não é usado para ChatGPT mais predição Claude. O termo correto é "sem conflito de triagem": o rótulo do ChatGPT e a predição cega de subagentes Claude não se contradizem. Isso é um sinal de triagem, não um segundo rótulo independente.
+- A conferência de 20% e mínimo de 10 (decisão 3) incide sobre os itens sem conflito de triagem, que são os que a Alternativa 2 não submete à análise humana. É a leitura que fiz da decisão 3 combinada com a decisão 1. Se Eri discordar, basta dizer.
+- O núcleo de referência fica descrito como "rótulo do ChatGPT, confirmado em parte por controle humano às cegas". Quando uma segunda família de modelos for efetivamente confirmada, "consenso" volta a significar concordância entre dois avaliadores independentes.
+- Itens em conflito de triagem vão para exame humano de Eri, que decide pelo critério da seção 2.3 do rev2 (erro de leitura, interpretação incompatível, divergência legítima).
+
+## Registro da cláusula de inferência para o relatório final
+
+O relatório de qualquer etapa futura deverá declarar, antes dos resultados, que: as amostras são pequenas; os resultados dependem dos modelos usados; a subjetividade editorial legítima não desaparece; avaliadores podem errar; as execuções repetidas são correlacionadas; consistência não é correção; concordância com o ChatGPT não é prova de qualidade; uma pequena redução percentual de erros não demonstra superioridade; e três execuções não provam estabilidade.
