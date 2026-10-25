@@ -6,21 +6,25 @@ import sys, json, hashlib
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter
 
-def tratar(origem, saida, forca=1.0, pct=40, raio=35):
+def tratar(origem, saida, forca=1.0, pct=40, raio=35, cena="v4"):
     im = Image.open(origem).convert("RGB"); W, H = im.size
     rgb = np.asarray(im, float) / 255
     Y8 = im.convert("L")
     Yb = np.asarray(Y8.filter(ImageFilter.GaussianBlur(raio)), float) / 255
     m = Image.new("L", (W, H), 0); d = ImageDraw.Draw(m)
     # polígono do piso (abaixo do rodapé direito e da parte baixa do corredor), em coordenadas da v4 941 x 1672
-    d.polygon([(0, 735), (110, 700), (560, 700), (640, 690), (941, 885), (941, H), (0, H)], fill=255)
-    d.ellipse([430, 700, 720, 980], fill=0)          # protege cabo, poça, anéis e reflexo logo sob o cabo
+    if cena == "v10":   # corredor frontal, haste vertical em x~474: piso abaixo dos rodapés
+        d.polygon([(110, 690), (820, 625), (941, 770), (941, H), (0, H), (0, 810)], fill=255)
+        d.ellipse([335, 770, 640, 940], fill=0)      # protege cabo, poça, anéis e reflexo sob o cabo
+    else:
+        d.polygon([(0, 735), (110, 700), (560, 700), (640, 690), (941, 885), (941, H), (0, H)], fill=255)
+        d.ellipse([430, 700, 720, 980], fill=0)      # protege cabo, poça, anéis e reflexo logo sob o cabo
     m = m.filter(ImageFilter.GaussianBlur(14)); M = np.asarray(m, float)[..., None] / 255
     T = np.percentile(Yb[np.asarray(m) > 200], pct)
     gain = np.where(Yb > T, T / np.maximum(Yb, 1e-3), 1.0); gain = 1 - forca * (1 - gain)
     out = np.clip(rgb * (1 - M + M * gain[..., None]), 0, 1)
     Image.fromarray((out * 255 + .5).astype("uint8")).save(saida)
-    return dict(origem=origem, saida=saida, forca=forca, percentil=pct, raio=raio, alvo_luminancia=round(float(T), 3), saida_sha256=hashlib.sha256(open(saida, "rb").read()).hexdigest())
+    return dict(cena=cena, origem=origem, saida=saida, forca=forca, percentil=pct, raio=raio, alvo_luminancia=round(float(T), 3), saida_sha256=hashlib.sha256(open(saida, "rb").read()).hexdigest())
 
 if __name__ == "__main__":
-    print(json.dumps(tratar(sys.argv[1], sys.argv[2], float(sys.argv[3]), float(sys.argv[4]), float(sys.argv[5])), ensure_ascii=False))
+    print(json.dumps(tratar(sys.argv[1], sys.argv[2], float(sys.argv[3]), float(sys.argv[4]), float(sys.argv[5]), sys.argv[6] if len(sys.argv) > 6 else "v4"), ensure_ascii=False))

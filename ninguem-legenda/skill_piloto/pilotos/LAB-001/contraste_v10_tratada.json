@@ -1,0 +1,30 @@
+{
+ "titulo": {
+  "media": 14.73,
+  "pior_decil": 4.58
+ },
+ "numero": {
+  "media": 5.46,
+  "pior_decil": 2.0
+ },
+ "rotulo NA FOTO": {
+  "media": 4.1,
+  "pior_decil": 3.31
+ },
+ "NA FOTO texto": {
+  "media": 5.57,
+  "pior_decil": 4.63
+ },
+ "rotulo FORA": {
+  "media": 5.23,
+  "pior_decil": 4.92
+ },
+ "FORA texto": {
+  "media": 12.33,
+  "pior_decil": 10.89
+ },
+ "assinatura": {
+  "media": 6.44,
+  "pior_decil": 6.32
+ }
+}
