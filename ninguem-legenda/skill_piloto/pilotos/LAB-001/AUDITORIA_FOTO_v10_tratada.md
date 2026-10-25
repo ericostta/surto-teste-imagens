@@ -18,3 +18,6 @@ Data: 24/10/2026. Origem: `foto_real_L8CFD_chatgpt_v10_original.png` (preservada
 - A ponteira do guarda-chuva passa sob "LEGENDA" do título (texto branco sobre ponteira escura, legível; sobreposição ao elemento central).
 - Anéis da poça e reflexo sob o cabo ficam no limite do rótulo NA FOTO.
 - Divulgar na publicação, se houver: tratamento de tom aplicado ao piso.
+
+## Composição de teste com rótulos em 215/255 (autorizada por Eri, 24/10/2026 23:45)
+`compor_B215.py` (fora da skill) cria o perfil de teste B215 = perfil B com rotulo_alpha 215; perfil B oficial e skill intactos. Saída: `LAB-001_B215_foto_v10_tratada.png` (+ `_guias`). Aprovação técnica do script: SIM, texto não alterado. Rótulo NA FOTO: média 5,5 e pior decil 4,2 (limite provisório 4,5 e 3,0 para média e decil: média passa; decil passa). Observação visual: o número LAB-001 sobre a janela clara continua o elemento de menor contraste (pior decil 2,0; média 5,5, acima do mínimo de 3,0 para título e número). Aprovação visual: pendente de Eri.
