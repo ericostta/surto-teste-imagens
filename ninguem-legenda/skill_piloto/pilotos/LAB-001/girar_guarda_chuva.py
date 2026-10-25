@@ -4,9 +4,10 @@ Poça e cabo acompanham o objeto. Uso: girar_guarda_chuva.py SAIDA ANGULO_HORARI
 Registro: pixels reconstruídos (divulgar)."""
 import sys, cv2, numpy as np
 saida, TH = sys.argv[1], float(sys.argv[2])
+BASE = sys.argv[3] if len(sys.argv) > 3 else "v8"   # versão-base (v8 original por padrão)
 L = lambda k: cv2.imread(f"foto_real_L8CFD_chatgpt_{k}_original.png")
-v8, v7, v6 = L("v8"), L("v7"), L("v6"); H, W = v8.shape[:2]
-C = (535.0, 350.0)                       # cubo da copa (v8): giro rígido do objeto em torno dele
+v8, v7, v6 = L(BASE), L("v7"), L("v6"); H, W = v8.shape[:2]
+C = (535.0, 350.0) if BASE == "v8" else (526.0, 340.0)                       # cubo da copa (v8): giro rígido do objeto em torno dele
 FOOT = (600.0, 835.0)
 CONTORNO = np.array([(165,475),(230,370),(300,290),(350,250),(400,215),(440,185),(520,158),(580,150),(640,152),(700,170),(770,205),(830,250),(868,285),(858,300),(835,360),(795,400),(750,440),(700,475),(630,500),(560,520),(500,535),(420,535),(330,535),(240,530),(175,500)], np.int32)
 def umb_mask(im, folga=0):
@@ -27,8 +28,9 @@ copa8 = cv2.bitwise_or(cv2.bitwise_and(cv2.erode(cp, np.ones((5,5), np.uint8)), 
 copa8 = cv2.morphologyEx(copa8, cv2.MORPH_CLOSE, np.ones((9,9), np.uint8))
 n_, lab_, st_, _ = cv2.connectedComponentsWithStats(copa8); copa8 = (lab_ == 1 + int(np.argmax(st_[1:,4]))).astype(np.uint8)*255
 inv_ = cv2.bitwise_not(copa8); ff_ = inv_.copy(); cv2.floodFill(ff_, None, (0,0), 0); copa8 = cv2.bitwise_or(copa8, cv2.bitwise_and(inv_, ff_))
+XB, K = (561.5, 0.1706) if BASE == "v8" else (559.0, 0.178)
 band = np.zeros((H, W), np.uint8)   # faixa estreita em torno da haste e do cabo (eixo medido: x = 561,5 + 0,1706*(y-500))
-cv2.fillPoly(band, [np.array([(561.5+0.1706*(340-500)-24,340),(561.5+0.1706*(340-500)+24,340),(561.5+0.1706*(850-500)+24,850),(561.5+0.1706*(850-500)-24,850)], np.int32)], 255)
+cv2.fillPoly(band, [np.array([(XB+K*(340-500)-24,340),(XB+K*(340-500)+24,340),(XB+K*(850-500)+24,850),(XB+K*(850-500)-24,850)], np.int32)], 255)
 haste = cv2.bitwise_and(cv2.bitwise_and(m8, cv2.bitwise_not(cp)), band)
 objeto = cv2.bitwise_or(copa8, haste)
 objeto = cv2.morphologyEx(objeto, cv2.MORPH_OPEN, np.ones((3,3), np.uint8))
@@ -40,7 +42,7 @@ hole = cv2.dilate(cv2.bitwise_or(cv2.bitwise_or(objeto, m8), cv2.dilate(cp, np.o
 hole = cv2.bitwise_or(hole, (poca > 0.02).astype(np.uint8)*255)
 hole = cv2.bitwise_or(hole, np.where(np.arange(H)[:,None] > 0, 0, 0).astype(np.uint8) + (cv2.dilate(haste, np.ones((1,1),np.uint8))*0))
 bg = v8.copy(); rest = hole.copy(); fonte = np.zeros((H, W), np.uint8)
-for nome, src in (("v7", v7), ("v6", v6)):
+for nome, src in ((("v7", v7), ("v6", v6)) if BASE == "v8" else ()):
     ms = umb_mask(src, 7); ms = cv2.bitwise_or(ms, (poca > 0.02).astype(np.uint8)*255)  # poça tb existe nelas
     ok = cv2.bitwise_and(rest, cv2.bitwise_not(ms)); ok[:540] = 0   # só abaixo da copa (haste, cabo, poça, piso)
     ring = cv2.bitwise_and(cv2.dilate(hole, np.ones((41,41), np.uint8)), cv2.bitwise_not(cv2.bitwise_or(hole, ms)))
