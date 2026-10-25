@@ -21,6 +21,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 051 | 22/10/2026 | Threads (13h30) | As pessoas mais calmas costumam ser as que mais ensaiaram a calma. | comportamento humano | observacional | impessoal | gerada à mão | calma como ensaio |
 | 052 | 24/10/2026 | X (manual, 12h) | A versão de você que todo mundo elogia é, muitas vezes, a que menos custa para eles. | identidade | desconfortável | você | afirmação com "muitas vezes" | ser elogiado pela versão conveniente |
 | 053 | 24/10/2026 | Threads (auto, 13h00) | Quem diz 'sem pressa' quase sempre já esperou mais do que devia. | relações | observacional | impessoal | "Quem diz X quase sempre Y" | esperar demais antes de dizer sem pressa |
+| 054 | 25/10/2026 | X (manual, 12h) | O adulto tem duas listas: a das coisas importantes e a das coisas que ele faz para não olhar a primeira. | vida adulta/autoengano | irônica | impessoal | "O adulto tem duas listas: X e Y" | tarefas usadas para evitar o que realmente importa |
+| 055 | 25/10/2026 | Threads (auto, 13h00) | A gente só entende o tamanho de uma rotina quando ela acaba e a casa fica no silêncio que ela ocupava. | tempo/memória | contemplativa | a gente | "A gente só entende X quando Y" | a rotina só mostra seu tamanho quando acaba |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
@@ -28,12 +30,10 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 - "O orgulho mais caro é o de quem prefere perder a pessoa a ligar primeiro." (relações)
 - "Quem é elogiado demais por ser forte aprende a esconder a hora em que não é." (comportamento humano; perto de permissão sobre ser o forte de todos)
 - "Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa." (tempo/relações)
-- "O adulto tem duas listas: a das coisas importantes e a das coisas que ele faz para não olhar a primeira." (vida adulta/autoengano)
 - "Quem recusa ajuda sempre diz que não precisa. Quase nunca diz que não sabe pedir." (comportamento humano)
 - "Dinheiro curto faz da gente especialista em preço e leigo em merecimento." (vida adulta; irônica; perto de R051 sobre dinheiro curto)
 - "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
 - "Pai e mãe envelhecem primeiro no que contam: as histórias vão ficando mais curtas." (tempo/família; afetiva)
-- "A gente só entende o tamanho de uma rotina quando ela acaba e a casa fica no silêncio que ela ocupava." (tempo/memória)
 - "Quase todo mundo lembra de quem foi grosseiro com o garçom. Poucos lembram de que já foram o cliente." (comportamento humano)
 
 ## Observação
