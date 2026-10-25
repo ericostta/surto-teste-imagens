@@ -14,3 +14,6 @@ Edição estrutural, mais invasiva que o tratamento de piso: a copa foi recortad
 - NA FOTO: rótulo pequeno ainda fraco (contraste estimado cerca de 3:1); calibração do perfil B segue pendente.
 - Aprovação técnica do script: SIM. Aprovação visual e decisão de aceitar edição com pixels reconstruídos: de Eri.
 - Política de rotulagem de conteúdo de IA das plataformas: não verificada.
+
+## Refinamento (retoque localizado, 24/10/2026 22:50)
+`retocar_alinhada.py` gera `foto_real_L8CFD_chatgpt_v4_alinhada_retocada.png` a partir da alinhada (preservada). Três retoques: lasca clara na parede (inpaint + grão), remendo claro sob a borda da copa e cunha escura junto à haste (cobertos com parede copiada de trechos vizinhos). Resultado: lasca quase some, remendo e cunha removidos; restam uma mancha escura pequena sob a borda à esquerda da haste e uma pequena irregularidade na haste. Mais pixels reconstruídos, mesma ressalva de divulgação. Composição: `LAB-001_B_foto_v4_retocada.png`.
