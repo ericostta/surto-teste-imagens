@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 054.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 060.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -25,6 +25,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 055 | 25/10/2026 | Threads (auto, 13h00) | A gente só entende o tamanho de uma rotina quando ela acaba e a casa fica no silêncio que ela ocupava. | tempo/memória | contemplativa | a gente | "A gente só entende X quando Y" | a rotina só mostra seu tamanho quando acaba |
 | 056 | 26/10/2026 | X (manual, 12h) | O orgulho mais caro é o de quem prefere perder a pessoa a ligar primeiro. | relações | incisiva | impessoal | "O X mais caro é o de quem prefere X a Y" | orgulho que custa a relação |
 | 057 | 26/10/2026 | Threads (auto, 13h00) | Quase todo mundo lembra de quem foi grosseiro com o garçom. Poucos lembram de que já foram o cliente. | comportamento humano | observacional | terceira pessoa | "Quase todo mundo X. Poucos lembram de que já foram Y" | lembramos a grosseria alheia e esquecemos a nossa |
+| 058 | 27/10/2026 | X (manual, 12h) | Dizer que está sem tempo costuma ser a versão educada de dizer que não é prioridade. | relações/autoengano | incisiva | impessoal | "X costuma ser a versão educada de Y" | falta de tempo como eufemismo para falta de prioridade |
+| 059 | 27/10/2026 | Threads (auto, 13h00) | Certos cheiros de comida fazem mais pelo luto do que qualquer conversa sobre ele. | tempo/memória | contemplativa | impessoal | "Certos X fazem mais por Y do que qualquer Z" | o luto se processa mais por sentidos do que por conversa |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
