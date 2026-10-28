@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 060.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 062.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -27,6 +27,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 057 | 26/10/2026 | Threads (auto, 13h00) | Quase todo mundo lembra de quem foi grosseiro com o garçom. Poucos lembram de que já foram o cliente. | comportamento humano | observacional | terceira pessoa | "Quase todo mundo X. Poucos lembram de que já foram Y" | lembramos a grosseria alheia e esquecemos a nossa |
 | 058 | 27/10/2026 | X (manual, 12h) | Dizer que está sem tempo costuma ser a versão educada de dizer que não é prioridade. | relações/autoengano | incisiva | impessoal | "X costuma ser a versão educada de Y" | falta de tempo como eufemismo para falta de prioridade |
 | 059 | 27/10/2026 | Threads (auto, 13h00) | Certos cheiros de comida fazem mais pelo luto do que qualquer conversa sobre ele. | tempo/memória | contemplativa | impessoal | "Certos X fazem mais por Y do que qualquer Z" | o luto se processa mais por sentidos do que por conversa |
+| 060 | 28/10/2026 | X (manual, 12h) | Há quem guarde a vida inteira uma resposta pronta para uma discussão que nunca aconteceu. | tempo/autoengano | irônica | impessoal | "Há quem X a vida inteira Y para Z que nunca aconteceu" | ensaiar por anos uma briga que nunca veio |
+| 061 | 28/10/2026 | Threads (auto, 13h00) | Muita gente chama de maturidade o que é só ter aprendido a não pedir. | limites/autoengano | incisiva | impessoal | "Muita gente chama de X o que é só Y" | pedir menos disfarçado de maturidade |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
