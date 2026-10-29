@@ -29,6 +29,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 059 | 27/10/2026 | Threads (auto, 13h00) | Certos cheiros de comida fazem mais pelo luto do que qualquer conversa sobre ele. | tempo/memória | contemplativa | impessoal | "Certos X fazem mais por Y do que qualquer Z" | o luto se processa mais por sentidos do que por conversa |
 | 060 | 28/10/2026 | X (manual, 12h) | Há quem guarde a vida inteira uma resposta pronta para uma discussão que nunca aconteceu. | tempo/autoengano | irônica | impessoal | "Há quem X a vida inteira Y para Z que nunca aconteceu" | ensaiar por anos uma briga que nunca veio |
 | 061 | 28/10/2026 | Threads (auto, 13h00) | Muita gente chama de maturidade o que é só ter aprendido a não pedir. | limites/autoengano | incisiva | impessoal | "Muita gente chama de X o que é só Y" | pedir menos disfarçado de maturidade |
+| 062 | 29/10/2026 | X (manual, 12h) | A saudade mais perigosa é a de uma versão da pessoa que ela nunca foi. | relações | incisiva | impessoal | "A saudade mais perigosa é a de X" | saudade de uma versão idealizada que nunca existiu |
+| 063 | 29/10/2026 | Threads (auto, 13h00) | A casa onde a gente cresceu continua existindo em algum lugar dentro de nós, com a luz do corredor acesa. | tempo/memória | contemplativa | a gente | "A casa onde a gente cresceu continua X" | a casa da infância permanece dentro de nós |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
