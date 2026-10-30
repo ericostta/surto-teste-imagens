@@ -1,0 +1,20 @@
+{
+ "perfil": "S",
+ "numero": "LAB-001",
+ "aprovacao_tecnica": true,
+ "falhas": [],
+ "falhas_numeracao": [],
+ "avisos": [],
+ "texto_alterado": false,
+ "medidas": {
+  "linhas_na_foto": 2,
+  "linhas_fora": 3,
+  "px_na_foto": 44,
+  "px_fora": 50,
+  "y_inicio_blocos": 953,
+  "y_assinatura": 1456
+ },
+ "simulacao": true,
+ "aprovacao_visual": "pendente de Eri (a skill nunca aprova arte)",
+ "png_sha256": "f754c7b2fe42d6c3cd924745a09f1d0172a2bf8aa7a454296c6f739e961057a6"
+}
