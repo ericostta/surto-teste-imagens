@@ -3,13 +3,14 @@
 Variante A: assinatura no lugar atual (esquerda, 22 px); 001 com 14 px (altura do digito proxima do x-height da assinatura), alfa baixo.
 Variante B: formato do Circulo Tipografico transposto: assinatura centralizada, 001 centralizado, proporcao 9/26 (35%) -> 8 px, cinza #8A8A8A.
 Variante C: igual a A, mas 001 em 8 px (proporcao 9/26 do Circulo Tipografico), alinhado a esquerda, cinza #8A8A8A.
-Uso: compor_B215_numsutil.py FOTO SAIDA A|B|C"""
+Variante D: 001 com 11 px e o mesmo tom (alfa 165) da assinatura, alinhado a esquerda.
+Uso: compor_B215_numsutil.py FOTO SAIDA A|B|C|D"""
 import sys
 sys.dont_write_bytecode = True
 sys.path.insert(0, "../../o-que-ninguem-legenda-piloto/scripts")
 import compor_story as cs
 VAR = sys.argv[3]
-NUM_PX = {"A": 14, "B": 8, "C": 8}[VAR]
+NUM_PX = {"A": 14, "B": 8, "C": 8, "D": 11}[VAR]
 cs.PERFIS["S"] = dict(cs.PERFIS["B"], rotulo_alpha=215, grad_topo_max=0.65, grad_topo_fim=480, assinatura_px=22, assinatura_trk=4, numero_px=NUM_PX)
 L = cs.PERFIS["S"]
 _o = cs.texto_trk
@@ -23,8 +24,8 @@ def _t(d, xy, txt, f, fill, trk=0, ancora="l"):
         _s["cx"] = None
         return _o(d, xy, txt, f, fill, trk, ancora)
     if txt.startswith("LAB") and ancora == "r":
-        y = L["assinatura_y"] + L["assinatura_px"] + (8 if VAR == "A" else 6)
-        fill = (255, 255, 255, 150 if VAR == "A" else 138)
+        y = L["assinatura_y"] + L["assinatura_px"] + (8 if VAR in "AD" else 6)
+        fill = (255, 255, 255, 165 if VAR in "AD" else 138)  # D: mesmo alfa da assinatura (165)
         if VAR == "B":
             w = cs.largura(d, "001", f, 1)
             return _o(d, (W / 2 + w / 2, y), "001", f, fill, 1, "r")
