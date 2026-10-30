@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 062.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 066.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -31,6 +31,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 061 | 28/10/2026 | Threads (auto, 13h00) | Muita gente chama de maturidade o que é só ter aprendido a não pedir. | limites/autoengano | incisiva | impessoal | "Muita gente chama de X o que é só Y" | pedir menos disfarçado de maturidade |
 | 062 | 29/10/2026 | X (manual, 12h) | A saudade mais perigosa é a de uma versão da pessoa que ela nunca foi. | relações | incisiva | impessoal | "A saudade mais perigosa é a de X" | saudade de uma versão idealizada que nunca existiu |
 | 063 | 29/10/2026 | Threads (auto, 13h00) | A casa onde a gente cresceu continua existindo em algum lugar dentro de nós, com a luz do corredor acesa. | tempo/memória | contemplativa | a gente | "A casa onde a gente cresceu continua X" | a casa da infância permanece dentro de nós |
+| 064 | 30/10/2026 | X (manual, 12h) | Quem diz que não tem tempo para descansar costuma ter tempo de sobra para se cobrar. | limites/autoengano | incisiva | impessoal | "Quem diz X costuma ter Y de sobra para Z" | dizer que não há tempo de descanso esconde tempo gasto em autocobrança |
+| 065 | 30/10/2026 | Threads (auto, 13h00) | A gente aprende cedo a pedir desculpa por ocupar espaço e leva anos para entender que ninguém pediu isso. | identidade/limites | observacional | a gente | "A gente aprende cedo a X e leva anos para entender que Y" | pedir desculpa por existir é aprendido e ninguém pediu |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
