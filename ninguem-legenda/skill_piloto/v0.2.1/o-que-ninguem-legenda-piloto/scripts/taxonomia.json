@@ -1,0 +1,52 @@
+{
+  "versao": "fase-a-0.1",
+  "mecanismos": {
+    "M01": "inversao_de_escala: algo pequeno carrega um peso grande, ou o contrario",
+    "M02": "custo_invisivel: o que foi pago ou renunciado e nao aparece na cena",
+    "M03": "ausencia_que_define: o significado esta no que deixou de acontecer",
+    "M04": "fora_do_quadro: quem ou o que produz a cena e nunca aparece nela",
+    "M05": "acao_que_ninguem_viu: esforco ou gesto anterior que explica a cena",
+    "M06": "tempo_acumulado: anos de historia dentro de um instante",
+    "M07": "contradicao_social: ironia sobre trabalho, instituicao ou convivio",
+    "M08": "gesto_que_traduz: afeto ou pedido dito por gesto, nao por palavra",
+    "M09": "preparo_sem_partida: expectativa ou plano que muda de sentido",
+    "M10": "alivio_escondido: o que parece perda ou fim e e alivio",
+    "M11": "humor_literal: primeira leitura vira piada ao ser revelada",
+    "M12": "alegria_secreta: pequena alegria que so o dono da cena conhece"
+  },
+  "emocoes": [
+    "ironia", "humor", "afeto", "conquista", "reconciliacao", "amadurecimento",
+    "surpresa", "contradicao_social", "relacao_humana", "cotidiano", "alivio",
+    "desconforto", "pequena_alegria", "inesperado", "melancolia"
+  ],
+  "tipos_de_contraste": [
+    "sucesso_aparente_vs_custo", "alegria_aparente_vs_critica", "ordem_aparente_vs_historia",
+    "presenca_vs_ausencia", "pequeno_vs_grande", "pressa_vs_cuidado", "cena_vs_autor_da_cena"
+  ],
+  "vetos_tematicos": {
+    "politica_partidaria": ["lula", "bolsonaro", "partido", "partidos", "eleicao", "eleicoes", "urna", "candidato", "candidata", "voto", "votar", "turno", "governo", "presidente", "deputado", "senador", "vereador", "prefeito"],
+    "religiao_como_alvo": ["igreja", "pastor", "padre", "crente", "ateu", "deus", "orixa"],
+    "violencia_e_tragedia": ["assassin", "estupr", "tiroteio", "bala perdida", "incendio", "tragedia", "acidente fatal", "massacre"],
+    "autolesao": ["suicid", "se matar", "automutil"],
+    "luto_grave_e_doenca": ["cancer", "tumor", "quimioterapia", "diagnostico", "luto", "velorio", "enterro", "falecimento", "faleceu"],
+    "dados_e_leis": ["estudo mostra", "estudos mostram", "pesquisa mostra", "segundo o ibge", "por cento", "lei n", "artigo "]
+  },
+  "marcas_e_pessoas_reais": ["nubank", "itau", "bradesco", "ifood", "uber", "amazon", "google", "instagram", "whatsapp", "netflix"],
+  "lexico_autoajuda_e_moralismo": [
+    "acredite", "valorize", "supere", "nunca desista", "recomecar do zero", "recomecar", "cada dia e uma chance",
+    "voce merece", "voce e capaz", "gratidao", "universo", "energia positiva", "foco", "mindset",
+    "largue o celular", "aproveite", "a vida e", "tudo passa", "o importante e", "lembre-se", "vale a pena"
+  ],
+  "lexico_abstracao_excessiva": [
+    "alma", "eternidade", "infinito", "essencia", "existencia", "destino", "transcend", "vazio existencial"
+  ],
+  "lexico_melodrama": [
+    "perdeu tudo", "sem ninguem", "ultimo suspiro", "lagrimas", "desespero", "sofrimento", "dor profunda"
+  ],
+  "regras_foto": {
+    "padrao": "sem rosto: objetos, ambientes, maos, silhuetas, corpos parciais, pessoas de costas",
+    "excecao_rosto": "no maximo 2 edicoes com rosto claramente visivel a cada 10, com justificativa narrativa",
+    "proibido": "texto legivel dentro da foto, marca, logotipo, pessoa real identificavel",
+    "termos_de_alerta_no_conceito": ["texto", "letras", "escrito", "placa com", "logotipo", "legenda"]
+  }
+}
