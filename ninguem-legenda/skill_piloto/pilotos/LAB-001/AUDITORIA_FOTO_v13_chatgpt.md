@@ -13,3 +13,6 @@ Contraste efetivo (medir_contraste.py, layout com número no topo; ignorar o cam
 ## Opções
 1. Aceitar a foto e tratar localmente só o tom atrás do rótulo NA FOTO (ajuste de luminância, sem alterar o objeto).
 2. Uma correção ao gerador: subir o guarda-chuva cerca de 8% no quadro (ponteira acima de 52% da altura), o que afasta a poça do bloco de texto.
+
+## Correção de 30/10/2026 (medição)
+Os valores de contraste desta auditoria foram medidos com os parâmetros do perfil B (rótulos em alfa 170, degradê do topo mais leve), e não com o layout de teste B215/C. Medidos pelo compor_story.py da v0.2 no perfil C, os valores são mais altos. Ver ENTREGA_PILOTO_V02.md.

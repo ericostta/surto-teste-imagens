@@ -12,3 +12,6 @@ Ponto marginal: rótulo NA FOTO ligeiramente abaixo dos limites provisórios (n�
 
 ## Resultado provisório
 APTA com ajuste leve de tom (marginal). Aprovação visual e editorial da foto: Eri. Não houve aprovação ainda.
+
+## Correção de 30/10/2026 (medição)
+Os valores de contraste desta auditoria foram medidos com os parâmetros do perfil B (rótulos em alfa 170, degradê do topo mais leve), e não com o layout de teste B215/C. Medidos pelo compor_story.py da v0.2 no perfil C, os valores são mais altos. Ver ENTREGA_PILOTO_V02.md.

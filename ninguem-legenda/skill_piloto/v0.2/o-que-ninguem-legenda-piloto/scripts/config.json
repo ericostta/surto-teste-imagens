@@ -1,0 +1,64 @@
+{
+  "versao": "piloto-0.2 (derivado do piloto-0.1.1; o config.json do laboratório não foi alterado)",
+  "nota": "Todos os valores são experimentais e serão calibrados na homologação.",
+  "limites_texto": {
+    "na_foto_max_palavras": 10,
+    "fora_max_palavras": 22,
+    "fora_min_palavras": 6
+  },
+  "historico": {
+    "janela_emocao": 30,
+    "alerta_concentracao_emocao": 0.4,
+    "janela_mecanismo": 5,
+    "janela_abertura_sintatica": 30,
+    "similaridade_texto_alerta": 0.55,
+    "similaridade_texto_falha": 0.75
+  },
+  "rostos": {
+    "max_por_10_edicoes": 2
+  },
+  "rodadas": {
+    "candidatas_por_rodada": 3,
+    "max_rodadas_texto": 2,
+    "max_geracoes_imagem_por_texto": 2,
+    "excecao_ao_limite_exige_autorizacao_expressa_de_eri_registrada": true
+  },
+  "revisao": {
+    "max_ciclos_por_candidata": 2,
+    "revisar_segue_para_imagem": false,
+    "reavaliacao_em_contexto_limpo": true,
+    "pode_revisar_foto_e_na_foto": true,
+    "alteracao_material_exige_previsoes_novas": true,
+    "recuperacao_exige_superioridade_sobre_original": true,
+    "foto_que_entrega_correcao_controlada_max": 1,
+    "criterio_v2_2": {
+      "acionado_por": "defeito_concreto_demonstrado",
+      "previsao_cega_e_gatilho": false,
+      "preserva_nucleo_narrativo": true,
+      "proibido_trocar_acontecimento_central": true
+    }
+  },
+  "padrao_fotografico": {
+    "status": "referencia operacional provisoria, nao homologada",
+    "resultados": ["APTA", "AJUSTAR", "REFAZER"],
+    "defeitos_impeditivos": ["I1 suporte fisico", "I2 geometria", "I3 artefatos de IA", "I4 contradiz NA FOTO", "I5 antecipa o FORA", "I6 resolucao", "I7 integridade e 9:16", "I8 composicao e contraste", "I9 desvio do prompt"],
+    "resolucao_px": {"abaixo_de": 810, "faixa_de_atencao": [810, 1079], "adequada_a_partir_de": 1080},
+    "contraste_limites_provisorios": {"blocos_media": 4.5, "blocos_pior_decil": 3.0, "discretos_media": 3.0},
+    "inclinacao_haste_vertical_ate_graus": 3,
+    "layout_padrao": "C",
+    "gerador_de_imagem": "livre, escolhido por Eri (Gemini, ChatGPT ou outro); nenhum e exigido nem garante qualidade"
+  },
+  "versao_critico": "v2.2",
+  "critico": {
+    "nota_minima_desempate": 0,
+    "observacao": "Nota só serve para desempatar candidatas aprováveis. Eliminatórias valem sobre a nota. O Crítico do piloto é CONSULTIVO e provisório."
+  },
+  "critico_consultivo": {
+    "versao": "v2.2",
+    "homologada": false,
+    "papel": "consultivo, nunca portão automático",
+    "referencia": "references/critico_v2_2_referencia.md",
+    "sha256": "468fd3823f83909dd87127d7a4affd835df4be09c7601e62c37b38dc54b553a3",
+    "candidata_c1b": "fora do piloto, experimental, isolada e não promovida"
+  }
+}

@@ -17,3 +17,6 @@ Resultado provisório: AJUSTAR (REFAZER a composição, não a física). Os limi
 
 ## Recomendação
 Pedir ao gerador o mesmo arranjo físico com o guarda-chuva menor e mais alto no quadro, deixando livre o terço inferior (piso liso) e o topo sem elementos claros demais.
+
+## Correção de 30/10/2026 (medição)
+Os valores de contraste desta auditoria foram medidos com os parâmetros do perfil B (rótulos em alfa 170, degradê do topo mais leve), e não com o layout de teste B215/C. Medidos pelo compor_story.py da v0.2 no perfil C, os valores são mais altos. Ver ENTREGA_PILOTO_V02.md.

@@ -19,3 +19,5 @@ Registro para a v0.2. A skill v0.1.1 NÃO foi alterada. Estas decisões ainda n�
 - Tratamento aplicado na v14 (só tom, ver tratamento_v14.json): ganho de luminância 0,80 atrás do rótulo NA FOTO. Resultado: rótulo NA FOTO média 4,67 e pior decil 3,63; demais blocos passam nos limiares provisórios.
 - Número: formato "001", sem "Nº", abaixo de @surtodelucidez, alinhado à esquerda; tamanho pequeno e sutil. Variante D (11 px, mesmo tom da assinatura, alfa 165) é a candidata. Substitui a redução de "20%" (24 px), considerada grande demais por Eri. Assinatura mantida em 22 px (última composição vista); confirmação do tamanho final pendente.
 - Layout "número colado ao título no topo" (24/10) fica substituído por este.
+
+- Correção de 30/10/2026: o ajuste de tom atrás do rótulo NA FOTO na v14 não era necessário pelo critério do perfil C (v14 original: rótulo NA FOTO média 5,24, pior decil 3,74). A medição anterior usou os parâmetros do perfil B. A prévia aprovada usa a foto tratada.
