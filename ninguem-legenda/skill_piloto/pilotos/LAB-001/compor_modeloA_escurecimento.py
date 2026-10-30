@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """PROPOSTA VISUAL (escurecimento suave localizado atras do bloco inferior e do titulo, texto a esquerda). Anterior: PROPOSTA VISUAL (fora da skill, nao fixa nada): base do Modelo A escolhido por Eri (traco divisor de largura total, blocos mais baixos)
 com tres tratamentos do nome da serie. Fontes OFL de outras skills de Eri (EB Garamond, Archivo Black); usar uma na skill exigiria incluir fonte e OFL.txt.
-Uso: compor_modeloA_escurecimento.py E1|E2|E3 SAIDA"""
+Uso: compor_modeloA_escurecimento.py E1|E2|E3 SAIDA [T3|N1|N2|N3|N4]  (N = titulos sem italico)"""
 import sys, tempfile, json
 sys.dont_write_bytecode = True
 sys.path.insert(0, "../../v0.2/o-que-ninguem-legenda-piloto/scripts"); sys.path.insert(0, "../../v0.2/o-que-ninguem-legenda-piloto/testes")
@@ -9,7 +9,7 @@ import test_piloto as tp, registro_numeracao as rn, compor_story as cs
 from PIL import ImageDraw, ImageFont
 SK = "/root/.claude/skills/synced/06aac802-b122-40e2-960e-127d5e3b16cd_36b41c7c-fc7e-475b-bb5b-ea538a08b930/"
 GAR = SK + "permissao-do-dia/assets/EBGaramond-Italic.ttf"; ARCH = SK + "cartaz-ironico/assets/ArchivoBlack-Regular.ttf"
-VAR = "T3"; ESC = sys.argv[1]
+VAR = sys.argv[3] if len(sys.argv) > 3 else "T3"; ESC = sys.argv[1]
 from PIL import Image, ImageChops, ImageFilter
 P = {"E1": dict(b=0.42, t=0.36, fade=False), "E2": dict(b=0.30, t=0.26, fade=False), "E3": dict(b=0.50, t=0.46, fade=True)}[ESC]
 Y0 = [None]
@@ -37,6 +37,19 @@ def t(d, xy, txt, f, fill, trk=0, ancora="l"):
             f1 = ImageFont.truetype(GAR, 66); x1 = trk_draw(d, m, y - 6, txt, f1, B, 3); return (m, y, x1, y + 70)
         if VAR == "T2":
             f1 = ImageFont.truetype(ARCH, 40); x1 = trk_draw(d, m, y, txt, f1, B, 4); return (m, y, x1, y + 50)
+        if VAR in ("N1", "N2", "N3", "N4"):
+            FD = "/usr/share/fonts/opentype/inter/"; MON = SK + "bom-dia-editorial/assets/"
+            if VAR == "N1":   # Inter (mesma familia do corpo): linha pequena espacada + LEGENDA em ExtraBold
+                fa = ImageFont.truetype(FD + "Inter-SemiBold.otf", 27); xa = trk_draw(d, m, y, "O QUE NINGUÉM", fa, (255, 255, 255, 235), 9)
+                fb = ImageFont.truetype(FD + "InterDisplay-ExtraBold.otf", 98); xb = trk_draw(d, m - 4, y + 24, "LEGENDA", fb, B, 2); return (m, y, max(xa, xb), y + 150)
+            if VAR == "N2":   # Inter, contraste de peso na mesma escala: Light + Black
+                fa = ImageFont.truetype(FD + "InterDisplay-Light.otf", 60); xa = trk_draw(d, m, y - 6, "O QUE NINGUÉM", fa, (255, 255, 255, 240), 3)
+                fb = ImageFont.truetype(FD + "InterDisplay-Black.otf", 60); xb = trk_draw(d, m, y + 56, "LEGENDA", fb, B, 3); return (m, y, max(xa, xb), y + 128)
+            if VAR == "N3":   # Montserrat (geometrica) em duas camadas
+                fa = ImageFont.truetype(MON + "Montserrat-SemiBold.ttf", 25); xa = trk_draw(d, m, y, "O QUE NINGUÉM", fa, (255, 255, 255, 235), 9)
+                fb = ImageFont.truetype(MON + "Montserrat-ExtraBold.ttf", 84); xb = trk_draw(d, m - 3, y + 24, "LEGENDA", fb, B, 1); return (m, y, max(xa, xb), y + 140)
+            fa = cs.fonte("SemiBold", 27); xa = trk_draw(d, m, y, "O QUE NINGUÉM", fa, (255, 255, 255, 235), 9)   # N4: serifa reta (EB Garamond SemiBold), sem italico
+            fb = ImageFont.truetype(SK + "permissao-do-dia/assets/EBGaramond-SemiBold.ttf", 108); xb = trk_draw(d, m - 4, y + 18, "LEGENDA", fb, B, 6); return (m, y, max(xa, xb), y + 150)
         fa = cs.fonte("SemiBold", 27); xa = trk_draw(d, m, y, "O QUE NINGUÉM", fa, (255, 255, 255, 235), 9)
         fb = ImageFont.truetype(GAR, 104); xb = trk_draw(d, m - 4, y + 22, "LEGENDA", fb, B, 4); return (m, y, max(xa, xb), y + 150)
     return _o(d, xy, txt, f, fill, trk, ancora)
