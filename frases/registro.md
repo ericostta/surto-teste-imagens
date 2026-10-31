@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 066.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 068.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -33,6 +33,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 063 | 29/10/2026 | Threads (auto, 13h00) | A casa onde a gente cresceu continua existindo em algum lugar dentro de nós, com a luz do corredor acesa. | tempo/memória | contemplativa | a gente | "A casa onde a gente cresceu continua X" | a casa da infância permanece dentro de nós |
 | 064 | 30/10/2026 | X (manual, 12h) | Quem diz que não tem tempo para descansar costuma ter tempo de sobra para se cobrar. | limites/autoengano | incisiva | impessoal | "Quem diz X costuma ter Y de sobra para Z" | dizer que não há tempo de descanso esconde tempo gasto em autocobrança |
 | 065 | 30/10/2026 | Threads (auto, 13h00) | A gente aprende cedo a pedir desculpa por ocupar espaço e leva anos para entender que ninguém pediu isso. | identidade/limites | observacional | a gente | "A gente aprende cedo a X e leva anos para entender que Y" | pedir desculpa por existir é aprendido e ninguém pediu |
+| 066 | 31/10/2026 | X (manual, 12h) | A inveja mais discreta é a que se veste de conselho. | comportamento humano | incisiva | impessoal | "A X mais discreta é a que se veste de Y" | inveja disfarçada de conselho |
+| 067 | 31/10/2026 | Threads (auto, 13h00) | Na infância, o fim de semana era uma promessa. Na vida adulta, virou um prazo para pôr a vida em dia. | vida adulta/cotidiano | observacional | impessoal | "Na infância, X era Y. Na vida adulta, virou Z" | o fim de semana deixou de ser promessa e virou prazo para pendências |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
