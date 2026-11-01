@@ -35,16 +35,16 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 065 | 30/10/2026 | Threads (auto, 13h00) | A gente aprende cedo a pedir desculpa por ocupar espaço e leva anos para entender que ninguém pediu isso. | identidade/limites | observacional | a gente | "A gente aprende cedo a X e leva anos para entender que Y" | pedir desculpa por existir é aprendido e ninguém pediu |
 | 066 | 31/10/2026 | X (manual, 12h) | A inveja mais discreta é a que se veste de conselho. | comportamento humano | incisiva | impessoal | "A X mais discreta é a que se veste de Y" | inveja disfarçada de conselho |
 | 067 | 31/10/2026 | Threads (auto, 13h00) | Na infância, o fim de semana era uma promessa. Na vida adulta, virou um prazo para pôr a vida em dia. | vida adulta/cotidiano | observacional | impessoal | "Na infância, X era Y. Na vida adulta, virou Z" | o fim de semana deixou de ser promessa e virou prazo para pendências |
+| 068 | 01/11/2026 | X (manual, 12h) | Quem é elogiado demais por ser forte aprende a esconder a hora em que não é. | comportamento humano | incisiva | impessoal | "Quem é X demais por Y aprende a esconder a hora em que não é" | elogio à força ensina a esconder a fragilidade |
+| 069 | 01/11/2026 | Threads (auto, 13h00) | Pai e mãe envelhecem primeiro no que contam: as histórias vão ficando mais curtas. | tempo/família | afetiva | impessoal | "X envelhecem primeiro no que Y: Z" | pais envelhecem nas histórias que ficam mais curtas |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
 - "Falar mal do emprego é mais fácil do que admitir que se tem medo de sair." (autoengano)
-- "Quem é elogiado demais por ser forte aprende a esconder a hora em que não é." (comportamento humano; perto de permissão sobre ser o forte de todos)
 - "Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa." (tempo/relações)
 - "Quem recusa ajuda sempre diz que não precisa. Quase nunca diz que não sabe pedir." (comportamento humano)
 - "Dinheiro curto faz da gente especialista em preço e leigo em merecimento." (vida adulta; irônica; perto de R051 sobre dinheiro curto)
 - "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
-- "Pai e mãe envelhecem primeiro no que contam: as histórias vão ficando mais curtas." (tempo/família; afetiva)
 
 ## Observação
 Cópias da skill threads-x não persistem entre sessões; usar este arquivo e a memória do usuário (/areas/skill-frases-diarias.md) para numeração e controle de repetição.
