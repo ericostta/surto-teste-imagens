@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 068.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 072.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -37,6 +37,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 067 | 31/10/2026 | Threads (auto, 13h00) | Na infância, o fim de semana era uma promessa. Na vida adulta, virou um prazo para pôr a vida em dia. | vida adulta/cotidiano | observacional | impessoal | "Na infância, X era Y. Na vida adulta, virou Z" | o fim de semana deixou de ser promessa e virou prazo para pendências |
 | 068 | 01/11/2026 | X (manual, 12h) | Quem é elogiado demais por ser forte aprende a esconder a hora em que não é. | comportamento humano | incisiva | impessoal | "Quem é X demais por Y aprende a esconder a hora em que não é" | elogio à força ensina a esconder a fragilidade |
 | 069 | 01/11/2026 | Threads (auto, 13h00) | Pai e mãe envelhecem primeiro no que contam: as histórias vão ficando mais curtas. | tempo/família | afetiva | impessoal | "X envelhecem primeiro no que Y: Z" | pais envelhecem nas histórias que ficam mais curtas |
+| 070 | 02/11/2026 | X (manual, 12h) | Chamar de sorte o esforço dos outros é um jeito barato de não ter que comparar a própria vida. | autoengano | incisiva | impessoal | "Chamar de X o esforço dos outros é um jeito barato de Y" | chamar de sorte o esforço alheio evita a comparação consigo |
+| 071 | 02/11/2026 | Threads (auto, 13h00) | Dizer não sem anexar uma justificativa de três parágrafos é um dos luxos da maturidade. | limites | observacional | impessoal | "Dizer X sem Y é um dos luxos da maturidade" | recusar sem justificar longamente é conquista da maturidade |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
