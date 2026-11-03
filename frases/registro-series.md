@@ -65,3 +65,8 @@ Próxima: 052
 - Citação 048 (31/10/2026): Mark Twain (escritor, Estados Unidos), "Coragem é resistir ao medo, dominar o medo, e não ausência de medo." (original: "Courage is resistance to fear, mastery of fear—not absence of fear.", Pudd'nhead Wilson, 1894; verificada em Quote Investigator e Britannica; gancho Dia das Bruxas). Arquivo fila/20261031_1900_citacao.png. Próxima: 049.
 - Citação 049 (01/11/2026): Simone Biles (ginasta, Estados Unidos), "Prefiro me arrepender dos riscos que não deram certo do que das chances que não aproveitei." (original: "I'd rather regret the risks that didn't work out than the chances I didn't take at all."; verificada em everydaypower.com, romper.com e antoinebuteau.com). Arquivo fila/20261101_1900_citacao.png. Próxima: 050.
 - Citação 050 (02/11/2026): Epicteto (filósofo estoico, Grécia), "Não são as coisas que perturbam as pessoas, mas a visão que elas formam das coisas." (Manual/Enchiridion 5; verificada em classics.mit.edu e Perseus; Anne Frank descartada por autoria disputada). Arquivo fila/20261102_1900_citacao.png. Próxima: 051.
+
+## CENA CORTADA (11h00, fila/AAAAMMDD_1100_cenacortada.png)
+- 001 | 03/11/2026 | O troco da vez | lotérica | arte aprovada por Eri, enfileirada
+- 002 | 04/11/2026 | A última broa | padaria (Dalva e Heitor) | arte aprovada por Eri, enfileirada
+- Próxima edição: 003 (05/11/2026), película 002 | 003 | 004
