@@ -1,0 +1,3 @@
+id,numero,data,estado,tema,situacao,mecanismo,emocao,tipo_contraste,abertura_fora,na_foto,fora_do_enquadramento,conceito_foto,rosto,avaliacao,justificativa_rejeicao,status_publicacao
+NL-001,001,,RESERVADO,guarda-chuva secando,Guarda-chuva aberto no corredor,,,,,Um guarda-chuva aberto secando no corredor.,Era do irmão e passou dois anos no armário dela. Hoje ela o devolveu e ficou para almoçar.,,false,,,reservado
+NL-002,,,ARTE_APROVADA,carteira escolar riscada,Carteira antiga no fundo da sala vazia,M04,surpresa,cena_vs_autor_da_cena,,"Carteira escolar riscada, no fundo da sala vazia.","Um dos nomes riscados é o da professora de hoje, de quando era aluna daqui.",,false,,,arte aprovada por Eri 31/10/2026 (LAB-004)
