@@ -70,7 +70,7 @@ Próxima: 053
 - Citação 051 (04/11/2026): Ralph Waldo Emerson (filósofo e escritor, Estados Unidos), "Nada de grandioso foi jamais alcançado sem entusiasmo." (original: "Nothing great was ever achieved without enthusiasm.", ensaio Circles, Essays: First Series, 1841; verificada em caroldiehl.com e quotations-static.pages.dev). Arquivo fila/20261104_1900_citacao.png. Próxima: 052.
 
 ## BOM DIA. editorial (06h00, arquivo fila/AAAAMMDD_0600_bomdia.png)
-- 035 (05/11/2026, gerada em 04/11 pela tarefa automática): almofada de linho cru sobre banco baixo de madeira de pinho, luz de manhã cedo frontal e difusa, parede terracota muito claro, reflexão "Quinta-feira costuma ser o dia em que a semana cobra a conta. Faça o que couber, sem pedir desculpa pelo resto.", mote "REESCOLHER TAMBÉM É CORAGEM." Arquivo fila/20261105_0600_bomdia.png. Deslocamento do objeto: ~85 px (faixa de parede esticada, base cortada). Nota: não havia arquivo de 04/11 (0600) na fila nem em publicadas. Próxima edição: 036
+- 036 (05/11/2026, gerada em 04/11 pela tarefa automática): almofada de linho cru sobre banco baixo de madeira de pinho, luz de manhã cedo frontal e difusa, parede terracota muito claro, reflexão "Quinta-feira costuma ser o dia em que a semana cobra a conta. Faça o que couber, sem pedir desculpa pelo resto.", mote "REESCOLHER TAMBÉM É CORAGEM." Arquivo fila/20261105_0600_bomdia.png. Deslocamento do objeto: ~85 px (faixa de parede esticada, base cortada). Nota: não havia arquivo de 04/11 (0600) na fila nem em publicadas. Próxima edição: 037
 
 ## CENA CORTADA (11h00, fila/AAAAMMDD_1100_cenacortada.png)
 - 001 | 03/11/2026 | O troco da vez | lotérica | arte aprovada por Eri, enfileirada
