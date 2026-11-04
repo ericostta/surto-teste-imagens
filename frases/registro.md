@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 072.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 074.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -39,6 +39,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 069 | 01/11/2026 | Threads (auto, 13h00) | Pai e mãe envelhecem primeiro no que contam: as histórias vão ficando mais curtas. | tempo/família | afetiva | impessoal | "X envelhecem primeiro no que Y: Z" | pais envelhecem nas histórias que ficam mais curtas |
 | 070 | 02/11/2026 | X (manual, 12h) | Chamar de sorte o esforço dos outros é um jeito barato de não ter que comparar a própria vida. | autoengano | incisiva | impessoal | "Chamar de X o esforço dos outros é um jeito barato de Y" | chamar de sorte o esforço alheio evita a comparação consigo |
 | 071 | 02/11/2026 | Threads (auto, 13h00) | Dizer não sem anexar uma justificativa de três parágrafos é um dos luxos da maturidade. | limites | observacional | impessoal | "Dizer X sem Y é um dos luxos da maturidade" | recusar sem justificar longamente é conquista da maturidade |
+| 072 | 04/11/2026 | X (manual, 12h) | Muita reunião existe só para que ninguém precise decidir sozinho. | vida adulta/trabalho | irônica | impessoal | "Muita X existe só para que ninguém precise Y sozinho" | reunião como forma de diluir a responsabilidade da decisão |
+| 073 | 04/11/2026 | Threads (auto, 13h00) | Amizade de verdade tem um silêncio confortável: dá para passar meses sem falar e voltar sem pedir desculpa. | relações/amizade | afetiva | impessoal | "X de verdade tem Y: dá para Z e voltar sem W" | amizade verdadeira aguenta silêncio longo sem cobrança |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
