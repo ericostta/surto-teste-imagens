@@ -41,12 +41,13 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 071 | 02/11/2026 | Threads (auto, 13h00) | Dizer não sem anexar uma justificativa de três parágrafos é um dos luxos da maturidade. | limites | observacional | impessoal | "Dizer X sem Y é um dos luxos da maturidade" | recusar sem justificar longamente é conquista da maturidade |
 | 072 | 04/11/2026 | X (manual, 12h) | Muita reunião existe só para que ninguém precise decidir sozinho. | vida adulta/trabalho | irônica | impessoal | "Muita X existe só para que ninguém precise Y sozinho" | reunião como forma de diluir a responsabilidade da decisão |
 | 073 | 04/11/2026 | Threads (auto, 13h00) | Amizade de verdade tem um silêncio confortável: dá para passar meses sem falar e voltar sem pedir desculpa. | relações/amizade | afetiva | impessoal | "X de verdade tem Y: dá para Z e voltar sem W" | amizade verdadeira aguenta silêncio longo sem cobrança |
+| 074 | 05/11/2026 | X (manual, 12h) | Quem recusa ajuda sempre diz que não precisa. Quase nunca diz que não sabe pedir. | comportamento humano | incisiva | impessoal | "Quem X sempre diz Y. Quase nunca diz Z" | recusar ajuda esconde não saber pedir |
+| 075 | 05/11/2026 | Threads (auto, 13h00) | A gente quase nunca percebe uma fase boa enquanto ela acontece. Só reconhece quando já virou saudade. | tempo/memória | contemplativa | a gente | "A gente quase nunca percebe X enquanto Y. Só reconhece quando Z" | fases boas só são reconhecidas quando viram saudade |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
 - "Falar mal do emprego é mais fácil do que admitir que se tem medo de sair." (autoengano)
 - "Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa." (tempo/relações)
-- "Quem recusa ajuda sempre diz que não precisa. Quase nunca diz que não sabe pedir." (comportamento humano)
 - "Dinheiro curto faz da gente especialista em preço e leigo em merecimento." (vida adulta; irônica; perto de R051 sobre dinheiro curto)
 - "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
 
