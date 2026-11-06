@@ -1,0 +1,83 @@
+{
+ "perfil": "D",
+ "numero": "004",
+ "aprovacao_tecnica": true,
+ "falhas": [],
+ "falhas_numeracao": [],
+ "avisos": [
+  "contraste efetivo de 'numero' abaixo do limite provisório (média 2.47, pior decil 2.03); limiar não homologado, avaliar a legibilidade",
+  "contraste efetivo de 'rotulo NA FOTO' abaixo do limite provisório (média 3.27, pior decil 2.62); limiar não homologado, avaliar a legibilidade",
+  "contraste efetivo de 'NA FOTO texto' abaixo do limite provisório (média 4.37, pior decil 2.67); limiar não homologado, avaliar a legibilidade",
+  "contraste efetivo de 'rotulo FORA' abaixo do limite provisório (média 5.7, pior decil 2.71); limiar não homologado, avaliar a legibilidade"
+ ],
+ "texto_alterado": false,
+ "numero_exibido": "004",
+ "contraste": {
+  "titulo": {
+   "media": 6.07,
+   "pior_decil": 5.5,
+   "abaixo_do_limite": false
+  },
+  "numero": {
+   "media": 2.47,
+   "pior_decil": 2.03,
+   "abaixo_do_limite": true
+  },
+  "rotulo NA FOTO": {
+   "media": 3.27,
+   "pior_decil": 2.62,
+   "abaixo_do_limite": true
+  },
+  "NA FOTO texto": {
+   "media": 4.37,
+   "pior_decil": 2.67,
+   "abaixo_do_limite": true
+  },
+  "rotulo FORA": {
+   "media": 5.7,
+   "pior_decil": 2.71,
+   "abaixo_do_limite": true
+  },
+  "FORA texto": {
+   "media": 6.7,
+   "pior_decil": 3.96,
+   "abaixo_do_limite": false
+  },
+  "assinatura": {
+   "media": 3.12,
+   "pior_decil": 2.15,
+   "abaixo_do_limite": false
+  }
+ },
+ "caixas": {
+  "titulo": [
+   84.0,
+   292.0,
+   626.4,
+   442.0
+  ],
+  "numero": [
+   109.6,
+   1556.0,
+   137.0,
+   1569.0
+  ],
+  "assinatura": [
+   84.0,
+   1526.0,
+   318.3,
+   1552.0
+  ]
+ },
+ "medidas": {
+  "linhas_na_foto": 2,
+  "linhas_fora": 2,
+  "px_na_foto": 44,
+  "px_fora": 50,
+  "y_inicio_blocos": 1086,
+  "y_assinatura": 1526
+ },
+ "simulacao": false,
+ "aprovacao_visual": "pendente de Eri (a skill nunca aprova arte)",
+ "png_sha256": "6a89e5bfd7248f91857bcff2d859072e17c4a1b4003363caa6e8e4d415772f4a"
+}

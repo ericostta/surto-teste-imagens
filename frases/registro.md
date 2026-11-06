@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 074.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 078.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -43,11 +43,13 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 073 | 04/11/2026 | Threads (auto, 13h00) | Amizade de verdade tem um silêncio confortável: dá para passar meses sem falar e voltar sem pedir desculpa. | relações/amizade | afetiva | impessoal | "X de verdade tem Y: dá para Z e voltar sem W" | amizade verdadeira aguenta silêncio longo sem cobrança |
 | 074 | 05/11/2026 | X (manual, 12h) | Quem recusa ajuda sempre diz que não precisa. Quase nunca diz que não sabe pedir. | comportamento humano | incisiva | impessoal | "Quem X sempre diz Y. Quase nunca diz Z" | recusar ajuda esconde não saber pedir |
 | 075 | 05/11/2026 | Threads (auto, 13h00) | A gente quase nunca percebe uma fase boa enquanto ela acontece. Só reconhece quando já virou saudade. | tempo/memória | contemplativa | a gente | "A gente quase nunca percebe X enquanto Y. Só reconhece quando Z" | fases boas só são reconhecidas quando viram saudade |
+| 076 | 06/11/2026 | X (manual, 12h) | Fingir que está tudo sob controle cansa mais do que admitir que não está. | vida adulta/autoengano | incisiva | impessoal | "Fingir X cansa mais do que admitir Y" | manter a aparência de controle custa mais do que admitir o descontrole |
+| 077 | 06/11/2026 | Threads (auto, 13h00) | Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa. | tempo/relações | contemplativa | a gente | "Há X que a gente adia tanto que, quando acontece, Y" | conversa adiada demais acontece quando as pessoas já mudaram |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
 - "Falar mal do emprego é mais fácil do que admitir que se tem medo de sair." (autoengano)
-- "Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa." (tempo/relações)
+- (usada em 06/11 como 077: "Há conversas que a gente adia tanto...")
 - "Dinheiro curto faz da gente especialista em preço e leigo em merecimento." (vida adulta; irônica; perto de R051 sobre dinheiro curto)
 - "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
 
