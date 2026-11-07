@@ -45,6 +45,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 075 | 05/11/2026 | Threads (auto, 13h00) | A gente quase nunca percebe uma fase boa enquanto ela acontece. Só reconhece quando já virou saudade. | tempo/memória | contemplativa | a gente | "A gente quase nunca percebe X enquanto Y. Só reconhece quando Z" | fases boas só são reconhecidas quando viram saudade |
 | 076 | 06/11/2026 | X (manual, 12h) | Fingir que está tudo sob controle cansa mais do que admitir que não está. | vida adulta/autoengano | incisiva | impessoal | "Fingir X cansa mais do que admitir Y" | manter a aparência de controle custa mais do que admitir o descontrole |
 | 077 | 06/11/2026 | Threads (auto, 13h00) | Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa. | tempo/relações | contemplativa | a gente | "Há X que a gente adia tanto que, quando acontece, Y" | conversa adiada demais acontece quando as pessoas já mudaram |
+| 078 | 07/11/2026 | X (manual, 12h) | Quem vive dizendo que não liga para a opinião alheia costuma ter um arquivo completo de todas elas. | comportamento humano | irônica | impessoal | "Quem vive dizendo que X costuma ter um arquivo completo de Y" | quem alega indiferença à opinião alheia a guarda toda |
+| 079 | 07/11/2026 | Threads (auto, 13h00) | O cansaço que as férias não curam costuma pedir mudança, não descanso. | vida adulta/trabalho | observacional | impessoal | "O X que as Y não curam costuma pedir Z, não W" | cansaço que férias não curam pede mudança e não descanso |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
