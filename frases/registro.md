@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 078.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 082.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -47,12 +47,14 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 077 | 06/11/2026 | Threads (auto, 13h00) | Há conversas que a gente adia tanto que, quando acontece, já é com outra pessoa. | tempo/relações | contemplativa | a gente | "Há X que a gente adia tanto que, quando acontece, Y" | conversa adiada demais acontece quando as pessoas já mudaram |
 | 078 | 07/11/2026 | X (manual, 12h) | Quem vive dizendo que não liga para a opinião alheia costuma ter um arquivo completo de todas elas. | comportamento humano | irônica | impessoal | "Quem vive dizendo que X costuma ter um arquivo completo de Y" | quem alega indiferença à opinião alheia a guarda toda |
 | 079 | 07/11/2026 | Threads (auto, 13h00) | O cansaço que as férias não curam costuma pedir mudança, não descanso. | vida adulta/trabalho | observacional | impessoal | "O X que as Y não curam costuma pedir Z, não W" | cansaço que férias não curam pede mudança e não descanso |
+| 080 | 08/11/2026 | X (manual, 12h) | A saudade mais teimosa não é da pessoa, é de quem a gente era ao lado dela. | identidade/memória | contemplativa | a gente | "A X mais teimosa não é de X, é de Y" | a saudade persistente é da versão de si que existia ao lado do outro |
+| 081 | 08/11/2026 | Threads (auto, 13h00) | Dinheiro curto faz da gente especialista em preço e leigo em merecimento. | vida adulta/dinheiro | irônica | a gente | "X faz da gente especialista em Y e leigo em Z" | aperto financeiro treina o preço e apaga o senso de merecimento (banco de reserva) |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
 - "Falar mal do emprego é mais fácil do que admitir que se tem medo de sair." (autoengano)
 - (usada em 06/11 como 077: "Há conversas que a gente adia tanto...")
-- "Dinheiro curto faz da gente especialista em preço e leigo em merecimento." (vida adulta; irônica; perto de R051 sobre dinheiro curto)
+- (usada em 08/11 como 081: "Dinheiro curto faz da gente especialista em preço e leigo em merecimento.")
 - "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
 
 ## Observação
