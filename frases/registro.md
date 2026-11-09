@@ -49,6 +49,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 079 | 07/11/2026 | Threads (auto, 13h00) | O cansaço que as férias não curam costuma pedir mudança, não descanso. | vida adulta/trabalho | observacional | impessoal | "O X que as Y não curam costuma pedir Z, não W" | cansaço que férias não curam pede mudança e não descanso |
 | 080 | 08/11/2026 | X (manual, 12h) | A saudade mais teimosa não é da pessoa, é de quem a gente era ao lado dela. | identidade/memória | contemplativa | a gente | "A X mais teimosa não é de X, é de Y" | a saudade persistente é da versão de si que existia ao lado do outro |
 | 081 | 08/11/2026 | Threads (auto, 13h00) | Dinheiro curto faz da gente especialista em preço e leigo em merecimento. | vida adulta/dinheiro | irônica | a gente | "X faz da gente especialista em Y e leigo em Z" | aperto financeiro treina o preço e apaga o senso de merecimento (banco de reserva) |
+| 082 | 09/11/2026 | X (manual, 12h) | Segunda-feira raramente é o problema; ela só recebe a conta do que a gente empurrou no domingo. | vida adulta/rotina | observacional | impessoal | "X raramente é o problema; ela só recebe a conta do que Y" | segunda-feira herda o que foi empurrado no domingo |
+| 083 | 09/11/2026 | Threads (auto, 13h00) | Boa parte do cansaço adulto vem de ensaiar conversas que nunca vão acontecer. | vida adulta/relações | observacional | impessoal | "Boa parte do X vem de ensaiar Y que nunca vão acontecer" | cansaço adulto vem de ensaiar conversas que não ocorrem |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
