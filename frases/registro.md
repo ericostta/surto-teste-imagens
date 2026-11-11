@@ -53,10 +53,12 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 083 | 09/11/2026 | Threads (auto, 13h00) | Boa parte do cansaço adulto vem de ensaiar conversas que nunca vão acontecer. | vida adulta/relações | observacional | impessoal | "Boa parte do X vem de ensaiar Y que nunca vão acontecer" | cansaço adulto vem de ensaiar conversas que não ocorrem |
 | 084 | 10/11/2026 | X (manual, 12h) | O mais difícil de um hábito novo é a fase em que ele já cansa e ainda não mostra resultado. | hábito/vida adulta | observacional | impessoal | "O mais difícil de X é a fase em que ele já Y e ainda não Z" | a fase do hábito em que cansa sem dar resultado é a mais difícil |
 | 085 | 10/11/2026 | Threads (auto, 13h00) | Ninguém sente falta da nossa versão ocupada. Sente falta da que aparecia. | relações/tempo | contemplativa | a gente | "Ninguém sente falta de X. Sente falta de Y" | quem importa sente falta de quem aparecia, não de quem estava ocupado |
+| 086 | 11/11/2026 | X (manual, 12h) | Falar mal do emprego é mais fácil do que admitir que se tem medo de sair. | trabalho/autoengano | observacional | impessoal | "Falar mal de X é mais fácil do que admitir que se tem medo de Y" | a queixa do emprego esconde o medo de sair (banco de reserva) |
+| 087 | 11/11/2026 | Threads (auto, 13h00) | Toda casa tem um móvel que ninguém escolheu e ninguém tem coragem de tirar do lugar. | família/casa | irônica | impessoal | "Toda X tem um Y que ninguém escolheu e ninguém tem coragem de Z" | herança doméstica que ninguém questiona |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
-- "Falar mal do emprego é mais fácil do que admitir que se tem medo de sair." (autoengano)
+- (usada em 11/11 como 086: "Falar mal do emprego é mais fácil...")
 - (usada em 06/11 como 077: "Há conversas que a gente adia tanto...")
 - (usada em 08/11 como 081: "Dinheiro curto faz da gente especialista em preço e leigo em merecimento.")
 - "As pessoas mais calmas costumam ser as que mais ensaiaram a calma." (comportamento humano)
