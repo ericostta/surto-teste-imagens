@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 090.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 092.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -57,6 +57,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 087 | 11/11/2026 | Threads (auto, 13h00) | Toda casa tem um móvel que ninguém escolheu e ninguém tem coragem de tirar do lugar. | família/casa | irônica | impessoal | "Toda X tem um Y que ninguém escolheu e ninguém tem coragem de Z" | herança doméstica que ninguém questiona |
 | 088 | 12/11/2026 | X (manual, 12h) | Elogio guardado envelhece mal: quando finalmente sai, já virou despedida. | relações/tempo | contemplativa | impessoal | "X guardado envelhece mal: quando finalmente Y, já virou Z" | elogio adiado demais chega como despedida |
 | 089 | 12/11/2026 | Threads (auto, 13h00) | Muita briga de casal é só dois cansaços discutindo sobre quem está mais cansado. | relações/vida adulta | observacional | impessoal | "Muita X de Y é só dois Z discutindo sobre W" | briga de casal como disputa de cansaço, não de motivo |
+| 090 | 13/11/2026 | X (manual, 12h) | Toda pessoa organizada tem uma gaveta onde mora a bagunça que ela não quer explicar. | casa/comportamento humano | irônica | impessoal | "Toda X tem uma Y onde mora Z que ela não quer explicar" | a organização aparente esconde um canto de bagunça escondida |
+| 091 | 13/11/2026 | Threads (auto, 13h00) | Nem toda demora é descaso. Às vezes é só a vida do outro acontecendo sem pedir licença. | relações/tempo | afetiva | impessoal | "Nem toda X é Y. Às vezes é só Z" | demora na resposta nem sempre é descaso, pode ser só a vida do outro |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
