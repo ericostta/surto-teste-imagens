@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 092.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 094.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -59,6 +59,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 089 | 12/11/2026 | Threads (auto, 13h00) | Muita briga de casal é só dois cansaços discutindo sobre quem está mais cansado. | relações/vida adulta | observacional | impessoal | "Muita X de Y é só dois Z discutindo sobre W" | briga de casal como disputa de cansaço, não de motivo |
 | 090 | 13/11/2026 | X (manual, 12h) | Toda pessoa organizada tem uma gaveta onde mora a bagunça que ela não quer explicar. | casa/comportamento humano | irônica | impessoal | "Toda X tem uma Y onde mora Z que ela não quer explicar" | a organização aparente esconde um canto de bagunça escondida |
 | 091 | 13/11/2026 | Threads (auto, 13h00) | Nem toda demora é descaso. Às vezes é só a vida do outro acontecendo sem pedir licença. | relações/tempo | afetiva | impessoal | "Nem toda X é Y. Às vezes é só Z" | demora na resposta nem sempre é descaso, pode ser só a vida do outro |
+| 092 | 14/11/2026 | X (manual, 12h) | Presente caro costuma ser a maneira de pagar uma ausência que ninguém quer nomear. | relações/família | incisiva | impessoal | "X costuma ser a maneira de pagar Y que ninguém quer nomear" | presente caro como pagamento de uma ausência não nomeada |
+| 093 | 14/11/2026 | Threads (auto, 13h00) | Toda mudança de cidade deixa um endereço que a mão ainda sabe digitar de cabeça. | tempo/memória | contemplativa | impessoal | "Toda X deixa um Y que a mão ainda sabe Z de cabeça" | o corpo guarda o endereço antigo depois da mudança |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
