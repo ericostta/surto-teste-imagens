@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 094.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 096.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -61,6 +61,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 091 | 13/11/2026 | Threads (auto, 13h00) | Nem toda demora é descaso. Às vezes é só a vida do outro acontecendo sem pedir licença. | relações/tempo | afetiva | impessoal | "Nem toda X é Y. Às vezes é só Z" | demora na resposta nem sempre é descaso, pode ser só a vida do outro |
 | 092 | 14/11/2026 | X (manual, 12h) | Presente caro costuma ser a maneira de pagar uma ausência que ninguém quer nomear. | relações/família | incisiva | impessoal | "X costuma ser a maneira de pagar Y que ninguém quer nomear" | presente caro como pagamento de uma ausência não nomeada |
 | 093 | 14/11/2026 | Threads (auto, 13h00) | Toda mudança de cidade deixa um endereço que a mão ainda sabe digitar de cabeça. | tempo/memória | contemplativa | impessoal | "Toda X deixa um Y que a mão ainda sabe Z de cabeça" | o corpo guarda o endereço antigo depois da mudança |
+| 094 | 15/11/2026 | X (manual, 12h) | Cada família tem um assunto que todos evitam tão bem que ele já virou parte da decoração. | família/casa | irônica | impessoal | "Cada X tem um Y que todos evitam tão bem que já virou Z" | o assunto proibido da família vira mobília |
+| 095 | 15/11/2026 | Threads (auto, 13h00) | Perdoar não é reabrir a porta. Às vezes é só parar de ficar de guarda do lado de fora. | relações/perdão | afetiva | impessoal | "X não é Y. Às vezes é só Z" | perdoar é parar de vigiar a porta, não voltar a abri-la |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
