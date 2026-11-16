@@ -63,6 +63,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 093 | 14/11/2026 | Threads (auto, 13h00) | Toda mudança de cidade deixa um endereço que a mão ainda sabe digitar de cabeça. | tempo/memória | contemplativa | impessoal | "Toda X deixa um Y que a mão ainda sabe Z de cabeça" | o corpo guarda o endereço antigo depois da mudança |
 | 094 | 15/11/2026 | X (manual, 12h) | Cada família tem um assunto que todos evitam tão bem que ele já virou parte da decoração. | família/casa | irônica | impessoal | "Cada X tem um Y que todos evitam tão bem que já virou Z" | o assunto proibido da família vira mobília |
 | 095 | 15/11/2026 | Threads (auto, 13h00) | Perdoar não é reabrir a porta. Às vezes é só parar de ficar de guarda do lado de fora. | relações/perdão | afetiva | impessoal | "X não é Y. Às vezes é só Z" | perdoar é parar de vigiar a porta, não voltar a abri-la |
+| 096 | 16/11/2026 | X (manual, 12h) | Quase todo conselho que damos é o que gostaríamos de ter ouvido antes, não o que o outro precisa ouvir agora. | comportamento humano | observacional | a gente | "Quase todo X que damos é o que gostaríamos de Y, não o que Z" | conselho como projeção do que queríamos ter ouvido |
+| 097 | 16/11/2026 | Threads (auto, 13h00) | Gentileza que só aparece quando tem plateia é figurino, não caráter. | comportamento humano | incisiva | impessoal | "X que só aparece quando tem Y é Z, não W" | gentileza de plateia é figurino |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
