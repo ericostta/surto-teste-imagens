@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 096.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 100.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -65,6 +65,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 095 | 15/11/2026 | Threads (auto, 13h00) | Perdoar não é reabrir a porta. Às vezes é só parar de ficar de guarda do lado de fora. | relações/perdão | afetiva | impessoal | "X não é Y. Às vezes é só Z" | perdoar é parar de vigiar a porta, não voltar a abri-la |
 | 096 | 16/11/2026 | X (manual, 12h) | Quase todo conselho que damos é o que gostaríamos de ter ouvido antes, não o que o outro precisa ouvir agora. | comportamento humano | observacional | a gente | "Quase todo X que damos é o que gostaríamos de Y, não o que Z" | conselho como projeção do que queríamos ter ouvido |
 | 097 | 16/11/2026 | Threads (auto, 13h00) | Gentileza que só aparece quando tem plateia é figurino, não caráter. | comportamento humano | incisiva | impessoal | "X que só aparece quando tem Y é Z, não W" | gentileza de plateia é figurino |
+| 098 | 17/11/2026 | X (manual, 12h) | Quem aprendeu cedo a se virar sozinho costuma achar que pedir colo é fraqueza, quando foi só o que nunca lhe ofereceram. | infância/identidade | afetiva | impessoal | "Quem aprendeu cedo a X costuma achar que Y é Z, quando foi só W" | independência precoce disfarça a falta de colo que nunca foi oferecido |
+| 099 | 17/11/2026 | Threads (auto, 13h00) | Elogio bom é o que repara no esforço que ninguém viu, não no resultado que todo mundo viu. | relações/reconhecimento | afetiva | impessoal | "X bom é o que Y, não Z" | o melhor elogio nota o esforço invisível |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
