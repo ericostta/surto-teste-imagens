@@ -67,6 +67,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 097 | 16/11/2026 | Threads (auto, 13h00) | Gentileza que só aparece quando tem plateia é figurino, não caráter. | comportamento humano | incisiva | impessoal | "X que só aparece quando tem Y é Z, não W" | gentileza de plateia é figurino |
 | 098 | 17/11/2026 | X (manual, 12h) | Quem aprendeu cedo a se virar sozinho costuma achar que pedir colo é fraqueza, quando foi só o que nunca lhe ofereceram. | infância/identidade | afetiva | impessoal | "Quem aprendeu cedo a X costuma achar que Y é Z, quando foi só W" | independência precoce disfarça a falta de colo que nunca foi oferecido |
 | 099 | 17/11/2026 | Threads (auto, 13h00) | Elogio bom é o que repara no esforço que ninguém viu, não no resultado que todo mundo viu. | relações/reconhecimento | afetiva | impessoal | "X bom é o que Y, não Z" | o melhor elogio nota o esforço invisível |
+| 100 | 18/11/2026 | X (manual, 12h) | Quem diz que não tem tempo quase sempre tem, só não tem coragem de dizer que aquilo não é prioridade. | limites/autoengano | incisiva | impessoal | "Quem diz X quase sempre tem, só não tem coragem de dizer Y" | falta de tempo como desculpa para não admitir falta de prioridade |
+| 101 | 18/11/2026 | Threads (auto, 13h00) | Saudade é o nome que a gente dá ao amor que ficou sem endereço. | relações/memória | afetiva | a gente | "X é o nome que a gente dá ao Y que ficou sem Z" | saudade como amor sem destinatário |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
