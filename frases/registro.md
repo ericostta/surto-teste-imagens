@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 100.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 104.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -69,6 +69,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 099 | 17/11/2026 | Threads (auto, 13h00) | Elogio bom é o que repara no esforço que ninguém viu, não no resultado que todo mundo viu. | relações/reconhecimento | afetiva | impessoal | "X bom é o que Y, não Z" | o melhor elogio nota o esforço invisível |
 | 100 | 18/11/2026 | X (manual, 12h) | Quem diz que não tem tempo quase sempre tem, só não tem coragem de dizer que aquilo não é prioridade. | limites/autoengano | incisiva | impessoal | "Quem diz X quase sempre tem, só não tem coragem de dizer Y" | falta de tempo como desculpa para não admitir falta de prioridade |
 | 101 | 18/11/2026 | Threads (auto, 13h00) | Saudade é o nome que a gente dá ao amor que ficou sem endereço. | relações/memória | afetiva | a gente | "X é o nome que a gente dá ao Y que ficou sem Z" | saudade como amor sem destinatário |
+| 102 | 19/11/2026 | X (manual, 12h) | Pressa muitas vezes é só medo de ficar sozinho com o próprio silêncio. | comportamento humano/tempo | contemplativa | impessoal | "X muitas vezes é só medo de Y" | a pressa como fuga do silêncio interior |
+| 103 | 19/11/2026 | Threads (auto, 13h00) | Ninguém contabiliza o cansaço que vem junto com cada boleto pago em dia. | trabalho/dinheiro | observacional | impessoal | "Ninguém contabiliza o X que vem junto com Y" | o custo emocional invisível de contas pagas em dia |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
