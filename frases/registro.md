@@ -71,6 +71,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 101 | 18/11/2026 | Threads (auto, 13h00) | Saudade é o nome que a gente dá ao amor que ficou sem endereço. | relações/memória | afetiva | a gente | "X é o nome que a gente dá ao Y que ficou sem Z" | saudade como amor sem destinatário |
 | 102 | 19/11/2026 | X (manual, 12h) | Pressa muitas vezes é só medo de ficar sozinho com o próprio silêncio. | comportamento humano/tempo | contemplativa | impessoal | "X muitas vezes é só medo de Y" | a pressa como fuga do silêncio interior |
 | 103 | 19/11/2026 | Threads (auto, 13h00) | Ninguém contabiliza o cansaço que vem junto com cada boleto pago em dia. | trabalho/dinheiro | observacional | impessoal | "Ninguém contabiliza o X que vem junto com Y" | o custo emocional invisível de contas pagas em dia |
+| 104 | 20/11/2026 | X (manual, 12h) | Nem toda crítica que dói está certa, mas a que dói demais costuma ter um pedaço de verdade. | autoconhecimento | observacional | impessoal | "Nem toda X que dói está certa, mas a que dói demais costuma ter Y" | a crítica que dói demais costuma conter algo verdadeiro |
+| 105 | 20/11/2026 | Threads (auto, 13h00) | O corpo costuma avisar primeiro o que a cabeça ainda está tentando negociar. | corpo/autoconhecimento | contemplativa | impessoal | "O X costuma avisar primeiro o que Y ainda está tentando negociar" | o corpo avisa antes de a cabeça admitir |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
