@@ -38,7 +38,8 @@ Atualizar a cada execução da tarefa diária. A memória do Eri (/areas/instagr
 - 069 (18/11/2026, quarta): "Ter ajuda não diminui ninguém; é só admitir que carregar tudo sozinho cansa. Aceite a mão que se oferece, divida o peso que ficou grande demais e descubra que ser ajudado também é um jeito de seguir inteiro, em paz." insight: aceitar ajuda é um jeito de seguir inteiro, não fraqueza. 38 palavras, última linha "EM PAZ." Arquivo fila/20261118_0800_circulo.png
 - 070 (19/11/2026, quinta): "Nem todo recomeço precisa de coragem enorme; às vezes basta abrir a janela, respirar e escolher outra vez, devagar. Honre o passo pequeno que você deu hoje, porque ele já muda o rumo do dia, em paz." insight: recomeço pequeno, o passo de hoje já muda o rumo. 37 palavras, L01 "“Nem todo", L11 "em paz.”" Arquivo fila/20261119_0800_circulo.png
 - 071 (20/11/2026, sexta): "Sexta chegou, e você não precisa fechá-la perfeita; basta terminar o que importa e largar o resto sem culpa. Agradeça o que deu certo, perdoe o que ficou torto e descanse, porque cuidar de si também é produtividade, em paz." insight: sexta não precisa ser fechada perfeita, descansar também é produtividade. 40 palavras, L01 "“Sexta chegou,", L11 "em paz.”" Arquivo fila/20261120_0800_circulo.png
-Próxima: 072
+- 072 (21/11/2026, sábado): "Sábado não pede produtividade, pede presença; fique onde o corpo já está, sem correr atrás do próximo plano. Descansar também é uma forma de cuidar do que importa, e o que importa não some enquanto você respira, em paz." insight: sábado pede presença, descansar também é cuidar. 43 palavras, L01 "“Sábado não", L11 "em paz.”" Arquivo fila/20261121_0800_circulo.png
+Próxima: 073
 
 ## Permissão do Dia (janela 10h30, arquivo fila/AAAAMMDD_1030_permissao.png)
 Última edição gerada: 036 (17/10/2026, publicada manualmente pelo Eri às ~11h30)
@@ -76,7 +77,8 @@ Próxima: 072
 - 066 (18/11/2026): "fica autorizado a sentir inveja de quem parece estar bem", cláusula "admitir a inveja em silêncio é só reconhecer o que ainda falta, e quem reconhece o desejo já começou a cuidar dele". insight: inveja admitida como reconhecimento do desejo (cluster inveja/comparação). Arquivo fila/20261118_1000_permissao.png
 - 067 (19/11/2026): "fica autorizado a sentir orgulho de uma conquista pequena", cláusula "quem só celebra o que é grande esquece que a vida se constrói de passos que ninguém aplaudiu, e merecem o seu aplauso". insight: celebrar conquistas pequenas (cluster orgulho/conquista). Arquivo fila/20261119_1000_permissao.png
 - 068 (20/11/2026): "fica autorizado a sentir raiva de quem ainda ama", cláusula "amar e se ferir cabem no mesmo coração, e admitir a raiva é o primeiro passo para que ela vá embora sem machucar". insight: raiva admitida em relação amada (cluster raiva/ambivalência). Arquivo fila/20261120_1000_permissao.png
-Próxima: 069
+- 069 (21/11/2026): "fica autorizado a não ser a pessoa forte da família", cláusula "quem sempre sustenta os outros também cansa, e pedir colo não desfaz tudo o que já carregou". insight: pedir colo sem deixar de ser o pilar da família (cluster papel familiar/força). Arquivo fila/20261121_1000_permissao.png
+Próxima: 070
 
 - Citação de Autoridade 035 (17/10/2026): Marco Aurélio, "O obstáculo à ação faz avançar a ação. O que está no caminho se torna o caminho." (Meditações 5.20; verificada em duas fontes). Gerada às 18h22 fora da tarefa, enfileirada para 19h30. Próxima: 036.
 
@@ -86,6 +88,7 @@ Próxima: 069
 Última edição gerada: 066 (18/11/2026), paleta verde/laranja: "todo mundo compartilha frase sobre descanso x mas ninguém sai do grupo do trabalho" (sem citar pessoa; 77 caracteres, 13 palavras; arquivo fila/20261118_1500_cartaz.png). Próxima: 067 (evitar verde/laranja).
 Última edição gerada: 067 (19/11/2026), paleta rosa/creme: "todo mundo curte o post sobre foco x mas ninguém larga o celular" (sem citar pessoa; 59 caracteres, 13 palavras; arquivo fila/20261119_1500_cartaz.png). Próxima: 068 (evitar rosa/creme).
 Última edição gerada: 068 (20/11/2026), paleta preto/vermelho: "hoje todo mundo fala de consciência negra x mas no resto do ano esquece o assunto" (Dia da Consciência Negra, sem citar pessoa; 76 caracteres, 15 palavras; arquivo fila/20261120_1500_cartaz.png). Próxima: 069 (evitar preto/vermelho).
+Última edição gerada: 069 (21/11/2026), paleta amarelo/azul: "todo mundo ama o comércio do bairro x mas compra tudo no aplicativo" (sem citar pessoa; 62 caracteres, 12 palavras; arquivo fila/20261121_1500_cartaz.png). Próxima: 070 (evitar amarelo/azul).
 
 ## Citação de Autoridade (janela 18h00, arquivo fila/AAAAMMDD_1800_citacao.png)
 - Citação 036 (18/10/2026): Louis Pasteur (cientista, França), "Minha força reside unicamente na minha tenacidade." (original: "My strength lies solely in my tenacity"; verificada em duas fontes, everitas.rmcalumni.ca e conradaskland.com). Próxima: 037.
@@ -121,6 +124,7 @@ Próxima: 069
 - Citação 064 (17/11/2026): Friedrich Nietzsche (filósofo, Alemanha), "Quem tem um porquê para viver suporta quase qualquer como." (Crepúsculo dos Ídolos, Máximas e Flechas, 12; original "Hat man sein Warum? des Lebens, so verträgt man sich fast mit jedem Wie?"; verificada por WebSearch em Wikiquote e dhspriory.org, WebFetch não usado; tradução livre). Arquivo fila/20261117_1900_citacao.png. Próxima: 065
 - Citação 065 (18/11/2026): Rainer Maria Rilke (poeta, Áustria), "Talvez todos os dragões da nossa vida sejam princesas que só esperam nos ver agir, ao menos uma vez, com beleza e coragem." (Cartas a um Jovem Poeta, carta 8, 1904; original "Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage", trad. Norton; verificada por WebSearch em várias fontes; WebFetch sem acesso aos domínios). Arquivo fila/20261118_1900_citacao.png
 - Citação 067 (20/11/2026): Frederick Douglass (abolicionista e escritor, Estados Unidos), "Se não há luta, não há progresso." (West India Emancipation, Canandaigua, 3 ou 4/08/1857; original "If there is no struggle, there is no progress"; verificada por WebSearch em BlackPast e Quote Investigator, WebFetch indisponível; tradução livre; Dia da Consciência Negra). Arquivo fila/20261120_1900_citacao.png. Próxima: 068
+- Citação 068 (21/11/2026): Winston Churchill (estadista, Reino Unido), "Nunca ceda, nunca ceda, nunca, nunca, nunca; nunca ceda, exceto às convicções de honra e bom senso." (original: "never give in, never give in, never, never, never, never... never give in except to convictions of honour and good sense", discurso na Harrow School, 29/10/1941; verificada por WebSearch em winstonchurchill.org e teachingamericanhistory.org; trecho resumido com omissão). Arquivo fila/20261121_1900_citacao.png. Próxima: 069.
 - Citação 066 (19/11/2026): Muhammad Ali (boxeador, Estados Unidos), "Não desista. Sofra agora e viva o resto da vida como um campeão." (original: "Don't quit. Suffer now and live the rest of your life as a champion."; verificada por WebSearch em Barry Popik (citação de 1978 na imprensa), Chicken Soup for the Soul: Runners e coletâneas; WebFetch não usado; sem fonte primária em áudio; tradução livre). Arquivo fila/20261119_1900_citacao.png. Próxima: 067
 
 ## BOM DIA. editorial (06h00, arquivo fila/AAAAMMDD_0600_bomdia.png)
@@ -163,7 +167,8 @@ Próxima: 069
 - 016 | 18/11/2026 | O livro sem preço | sebo de bairro (Vera e Cássio) | enfileirada (autônoma, trio z-image-turbo, 3 créditos; foto do meio com etiqueta pequena de rabisco ilegível, aceita)
 - 017 | 19/11/2026 | A hora certa | relojoaria de bairro (seu Abel e Nair) | enfileirada (autônoma, trio z-image-turbo, 3 créditos)
 - 018 | 20/11/2026 | A chave sem dono | chaveiro de bairro (Edna e Beto) | enfileirada (autônoma, trio z-image-turbo, 3 créditos)
-- Próxima edição: 019 (21/11/2026), película 018 | 019 | 020
+- 019 | 21/11/2026 | O último pastel | lanchonete de esquina (Cida e Reinaldo) | enfileirada (autônoma, trio z-image-turbo, 4 créditos: esquerda refeita 1 vez por sair em área aberta com telhado; downloads do CDN bloqueados, usadas as cópias locais da ferramenta)
+- Próxima edição: 020 (22/11/2026), película 019 | 020 | 021
 
 ## NINGUÉM LEGENDA (18h00, fila/AAAAMMDD_1800_ninguemlegenda.png)
 - 001 | 03/11/2026 | guarda-chuva secando | publicada (confirmada)
@@ -184,4 +189,5 @@ Próxima: 069
 - 016 | 18/11/2026 | caixa de ferramentas sobre a máquina de lavar | mecanismo M11 humor literal, emoção humor | NA FOTO: Uma caixa de ferramentas fechada sobre a máquina de lavar. | FORA: Não tem ferramenta nenhuma. Ele guarda ali o chocolate que esconde da família, e todos fingem que acreditam. | veredicto BOA (autoavaliação não independente, filtros determinísticos aprovados) | 1 geração gpt-image-2, 5 créditos | enfileirada (NL-015 confirmado em 17/11; foto em 882x1568, download do CDN bloqueado; rótulo NA FOTO encosta de leve na base da caixa)
 - 017 | 19/11/2026 | cerca de arame com vão embaixo | mecanismo M05 ação que ninguém viu, emoção relação humana | NA FOTO: Uma cerca de arame com um buraco embaixo. | FORA: Foi aberto pelos cachorros dos dois lados. Os donos nunca consertaram e agora também se visitam por ali. | veredicto BOA (autoavaliação não independente, filtros determinísticos aprovados) | 1 geração gpt-image-2, 6 créditos (preço subiu de 5 para 6; primeira chamada expirou sem cobrança) | enfileirada (016 confirmada como publicada)
 - 018 | 20/11/2026 | prato coberto sobre o fogão | mecanismo M12 alegria secreta, emoção afeto | NA FOTO: Um prato coberto por outro sobre o fogão. | FORA: Ele jantou na rua. Come de novo toda noite, para a mãe não saber que o prato esperou à toa. | veredicto APROVADA nota 87 (Crítico v2.2, previsões cegas por agentes isolados, mesma família de modelos) | 1 geração gpt-image-2, 6 créditos | enfileirada (017 confirmada como publicada em 19/11)
-- Próxima edição: 019
+- 019 | 21/11/2026 | guarda-sol fechado na varanda | mecanismo M09 preparo sem partida, emoção melancolia | NA FOTO: Um guarda-sol de praia fechado num canto da varanda. | FORA: Foi comprado para a praia que ele prometeu há seis verões. Todo janeiro ela o abre aqui mesmo. | veredicto BOA (autoavaliação não independente, filtros determinísticos aprovados) | 1 geração gpt-image-2, 6 créditos | enfileirada (018 confirmada como publicada em 20/11; foto em 882x1568)
+- Próxima edição: 020
