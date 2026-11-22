@@ -75,6 +75,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 105 | 20/11/2026 | Threads (auto, 13h00) | O corpo costuma avisar primeiro o que a cabeça ainda está tentando negociar. | corpo/autoconhecimento | contemplativa | impessoal | "O X costuma avisar primeiro o que Y ainda está tentando negociar" | o corpo avisa antes de a cabeça admitir |
 | 106 | 21/11/2026 | X (manual, 12h) | Quase toda mudança de opinião começa como uma teimosia que cansou de se defender. | autoconhecimento | contemplativa | impessoal | "Quase toda X começa como uma Y que cansou de Z" | mudar de opinião como teimosia exausta |
 | 107 | 21/11/2026 | Threads (auto, 13h00) | Ninguém esquece quem esteve por perto no dia em que não havia nada a ganhar com isso. | relações/lealdade | afetiva | impessoal | "Ninguém esquece quem X no dia em que não havia nada a ganhar com isso" | lealdade desinteressada é lembrada para sempre |
+| 108 | 22/11/2026 | X (manual, 12h) | Quase todo currículo omite o ano em que a pessoa só tentou continuar inteira. | trabalho/identidade | observacional | impessoal | "Quase todo X omite o Y em que a pessoa só tentou Z" | o currículo não registra o ano de sobreviver |
+| 109 | 22/11/2026 | Threads (auto, 13h00) | A mentira mais educada que aprendemos a contar é dizer que estamos bem no automático. | comportamento humano | incisiva | a gente | "A X mais educada que aprendemos a contar é Y" | o 'estou bem' automático como mentira educada |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
