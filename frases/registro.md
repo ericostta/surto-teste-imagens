@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 104.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 112.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -77,6 +77,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 107 | 21/11/2026 | Threads (auto, 13h00) | Ninguém esquece quem esteve por perto no dia em que não havia nada a ganhar com isso. | relações/lealdade | afetiva | impessoal | "Ninguém esquece quem X no dia em que não havia nada a ganhar com isso" | lealdade desinteressada é lembrada para sempre |
 | 108 | 22/11/2026 | X (manual, 12h) | Quase todo currículo omite o ano em que a pessoa só tentou continuar inteira. | trabalho/identidade | observacional | impessoal | "Quase todo X omite o Y em que a pessoa só tentou Z" | o currículo não registra o ano de sobreviver |
 | 109 | 22/11/2026 | Threads (auto, 13h00) | A mentira mais educada que aprendemos a contar é dizer que estamos bem no automático. | comportamento humano | incisiva | a gente | "A X mais educada que aprendemos a contar é Y" | o 'estou bem' automático como mentira educada |
+| 110 | 23/11/2026 | X (manual, 12h) | Existe um cansaço que descanso nenhum resolve: o de fingir interesse pelo que já perdeu o sentido. | trabalho/identidade | contemplativa | impessoal | "Existe um X que Y nenhum resolve: o de Z" | cansaço de fingir interesse no que perdeu o sentido |
+| 111 | 23/11/2026 | Threads (auto, 13h00) | Quase todo conselho que damos com firmeza é aquele que ainda não conseguimos seguir. | comportamento humano | observacional | a gente | "Quase todo X que Y é aquele que Z" | o conselho firme como o que não conseguimos seguir |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
