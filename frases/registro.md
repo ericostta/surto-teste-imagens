@@ -79,6 +79,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 109 | 22/11/2026 | Threads (auto, 13h00) | A mentira mais educada que aprendemos a contar é dizer que estamos bem no automático. | comportamento humano | incisiva | a gente | "A X mais educada que aprendemos a contar é Y" | o 'estou bem' automático como mentira educada |
 | 110 | 23/11/2026 | X (manual, 12h) | Existe um cansaço que descanso nenhum resolve: o de fingir interesse pelo que já perdeu o sentido. | trabalho/identidade | contemplativa | impessoal | "Existe um X que Y nenhum resolve: o de Z" | cansaço de fingir interesse no que perdeu o sentido |
 | 111 | 23/11/2026 | Threads (auto, 13h00) | Quase todo conselho que damos com firmeza é aquele que ainda não conseguimos seguir. | comportamento humano | observacional | a gente | "Quase todo X que Y é aquele que Z" | o conselho firme como o que não conseguimos seguir |
+| 112 | 24/11/2026 | X (manual, 12h) | Maturidade, muitas vezes, é só aprender a perder as discussões que já não valem o cansaço. | relações/conflito | contemplativa | impessoal | "X, muitas vezes, é só aprender a Y" | maturidade como saber abandonar discussões que cansam mais do que valem |
+| 113 | 24/11/2026 | Threads (auto, 13h00) | Há gente que passa a vida inteira pedindo licença para ocupar o espaço que já é dela. | autoestima/espaço | observacional | impessoal | "Há gente que passa a vida inteira Y" | pedir licença para ocupar o próprio lugar |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
