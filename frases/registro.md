@@ -81,6 +81,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 111 | 23/11/2026 | Threads (auto, 13h00) | Quase todo conselho que damos com firmeza é aquele que ainda não conseguimos seguir. | comportamento humano | observacional | a gente | "Quase todo X que Y é aquele que Z" | o conselho firme como o que não conseguimos seguir |
 | 112 | 24/11/2026 | X (manual, 12h) | Maturidade, muitas vezes, é só aprender a perder as discussões que já não valem o cansaço. | relações/conflito | contemplativa | impessoal | "X, muitas vezes, é só aprender a Y" | maturidade como saber abandonar discussões que cansam mais do que valem |
 | 113 | 24/11/2026 | Threads (auto, 13h00) | Há gente que passa a vida inteira pedindo licença para ocupar o espaço que já é dela. | autoestima/espaço | observacional | impessoal | "Há gente que passa a vida inteira Y" | pedir licença para ocupar o próprio lugar |
+| 114 | 25/11/2026 | X (manual, 12h) | Algumas amizades não acabam: só deixam de ser prioridade para os dois ao mesmo tempo. | relações/amizade | contemplativa | impessoal | "Algumas X não acabam: só deixam de Y" | amizade que esfria quando ambos deixam de priorizar |
+| 115 | 25/11/2026 | Threads (auto, 13h00) | Gentileza de plateia é figurino; a de verdade é a que ninguém notaria se faltasse. | comportamento humano/gentileza | incisiva | impessoal | "X de plateia é figurino; a de verdade é Y" | gentileza performática versus gentileza discreta |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
