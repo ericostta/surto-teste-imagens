@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 112.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 118.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -83,6 +83,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 113 | 24/11/2026 | Threads (auto, 13h00) | Há gente que passa a vida inteira pedindo licença para ocupar o espaço que já é dela. | autoestima/espaço | observacional | impessoal | "Há gente que passa a vida inteira Y" | pedir licença para ocupar o próprio lugar |
 | 114 | 25/11/2026 | X (manual, 12h) | Algumas amizades não acabam: só deixam de ser prioridade para os dois ao mesmo tempo. | relações/amizade | contemplativa | impessoal | "Algumas X não acabam: só deixam de Y" | amizade que esfria quando ambos deixam de priorizar |
 | 115 | 25/11/2026 | Threads (auto, 13h00) | Gentileza de plateia é figurino; a de verdade é a que ninguém notaria se faltasse. | comportamento humano/gentileza | incisiva | impessoal | "X de plateia é figurino; a de verdade é Y" | gentileza performática versus gentileza discreta |
+| 116 | 26/11/2026 | X (manual, 12h) | O humor de uma casa se entende pelo barulho das panelas muito antes de qualquer conversa. | casa/família | observacional | impessoal | "O X de uma Y se entende pelo Z muito antes de qualquer W" | o clima emocional da casa aparece nos ruídos da cozinha antes das palavras |
+| 117 | 26/11/2026 | Threads (auto, 13h00) | Fim de ano chega e a gente faz balanço de tudo, menos do que aguentou sem reclamar. | tempo/trabalho | observacional | a gente | "X chega e a gente faz balanço de tudo, menos de Y" | o balanço de fim de ano ignora o que foi suportado em silêncio |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
