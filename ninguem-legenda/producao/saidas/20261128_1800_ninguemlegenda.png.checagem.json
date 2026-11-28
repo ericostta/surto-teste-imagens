@@ -1,0 +1,80 @@
+{
+ "perfil": "D",
+ "numero": "026",
+ "aprovacao_tecnica": true,
+ "falhas": [],
+ "falhas_numeracao": [],
+ "avisos": [
+  "contraste efetivo de 'numero' abaixo do limite provisório (média 2.96, pior decil 2.86); limiar não homologado, avaliar a legibilidade"
+ ],
+ "texto_alterado": false,
+ "numero_exibido": "026",
+ "contraste": {
+  "titulo": {
+   "media": 3.96,
+   "pior_decil": 3.1,
+   "abaixo_do_limite": false
+  },
+  "numero": {
+   "media": 2.96,
+   "pior_decil": 2.86,
+   "abaixo_do_limite": true
+  },
+  "rotulo NA FOTO": {
+   "media": 6.26,
+   "pior_decil": 4.84,
+   "abaixo_do_limite": false
+  },
+  "NA FOTO texto": {
+   "media": 6.24,
+   "pior_decil": 3.87,
+   "abaixo_do_limite": false
+  },
+  "rotulo FORA": {
+   "media": 6.5,
+   "pior_decil": 3.97,
+   "abaixo_do_limite": false
+  },
+  "FORA texto": {
+   "media": 7.58,
+   "pior_decil": 4.75,
+   "abaixo_do_limite": false
+  },
+  "assinatura": {
+   "media": 3.4,
+   "pior_decil": 3.15,
+   "abaixo_do_limite": false
+  }
+ },
+ "caixas": {
+  "titulo": [
+   84.0,
+   292.0,
+   626.4,
+   442.0
+  ],
+  "numero": [
+   109.6,
+   1556.0,
+   136.4,
+   1569.0
+  ],
+  "assinatura": [
+   84.0,
+   1526.0,
+   318.3,
+   1552.0
+  ]
+ },
+ "medidas": {
+  "linhas_na_foto": 2,
+  "linhas_fora": 3,
+  "px_na_foto": 44,
+  "px_fora": 50,
+  "y_inicio_blocos": 1023,
+  "y_assinatura": 1526
+ },
+ "simulacao": false,
+ "aprovacao_visual": "pendente de Eri (a skill nunca aprova arte)",
+ "png_sha256": "8366ea62aa0b844269c72bc1c079363acfc1da5aa0860569de68d8d15a703b80"
+}

@@ -1,6 +1,6 @@
 # Registro de frases (Threads & X) de @surtodelucidez
 
-Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 118.
+Fonte de verdade da numeração a partir de 17/10/2026. Próxima publicação: 122.
 Cada linha: número | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight central
 
 | nº | data | plataforma | frase | território | temperatura | perspectiva | estrutura | insight |
@@ -87,6 +87,8 @@ Cada linha: número | data | plataforma | frase | território | temperatura | pe
 | 117 | 26/11/2026 | Threads (auto, 13h00) | Fim de ano chega e a gente faz balanço de tudo, menos do que aguentou sem reclamar. | tempo/trabalho | observacional | a gente | "X chega e a gente faz balanço de tudo, menos de Y" | o balanço de fim de ano ignora o que foi suportado em silêncio |
 | 118 | 27/11/2026 | X (manual, 12h) | Conforto demais também cobra: a gente paga em coragem o que economiza em esforço. | vida adulta/coragem | contemplativa | a gente | "X demais também cobra: a gente paga em Y o que economiza em Z" | excesso de conforto custa coragem |
 | 119 | 27/11/2026 | Threads (auto, 13h00) | O elogio que mais pesa é o que chega depois que a gente já desistiu de esperar. | reconhecimento/tempo | contemplativa | a gente | "O X que mais pesa é o que chega depois que a gente já Y" | reconhecimento tardio pesa mais que o esperado |
+| 120 | 28/11/2026 | X (manual, 12h) | Quem aprende cedo a não incomodar cresce achando que pedir é luxo dos outros. | infância/autoestima | contemplativa | impessoal | "Quem aprende cedo a X cresce achando que Y é luxo dos outros" | a criança que não incomodava vira adulto que não ousa pedir |
+| 121 | 28/11/2026 | Threads (auto, 13h00) | Muita saudade é só vontade de voltar a ser quem a gente era perto de certas pessoas. | identidade/relações | contemplativa | a gente | "Muita X é só vontade de voltar a ser Y" | a saudade de alguém como saudade de quem éramos perto dela |
 
 ## Banco de reserva (candidatas aprovadas não usadas)
 - "Há pedidos de desculpa que não pedem perdão. Só pedem que o assunto acabe." (relações; evitar até ~22/10, perto da 036 sobre desculpas)
